@@ -41,27 +41,16 @@ This project implements a **Retrieval-Augmented Generation (RAG)** system design
 
 This project utilizes a RAG pipeline to ground LLM responses in factual data.
 
-* 
 **Ingestion:** HTML parsing (BeautifulSoup) of essays and transcript downloads.
 
-
-* 
 **Chunking:** Recursive Character Text Splitting (Chunk size: 2000) to preserve the logical flow of dense arguments.
 
-
-* 
 **Embeddings:** `sentence-transformers/all-mpnet-base-v2` (HuggingFace) for high semantic accuracy (768 dimensions).
 
-
-* 
 **Vector Store:** FAISS (Facebook AI Similarity Search) for sub-millisecond local retrieval.
 
-
-* 
 **LLM:** Gemini Pro.
 
-
-* 
 **User Interface:** Gradio Chat Interface.
 
 
