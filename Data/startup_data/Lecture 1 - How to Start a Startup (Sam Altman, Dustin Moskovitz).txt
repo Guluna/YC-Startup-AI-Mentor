@@ -1,0 +1,2271 @@
+00:01 Welcome.
+00:02 Can I turn this on?
+00:04 Maybe, all right.
+00:07 &gt;&gt; Can people hear in the
+back?
+00:09 &gt;&gt; Can you guys hear me?
+00:11 Is the mic on?
+00:12 No, ah, maybe you can ask
+them to turn it on.
+00:18 Maybe we can get a bigger,
+ah, there we go.
+00:19 All right.
+00:21 Maybe we can get a bigger
+auditorium, we'll see.
+00:24 So welcome to CS183B.
+00:25 I'm Sam Altman.
+00:26 I'm the President of Y
+Combinator.
+00:28 Nine years ago, I was a
+Stanford student and
+00:30 then I dropped out to start
+a company.
+00:32 And then I've been an
+investor for the last few.
+00:34 So, at YC, we've been
+teaching people how to
+00:36 start startups for nine
+years.
+00:38 Most of it's very hands on
+and
+00:40 specific to the startups.
+00:42 But, 30% of it is pretty
+generally applicable.
+00:45 And so, we think that we
+00:47 can teach that 30% in this
+class.
+00:49 And even though that's only
+30% of the way
+00:51 there hopefully it'll still
+be really helpful.
+00:54 We've taught a lot of this
+at YC already, but
+00:56 it's all been off the
+record.
+00:57 And this is the first time
+that a lot of what we
+00:58 teach in YC is gonna be on
+the record.
+01:00 So we've invited some of our
+best speakers to come and
+01:02 give the same talks they
+give at YC.
+01:05 We've now funded 720
+companies.
+01:06 And so, we're pretty sure
+01:08 that a lot of this advice is
+pretty good.
+01:11 We can't fund every startup
+yet, but we can
+01:13 hopefully make this advice
+very generally available.
+01:17 Guest speakers are gonna
+teach 17 of the 20 classes.
+01:19 I'm only teaching three.
+01:21 Counting YC itself,
+01:23 every guest speaker has been
+involved in the creation of
+01:26 a billion plus dollar
+company.
+01:28 So the advice shouldn't be
+that theoretical.
+01:30 It's all been, it's all from
+people who have done it.
+01:34 All of the advice in
+01:34 this class is geared towards
+people starting a business
+01:37 where the goal was
+hyper-growth.
+01:39 And eventually building a
+very large company.
+01:42 Much of it doesn't apply in
+other cases and
+01:43 I wanna warn people up
+front.
+01:45 That if you try and
+01:46 do these things in a lot of
+big companies or
+01:48 non startups, it won't work.
+01:50 It should still be
+interesting.
+01:51 I, I really do think that
+startups are the way of
+01:53 the future and it's worth
+trying to understand them.
+01:55 But startups are very
+different
+01:56 than normal companies.
+01:59 So over the course of today
+and
+02:00 Thursday, I'm gonna try to
+give an overview of the four
+02:03 areas that you need to excel
+at in order to
+02:05 maximize your chances of
+success at a startup.
+02:07 And then throughout the
+course, the guest speakers
+02:08 are gonna drill into all of
+these in more detail.
+02:12 So the four areas, you need
+a great idea,
+02:14 a great product, a great
+team and great execution.
+02:18 These overlap somewhat, but
+I'm gonna have to talk about
+02:21 them somewhat individually
+to make it make sense.
+02:23 You may still fail.
+02:26 The outcome is something
+like idea times product
+02:28 times execution times team
+times luck,
+02:31 where luck is the random
+number between 0 and 10,000.
+02:34 Literally that much.
+02:35 But if you do really well in
+the four areas you can
+02:38 control, you have a good
+chance of at
+02:39 least some amount of
+success.
+02:42 One of the exciting things
+about startups, is
+02:44 that they are surprisingly
+even playing field.
+02:47 Young and inexperienced, you
+can do this.
+02:48 Old and very experienced,
+you can do this too.
+02:51 And one of the things that I
+particularly like about
+02:53 startups is that some of the
+things that are bad in
+02:56 other work situations, like
+being poor and unknown are
+02:59 actually huge assets when it
+comes to starting a startup.
+03:03 Before we jump in on the
+how.
+03:04 I want to talk about why you
+should start a startup.
+03:07 I'm somewhat hesitant to be
+doing this class at all,
+03:09 because you should never
+start a startup just for
+03:11 the sake of doing so.
+03:13 There are much easier ways
+to get rich and
+03:15 everyone who starts a
+startup always says,
+03:16 always, that they couldn't
+have imagined how hard and
+03:19 painful it was going to be.
+03:19 You should only start a
+startup if you com,
+03:22 feel compelled by a
+particular problem.
+03:24 And that you think starting
+a company is
+03:25 the best way to solve it.
+03:27 The specific passion should
+come first and
+03:29 the startup second.
+03:31 In fact, all of
+03:31 the big successes we have at
+YC followed this.
+03:35 So, for the second half of
+today's lecture,
+03:37 Dustin Moskovitz the
+co-founder of Facebook and
+03:39 Asana, is going to take over
+and
+03:40 talk about why to start a
+startup.
+03:42 We're so surprised by the
+amount of
+03:44 attention that this class
+got.
+03:45 That we wanna make sure we
+03:46 spend a lot of time on the
+why.
+03:49 Okay.
+So
+03:49 the first of the four areas.
+03:50 A great idea.
+03:52 It's become popular in
+03:53 recent years to say that the
+idea doesn't matter.
+03:56 In fact, it's almost uncool
+to spend a lot of time
+03:58 thinking about the idea for
+a startup.
+04:00 You're just supposed to
+start.
+04:02 Throw stuff at the walls.
+04:02 See what sticks.
+04:04 And not even spend any time
+thinking about if
+04:05 it'll be valuable if it
+works.
+04:08 And pivots are supposed to
+be great.
+04:09 The more pivots, the better.
+04:11 So this isn't totally wrong.
+04:13 Things do evolve in
+04:14 ways that are difficult to
+predict.
+04:16 And there's a limit to how
+much you can figure out,
+04:18 without actually getting a
+product in
+04:19 the hands of users.
+04:21 And great execution is at
+04:22 least ten times more
+important and
+04:24 a hundred times harder than
+a good idea.
+04:27 But the pendulum has swung
+way out of whack here.
+04:28 A bad idea is still bad.
+04:31 In the pivot happy world
+that we're in today,
+04:33 it feels really sub optimal.
+04:35 Great execution towards a
+terrible idea
+04:37 will get you nowhere.
+04:38 There are exceptions, of
+course.
+04:40 But most great companies
+start with
+04:42 a great idea, not a pivot.
+04:44 If you look at successful
+pivots, they almost always
+04:47 are a pivot into something
+the founders
+04:49 themselves wanted, not a
+random made up idea.
+04:52 Airbnb happened because
+Brian Chesky couldn't pay
+04:54 his rent, but he did have
+some extra space.
+04:57 In general, though,
+04:58 if you look at the track
+record of pivots,
+04:60 they don't become big
+companies.
+05:02 I myself used to believe
+ideas didn't matter that
+05:04 much, but I'm very sure
+that's wrong now.
+05:08 The definition of the idea,
+05:09 as we talk about it, is very
+broad.
+05:12 It includes the size and the
+growth of the market,
+05:14 the growth strategy for the
+company,
+05:16 the defensibility strategy
+and so on.
+05:18 When you're evaluating an
+idea,
+05:19 you need to think through
+all these things,
+05:21 not just the product.
+05:23 If it works out, you're
+gonna be working on this for
+05:26 ten years.
+05:27 So it's worth some real
+upfront time
+05:29 to think we've a long term
+value in
+05:30 the defensibility of the
+business.
+05:32 Even though plans themselves
+are worthless,
+05:35 to exercise a planning is
+really valuable and
+05:37 totally missing in most
+startups today.
+05:40 Long term thinking is so
+where,
+05:41 anywhere, but especially in
+startups.
+05:44 That it's a huge advantage
+if you do it.
+05:47 Remember that the idea will
+expand and
+05:49 become more ambitious as you
+go.
+05:50 You certainly don't need to
+have everything figured out,
+05:53 in a path from here to world
+domination.
+05:55 But you really want a nice
+kernel to start with.
+05:56 &gt;&gt; You want something that
+can develop in
+05:59 interesting ways.
+06:01 As you're thinking through
+ideas,
+06:02 another thing that we see
+young founders get
+06:04 wrong all the time, is that
+someday you need to
+06:07 build a business that's
+difficult to replicate.
+06:09 This is an important part of
+a good idea.
+06:10 I wanna make this point
+again because it's
+06:15 so important.
+06:17 The idea should come first,
+and
+06:18 the startup should come
+second.
+06:20 Wait to start a startup,
+until you come up
+06:21 with an idea you feel
+compelled to explore.
+06:24 This is also the way to
+06:25 chose between multiple
+ideas.
+06:27 If you have several ideas
+that all seem pretty good,
+06:29 work on the one that you
+think about most often when
+06:32 you're not trying to think
+about work.
+06:34 But we hear again and again
+from founders that they
+06:36 wish they had waited to
+start a startup until they
+06:38 came up with an idea that
+they really loved.
+06:41 Another way of looking at
+this is that the best
+06:43 companies are almost always
+mission oriented.
+06:46 It's difficult to get large
+groups of people to
+06:47 the extreme levels of focus
+and productivity that you
+06:50 need for a startup to be
+successful,
+06:52 unless the company feels
+like an important mission.
+06:55 And it's usually really hard
+to get that without a great
+06:58 founding idea.
+07:01 A related advantage of
+mission oriented
+07:03 ideas is that you yourself
+will be dedicated to them.
+07:07 It takes years and
+07:08 years, usually a decade to
+create a great startup.
+07:11 If you don't love and
+07:11 believe in what you're
+building,
+07:13 you're likely to give up at
+some point along the way.
+07:16 There's no way I know of to
+get through the pain of a
+07:17 startup without belief that
+the mission really matters.
+07:21 A lot of founders,
+especially students,
+07:23 believe that their startup's
+only gonna take two or
+07:24 three years and then after
+that they'll work on
+07:26 what they're really
+passionate about.
+07:27 That almost never works.
+07:28 Good startups usually take
+ten years.
+07:31 A third advantage of
+mission-oriented
+07:33 companies is that people
+outside the company,
+07:34 are more willing to help
+you.
+07:37 You'll get more support on
+07:38 a hard important project
+than a derivative one.
+07:41 When it comes to starting
+startups,
+07:43 in many ways it's easier to
+07:44 start a hard startup than an
+easy startup.
+07:46 This is one of those
+counter-intuitive things.
+07:48 It takes people a long time
+to understand.
+07:51 It's difficult to overstate
+how
+07:53 important being
+mission-driven is, so
+07:54 I wanna emphasize it one
+last time.
+07:56 Derivative companies,
+companies that
+07:58 copy an existing idea with
+very few new insights,
+08:01 don't excite people and they
+don't compel the teams to
+08:03 work hard enough to be
+successful.
+08:06 Paul Graham is gonna talk
+about how to
+08:08 get startup ideas next week.
+08:10 It's something that a lot of
+founders struggle with but
+08:12 it's something I believe you
+can get better with it,
+08:14 better at with practice.
+08:15 And it's definitely worth
+trying to get better at.
+08:18 The hardest part about
+coming up
+08:20 with great ideas is that
+08:21 the best ideas often look
+terrible at the beginning.
+08:24 The 13th search engine and
+08:25 without all the features of
+web portal.
+08:27 Most people thought that was
+pointless, search was done,
+08:30 and anyway, it didn't matter
+that much,
+08:32 Portal's where the value is
+at.
+08:33 The tenth social network,
+and
+08:35 limited only to college
+students with no money?
+08:37 Also terrible.
+08:38 MySpace had won, and
+08:39 who wants college students
+as customers, or
+08:41 a way to stay on strangers'
+couches?
+08:42 That just sounds terrible
+all around.
+08:45 These all sounded really
+bad,
+08:46 but they turned out to be
+good.
+08:48 If they had sounded really
+good,
+08:49 there would have been too
+many people working on them.
+08:53 As Peter Tills discussed in
+the fifth class,
+08:56 you want an idea that turns
+into a monopoly, but
+08:58 you can't get a monopoly in
+a big market right away.
+09:01 Too much competition for
+that.
+09:02 You have to find a small
+market in which you can get
+09:05 a monopoly, and then quickly
+expand.
+09:08 This is why some great
+startup ideas look
+09:09 really bad at the beginning.
+09:12 It's good if you can say
+something like, today only
+09:14 the small subset of users
+are going to use my product.
+09:16 But I'm gonna get all of
+them.
+09:18 And in the future,
+09:18 almost everyone will use my
+product.
+09:21 &gt;&gt; Here's the thing that's
+gonna come up a lot,
+09:23 you need conviction in your
+own beliefs, and
+09:26 the willingness to ignore
+others nay saying.
+09:29 The hard part is that this
+is a very fine line.
+09:31 There's right on one side of
+it, and crazy on the other.
+09:35 But keep in mind that if you
+do come up with
+09:36 a great idea, most people
+are going to think it's bad.
+09:38 You should be happy about
+that.
+09:40 It means they won't compete
+with you.
+09:42 This is also a reason why
+it's
+09:44 not usually dangerous to
+tell people about your idea.
+09:47 The truly good ideas don't
+sound like
+09:49 they're worth stealing.
+09:51 You want an idea about which
+you can say,
+09:53 I know it sounds like a bad
+idea.
+09:55 But hear specifically why
+it's actually a great one.
+09:57 You wanna sound crazy, but
+you wanna actually be right.
+10:00 And you want an idea that
+not many
+10:01 other people are working on.
+10:03 And it's okay if it doesn't
+sound big at first.
+10:05 Common mistake among
+founders,
+10:07 especially first time
+founders,
+10:08 is they think that the first
+version of their product,
+10:11 the first version of their
+idea,
+10:12 needs to sound really big.
+10:14 But it doesn't.
+10:14 It needs to take over a
+small,
+10:16 specific market and expand
+from there.
+10:18 That's how most great
+companies have started.
+10:21 Unpopular but right is what
+you're going for.
+10:23 You want something that
+sounds like a bad idea, but
+10:25 is a good idea.
+10:28 You also really wanna take
+the time to
+10:30 think about how the market's
+going to evolve.
+10:32 You need a market that's
+going to be big in
+10:34 ten years.
+10:35 Most investors are obsessed
+with the market size today,
+10:38 and they don't think at all
+about how the market is
+10:40 going to evolve.
+10:41 In fact, I think this is one
+of the biggest
+10:43 systemic mistakes that
+investors make.
+10:44 They think about the growth
+of the startup itself,
+10:46 they don't think about the
+growth of the market.
+10:49 I care much more about the
+growth rate of
+10:50 the market than it's current
+size.
+10:52 And I also care if
+10:53 there's any reason that it's
+gonna top out.
+10:54 You should think about this.
+10:56 I'd prefer to invest in
+10:57 a company that's going after
+a small but
+10:59 rapidly growing market than
+a big but slow growing one.
+11:03 One of the big advantages of
+these sorts of markets um,
+11:06 these small but rapidly
+growing markets, is that
+11:08 customers are usually pretty
+desperate for a solution.
+11:11 And they'll put, put up with
+an imperfect but
+11:12 rapidly improving product.
+11:15 And a big advantage of being
+a student, one of
+11:17 the two biggest advantages
+is that you probably have
+11:20 better intuition about which
+markets are likely to
+11:22 start growing rapidly than
+older people do.
+11:26 Another thing that students
+usually don't understand, or
+11:29 at least takes a while you
+cannot create a market that
+11:32 doesn't want to exist.
+11:33 You can basically change
+everything in
+11:34 a startup but the market.
+11:36 So you should actually do
+some thinking, to be sure or
+11:39 at least as sure as you can
+be, that the market your
+11:41 going after is going to grow
+and be there.
+11:44 There are a lot of different
+ways to
+11:45 talk about the right kind of
+market.
+11:47 For example, surfing someone
+else's wave or
+11:49 stepping into an up elevator
+or being part of a movement.
+11:51 But all of this is just a
+way of saying you want
+11:53 a market that's going to
+grow really quickly.
+11:55 It may seem small today.
+11:56 It may be small today.
+11:57 But you know, and
+11:58 other people don't that it's
+gonna grow really fast.
+12:01 So think about where this is
+happening in the world.
+12:04 You need this sort of
+12:04 a tail wind to make a
+startup successful.
+12:07 The exciting thing is there
+are probably more of
+12:09 these tail winds now than
+ever before.
+12:11 As Mark Andreessen says,
+12:12 software is eating the
+world.
+12:14 It's just everywhere.
+12:15 There are like, so many
+great ideas out there and
+12:17 you just have to pick one,
+and
+12:18 find one that you really
+care about.
+12:21 Another version of this,
+12:22 that would, gets down to the
+same idea,
+12:24 is Sequoia's famous
+question.
+12:26 Why now?
+12:27 Why is this the perfect time
+for this particular idea and
+12:30 to start this particular
+company?
+12:31 Why couldn't it have been
+done two years ago?
+12:33 And why will two years in
+the future be too late?
+12:37 For the most successful
+startups we've been
+12:38 involved with, they've all
+had a great idea,
+12:40 great answer to this
+question.
+12:42 And if you don't, you should
+be at
+12:43 least somewhat suspicious
+about it.
+12:46 In general, it's best if
+12:48 you're building something
+that you yourself need.
+12:50 You'll understand it much
+better than if you have to
+12:52 understand it by talking to
+12:53 a customer to build the very
+first version.
+12:56 If you don't know it
+yourself and
+12:57 you're building something
+that someone else needs,
+12:60 realize that you're at a big
+disadvantage and get very,
+13:02 very close to your
+customers.
+13:03 Try to work in their office
+if you can.
+13:05 And if not, talk to them
+multiple times a day.
+13:06 Another somewhat
+counter-intuitive thing
+13:10 about good start up ideas,
+13:11 is that they're almost
+always very easy to explain,
+13:14 and very easy to understand.
+13:15 If it takes more than a
+sentence to
+13:17 explain what you're doing
+um,
+13:18 it's almost always a sign
+that it's too complicated.
+13:21 It should be a clearly
+articulate,
+13:23 articulated vision with a
+small number of words.
+13:27 And the best ideas are
+usually either,
+13:28 very different from existing
+companies in one
+13:31 important way.
+13:33 Like Google being a search
+engine that worked
+13:35 just really well and none of
+the other stuff of
+13:37 the portals or totally new,
+like Space X.
+13:40 Any company that's a clone
+of
+13:41 something else that already
+exists with some small or
+13:44 made up differentiator,
+13:45 like we're gonna be x
+beautiful design or
+13:47 we're gonna be y for people
+that like red wine instead.
+13:50 That usually fails.
+13:53 So as I mentioned one of the
+great things about being
+13:56 a student is you
+13:57 have a very good perspective
+on new technology.
+13:60 And learning to get good at
+having new
+14:01 ideas takes a while.
+14:03 So start working on that
+right now.
+14:05 That's one thing we hear
+from people all the time,
+14:07 that they wish they had
+14:08 done more when they were a
+student.
+14:10 The other is meeting
+potential co-founders.
+14:13 You have no idea how good of
+an environment you are in
+14:16 right now for meeting people
+that you
+14:17 can start a company with
+down the road.
+14:19 And the one thing that we
+14:20 always tell college
+students, is more
+14:22 important than starting any
+particular startup
+14:24 is getting to know a lot of
+potential co-founders.
+14:28 So I want to finish this
+section of my talk
+14:30 with a quote from 50 Cent.
+14:32 This is from when he was
+asked about vitamin water.
+14:35 I won't read it, its up
+there.
+14:38 But it's about the
+importance of
+14:40 thinking about what
+customers want, and
+14:42 thinking about the demands
+of the market.
+14:44 Most people don't do this,
+14:45 most students especially
+don't do this.
+14:48 If you can just do this one
+thing, if you can just
+14:50 learn to think about the
+market first, you will have
+14:53 a big leg up on most people
+starting startups.
+14:55 All right, and this is
+something.
+14:58 This is probably the thing
+that we
+14:59 see wrong with Y Combinator
+apps most frequently, is
+15:02 that people have not thought
+about the market first.
+15:05 And what people want first.
+15:08 So for the next section,
+15:09 I'm gonna talk about
+building a great product.
+15:11 And here again,
+15:13 I'm gonna use a very broad
+definition of product.
+15:18 It includes customer support
+and
+15:19 copyright explaining the
+product.
+15:21 Anything involved in your
+customer's interaction with
+15:23 what you built for them.
+15:26 To build a really great
+company, you first have to
+15:28 turn a great idea into a
+great product.
+15:30 This is really hard, but
+it's crucially important,
+15:32 and fortunately it's pretty
+fun.
+15:35 Although great products are
+always new to the world and
+15:37 it's hard to give you advice
+about what to build,
+15:38 there are enough
+commonalities that we
+15:40 can give you a lot of advice
+about how to build it.
+15:44 One of the most important
+tasks for a founder is to
+15:46 make sure that the company
+builds a great product.
+15:48 Until you've built a great
+product,
+15:50 almost nothing else matters.
+15:52 When really successful
+startup founders tell
+15:53 the story of their early
+days.
+15:55 It's almost always sitting
+in front of the computer,
+15:57 working on their product or
+talking to their customers.
+16:00 That's pretty much all the
+time.
+16:01 They do very little else,
+and
+16:03 you should be very skeptical
+if your time allocation is
+16:06 much different.
+16:07 Most other problems that
+founders are trying to
+16:09 solve, raising money,
+getting more press,
+16:11 hiring, business
+development, et cetera.
+16:13 These are significantly
+easier when you
+16:14 have a great product.
+16:16 It's really important to
+take care of that first.
+16:18 Step 1, is to build
+something that users love.
+16:22 At YC, we tell founders to
+work on their product,
+16:24 talk to users, exercise eat
+and
+16:26 sleep and very little else.
+16:28 All the other stuff I just
+mentioned, PR conferences,
+16:31 recruiting advisers, doing
+partnerships,
+16:33 you should ignore all of
+that and
+16:35 just build a product.
+16:36 And get it as good as
+possible by
+16:37 talking to your users.
+16:40 Your job is to build
+something that users love.
+16:44 Very few companies that go
+on to be
+16:45 super successful get there
+without first doing this.
+16:48 A lot of good on paper
+startups fail because they
+16:51 merely make something that
+people like.
+16:53 Making something that people
+want,
+16:54 but only a medium amount is
+a great way to fail and
+16:57 not understand why you're
+failing.
+16:59 So these are the two jobs.
+17:03 Something that we say at
+17:04 YC a lot is that it's better
+to build a small number,
+17:06 it's better to build
+something that a small
+17:08 number of users love than a
+large number of users like.
+17:12 Of course, it'd be best to
+17:13 build something that a small
+number of users love.
+17:15 But opportunities to do that
+for V1 are rare, and
+17:18 they're usually not
+available to startups.
+17:20 So in practice,
+17:21 you end up choosing either
+the grey or the orange.
+17:23 You make something that a
+lot of users like a little
+17:25 bit, or something that a
+small number of users,
+17:28 like, love a lot.
+17:29 And this is a very important
+piece of advice.
+17:32 Build something that a small
+number of users love.
+17:35 It's much easier to expand
+from something that
+17:36 a small number of
+17:37 people love to something
+that a lot of people love.
+17:40 Than from something that a
+lot of
+17:41 people like to a lot of
+people love.
+17:44 If you get this right,
+17:45 you can get a lot of other
+things wrong.
+17:48 If you don't get this right,
+17:50 you can get everything else
+right,
+17:51 and you'll probably still
+fail.
+17:53 So when you start on a
+startup, this is the only
+17:55 thing you need to care about
+until it's working.
+17:58 &gt;&gt; Excuse me, can you
+explain that again?
+18:01 &gt;&gt; Sure.
+So you have
+18:01 a choice in a startup.
+18:02 The best thing of all worlds
+would be to
+18:04 build a product that a lot
+of people will really love.
+18:08 In practice you
+18:08 can't usually do that
+because of big company.
+18:10 If there's an opportunity
+like that, Google or
+18:12 Facebook will do it.
+18:13 So there's like a limit to
+the area under the curve
+18:16 of what you can build and
+you can either build
+18:18 something that lot of users
+like a little bit or you can
+18:21 build something that a small
+number of users love a lot.
+18:24 And, like, the total amount
+of love is the same,
+18:26 it's just a question of how
+it's distributed.
+18:30 And there's like this law of
+conversation of
+18:32 how much happiness you can
+put into the world
+18:34 with the first product of a
+startup.
+18:36 And so startups always
+struggle with which of
+18:38 those two they should go.
+18:40 And they seem equal,
+18:41 right, cuz the area under
+the curve is the same.
+18:44 But we've seen this time and
+again that they're not.
+18:45 And that it's so much easier
+to expand.
+18:47 Once you've got something
+that some people love,
+18:49 you can expand that
+18:50 something that a lot of
+other people love.
+18:52 But if you only get
+ambivalence or
+18:54 sort of like weak
+enthusiasm.
+18:56 And then try to expand that,
+18:57 you'll never get up to a lot
+of people loving it.
+18:60 So the advice is, uh, find a
+small group of users and
+19:04 make them really love what
+you're doing.
+19:06 Does that make sense?
+19:07 All right.
+19:12 I'm, I'm, one way that you
+know when this is
+19:13 working is that you'll get
+growth by word of mouth.
+19:16 If you make something people
+love
+19:19 people will tell their
+friends about it.
+19:20 This works for consumer
+products and
+19:21 enterprise products, as
+well.
+19:23 When people really love
+something,
+19:25 they tell their friends
+about it and
+19:26 you'll see organic growth.
+19:29 If you find yourself talking
+about how it's okay that
+19:30 you're not growing because
+there's a big partnership
+19:33 that's gonna come save you
+or something like that,
+19:35 it's almost always a sign of
+real trouble.
+19:39 Sales and marketing are
+really important, and
+19:40 we're gonna have two classes
+on them later.
+19:42 But if you don't have some
+early organic growth,
+19:45 then your product probably
+isn't good enough yet.
+19:46 A great product is the
+secret to
+19:48 long term growth hacking.
+19:49 You should get
+19:49 that right before you worry
+about anything else.
+19:52 It doesn't get easier to put
+off making a great product.
+19:55 If you try to build a growth
+machine before you
+19:57 have a product that some
+people really love,
+19:59 you're almost certainly
+gonna waste your time.
+20:02 Breakout companies almost
+always have a product
+20:04 that's so good that it grows
+by word of mouth.
+20:07 Over the long run great
+products win.
+20:09 Don't worry about your
+competitors raising a lot of
+20:11 money and what they may do
+in the future.
+20:14 They probably aren't very
+good anyway.
+20:15 Very few startups die from
+competition.
+20:18 Most die because they
+themselves fail to
+20:20 make something users love.
+20:21 They spend their time on
+other things.
+20:23 So worry about this above
+all else.
+20:27 Another piece of advice to
+make something that
+20:28 users love is to start with
+something simple.
+20:31 It's much, much easier to
+make a great product if
+20:33 you have something simple.
+20:34 Even if your eventual plans
+are super complex, and
+20:37 hopefully they are,
+20:39 you can almost always start
+with a smaller subset of
+20:40 the problem than whatever
+you think is the smallest.
+20:43 And it's hard to build a
+great product.
+20:44 So you wanna start with as
+20:45 little surface area as
+possible.
+20:47 Think about the really
+successful companies and
+20:48 what they started with.
+20:50 Think about products that
+you really love.
+20:52 They're generally incredibly
+simple to use and
+20:53 especially to get started
+using.
+20:56 The first version of
+20:57 Facebook was almost
+comically simple.
+20:59 The first version of Google
+was just an ugly
+21:01 webpage with a textbox and
+two buttons but it returned
+21:03 the best results, and that's
+why users loved it.
+21:05 The iPhone is far simpler to
+21:07 use than any smartphone that
+ever came before it and
+21:09 it was the first one that
+people really loved.
+21:12 Another reason that simple
+is good,
+21:14 is because it forces you to
+do one thing extremely well.
+21:16 And you have to do that to
+make
+21:17 something that people love.
+21:19 The word fanatical comes up
+again and
+21:22 again when you listen to
+successful founders talk
+21:26 about how they think about
+their product.
+21:29 Founders talk about being
+fanatical in the way
+21:31 they care about the quality
+of the small details.
+21:33 Fanatical in getting the
+copy that they use to
+21:35 explain the product just
+right and fanatical in
+21:37 the way they think about
+customer support.
+21:40 In fact, one thing that
+correlates into
+21:41 success among the YC
+companies is the founders
+21:44 that hook up pager duty to
+their ticketing system, so
+21:46 that even if the user emails
+in the middle of
+21:48 the night when the founders
+are asleep.
+21:49 They still get a response
+within an hour.
+21:51 Companies actually do this
+in the early days.
+21:53 These founders feel physical
+pain when the product sucks.
+21:56 And they wanna wake up and
+fix it.
+21:57 They don't ship crap.
+21:58 And if they do they fix it
+very, very quickly.
+21:60 And it definitely takes some
+level of
+22:02 fanaticism to build a great
+product.
+22:07 You need some users to help
+with the feedback cycle.
+22:09 But the way to get those
+users is manually.
+22:11 You should go recruit them
+by hand.
+22:13 Don't do things like buy
+Google ads in
+22:15 the early days to get
+initial users.
+22:17 You don't need very many.
+22:18 You just needs ones that
+will give you feedback every
+22:20 day and eventually love your
+product.
+22:22 So instead of trying to get
+them on Google AdWords,
+22:24 just find a few people in
+the world that will be
+22:27 good users.
+22:27 Recruit them by hand.
+22:29 Ben Silverman when everyone
+though Pinterest was a joke,
+22:33 recruited the initial
+Pinterest users by
+22:34 tagging up strangers in
+coffee shops.
+22:37 He really did.
+He just walked around
+22:38 Palo Alto and said will you
+please use my product.
+22:40 He also used to run around
+the Apple store in
+22:42 Palo Alto.
+22:43 And he would like set all
+the browsers to
+22:44 the Pinterest home page real
+quick before they caught him
+22:46 and kicked him out.
+22:47 So then when people walked
+in there, they were like oh,
+22:49 what is this?
+22:52 This is an important example
+of doing things
+22:54 that don't scale.
+22:55 If you haven't read Paul
+Graham's essay on
+22:56 that topic you definitely
+should.
+22:59 So get users manually and
+remember that the goal is to
+23:01 get a small group of them to
+love you.
+23:04 Understand that group
+extremely well,
+23:06 get extremely close into
+them, close to them,
+23:08 listen to them and you'll
+almost always find out
+23:10 that they're very willing to
+give you feedback.
+23:13 Even if you're building the
+product for
+23:14 yourself, listen to outside
+users and
+23:16 they'll tell you how to make
+a product they'll pay for.
+23:19 Do whatever you need to make
+them love you,
+23:20 make you're doing, cuz
+they're also gonna be
+23:23 the advocates that help you
+get your next users.
+23:27 You wanna build an engine in
+the company that transforms
+23:29 feedback from users into
+product decisions then get
+23:32 it back in front of the
+users and then repeat.
+23:34 Ask them what they like and
+23:35 what they don't like, and
+watch them use it.
+23:37 Ask them what they pay for.
+23:39 Ask them if they'd be really
+bummed if
+23:40 your company went away.
+23:41 Ask them what would make
+them recommend the product
+23:44 to their friends.
+23:45 And ask them if they've
+recommended it to any yet.
+23:47 You should make this
+feedback loop as
+23:49 tight as possible.
+23:50 If your product gets 10%
+better every week,
+23:52 that compounds really,
+really quickly.
+23:55 One of the great advantages
+of start,
+23:57 of software startups is just
+how short you
+23:59 can make the feedback loop.
+24:00 It can go circle in hours,
+and the best
+24:02 companies usually have the
+tightest feedback loops.
+24:05 You should try to keep this
+going for
+24:06 all of your company's life.
+24:08 But it's really important in
+the early days.
+24:11 The good news is that all of
+this is doable.
+24:13 It's hard, it takes a lot of
+effort, but
+24:14 there's no magic.
+24:15 The plan is at least
+straight forward and
+24:16 you will eventually get to a
+great product.
+24:20 Great founders don't put
+24:21 anyone between themselves
+and their users.
+24:23 The founders of
+24:23 these companies do things
+like sales and
+24:25 customer support themselves
+in the early days.
+24:27 It's critical to
+24:28 get this loop embedded in
+the culture.
+24:29 In fact, the specific
+problem that we
+24:31 always see with Stanford
+startups for
+24:32 some reason is that the
+students try and
+24:34 hire sales and customer
+support people right away.
+24:36 And you've gotta do this
+yourself.
+24:37 It's the only way.
+24:40 You really need to use
+metrics to
+24:41 keep yourself honest on
+this.
+24:44 It really is true that the
+company will
+24:46 build whatever the CEO
+decides to measure.
+24:48 If you're building an
+internet service,
+24:50 ignore things like total
+registrations.
+24:51 Don't talk about them.
+24:52 Don't let anyone in the
+company talk about them.
+24:54 And look at growth in active
+users, activity levels,
+24:57 cohort retention, revenue,
+net promoter scores.
+24:59 These things that matter.
+25:00 And then be brutally honest
+if they aren't going in
+25:01 the right direction.
+25:02 Startups live on growth.
+25:03 It's the indicator of a
+great product.
+25:06 So this about wraps up
+25:07 the overview on building a
+great product.
+25:08 I wanna emphasize again,
+25:10 that if you don't get this
+right,
+25:11 nothing else we talk about
+in the class will matter.
+25:14 You can basically ignore
+everything else that we
+25:15 talked about until this is
+working well.
+25:19 On the positive side,
+25:19 this is one of the most fun
+parts of building a startup.
+25:23 So I'm gonna pause here,
+25:24 I'll pick back up with the
+rest of this on Thursday and
+25:26 now we're gonna have Dustin
+talk about why you should
+25:29 start a startup.
+25:31 Thank you for coming Dustin.
+25:31 &gt;&gt; Sure.
+25:34 But yeah.
+So Sam asked me
+25:35 to talk about why you should
+start a startup.
+25:38 There's a bunch of reasons
+you might have.
+25:41 And there's a bunch of
+common reasons that
+25:43 people have that I hear all
+the time for, for
+25:45 why you might start a
+startup.
+25:48 It's important to know,
+like, what reason is yours.
+25:50 Because some of them only
+make sense in,
+25:52 in certain contexts.
+25:53 Some of them will actually
+like lead you astray.
+25:55 You may have been misled by
+the way that Hollywood or
+25:58 the press likes to
+25:59 romanticize
+entrepreneurship.
+26:00 So I wanna try and like
+illuminate you know,
+26:02 some of those potential
+fallacies, so
+26:04 you guys can, can make the
+decision in a clear way.
+26:07 And then I'll talk about
+the,
+26:09 the reason I like best for
+actually starting a startup.
+26:11 It's very related to a lot
+of what Sam just talked
+26:14 about but surprisingly I
+don't think it's the most
+26:17 common reason usually people
+have one of these other
+26:19 reasons or they just wanna
+start up, you know,
+26:23 start a company for the sake
+of starting a company.
+26:25 So the, the four common
+reasons just to
+26:28 numerate them are it's
+glamorous.
+26:30 You know, you'll be, you'll
+get to be the boss.
+26:34 You'll have flexibility,
+26:35 especially over your
+schedule.
+26:37 And you'll have the change
+to have, you know,
+26:39 bigger impact.
+26:40 And make more money than
+you'd,
+26:41 than you might by joining a
+later stage company.
+26:45 So, okay, so uh, you know,
+you,
+26:48 you guys are probably pretty
+familiar with this concept.
+26:50 When I wrote the Medium
+post,
+26:51 which a lot of you guys read
+a year ago uh, I felt like
+26:54 the story in the press was
+a, a little more unbalanced.
+26:57 You know, entrepreneurship
+just
+26:58 got romanticized quite a
+bit.
+26:60 You know, the movie, The
+Social Network,
+27:01 came out, had a lot of sort
+of like bad aspects of,
+27:04 of, you know, what it's like
+to be an entrepreneur.
+27:06 But mainly pa,
+27:07 sort of painted this picture
+of like.
+27:08 There's a lot of partying
+and you just
+27:10 kinda move from like one
+brilliant insight to another
+27:12 brilliant insight um, and
+really made it, you know,
+27:15 seem like this, like really
+cool thing to do.
+27:18 And I think the reality is
+just, you know,
+27:21 not quite so glamorous.
+27:22 There's sort of a, there's
+an ugly side to being
+27:24 an entrepreneur and also
+just more importantly what,
+27:27 what you're actually
+spending your time on is,
+27:28 is just a lot of hard work.
+27:30 Sam mentioned this, but
+you're
+27:31 basically just sitting at
+your desk heads down,
+27:33 focused answering customers,
+customer support, emails,
+27:37 doing sales, figuring out
+hard engineering problems.
+27:40 So it's really important
+that you kind of like,
+27:41 go in with, with eyes wide
+open.
+27:43 And then also it's, it's
+really quite stressful.
+27:46 This has been a popular
+topic in the press lately.
+27:49 The Economist actually ran a
+story just last week
+27:51 called like entrepreneurs
+anonymous, and
+27:53 shows like a founder kinda
+like hiding under
+27:55 his desk And talking about
+like founder depression.
+27:58 This is like a very real
+thing, like, you know,
+28:01 let's be real.
+28:01 This, if you start a
+company,
+28:03 it's gonna be extremely
+hard.
+28:05 Why is it so stressful?
+28:06 So, a couple reasons.
+28:08 One is you've got a lot of
+responsibility.
+28:10 So people in any kind of of
+career have fear of failure.
+28:14 It's kind of just like a
+dominant part of
+28:16 the psychology.
+28:17 But when you're an
+entrepreneur your fear of
+28:18 failure on the behalf of
+yourself and
+28:20 all of the people who
+decided to follow you ah, so
+28:22 that's really stressful.
+28:23 In some cases these people
+are depending on
+28:25 you for their livelihood.
+28:26 Even when that's not true,
+28:27 they have decided to devote
+the,
+28:29 the best of your, years of
+their life to following you.
+28:32 And so you're responsible
+for
+28:33 the opportunity cost of
+their time.
+28:35 So that's a big deal.
+28:38 And you're always on call.
+28:39 If something comes up maybe
+not always at 3 in
+28:42 the morning, but for some
+startups that's true.
+28:44 But if something important
+comes up,
+28:45 you're gonna deal with it.
+28:46 That's kinda the end of the
+story.
+28:47 Doesn't matter if you're on
+vacation.
+28:48 Doesn't matter if it's the
+weekend.
+28:50 You kinda always got to be
+on the ball and
+28:52 always be in a, in a place,
+mentally,
+28:54 where you're prepared to
+deal with those things.
+28:56 And then a sorta special
+example of that is,
+28:59 is or of this kind of stress
+is fundraising.
+29:02 So a scene from The Social
+Network.
+29:04 This is us partying and
+working at the same time.
+29:08 And somebody's spraying
+champagne everywhere.
+29:12 You know, so The Social
+Network spends a lot of
+29:14 time kind of painting these
+scenes.
+29:16 Mark's not in the scene.
+29:17 The other thing they spend
+all their time on is
+29:19 kind of like painting how,
+him out to be a huge jerk.
+29:21 This computer?
+29:23 &gt;&gt; Yes.
+Oh.
+29:24 &gt;&gt; Okay.
+So.
+29:26 This is an, an actual scene
+from um, See it.
+29:30 I'm gonna move this just a
+little.
+29:33 &gt;&gt; Oh, no.
+29:34 &gt;&gt; This, this will work.
+29:35 &gt;&gt; This will work.
+Okay.
+29:37 On the PDF as well?
+29:38 &gt;&gt; Yep
+&gt;&gt; Okay.
+29:40 Okay, cool.
+This is
+29:41 an actual scene from Palo
+Alto.
+29:43 Spent a lot of time, his
+desk,
+29:45 just kinda heads down and
+focused.
+29:47 Mark was still kind or a
+jerk sometimes, but
+29:49 in this more like fun
+loveable way,
+29:50 not a like sociopathic
+scorned lover way.
+29:54 So this is him like,
+signaling his intention to,
+29:57 you know, just be focused
+and keep working.
+29:59 Not be social.
+30:01 &gt;&gt; So then there's also the
+scene sort of
+30:03 demonstrating the like
+brilliant insight moment.
+30:06 It's kind of like straight
+out of A Beautiful Mind.
+30:08 &gt;&gt; They literally stole that
+scene.
+30:12 So they like to paint it as
+you just kinda jump from one
+30:14 of these moments to,
+30:15 to the other moment with
+like partying in between,
+30:18 but really we were just at
+that table the whole time.
+30:21 So interestingly if you
+compare this to
+30:23 the other photo, Mark is in
+the exact same position, but
+30:25 he's wearing different
+clothes.
+30:26 This is definitely a
+different day.
+30:30 So cool.
+30:31 So that's what it,
+30:32 that's what it's actually
+like in person.
+30:34 And I just covered this
+bullet up here.
+30:36 This is the Economist
+article I
+30:37 was talking about a second
+ago.
+30:40 So another form of, of,
+stress is just,
+30:42 like, unwanted media a,
+attention.
+30:44 So part of it being
+glamorous is
+30:45 you get some positive media
+attention sometimes.
+30:48 It's nice to be on, like,
+30:48 the cover of Time and, like,
+be the person of the year.
+30:52 It's maybe a little less
+nice to be on the cover of
+30:54 People with, like, one of
+your wedding photos.
+30:56 It depends who you are.
+30:57 Some people would like that.
+30:58 I'd really hate it.
+30:59 But when Valleywag like, you
+know,
+31:01 analyses your lecture and
+just tears you apart, like,
+31:03 you definitely don't want
+that.
+31:04 Nobody wants that.
+31:05 And then, one thing I almost
+never hear people talk
+31:07 about is, you're just a of
+more committed.
+31:09 So if you're an employee of
+a startup.
+31:12 and, you know, things are
+stressful,
+31:14 it's not going well, you're
+unhappy, you can just leave.
+31:17 For a founder you can leave
+but it's, it's very uncool.
+31:21 It's pretty much a black eye
+on the rest of your career.
+31:24 And so you really are
+committed you know, for
+31:26 ten years if it's going well
+probably more
+31:28 like five years if it's not
+going well.
+31:30 So three years to figure out
+that it's not going well and
+31:33 then if you find, like,
+31:34 a nice landing for your
+company,
+31:35 another two years at the
+acquiring company.
+31:38 And if you leave before
+that,
+31:39 again, it's not only gonna
+harm yourself financially,
+31:41 it's gonna harm all your
+employees.
+31:42 So you pretty much don't um,
+so if you're lucky, and
+31:45 you have a bad startup idea
+you fail quickly um, but
+31:47 most of the time, it's not
+like that.
+31:50 All right, moving right
+along um, so.
+31:55 And I should say,
+31:55 I have had a lot of this
+stress in my own life,
+31:58 especially in the early
+years of Facebook.
+31:60 You know, I just got really
+unhealthy.
+32:02 I wasn't exercising.
+32:03 I had a lot of anxiety.
+32:05 Actually, I threw out my
+back, like,
+32:06 almost every six months,
+like,
+32:08 when I was like, 21, 22.
+32:08 Which was, like, pretty
+crazy.
+32:11 And so, if you do start a
+company.
+32:14 make, you know,
+32:15 be aware that you're gonna
+have to deal with this and
+32:17 you have to actually manage
+it.
+32:18 It's actually, like, one of
+your core responsibilities.
+32:20 Ben Horowitz likes to say,
+like, the number one rule of
+32:23 a CEO is managing your own
+psychology.
+32:25 It's absolutely true, make
+sure you do it.
+32:29 so, another reason so people
+especially if
+32:32 they've already had a job at
+another company.
+32:34 You tend to develop this
+narrative of like,
+32:36 okay like,
+32:37 the people running this
+company are idiots,
+32:38 they're making all these
+stupid decisions,
+32:40 they're spending their time
+in, in these stupid ways.
+32:43 I'm gonna start a company
+and I'm gonna do it better.
+32:45 I'm gonna like, set all the
+rules.
+32:47 It's a pretty attractive
+idea.
+32:48 Makes a lot of sense.
+32:50 If you've read my
+32:51 Medium posts you know what's
+coming.
+32:53 I'll give you guys a second
+to read this quote.
+33:05 Cool.
+So this,
+33:06 this really resonates with
+me.
+33:08 And one thing I'd point out
+is you know, the reality of
+33:11 these decisions is pretty
+nu, nuanced.
+33:13 The people you thought were
+33:14 idiots probably weren't
+idiots.
+33:16 They probably just had like
+33:17 a really difficult decision
+in front of them.
+33:19 And people pulling them in
+multiple directions.
+33:22 So the most common thing I
+have to spend my time on.
+33:25 And, and focus my energy on
+as a CEO is like.
+33:28 The, the problems that
+33:29 like other people are
+bringing to me.
+33:30 The, the other priorities
+that people create.
+33:32 And it's usually in the form
+of a conflict.
+33:35 People wanna go in different
+directions.
+33:36 Or like customers want
+different things.
+33:39 And like I might have my own
+opinion about that.
+33:41 But really the, the game I'm
+33:42 playing is like who do I
+disappoint the least?
+33:45 And like just trying to like
+navigate all,
+33:47 all these difficult
+situations.
+33:50 And even on a day to day
+basis I might come in
+33:52 on Monday and like have all
+these, you know,
+33:53 grand plans for like how I'm
+gonna improve
+33:55 the company and what I'm
+gonna spend my time on, but
+33:56 then if like an important
+employee is threatening to
+33:59 quit, that's what I'm
+spending my time on.
+34:00 That's my number one
+priority.
+34:04 So a subset of you're
+34:05 the boss is you have
+flexibility.
+34:08 You have control over your
+own schedule.
+34:10 This really attractive idea.
+34:11 So here's the reality.
+34:14 And their Phil Libin quote.
+34:19 So this, this truly reson,
+resonates with me as well.
+34:22 And some of the reasons for
+34:23 this, again, you're always
+on call.
+34:25 So maybe you don't intend to
+work all parts of
+34:27 the day but you might not
+get to control which ones.
+34:30 You're a role model, this is
+super important.
+34:33 So if you're an employee of
+a company um, you might have
+34:36 some good weeks, you might
+have some bad weeks,
+34:38 some weeks when you're,
+you're low energy, maybe you
+34:39 wanna take a couple extra
+days off um, that's really
+34:42 bad if you're, you're an
+entrepreneur like your team
+34:44 will really signal off what
+your bringing to the table.
+34:47 And so if you take your foot
+off the gas, so will they.
+34:51 And you're always working
+anyway.
+34:53 So, if you're really
+passionate about an idea,
+34:55 it's just gonna like pull
+you to,
+34:57 to keep working on it.
+34:58 If you're working with great
+investors,
+34:60 you're working with great
+partners,
+35:01 they're gonna wanna be
+working really hard,
+35:02 they're gonna want you to be
+working really hard uh, and
+35:04 again, you're gonna wanna
+work really hard.
+35:07 So some some companies like
+to tell the story about you
+35:11 can have your cake and eat
+it too, you can have, like,
+35:13 four day week, work weeks
+maybe if you're, if you're,
+35:15 Tim Ferris maybe you can
+have a 12-hour work week.
+35:18 It's a really attractive
+idea and
+35:20 it does work in a particular
+instance.
+35:22 Which is if you wanna like
+actually have a small
+35:24 business or go after a niche
+market.
+35:25 Then you're a small business
+entrepreneur.
+35:28 That makes total sense.
+35:29 But as soon as you get past
+like two or
+35:30 three people uh, you really
+need to step it up and, and
+35:33 be full time committed.
+35:36 cool.
+35:38 So, this is the big one this
+is the, the one I
+35:41 hear the most especially
+like candidates applying to
+35:44 a Asana they tell me, you
+know, I,
+35:46 I'd really like to work for,
+for
+35:47 a much smaller company, or
+start my own because.
+35:50 Then I have a much bigger
+slice of the pie,
+35:52 I'll have much more impact
+on how that company does and
+35:56 I'll have more equity so
+35:57 I'll make more money as
+well.
+35:59 So let's examine when this
+might be true.
+36:03 So I'll explain these tables
+they're a little complex but
+36:06 let's focus on the left
+first so these is,
+36:09 this is just explaining.
+36:10 Dropbox and Facebook.
+36:11 These are their current
+valuations.
+36:14 And this is how much money
+you might
+36:15 make as employee number 100
+coming into these companies.
+36:20 Especially if you're like,
+an experience,
+36:22 a relatively experienced
+engineer, like,
+36:23 you have five years of, of
+industry experience.
+36:26 You're pretty likely to
+36:26 have an offer that's around
+10 basis points.
+36:29 So if you joined DropBox a
+couple years ago,
+36:31 the upside you'd have
+already locked in.
+36:32 As about ten million,
+36:34 there's plenty more growth
+from there.
+36:35 If you leave the company if
+you joined Facebook a couple
+36:38 years into its,
+36:39 its existence you made $200
+million.
+36:41 This is a huge number.
+36:42 And if you.
+36:46 Even if you joined Facebook
+as employee number 1,000.
+36:48 So you joined it in like
+2009 you still
+36:51 made $20 million.
+36:52 That's a giant number.
+36:53 And that's how you should be
+benchmarking when you're
+36:55 thinking about what might I
+make as an entrepreneur.
+36:58 So moving over to the table
+on the right uh,
+37:01 these are two theoretical
+companies you might start.
+37:04 So Uber for Pet Sitting,
+pretty good idea.
+37:08 If you're, if you're really
+well suited to this,
+37:11 you might have, uh, a really
+good shot at
+37:12 building a $100 million
+company.
+37:14 And then your share of that
+company is pretty likely to
+37:16 be about 10%.
+37:17 That certainly fluctuates.
+37:19 Some founders have a lot
+more than this,
+37:20 some have a lot less.
+37:21 But after multiple rounds of
+dilution multiple rounds of
+37:24 option table, option pool
+creation,
+37:27 you're pretty likely to end
+up about here.
+37:30 If you have more than this,
+37:31 I recommend Sam's post on
+like the equity split
+37:34 between founders and
+employees.
+37:35 You probably should be
+giving out more.
+37:38 And then but so basically,
+if you're extremely
+37:43 confident about building
+this $100 million business,
+37:45 which is a big ask it should
+go without saying that
+37:48 you should have a lot more
+confidence than Facebook in
+37:51 2009 or Dropbox in 2014 and
+37:52 you might, for a start up
+that doesn't even exist yet.
+37:57 Then this is worth hearing.
+37:58 So if you have a $100
+million idea and
+38:00 you're pretty confident you
+can execute it,
+38:02 I would consider that.
+38:03 If you think you're the
+right entrepreneur to build
+38:06 Uber, Uber for space travel,
+that's really huge idea.
+38:09 $2 billion idea.
+38:10 You're actually gonna have a
+pretty good return for that.
+38:12 You should definitely do
+that.
+38:13 This is also only the value
+after four years.
+38:15 And this idea probably has
+legs.
+38:18 So definitely go after that.
+38:19 If, if you're thinking of
+building that,
+38:21 you probably shouldn't even
+be in this class right now.
+38:23 You should go and, go and
+build that company.
+38:26 So why is this, financial
+reward and, and impact, I
+38:29 really think that financial
+reward is very strongly
+38:31 correlated with the impact
+you have on the world.
+38:34 If you don't believe that
+let's talk
+38:36 through some specific
+examples and
+38:39 not think about the equity
+at all.
+38:42 So why might joining a, a
+late-stage company actually
+38:45 provide you a lot of impact?
+38:46 You get this multiplier They
+have an existing massive
+38:49 user base.
+38:50 If it's Facebook, it's a
+billion users.
+38:51 Or if it's Google it's a
+billion users.
+38:53 They have existing
+infrastructure you
+38:55 get to build on.
+38:56 That's also increasingly
+true for new startups.
+38:58 Things like AWS.
+38:59 Like awesome independent
+service providers.
+39:03 But you usually get some,
+like,
+39:05 proprietary technology and
+it's all maintained for you.
+39:07 It's a pretty great place to
+start uh, and
+39:09 you get to work with a team
+and they'll help you
+39:11 just leverage your idea into
+something great.
+39:13 So, a couple of specific
+examples Bret Taylor came
+39:17 into employee around or
+39:18 came into Google as around
+employee number 1,500.
+39:22 And he invented Google Maps.
+39:24 This is a product you guys
+probably use every day.
+39:26 I used it to get here.
+39:28 And it's used by hundreds of
+millions of
+39:29 people all around the world.
+39:30 Didn't need to start a
+company to do that,
+39:32 did happen to get a big
+financial reward.
+39:34 But the, the point is he had
+massive impact.
+39:36 My co-founder Justin
+Rosenstein.
+39:39 Joined go, Google a little
+later after Brad he was
+39:42 a PM there.
+39:44 And just as a side project
+he
+39:45 ended up prototyping a chat
+which, which used to be
+39:48 a standalone app as
+integrated into Gmail,
+39:51 like you see it on the upper
+right there.
+39:53 And before he did that, like
+people didn't even think you
+39:56 could do chat over AJAX, or
+chat in the browser at all,
+39:59 and he just kind of like
+demonstrated it, and
+40:01 showed it to his team, and
+made it happen.
+40:03 Again, this is probably a
+product most of
+40:05 you use maybe every day.
+40:07 And then, perhaps even more
+impressively,
+40:09 shortly after that,.
+40:11 JR left,
+40:11 he became employee around
+number 250 at Facebook.
+40:14 And he led a hack-a-thon
+project along with
+40:17 people like Andrew Bosworth
+and
+40:18 Leah Pearlman uh, to create
+the like button.
+40:21 So, this is one of the most
+popular elements anywhere
+40:24 on the web.
+40:25 Totally changes how people
+use it.
+40:27 And again didn't need to
+start a company to do it and
+40:29 almost certainly would have
+failed if he had tried.
+40:31 Because he really needed the
+distribution of
+40:32 Facebook to make it work.
+40:34 So important to, to keep in
+mind the context for uh,
+40:38 what kind of company you're
+trying to start and like,
+40:40 where will you actually be
+able to make it happen.
+40:45 So what's the best reason?
+40:47 So, Sam already talked about
+this a little bit but
+40:50 basically, you can't not do
+it.
+40:51 You're super passionate
+about this idea.
+40:53 You're the right person to
+do it.
+40:55 You've gotta make it happen.
+40:58 So how does this break down?
+41:01 &gt;&gt; Cuz we're getting close
+to end here.
+41:04 How am I doing on time?
+41:05 &gt;&gt; Cool.
+41:05 Sweet.
+Perfect.
+41:07 So this, this is sort of
+like a word play.
+41:10 You can't not do it in two
+ways.
+41:12 One is, you're so
+41:12 passionate about it that
+you're just like,
+41:14 you have to do it.
+41:14 You're gonna do it anyway.
+41:16 And this is really
+important.
+41:17 Cuz you'll need that passion
+to get through all of
+41:19 those like hard parts of
+41:20 being an entrepreneur that
+we talked about earlier.
+41:23 You'll also need it to
+effectively recruit.
+41:24 Candidates can smell when
+you don't have passion.
+41:27 And there are enough
+entrepreneurs out there who
+41:28 do have passion.
+41:29 That they may as well work
+for one of those.
+41:31 So this is sort of like
+table stakes for
+41:33 being an entrepreneur.
+41:34 Your subconscious can also
+tell when you
+41:36 don't have passion and
+that'll be a huge problem.
+41:39 And then so the other way to
+interpret this is the world
+41:42 needs you to do it.
+41:43 So this is sort of
+41:44 validation that the idea is
+important.
+41:46 It's gonna make the world
+better, so
+41:47 the world needs it.
+41:49 If it's not em, if it's not
+something the world needs,
+41:51 go do something the world
+needs.
+41:53 Your time's really valuable.
+Um,
+41:54 there are plenty good ideas
+out there.
+41:55 Maybe it's not one of your
+own.
+41:56 Maybe it's an existing
+company.
+41:57 But you may as well work on
+41:58 something that's gonna be
+good.
+42:01 And then the second way to
+42:02 interpret this is the world
+needs you to do it.
+42:04 You're actually well suited
+to this problem in some way.
+42:07 If this isn't true it may be
+a sign that
+42:11 your time is better spent
+somewhere else.
+42:13 But also just best case
+scenario if this isn't true,
+42:16 you out compete the team for
+which it is true.
+42:18 And you just end
+42:19 up with like a sub-optimal
+outcome for the world.
+42:21 That doesn't feel very good.
+42:22 So drawing this back to my
+own experience at Asana,
+42:26 you know, Justin and
+42:27 I were kind of like
+reluctant entrepreneurs.
+42:30 We, before we founded Asana
+so
+42:32 we're working at Facebook.
+42:33 We were already working on a
+great problem.
+42:36 And we would basically work
+all day
+42:37 long on our normal projects
+and
+42:39 then at night we would keep
+working on this internal
+42:41 task manager that was used
+internally at the company.
+42:45 And it was just cuz we were
+like so
+42:46 passionate about the idea
+that was so
+42:47 clearly valuable, that we
+couldn't do anything else.
+42:51 And at some point we had to
+have the hard
+42:52 conversation of like, okay
+well what does it
+42:55 mean if we don't actually
+start this company.
+42:57 We were pretty, we were able
+to
+42:58 see the impact it was having
+on Facebook.
+42:60 We were pretty convinced it
+43:01 could be really valuable for
+the world.
+43:02 We were also pretty
+43:03 convinced nobody else was
+gonna build it.
+43:05 The problem had been around
+a long time and
+43:07 we just kept seeing sort of
+incremental solutions to it.
+43:09 So if we didn't go out with
+the one that we
+43:11 thought was best,
+43:12 we thought there'd be a lot
+of value left on the table.
+43:15 And yeah.
+43:16 So we just couldn't,
+couldn't stop working on it.
+43:18 And literally the idea was
+like beating itself out of
+43:20 our chest, like forcing
+itself into the world.
+43:23 And I think that's the
+feeling you should really be
+43:24 looking for when you start a
+company.
+43:26 That's how you know you have
+the right idea.
+43:29 So I'll go ahead and stop
+there.
+43:30 I'll put some recommended
+books up here,
+43:32 but won't narrate them.
+43:33 And maybe, that's the end of
+the class.
+43:35 &gt;&gt; Yeah, thank you.
+43:37 Maybe you guys could stick
+around for
+43:42 a few minutes if you have
+questions for him.
+43:48 And uh, see you Thursday.
+43:51 Thank you.

@@ -1,0 +1,2313 @@
+00:00 Thank you for coming.
+00:01 &gt;&gt; Move us all, thank you.
+00:02 Cool, so you guys this is
+awesome,
+00:04 I've been watching the
+lectures in this course,
+00:07 isn't it absolutely amazing
+the content?
+00:10 And now you're stuck with me
+today.
+00:12 &gt;&gt; We'll, so how that goes.
+00:15 Unlike Paul, when he was
+talking in the Q and A,
+00:17 and you guys asked him what
+he would do if he was at
+00:19 college today and
+00:20 he said physics, I actually
+indulged myself.
+00:22 I went in, I went and did
+physics,
+00:24 did physics at Cambridge and
+I think physics is
+00:26 an amazing class to give you
+transferable skills that
+00:29 are really useful in other
+areas.
+00:30 But I guess that's not,
+00:32 that's not why you're
+listening to me today.
+00:34 Like, physics isn't the
+class, like, so I paid for
+00:37 college doing online
+marketing.
+00:39 Direct sales marketing.
+00:40 I started with SEO in the
+1990s.
+00:42 I created a paper airplane
+site.
+00:44 I had a monopoly.
+00:45 In the small niche market of
+00:48 paper airplanes globally
+which you know,
+00:50 when you want to start a
+startup also see how big
+00:52 the market could be in the
+long term it wasn't great.
+00:55 But what that taught me was
+how to do SEO.
+00:57 And back in those days it
+was Altavista, and
+00:59 the way to do SEO was to
+have white text on
+01:01 a white background five
+pages below the fold.
+01:04 And you would rank top of
+Alta Vista if you just paper
+01:07 airplanes 20 or 30 times in
+that text.
+01:09 And that was how you won at
+SEO in the 1990s.
+01:11 Like it was a really easy,
+easy skill to learn.
+01:15 When I went to college,
+being a physicist,
+01:17 I thought paper airplanes
+would make me cool, and
+01:19 I was actually the most
+nerdy person in
+01:20 the physics class, so I
+created a cocktail site.
+01:22 Which was how I learned to
+program.
+01:24 And that grew to be the
+largest cocktail site in
+01:27 the UK.
+01:28 And that really got me into
+SEO properly when
+01:31 Google launched.
+01:32 So with Google, you had to
+worry about page rank, and
+01:35 you had to worry about
+getting links
+01:36 back to your site.
+01:37 Which basically, at that
+stage,
+01:38 meant one link from the
+Yahoo directory.
+01:40 Got you to the top listing
+in Google if you had white
+01:43 text, on a white background,
+below the fold, as well.
+01:47 When Google launched AdWords
+that's when I
+01:49 really started to learn how
+to do all my marketing.
+01:50 And that was buying paid
+clicks from Google, and
+01:53 reselling them to eBay for
+01:54 a small margin of like 20%
+using our affiliate program.
+01:60 And that was what really
+kicked me into overdrive
+02:03 into doing what everyone
+nowadays talks about is
+02:05 growth, or growth hacking,
+or growth marketing.
+02:07 And in my mind it's just
+internet marketing.
+02:10 Using whatever channel you
+02:11 can to get whatever output
+you want.
+02:13 And that's how I paid for
+college and how I
+02:15 ended up going from being a
+physicist to a marketer and
+02:18 transitioning to the dark
+side of the force.
+02:22 So what do you think matters
+most for growth.
+02:24 You've had loads of lectures
+and
+02:26 people have said it over and
+over, so
+02:27 what do you guys think
+matters most for growth?
+02:30 Someone give me an answer.
+02:31 &gt;&gt; Great product.
+02:32 &gt;&gt; Great product.
+02:33 I agree, great product.
+02:34 What does great product lead
+to?
+02:35 &gt;&gt; Customers.
+02:36 &gt;&gt; Customers.
+02:37 And what do you need those
+customers to do?
+02:39 &gt;&gt; Spread the word.
+02:41 Someone said stay on your
+site.
+02:43 Someone said that.
+02:45 That's it.
+Retention.
+02:47 Retention is the single most
+important thing for growth.
+02:49 Now we have an awesome
+growth team at Facebook, and
+02:51 I'm super proud to work on
+it.
+02:53 But the truth of
+02:53 the matter is we have a
+fantastic product.
+02:56 But getting to work on
+growth at Facebook is
+02:58 a massive privilege, because
+we're promoting something
+03:01 that everyone in the world
+really wants to use.
+03:03 Which is absolutely
+incredible.
+03:05 If we can get people on, and
+03:06 get them ramped up, they
+stick on Facebook.
+03:10 So many times I go advise
+multiple startups,
+03:13 my favorite was working with
+Airbnb, but
+03:14 I've worked with Coursera,
+I've worked with
+03:16 other ones that haven't done
+as well as those guys.
+03:19 But the one thing that is
+true over, and over, and
+03:21 over again is if you look at
+this curve.
+03:25 The sentiment, the active,
+03:26 versus number of days from
+acquisition.
+03:29 If you end up with a
+retention curve that
+03:31 ascentotes to a line
+parallel to the x axis.
+03:34 You have a viable business,
+and
+03:36 you have product market fit
+for some subset of market.
+03:41 But most of the companies
+that you see fly up,
+03:44 we talk about growth hacking
+and virality and
+03:46 all of this other stuff.
+03:47 I'm gonna try so hard not to
+swear, but it'll happen.
+03:52 Their attention curve slopes
+down towards the X-axis, and
+03:55 in the end intercepts the
+X-axis.
+03:60 Now when I show this chart
+to
+04:01 most people they say that's
+all well and good.
+04:03 You had a million people a
+day in terms of
+04:05 growth when you started the
+growth team at Facebook, or
+04:09 you were at 50 million
+users.
+04:10 You had a lot of people
+joining the site so
+04:12 you had a ton of data to do
+this.
+04:14 We used this same
+methodology for
+04:17 our B to B growth.
+04:19 Getting people to sign up as
+self-service advertisers,
+04:21 we used this analysis to
+understand how much
+04:24 growth we were gonna have in
+that market as well.
+04:26 And in that place,
+04:27 when I joined Facebook, the
+product was three days old.
+04:30 And within 90 days of the
+product launching,
+04:33 we were able to use this
+technique to be able to
+04:35 figure out what the one year
+value of an advertiser was,
+04:38 and we predicted it for the
+first year to 97% of
+04:41 what the number turned out
+to be.
+04:42 So I think it's very
+important to look at
+04:45 your attention curve, and
+this is how we did it.
+04:49 If you see here.
+04:51 This red line is number of
+users,
+04:52 who have been on your
+product for
+04:54 a certain number of days.
+04:56 So, a bunch of people, that
+should say zero,
+04:58 a bunch of people will have
+been on your product,
+05:00 all of your users will have
+been on it at least one day.
+05:03 But, if your product's been
+around a year, or whatever,
+05:05 you will have zero users
+who've been on it 366 days.
+05:08 Make sense?
+05:10 The curves sensible?
+05:10 Cool.
+05:12 So what you then do is look
+for all of your users,
+05:14 who have been on your
+product one day.
+05:16 What percentage of them are
+monthly active.
+05:18 100% for the first 30 days
+obviously,
+05:22 because monthly active they
+all signed up on one day.
+05:24 But then you look at 31.
+05:26 Every single user, on their
+31st day after registration,
+05:30 what percentage of them were
+monthly active, 32nd day,
+05:33 33rd day, 34th day?
+05:34 And that allows you,
+05:36 with only something like
+10,000 customers or
+05:38 whatever, to get a real idea
+of what this curve is
+05:41 gonna look like for your
+product.
+05:44 And you're gonna be able to
+tell does it asymptote.
+05:46 And it'll get noisy out
+towards the right-hand side.
+05:48 Like I'm not using real
+data.
+05:49 It'll get noisy out towards
+the right hand side, but
+05:51 you'll be able to get a
+handle on,
+05:53 does this curve flatten out
+or does it not.
+05:56 If it doesn't flatten out,
+don't go and
+05:58 do growth tactics, don't go
+and
+05:60 do virality, don't hire a
+growth hacker.
+06:04 Focus on getting product
+market fit.
+06:06 Because in the end,
+06:07 as Sam said in the beginning
+of this course,
+06:09 idea, product, team,
+execution.
+06:12 If you don't have a great
+product,
+06:13 there's no point executing
+well on growing it.
+06:15 Because it won't grow.
+06:17 Number one problem I've seen
+inside Facebook for
+06:19 new products, number one
+problem I've seen for
+06:22 startups I ever devised has
+been, they don't actually
+06:25 have product market fit when
+they think they do.
+06:29 So the next obvious question
+that people ask over and
+06:31 over and over again is okay,
+so
+06:32 what does good retention
+look like?
+06:34 Sure I can have five percent
+retention but
+06:36 I'm guessing that Facebook
+had better than that, so
+06:38 that's not gonna be a
+successful business.
+06:40 And I get really pissed off
+when
+06:41 people ask me that question.
+06:44 Because I think you can
+figure it out.
+06:46 And I love this story, and
+this is like my one
+06:48 gratuitous story that I love
+that I'm throwing in here,
+06:50 so the rest of it may not be
+as gratuitous.
+06:53 But this is a picture that
+was published in
+06:55 Life magazine in 1950 of
+06:57 one of the Trinity nuclear
+bomb tests.
+07:01 And there's a guy,
+07:01 Geoffrey Taylor, who's heard
+of Geoffrey Taylor.
+07:04 Awesome.
+07:05 Yes.
+07:05 Someone's heard of him.
+07:06 Geoffrey Taylor was a
+British physicist,
+07:08 who ended up actually
+winning the Nobel Prize.
+07:10 And he was able to figure
+out from looking at
+07:12 this picture, what the power
+of the atomic bomb was,
+07:15 the U.S. atomic bomb.
+07:17 And Russian's were
+publishing similar pictures,
+07:19 just using dimensional
+reasoning.
+07:21 And dimensional reasoning is
+I think,
+07:22 one of the best skills that
+I learned during my
+07:24 time studying physics back
+in the U.K..
+07:26 And what dimensional
+reasoning is, is you look at
+07:29 the dimensions that are
+involved in a problem.
+07:31 So, you wanna figure out
+energy?
+07:32 Newtons, meters, newtons are
+kilograms, meters are second
+07:35 to the minus 2, so you've
+got kilograms,
+07:37 meters squared, seconds to
+the minus 2,
+07:39 and then you try and figure
+out how you can get each of
+07:42 those numbers from what data
+you have.
+07:44 So, the mass.
+07:46 Is the volume of this
+sphere.
+07:49 So, that's a meter cubed you
+throw in there.
+07:51 So you've got meters the 5
+over seconds the minus 2,
+07:54 and he was able to use that
+to just figure out
+07:56 what the power of this
+atomic bomb was,
+07:58 what the ratios of the power
+between the Russian and
+08:01 US atomic bomb, and
+essentially reveal one of
+08:03 the top secrets that existed
+in the world at that time.
+08:06 That's a hard problem.
+08:08 Figuring out what
+08:09 Facebook's retention rate is
+not a hard problem.
+08:13 How many people are there on
+the internet?
+08:16 Give or take someone throw
+something out.
+08:20 &gt;&gt; 2.4 billion, 2.3 billion.
+08:21 Something like that right?
+08:23 Okay, Facebook's banned in
+China.
+08:24 So.
+08:25 What now?
+08:28 &gt;&gt; About a billion.
+08:28 &gt;&gt; About 2 billion?
+08:29 2 billion.
+So
+08:30 2 billion people on the
+internet.
+08:32 Facebook in their last
+earnings call
+08:33 said something around 1.3
+billion in
+08:35 terms of the number of
+active users.
+08:37 You can divide those numbers
+by each other.
+08:40 And yeah, that won't give
+you the right answer.
+08:41 Course it's not gonna give
+you the right answer.
+08:43 But it's gonna give you
+08:43 close enough to a ballpark
+figure.
+08:45 Of what the retention rate
+looks like for Facebook.
+08:48 If we signed everyone on the
+internet up, and
+08:50 then you will know it is
+higher than that.
+08:52 Similarly if you look at
+Whats App, they've announced
+08:56 six hundred million active
+users.
+08:58 How many people have smart
+phones?
+08:60 You can figure out that
+number.
+09:01 That number is out knocking
+around.
+09:02 It can give an idea of how
+many users there are.
+09:05 Amazon has had a pop at
+09:06 signing up almost everyone
+in the United States.
+09:09 You know how many people are
+online in the US, and
+09:11 you've got a good idea of
+how many
+09:12 customers Amazon are from
+the numbers they throw out.
+09:15 Different verticals need
+different terminal retention
+09:18 rates for them to have
+successful businesses.
+09:22 If you're in e-commerce and
+you're retaining on
+09:24 a monthly active basis like
+20, 30% of your users,
+09:27 you're probably gonna do
+pretty well.
+09:29 If you're in social media,
+and
+09:31 your first batch of people
+signing up to
+09:32 your product are not like
+80% retained,
+09:35 you're not gonna have a
+massive social media site.
+09:38 And so, it really depends on
+the vertical you're in,
+09:40 what the retention rates
+are.
+09:42 What you need to do is have
+the tools to
+09:43 think about who out there is
+comparable.
+09:46 And how you can look at it
+and say,
+09:47 am I anywhere close to what
+real success looks like in
+09:50 this vertical?
+09:54 So retention is
+09:54 the single most important
+thing for growth.
+09:57 And retention comes from
+having a great idea, and
+10:00 a great product to back up
+that idea and
+10:02 great product market fit.
+10:04 The way we look at whether a
+product has great retention
+10:07 or not is whether or not the
+users who install it.
+10:09 Actually stay on it long
+term,
+10:11 when you normalize on a
+cohort basis, and
+10:14 I think that's a really good
+methodology for
+10:15 looking at your product and
+saying, okay, the first 100,
+10:19 the first 1,000, the first
+10,000 people I get on this,
+10:22 will they be retained in the
+long run?
+10:27 So now how do you attack
+operating for growth?
+10:29 Let's say you have awesome
+product market fit.
+10:32 You have built an e-commerce
+site and you have 60% of
+10:35 people coming back every
+single month and
+10:37 making a purchase from you.
+10:38 Which would be absolutely
+fantastic.
+10:41 How do you take that and say
+now it's time to scale?
+10:45 Now it's time to
+10:46 execute was the last thing
+in your thought.
+10:47 Right?
+10:48 And that's where I think
+growth teams come in.
+10:50 Like my contrarian
+viewpoint, or
+10:52 whatever is if you're a
+start-up you
+10:54 shouldn't have a growth
+team.
+10:57 &gt;&gt; Damn it.
+10:58 So close.
+10:60 Halfway through and I
+failed.
+11:02 You shouldn't have a growth
+team.
+11:04 Start-ups should not have
+growth teams.
+11:07 The whole company should be
+the growth team.
+11:09 The CEO.
+11:10 Should be the head of
+growth.
+11:12 You need someone to set a
+North Star for
+11:14 you, gratuitous shot of the,
+you know, NASA page.
+11:17 You need someone to set a
+North Star for
+11:19 you about where the company
+wants to go.
+11:23 And that person needs to be
+the person leading
+11:25 the company, in my opinion,
+from what I've seen.
+11:28 And Mark is a fantastic
+example of that.
+11:30 Back when Facebook started
+lots of people were
+11:32 putting out their registered
+user numbers.
+11:35 Right?
+You'd see registered user
+11:36 numbers for MySpace.
+11:37 You'd see registered user
+numbers for Compact.
+11:38 You'd see registered user
+numbers.
+11:40 Mark put out monthly active
+users as the number both
+11:43 internally he held everyone
+to.
+11:45 And said we need everyone on
+Facebook, but
+11:47 that means everyone active
+on Facebook.
+11:49 Not everyone signed up to
+Facebook.
+11:51 So monthly active people was
+the number internally.
+11:54 And it was also the number
+he published externally.
+11:56 It was the number he made
+the whole world hold
+11:58 Facebook to as the number
+that we cared about.
+12:01 If you look at what Yam has
+done with What's Up I
+12:03 think it's another great
+example.
+12:05 He always published send
+numbers.
+12:07 If you're a messaging
+application,
+12:08 sends is probably the single
+most important number.
+12:11 If people use you once a
+day.
+12:14 Maybe that's great, but they
+send one message.
+12:16 They, you're not really
+their primary messaging
+12:19 mechanism, so Yan published
+the sentence number.
+12:21 Right?
+12:22 Inside AvianB they talk
+about nice book, and
+12:25 they also published that in
+all of the,
+12:29 like, infographics that you
+see inside Tech Crunch.
+12:32 They always benchmark
+themselves against how many
+12:34 nights booked they
+12:35 have compared to the largest
+hotel chains in the world.
+12:38 They have, each of these
+companies,
+12:40 a different north star.
+12:42 The north start doesn't have
+to be
+12:43 monthly active users for
+every different vertical.
+12:46 For eBay, when I was there,
+12:47 it was gross merchandised
+volume.
+12:49 How much stuff did people
+actually buy through eBay.
+12:52 Everyone externally tends to
+judge eBay based on revenue.
+12:56 Actually, Benedict Evans has
+12:57 done this amazing breakdown
+of Amazon's business.
+12:59 Which is really interesting.
+12:60 To look at their marketplace
+business versus their
+13:02 direct business.
+13:03 EBay is all marketplace
+business, right.
+13:05 So eBay's being judged by
+its revenue when it
+13:07 actually has ten times, or
+whatever more
+13:10 gross merchandised volume
+going through the site.
+13:13 And that was the number that
+eBay looked at when I
+13:15 was inside there, and
+optimized for.
+13:17 So every different company
+when it
+13:18 thinks about growth needs a
+different north star.
+13:20 But when you are operating
+for
+13:22 growth, it is critical that
+you have that north star and
+13:24 you define it as a leader.
+13:26 The reason this matters is.
+13:28 The second you have more
+than one person working on
+13:31 anything, you cannot control
+what everyone else is doing.
+13:35 Right?
+13:36 I promise you,
+13:37 having now might have hit
+100 people I'm managing,
+13:39 I have no control.
+13:41 It's all influence.
+13:43 Yes, I can say to one
+person, do this one thing.
+13:45 But then the other 99
+13:45 are gonna do whatever the
+hell they want.
+13:49 And the thing is, it's not
+clear to everybody what
+13:52 the most important thing is
+a for a company.
+13:53 It would be very easy inside
+eBay for
+13:56 people to say, you know
+what?
+13:57 We should focus on revenue.
+14:03 Or you know what?
+We should focus on
+14:04 the number of people buying
+from us.
+14:05 Or you know what?
+We should focus on
+14:06 how many people list items
+on eBay.
+14:07 And Pierre and Meg and John.
+14:09 Those guys, those various
+leaders, always said no,
+14:11 it's the amount of gross
+merchandise volume that
+14:14 goes through our site.
+14:15 It's the percentage of
+14:16 e-commerce that goes through
+our site.
+14:18 That is what really matters
+for this company.
+14:20 Which means when people are
+having a conversation and
+14:22 you're not in the room, when
+they're sitting in front of
+14:24 their computer screen and
+thinking about how they
+14:26 build this particular
+product or
+14:28 this particular feature.
+14:29 In their head,
+14:30 it's gonna be clear to them
+that it's not about revenue.
+14:33 It's about gross merchandise
+volume.
+14:35 Or it's not about getting
+more registrations.
+14:37 Registrations don't matter
+unless they become long term
+14:40 active users.
+14:42 A great example of this is
+when I was at Ebay in 2004.
+14:46 We changed the way we paid
+our affiliates for
+14:50 new users.
+14:51 And affiliate programs are a
+bit out of fashion these
+14:54 days, but
+14:54 the idea of an affiliate
+program is essentially you
+14:57 pay anyone on the internet.
+14:59 A referral for sending
+traffic to your site.
+15:02 But it's mostly about
+getting access to like,
+15:04 big marketers who do it on
+their own,
+15:06 like separately and
+15:07 some really good stories
+from this.
+15:10 We were paying for confirmed
+registered users.
+15:13 So all of our affiliates
+were aligned,
+15:15 they're out getting
+confirmed registered users,
+15:18 to the base site.
+15:21 We changed our payment model
+to pay for
+15:23 activated confirmed
+registered users.
+15:25 So you had to confirm your
+account and
+15:27 then bid on an item, or buy
+an item or
+15:30 list an item, to become
+someone that we paid for.
+15:35 Overnight when we made that
+change,
+15:37 we lost something like 20%
+of confirmed registered
+15:40 users that were being driven
+by the affiliates.
+15:45 But the ACIUs only dropped
+by about 5%.
+15:48 The ratio of CIU to ACIU
+went up, and
+15:50 then the growth of ACIUs,
+massively accelerated.
+15:56 The cause of this was if you
+wanna drive CRUs if
+15:58 someone searches for
+15:59 a trampoline, you land them
+on the registration page cuz
+16:02 they think they have to
+register and
+16:03 confirm, before they get
+that trampoline.
+16:06 If you wanna drive ACRUs you
+land them on the search
+16:09 results page within eBay for
+trampolines so they can see
+16:12 the thing they want to buy,
+get excited about it and
+16:15 register when they want to
+buy it.
+16:17 And if you drive just CRUs
+people don't
+16:19 have an amazing,
+16:20 magic moment on eBay when
+they visit the site.
+16:25 And that's the next most
+important thing to
+16:27 think about, is how do you
+drive towards the magic
+16:29 moment that gets people
+hooked on your service?
+16:33 So in the lecture notes for
+16:34 this course I've stuck in a
+bunch of links to people I
+16:36 think are brilliant at all
+of this stuff.
+16:38 That retention curve I
+showed earlier,
+16:40 there's a link to this guy
+Danny Ferrante
+16:42 whose incredible talking
+about retention curves.
+16:45 The magic moment, there are
+two videos linked.
+16:47 One is Chimoff talking about
+growth,
+16:49 who was the guy who set up
+the growth team at Facebook.
+16:52 And one is my friend Naomi
+and
+16:54 I talking at F8 four years
+ago about how we
+16:56 were thinking about growth
+back then.
+16:58 And in both of those mem,
+16:59 both of those videos we talk
+about the magic moment.
+17:02 So, what do you guys think
+the magic moment is for
+17:04 when you're signing up to
+Facebook?
+17:07 You hit that big green
+button,
+17:08 what is the moment when
+users are like ha?
+17:11 Mark even talked about it at
+the start up
+17:13 school a few years back.
+17:14 &gt;&gt; See your friends.
+17:15 &gt;&gt; See your friends.
+17:16 Simple as that.
+17:17 And usually it is very
+simple.
+17:18 I talked to so many
+companies, and they try and
+17:21 get incredibly complicated
+about what they're doing.
+17:23 But it is as simple as just
+when you see that
+17:26 first picture of one of your
+friends on Facebook.
+17:28 You go, oh my God, this is
+what the site is about.
+17:31 And Zucks talked at Y
+Combinator about
+17:34 getting people to ten
+friends in 14 days.
+17:36 That is why we focus on that
+metric.
+17:39 The number one most
+important thing in
+17:41 a social media site is
+connecting to your friends.
+17:43 Because without that,
+17:44 you have a completely empty
+news feed, and
+17:46 clearly you're not gonna
+come back.
+17:47 You'll never get any
+notifications,
+17:48 you'll never have any
+friends telling you
+17:50 about things they're missing
+on the site.
+17:52 So for Facebook the magic
+moment is that moment when
+17:55 you see your friend's face,
+and
+17:56 everything we do on growth.
+17:58 And if you look at the
+LinkedIn registration flow,
+17:59 or you look at the Twitter
+registration flow,
+18:01 or you look at what WhatsApp
+does when you sign up,
+18:03 the number one thing all
+these services look to
+18:05 do is to show you the people
+you want to follow,
+18:08 connect to, send messages
+to, as quickly as possible.
+18:12 Because in this vertical,
+that's what matters.
+18:15 When you think about Airbnb
+or you think about eBay,
+18:17 it's finding on eBay that
+unique item,
+18:19 that PEZ dispenser or broken
+laser pointer that you
+18:23 really, really cared about,
+and wanted to get hold of.
+18:26 Like when you see that
+collectible thing that you
+18:28 were missing, that is the
+real magic moment on eBay.
+18:30 When you look on Airbnb and
+18:31 you find that first, you
+find that,
+18:34 that first listing that's
+like a cool house that you
+18:37 can stay in and
+18:37 when you go through the
+door, that's a magic moment.
+18:40 And similarly on the other
+side,
+18:41 when you're listing your
+house,
+18:42 the first time you get paid,
+is an amazing moment.
+18:45 When you're listing an item
+on eBay,
+18:46 the first time you get paid
+is a magic moment.
+18:48 You should ask Brian what he
+thinks,
+18:49 cuz they've done these
+amazing storyboards which I
+18:52 think has been shared, of
+like the journey through
+18:54 a user's moment on life on,
+on Airbnb and how excited.
+18:56 Isn't, he's talking in three
+lectures time?
+18:58 The guy's awesome at talking
+about the magic moment and
+19:01 getting his users to feel
+love and
+19:02 joy and all this stuff.
+19:04 So think about what the
+magic moment is for
+19:06 your product, and
+19:07 get people connected to it
+as fast as possible.
+19:10 Because then you
+19:10 can move up where that blue
+line has asymptoted.
+19:13 Then you can go from 50%
+retention to 60% retention
+19:16 to 70% retention easily, if
+you can connect people with
+19:19 the thing that makes them
+stick on your site.
+19:23 The second thing to think
+about is everyone in
+19:26 the Valley gets wrong, that
+we optimize when we
+19:28 think about growth for
+ourselves.
+19:31 So my favorite example is
+notifications.
+19:34 Again, talk to lots of
+companies, advise lots of
+19:36 companies, every single
+company when they
+19:38 talk about notifications,
+goes, oh I'm getting too
+19:41 many notifications, I think
+that's what we
+19:43 need to optimize for in
+notifications.
+19:47 Okay, are your power users
+leaving your site
+19:49 because they're getting too
+many notifications?
+19:51 No, then why would you
+optimize that,
+19:53 they're probably grownups
+and they can use filters.
+19:58 What you need to focus on is
+the marginal user.
+20:01 The one person who doesn't
+get a notification in
+20:04 a given day, or month, or
+year.
+20:06 Our experience of our
+products, and
+20:08 by the way like building an
+awesome product is
+20:11 all about thinking about the
+power user, right?
+20:13 Building an incredible
+product
+20:15 is definitely optimizing for
+20:17 the people who use your
+product the most.
+20:19 But driving growth,
+20:20 people who are already using
+your product all the time,
+20:23 are not the ones you have to
+worry about.
+20:26 So, in this Danny Ferrante
+video there's also this link
+20:28 from the lecture page,
+20:29 there's also talk about our
+growth accounting framework
+20:31 that we use to think about
+for growth.
+20:33 And we looked at new users,
+resurrected users,
+20:35 people who weren't on
+Facebook for 30 days and
+20:38 came back, and churned
+users.
+20:39 And the resurrected and
+churn numbers for
+20:41 pretty much every product
+I've ever seen,
+20:43 dominate the new user
+account.
+20:45 Once you reach a sensible
+point of growth,
+20:47 a couple of years, and
+whatever.
+20:49 And all those users who were
+churning and
+20:51 resurrecting, had low friend
+counts.
+20:54 And didn't find their
+friends, and
+20:55 so weren't connected to
+20:56 the great stuff that was
+going on, on Facebook.
+20:59 And so the number one thing
+we needed to focus on
+21:01 was getting them to those
+ten friends, getting them to
+21:03 the whatever number of
+friends they needed.
+21:05 So think about the user on
+the margin,
+21:06 don't think about where
+yourself when
+21:08 you're thinking about
+growth.
+21:12 So, operating for
+21:13 growth, what you really need
+to think about is,
+21:15 what is the north star of
+your company.
+21:17 What is the one metric
+where,
+21:19 if everyone in the company
+is thinking about it and
+21:21 driving their product was
+that metric and
+21:24 their actions towards moving
+that metric up, you know in
+21:26 the long run your company
+will be successful.
+21:29 And by the way,
+21:29 they're probably all
+correlated to each other so
+21:31 it's fine to pick almost any
+metric.
+21:33 Whichever one is like the
+deepest, like, that you feel
+21:36 the best about, that aligns
+with like your mission and
+21:38 your values, probably go for
+that one.
+21:41 But realistically, daily
+active users
+21:43 fairly correlated to monthly
+active users.
+21:44 We could've gone with either
+one.
+21:46 Amount of content shared,
+also very correlated to
+21:48 how many users there are
+because, guess what,
+21:50 you add a user, they share
+content.
+21:52 So, lots of things end up
+being correlated.
+21:55 Pick the one that fits with
+you and
+21:57 that you know you're gonna
+be able to stick with for
+21:59 a long time, but have a
+north star.
+22:02 Have a north star and know
+the magic moment that when
+22:04 a user experiences that,
+they will deliver on that
+22:06 metric for you on the north
+star, and then think about
+22:10 the marginal user, don't
+think about yourself.
+22:13 Those are, I think, the
+really important points when
+22:15 you're operating for growth.
+22:17 Everything has to come from
+the top.
+22:21 So the last area here is
+tactics.
+22:24 And my hope was that I could
+hit a few of these and then
+22:27 I've got a list of tactics I
+wanna go through that
+22:29 I'm better talking with a
+whiteboard and whatever on,
+22:32 but you can ask me questions
+as I'm going through on
+22:34 those about how they work
+and what goes better.
+22:37 But the important tactics
+that you need to think about
+22:41 this is great guy by the
+way,
+22:42 Tom Fishburne, he lives, he
+lives in the Bay Area and
+22:44 he does these really cynical
+cartoons that I love.
+22:47 So let's say you found your,
+22:48 your niche market that
+you're gonna have
+22:49 a monopoly on inside the
+mousetrap market.
+22:52 It's a silenced mousetrap
+that's sitting under beds so
+22:55 that if the mice come to
+your bed overnight,
+22:57 like they can be killed
+without waking you up, so
+22:59 that's your niche market.
+23:00 And your, your mousetrap is
+better than anybody else for
+23:03 that market.
+23:04 What typically happens in
+Silicon Valley is,
+23:06 everyone think mar, thinks
+marketers are useless.
+23:08 Like I thought marketers
+were useless when I
+23:10 was a physics student, so
+I'm
+23:11 sure as engineering students
+you must thing we're awful,
+23:13 awful people who aren't
+useful to have around.
+23:16 Like, build it and they will
+come.
+23:18 That is something that is
+very much the mantra in
+23:20 the Valley and I don't
+believe it's true.
+23:23 I believe you actually have
+to work.
+23:24 There's a good article,
+again, in the lecture page,
+23:27 from interviewing Ben
+Silvermann where he
+23:29 talks about how the growth
+of
+23:30 Pinterest was driven by
+marketing.
+23:32 It's a really good article
+to read into.
+23:35 I'm biased, of course.
+23:37 So, the first tactic I
+23:38 want to talk about is
+internationalization.
+23:41 Facebook internationalized
+too late.
+23:44 Sheryl said it broadly in
+public and
+23:46 I definitely agree with
+that.
+23:47 One of the biggest barriers
+to our long term growth and
+23:50 one of the biggest things we
+have to deal with was
+23:52 all the countries where
+there were clones.
+23:55 Famously Studeveldt said had
+Fakebook.css in their,
+23:59 in their HTML.
+24:01 And there were a ton of
+sites like that out there,
+24:04 whether it was Studeveldt
+site as a clear clone,
+24:06 Vkontakte, Mixi, Cyworld,
+Orkut, there were all these
+24:10 different social networks
+around the world that
+24:12 grew up while Facebook was
+focused on the US.
+24:15 And so internationalizing
+was an important barrier we
+24:18 needed to knock down, and
+knocking down barriers is
+24:20 often a very important to
+think about for growth.
+24:22 Facebook started off as
+college only.
+24:24 So every college that it
+24:25 was launched in was knocking
+down a barrier.
+24:29 When Facebook expanded
+beyond colleges to
+24:30 high schools I wasn't at the
+company, but that was a
+24:33 company shaking moment where
+people questioned whether or
+24:36 not Facebook could actually
+survive,
+24:38 the culture of the site
+could survive.
+24:40 Then expanding from high
+schools to everyone,
+24:42 that was like, just before I
+joined and
+24:44 that was a shocking moment
+and
+24:45 that spurred the growth on
+to 50 million and
+24:47 then we hit a brick wall.
+24:49 And when we hit that brick
+wall that was
+24:50 the point when a lot of
+existential questions were
+24:52 being asked inside Facebook
+about whether any social
+24:55 network could ever get to
+more than 100 million users.
+24:57 Which sounds stupid now, but
+24:59 at the time no one had ever
+achieved it.
+25:01 Everyone had kind of tapped
+out between 50 and
+25:03 100 million users and
+25:05 we were worried that it
+wasn't possible.
+25:07 And that was the point at
+25:08 which the growth team got
+set up.
+25:09 Chimoff brought a whole
+bunch of us together.
+25:10 It was he said very publicly
+that he wanted to fire me on
+25:14 multiple occasions, and he
+probably should have done.
+25:17 But, without Chimoff I
+25:18 think none of us would have
+stayed at the company.
+25:20 We were a really weird bunch
+of people, but
+25:22 it worked out.
+25:23 And, the two things we did,
+I think, that really,
+25:26 really drove growth
+initially, was number one,
+25:29 we focused on that ten
+friends in 14 days and
+25:31 getting users to the magic
+moment.
+25:32 And that was something Zuck
+drove,
+25:34 cuz we were all stuck in
+analysis paralysis,
+25:36 saying is it causation, is
+it correlation.
+25:39 Zuck was like, you really
+think if no one
+25:40 gets a friend that they'll
+be active on Facebook?
+25:42 Are you crazy?
+25:45 The second thing was
+internationalization.
+25:47 It was knocking down another
+barrier.
+25:49 And when we launched it, I
+think there were
+25:51 two things that we did
+really well.
+25:53 Number one was, even though
+we were late, and
+25:56 we were stressed about being
+late,
+25:58 we took the time to build it
+in a scalable way.
+26:02 We moved slow to move fast.
+26:04 And you can actually read,
+26:05 hear the full story from
+Naomi in one of
+26:07 the videos linked from the
+lecture page.
+26:09 But what we did was we
+wrapped all the strings in
+26:12 the site in FPT which our
+translation script, and
+26:16 then, or translation
+extraction script, and then,
+26:20 we created the community
+translation platform.
+26:22 So that we didn't just have
+26:23 professional translators
+translating a site we
+26:25 could have all of our users
+translating a site.
+26:28 And we got French translated
+in 12 hours, but
+26:31 we managed to get to this
+day we are now at
+26:33 104 languages translated by
+Facebook for Facebook.
+26:37 80 plus 70 of those are
+translated by the community.
+26:42 And we took the time to
+26:43 build something that would
+enable us to scale.
+26:46 The other thing is we
+26:47 prioritized the right
+languages.
+26:49 So back then the right
+languages,
+26:50 the big four languages were
+French, Italian, German and
+26:53 Spanish, figs and Chinese,
+but
+26:56 we were blocked in China.
+26:59 &gt;&gt; So we focused on French,
+Italian, German,
+27:01 and Spanish.
+27:03 Now look at that list,
+27:04 that's today's distribution
+of languages.
+27:07 Italian isn't on the list
+anymore.
+27:09 French and German are about
+to fall off.
+27:12 In the last year we
+quadrupled the number of
+27:14 people on Facebook in Hindi,
+quadrupled.
+27:18 And so building for
+27:19 where the world is today, is
+an easy mistake to make and
+27:22 it's what a lot of the other
+social networks did.
+27:24 We built a scalable
+translation infrastructure
+27:27 that actually enabled us to
+attack all of the languages,
+27:30 so we can be ready for
+27:31 where the future is going
+to, is gonna be.
+27:32 And you'll probably be able
+to see some stuff
+27:35 from our Internet.org Summit
+in India about where we
+27:37 want to go with language
+translations later today,
+27:40 cuz I think they're talking
+about that stuff there.
+27:43 So these are the tactics I
+wanna go through now, and
+27:45 I'll stick with the white
+board for that stuff.
+27:47 But I'd really encourage you
+guys as I go through these,
+27:49 if you've got any questions
+about them let me know.
+27:51 I think this should be like,
+27:53 a more free form time
+anyway.
+27:54 But I think some these
+27:55 tactics are quite
+interesting.
+27:58 So Virality.
+28:01 Yes, I think there are two
+ways to look at virality.
+28:04 There's a great book whoops,
+the book on the right here,
+28:08 by Adam Penenberg, Viral
+Loop,
+28:10 goes through a bunch of case
+studies of companies that
+28:13 have grown through viral
+marketing.
+28:16 And I strongly encourage
+you, if
+28:17 you're interested in viral
+marketing, to get that book.
+28:19 I think Ogilvy on
+Advertising's great as well
+28:21 because chapter seven he's
+like if you can't think of
+28:23 anything else stick a car to
+a billboard with
+28:25 super glue and people will
+buy your super glue.
+28:28 And he's got some really,
+28:28 he's got some really good
+creative tips in there.
+28:30 &gt;&gt; Like the, the guy's been
+dead 20 years and I think he
+28:33 still, I, I buy everyone on
+my team gets both of these
+28:36 books when they start on my
+team.
+28:38 So virality.
+28:39 So Sean Park has this model
+that he taught or he
+28:43 told us about when he, when,
+when I joined Facebook.
+28:47 Which is to think about
+virality for
+28:49 a product in terms of three
+things.
+28:52 First is payload.
+28:56 So how many people can you
+hit with any
+28:59 given viral blast?
+29:02 Second, he had cooler words
+for
+29:05 these, I'm not quite as
+cool.
+29:08 Second is conversion rate,
+and third is frequency.
+29:13 Payload frequency and
+29:14 conversion rate, whatever,
+that order.
+29:18 So, how many people can you
+hit at once is payload.
+29:22 How many times can you hit
+them per blast is frequency.
+29:26 And what are they gonna
+convert at?
+29:27 And that gives you
+29:28 a fundamental idea of how
+viral a product is.
+29:32 So Hotmail is like, the
+canonical example of
+29:34 brilliant viral marketing,
+right?
+29:37 Back when Hotmail launched,
+29:38 there were a bunch of mail
+companies that had
+29:40 been funded and they were
+throwing huge amounts of
+29:42 money at traditional
+advertising.
+29:44 How many people know the
+Hotmail story, of virality?
+29:48 Awesome, great, new
+audience, sorry.
+29:51 Those two or three people
+will be bored.
+29:53 But Hotmail back in, back at
+that time.
+29:56 People couldn't get free
+email clients,
+29:59 they had to be tied to their
+ISP.
+30:02 And Hotmail and a few other
+companies launched and
+30:06 their clients were available
+wherever you went.
+30:08 You could log in via library
+internet or whatever,
+30:09 school internet, and be able
+to get access to that.
+30:12 Which was a really big value
+proposition for
+30:14 everyone, who wanted to
+access it.
+30:16 Most of the companies, went
+out there and
+30:18 did big TV campaigns and
+billboard campaigns and
+30:21 newspaper campaigns and
+30:22 things like that forced a
+lot of advertising of Yahoo,
+30:24 all of those things.
+30:25 But the Hotmail team didn't
+have as much funding, and so
+30:27 they had to scrabble around
+to figure out how to do it.
+30:29 So, what they did was add
+that little link at
+30:31 the bottom of every email
+that said,
+30:33 sent from Hotmail, get your
+free email here.
+30:36 Now, the interesting thing
+is that meant
+30:38 the payload was low.
+30:40 Right, you email one person
+at a time,
+30:42 not necessarily gonna have a
+huge payload.
+30:44 Maybe you send around some
+of those viral spam emails.
+30:46 But then I'm not sure I'll
+click on your link.
+30:49 The frequency is high,
+though because you're
+30:52 emailing the same people
+over and over and over.
+30:56 Which means you're gonna hit
+them once,
+30:57 twice, three times a day
+with that same link and
+30:59 really move up the
+impressions.
+31:01 And the conversion rate was
+also very high because
+31:04 people didn't like being
+tied to their ISP email.
+31:07 And so Hotmail ended up
+being
+31:09 extremely viral because it
+had high frequency and
+31:12 high conversion rates.
+31:13 Another example is PayPal.
+31:16 PayPal, PayPal is
+interesting because PayPal
+31:19 has two sites to it.
+31:20 PayPal has the buyer and the
+seller site.
+31:23 The other thing that's
+interesting about PayPal is
+31:25 its mechanism for viral
+growth was eBay.
+31:27 And so you can use all kinds
+of things for
+31:30 virality that may not look
+necessarily obviously viral.
+31:33 So PayPal, if you sent
+money,
+31:36 if you said to a seller, I
+am going to send you money.
+31:39 Like, I can't think of a
+higher conversion rate.
+31:44 Frequency was low, payload
+was low, but
+31:46 PayPal did this thing, where
+they gave away money when
+31:49 you got your friends to sign
+up for PayPal, and
+31:51 so that's how they went
+viral on the consumer side.
+31:53 They didn't have to do that
+for sellers,
+31:54 because if I said I'm gonna
+send you money via this,
+31:57 you will take that.
+31:59 And even on the consumer
+side they
+32:00 went viral because someone
+said sign up for
+32:02 this thing and you'll get 10
+bucks.
+32:04 Why wouldn't you?
+32:06 So, they were able to go
+viral, but
+32:07 in both cases it was because
+their conversion rate was
+32:10 incredibly high on the buyer
+and the seller side.
+32:13 No.
+32:14 Because their payload and
+frequency was high.
+32:16 Makes sense?
+32:18 So this is a really good way
+to look at virality if
+32:20 you wanna say, is this
+product viral?
+32:23 Facebook was not viral via
+email sharing or
+32:25 anything like that.
+32:27 Facebook was purely viral by
+a word of mouth.
+32:29 Because the interesting
+thing about PayPal and
+32:32 Hotmail Is to use them the
+first person had to
+32:36 send an email to someone who
+wasn't on the service.
+32:39 With Facebook there's no
+32:40 native way to contact people
+who aren't on the service.
+32:44 Everyone thinks of Facebook
+as viral marketing success,
+32:47 and that's actually, not how
+it grew.
+32:48 It was word of mouth
+virality, because it was an
+32:51 awesome product you wanted
+to tell your friends about.
+32:55 How's everyone doing?
+32:56 Is this interesting?
+32:57 Great, question, yes.
+32:59 &gt;&gt; So when you're talking
+about this low pay
+33:01 load in both of the
+examples.
+33:04 In the later rounds as this
+sort of campaign or
+33:06 whatever you want to call it
+gets going.
+33:07 Aren't you going to have a
+much higher pay load as
+33:10 more and more people are
+sending Hotmail] to more and
+33:12 more folks, and that way
+your pay load grows and
+33:14 grows and grows?
+33:15 So, the question is in the
+first round it
+33:17 makes sense that it has a
+low pay load, but
+33:18 in later rounds, aren't you
+gonna have higher pay
+33:20 loads as people send more
+and more and more emails.
+33:22 I guess in my head, well,
+first and
+33:24 foremost, I think you
+actually,
+33:25 only send emails to a small
+number of people.
+33:27 So, compared to like the
+massive viral engines that
+33:30 exist today,
+33:30 where you import someone's
+entire contact book.
+33:32 And send them all.
+33:34 Send them all an email, or
+33:36 where you post to everyone's
+friends on Facebook.
+33:38 The actual payloads are
+still very small.
+33:40 Even if it's everyone that
+33:41 you email on a frequent
+basis you hit.
+33:44 I'm also thinking really per
+email sent out.
+33:47 How many people are on it?
+33:47 But it's a fair point, like
+yeah, as more people get on,
+33:50 get on Hotmail they'll send
+more emails,
+33:51 as more people use email.
+33:53 The product actually, grows
+more and more successfully.
+33:55 So, that's a fair point.
+33:57 Go for it.
+33:59 &gt;&gt; Doesn't, like, point of
+conversion also matter?
+34:00 So, like, when just click
+and sign up.
+34:02 But if you skip the goal ad
+it's
+34:05 &gt;&gt; Completely agree,
+34:06 that's why, oh I'm sorry.
+34:08 Doesn't point to conversion
+matters as well, so
+34:10 on Hotmail, you click to
+sign up, but on a billboard
+34:13 you have to remember that
+the URL goes to the website,
+34:15 type it in, find the
+registration button,
+34:16 click register and sign up.
+34:18 Yes.
+34:18 Yes, anything you can do to
+move friction out of
+34:21 the flow.
+34:22 And going from an offline ad
+to an online ad removes huge
+34:24 amounts of frictions from
+the flow.
+34:26 Obviously.
+34:27 Totally agree with that.
+34:28 One more at the back.
+34:28 &gt;&gt; Aren't frequency and
+conversion related?
+34:29 &gt;&gt; Aren't frequency and
+conversion rate related?
+34:33 Absolutely.
+34:34 If you hit someone with the
+same promotion,
+34:36 I repeated that.
+34:37 Aren't frequency and
+conversion rate related?
+34:39 If you hit someone with the
+same email over and over and
+34:42 over again.
+34:43 All the same banner ads,
+this is one of the things
+34:44 that's fundamental about
+online marketing.
+34:47 The same rules apply to
+every channel.
+34:49 If you hit someone with the
+same Facebook ad over, and
+34:52 over, and over, the more
+times you
+34:53 hit them with the same ad
+the less they'll click.
+34:56 That's why we have creative
+exhaustion you have to
+34:58 rotate creatives on
+Facebook.
+34:60 Same with banner ads, same
+with news feed stories.
+35:03 The fiftieth time you see
+the IQ story in
+35:05 your news feed, you are not
+gonna click on it.
+35:07 If you haven't clicked on
+the 49 before,
+35:09 you're not gonna click on
+the 50th.
+35:10 The same is absolutely true
+with these emails.
+35:13 So, if you send the same
+email over and
+35:15 over and over to people for
+an invite.
+35:17 Or if you send the same
+little link at
+35:19 the bottom over and over and
+over to people for Hotmail.
+35:22 Or I mean the PayPal one's
+35:24 different because people
+just signed up.
+35:26 But yes, you will get lower
+conversion rate.
+35:28 And the more you hit someone
+with
+35:30 the same message the less
+they convert.
+35:32 Is fundamental across every
+online marketing channel,
+35:35 every online marketing
+channel, cool.
+35:37 Second way, to look at
+virality,
+35:40 which I think is awesome, is
+by this guy Ed.
+35:43 And Ed runs the growth team
+at Uber now,
+35:45 he was at the growth team at
+Facebook.
+35:46 And he was a Stanford MBA
+student, and
+35:48 did a class similar to this,
+35:49 where they talked about
+virility.
+35:50 And they all went and built
+viral products.
+35:52 And there was a bunch of
+press about that actually.
+35:54 And these brilliance of
+these stuff.
+35:56 The interesting thing about
+Uber.
+35:57 If you look at there growth
+team
+35:58 they're incredibly focused
+on drivers.
+36:00 Because it's a two
+36:01 sided market place they need
+drivers.
+36:03 That's a huge, huge chunk of
+their focus as a team.
+36:05 Even they've got like
+probably the best viral guy
+36:07 in the world at the company.
+36:09 So, with virality,
+36:11 you get someone to contact
+import, let's say.
+36:16 Then the question is,
+36:17 how many of those people do
+you get to send imports?
+36:21 Then the question is, to how
+many people?
+36:28 Then, how many click?
+36:31 And you can put extra steps
+in this.
+36:33 You could put how many open,
+how many click, whatever.
+36:35 How many click, how many
+sign up.
+36:41 And then how many of those
+import.
+36:42 So essentially, you want
+people who sign up to
+36:44 your site, to import their
+contacts.
+36:47 You want to then get them to
+send an invite to all of
+36:50 those contacts.
+36:51 You want to get.
+36:52 It to all of those contacts,
+not just one of them.
+36:55 Then you want to get a
+percentage of those to
+36:57 click, and a percentage of
+those to sign up.
+36:59 If you multiply out the
+percents at every point in
+37:01 this, this is essentially,
+37:03 where well this isn't a
+percent, this is a number.
+37:07 If you multiply those out,
+37:07 that's essentially, the
+point where you
+37:09 get to the question of what
+is the k factor.
+37:12 So, if you have, when
+someone imports if on
+37:17 average they send invites to
+100 people.
+37:20 Sorry doing that wrong,
+let's say 100
+37:25 people get an invite per
+person who imports.
+37:28 And then of those 10% click.
+37:30 That gets you to 10.
+37:32 And then, of those, let's
+say, 50% sign up.
+37:35 That gets you to 5.
+37:37 And then, of those,
+37:39 only 10 to 20% actually,
+subsequently import.
+37:43 You're gonna be at a point
+where you're at 0.5 to 1 as
+37:47 your K factor.
+37:49 And you're gonna not be
+viral.
+37:52 So, a lot of things like
+Vidi are very good at
+37:54 pumping, or were very good
+at pumping out stories.
+37:57 They got the cave factor
+over one, and it's perfectly
+38:00 doable to get the cave
+factor over one, but
+38:02 if you have something that
+doesn't have high retention
+38:04 on the back end then it
+doesn't really matter.
+38:06 So, you should look at your
+invite flow and
+38:08 say, what is my equivalent
+import?
+38:11 How many people, per import,
+are invites sent to?
+38:15 How many of those receive
+clicks?
+38:17 How many of those convert to
+my site?
+38:19 How many of those then
+import?
+38:21 To get an idea of your k
+factor.
+38:23 But the really,
+38:24 important thing is still to
+think about retention, and
+38:26 not to think about virality.
+38:28 And only do this after you
+have a large
+38:32 number of people retained on
+your product per person
+38:35 who signs up.
+38:37 So, couple more things we
+were gonna touch on.
+38:38 SEO, email, SMS and push
+notifications.
+38:44 So, in SEO,
+38:45 there are three things you
+need to think about.
+38:48 First one is keyword
+research.
+38:49 People do this badly all the
+time.
+38:51 So I launched this cocktail
+site that I
+38:52 talked to you about.
+38:53 I spent a year optimizing it
+to rank for
+38:55 the word cocktail making.
+38:56 Turns out in the UK no one
+searches for
+38:58 cocktail making.
+38:59 About 500 people a month.
+38:60 I dominated that search
+term.
+39:01 It was awesome.
+39:02 &gt;&gt; I got 400 visitors a
+month.
+39:03 It was amazing.
+39:05 Everyone searches for
+cocktail recipes In the UK.
+39:07 And in the US, which is the
+biggest market,
+39:09 everyone searches for drink
+recipes.
+39:11 So I optimize for the wrong
+word.
+39:13 So you've gotta do
+39:13 your research first about
+what you're gonna go after.
+39:16 So, research consists of
+what do people search for
+39:20 that's related to your
+sites, how many people
+39:23 search for it, how many
+other people are ranking for
+39:26 it, and how valuable is it
+for you.
+39:28 Supply, demands and value.
+39:32 Simple economics I guess.
+39:34 So you do your keyword
+research.
+39:36 You figure out which
+keywords you
+39:37 want to rank for.
+39:38 There are great tools out
+there to
+39:39 enable you to do that.
+39:40 Honestly the best is quite
+often the Google AdWords,
+39:43 keyword planner tool.
+39:45 Really.
+39:46 Once you've done, that
+39:47 the next most important
+thing is links.
+39:50 So, page rank is how all of
+SEO is essentially,
+39:55 is driven and Google is
+based on authority.
+39:57 Now there's a lot of other
+things in Google's
+39:59 algorithm now like do people
+search for your website?
+40:02 There's a lot stuff about
+the distribution of what
+40:04 the anchor text is.
+40:05 That's send to your site.
+40:06 So, if you abuse it and
+40:07 spam it they can pop up with
+spam.
+40:09 White on a white background
+five pages below the fold
+40:11 doesn't work anymore.
+40:12 But, the single most
+important thing is to
+40:14 get valuable links from
+40:16 high authority websites
+future ranking Google.
+40:19 Most important thing.
+40:23 Then you need to distribute
+that log inside your site,
+40:25 by internally linking
+effectively.
+40:27 And when I joined Facebook.
+40:29 We'd launched SEO in
+September 2007,
+40:32 which was before I joined.
+40:34 I joined November 2007.
+40:35 And we'd launched it, and we
+were getting no traffic from
+40:40 the pages we'd launched,
+public user profiles.
+40:43 So, when I went in and
+looked at it.
+40:45 The only way you could get
+to any public user
+40:47 profile was to click on the
+footer of the page, for
+40:49 the about link.
+40:51 Then click on one of the
+blog articles,
+40:53 then click on one of the
+authors, and then spider out
+40:55 through their friends to get
+to all their friends.
+40:58 Turns out that,
+40:59 Google was like they buried
+these papers,
+41:00 they're not very valuable,
+and
+41:02 we're not going to rank
+them.
+41:03 We made one change.
+41:04 We added a directory so that
+Google could quickly get to
+41:07 every page on the site.
+41:08 And we 100 xd SEO traffic.
+41:11 Very, very simple change
+drove a lot of
+41:13 upside about distributing
+the link love internally.
+41:16 And then the last thing is
+there's a bunch of
+41:17 table stakes stuff, HML
+sitemaps,
+41:19 making sure you have the
+right headers, it's all
+41:21 covered really well online
+for what you wanna do.
+41:22 I'm gonna stop now and make
+sure, cuz we have
+41:26 a few questions, but, what
+other questions are there?
+41:31 Go for it.
+41:32 &gt;&gt; We're going to email
+actually,.
+41:33 &gt;&gt; Let's go into email.
+41:35 Okay great.
+41:36 Email is dead for people
+under 25 in my opinion.
+41:39 Right?
+Young people don't
+41:41 use email.
+41:42 They use WhatsApp, they use
+SMS,
+41:44 they use Snapchat, they use
+Facebook.
+41:46 They don't use email.
+41:48 If you're targeting an older
+audience, email is,
+41:50 pretty successful.
+41:51 Email still works for
+distribution, but
+41:53 realistically, email is not
+that great for
+41:55 teenagers, especially, and
+even people at university.
+41:58 You know, how much you use
+instant messaging apps and
+41:60 how little you use email.
+42:01 And you guys are probably,
+42:02 on the high end of the scale
+for email,
+42:03 because you're in Silicon
+Valley.
+42:06 That being said, on email
+the things to think about.
+42:09 Email, SMS, and
+42:11 push notifications all
+behave the same way.
+42:14 They all have questions of
+deliverability.
+42:17 So to finish first, first
+you have to finish.
+42:19 Your email has to get to
+someones inbox.
+42:22 So if you send a lot of spam
+and
+42:23 you end up with dirty IP's,
+or you send spam from
+42:26 shared servers where other
+people are.
+42:28 Or if you send email
+notifications, from shared
+42:30 servers where other people
+are sending spam from,
+42:33 you are gonna end up being
+put in the spam folder
+42:35 consistently, and your email
+will fail completely.
+42:38 You may end up, being
+blocked and
+42:40 have your email bounce.
+42:41 There's a lot of
+42:42 stuff around email where you
+have to look.
+42:44 When you receive feedback
+from the servers you
+42:46 are sending email too.
+42:48 500 series errors versus 400
+series errors,
+42:50 you have to be respectful of
+how those are handled.
+42:52 If someone gives you a hard
+bounce, retry once or
+42:54 twice and, then stop trying.
+42:57 Because if you are someone
+who abuses people's inboxes,
+43:00 the email companies spam
+folder you and
+43:02 it's very hard to get out.
+43:04 If you get caught, on a
+Spamhaus link, or
+43:06 anything like that, it's
+very hard to get out.
+43:08 It's really important with
+email,
+43:10 that you are a high-class
+citizen,
+43:12 that you do good work with
+email because you want to
+43:15 have deliverability for the
+long run.
+43:17 That counts for push
+notifications and SMS2.
+43:21 With SMS, you can go and buy
+SMS traffic, via gray routes
+43:24 with people with their
+having phones strung up.
+43:27 Attached to a like computer
+and pumping out SMS's.
+43:31 That works for a time but it
+always get shut down.
+43:34 And I've seen so
+43:34 many companies make these
+mistakes.
+43:36 Where they think they're
+gonna grow
+43:37 by using these kind of
+tactics.
+43:39 If you can't get your email,
+your SMS or
+43:41 your push delivered.
+43:42 You will never get any
+success from these.
+43:45 Push, you spam your power
+users, I know
+43:48 that's slightly different to
+what I said earlier.
+43:49 But you actually, spam your
+power users and
+43:51 give them notifications that
+they don't care about and
+43:53 make it really hard for them
+to opt out.
+43:55 So, there's no settings
+where they can opt out,
+43:56 and they start blocking you.
+43:58 You can never push them
+once,
+43:59 they've opted out of your
+push notifications.
+44:02 And it's very hard actually,
+to prompt them to
+44:04 turn them on once they've
+turned them off.
+44:06 So, number one thing to
+think about about email,
+44:08 SMS, and
+44:09 push notification is you
+have to get them delivered.
+44:14 Beyond that,
+44:15 it's a question of open
+rate, click through rate.
+44:18 So, what is the compelling
+subject line you
+44:19 can put there.
+44:20 So, that people are gonna
+open your email.
+44:22 And how can you get them to
+click when they visit?
+44:25 Everyone focuses towards
+doing,
+44:27 marketing email that are
+just spam.
+44:30 In my opinion Newsletters
+are stupid.
+44:32 Don't do newsletters,
+because you'll
+44:34 send the same message to
+everyone on your site.
+44:36 Someone, who signed up
+44:37 to your site yesterday
+versus someone,
+44:39 who's been using your
+product for three years.
+44:41 Do they need the same
+message?
+44:43 No.
+44:44 The most effective email you
+can do is notifications.
+44:48 So, what are you sending?
+44:50 What should you be notifying
+people of?
+44:52 And this is a great place
+where we're in
+44:53 the wrong mindset.
+44:55 As a Facebook user I don't
+want Facebook to email me
+44:57 about every like I receive,
+because I receive a lot of
+44:60 likes cuz I've got a bunch
+of Facebook friends.
+45:02 But as a new Facebook user,
+45:04 that first like you receive
+is a magic moment.
+45:07 Turning on that notification
+across all of
+45:09 of our channels, increased
+the click through rate
+45:13 on our email, SMS and
+push-notifications.
+45:16 But we only turned it on,
+for low-engaged users who
+45:19 weren't coming back to the
+site so
+45:20 it wouldn't be spamming
+them.
+45:21 So, it was a great
+experience.
+45:24 To think about that.
+45:26 What notifications should we
+be sending
+45:28 is the first thing you need
+to think about on email,
+45:30 SMS, and push.
+45:31 And then the second thing
+you need to
+45:33 be thinking about is.
+45:34 How can you create great
+45:35 triggered marketing
+campaigns?
+45:38 So, when someone creates
+their first,
+45:40 cross border trade
+transaction was one of
+45:41 the best email campaigns, I
+was ever part of at eBay in
+45:44 terms of click-through
+rates.
+45:45 It was awesome.
+45:46 Because it was really
+timely,
+45:48 really in context the right
+thing to do for the user.
+45:50 So I'd say, make sure you
+have deliverability.
+45:53 Most important thing.
+45:55 Focus on notifications and
+trigger based email,
+45:58 SMS, and push notifications
+beyond that.
+46:00 So, I think we're out of
+time.
+46:02 There's one thing I wanted
+to finish with which is.
+46:05 And if you guys have any
+questions, I guess, like,
+46:07 you can reach me and
+46:08 if I get spammed, I just
+won't reply.
+46:10 We have great spam filters,
+46:12 no, my only favorite quotes
+is from General Patton,
+46:19 and it's so cliche it's
+crazy but it's awesome.
+46:22 A good plan, violently
+executed today is
+46:25 better than a perfect plan
+tomorrow and
+46:28 one of the things the most
+instilled in us.
+46:29 And Harvey still instills in
+us and Mark instills across
+46:32 the whole of Facebook is
+this move fast and
+46:34 don't be afraid to break
+stuff ethos.
+46:36 If you can run more
+experiments than
+46:38 the next guy, if you can be
+hungry for growth.
+46:41 If you fight and die for
+every extra user.
+46:43 And you stay up late at
+night to get those extra
+46:45 users to run those
+experiments to
+46:47 get the data and do it over
+and over and over again.
+46:49 You will grow faster.
+46:51 Marcus said he thinks we won
+'cause we wanted it more,
+46:53 and I really believe that.
+46:55 We just worked really hard.
+46:57 It's not like we're crazy
+smart, or
+46:59 we've all done these crazy
+things before.
+47:00 We just worked really,
+really hard,
+47:02 and we executed fast.
+47:04 And I strongly encourage you
+to do that.
+47:06 Growth is optional.
+47:07 Thank you.

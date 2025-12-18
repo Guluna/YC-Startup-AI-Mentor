@@ -1,0 +1,2585 @@
+00:04 Set the stage with a few
+slides and some comments.
+00:06 But, the main stage is gonna
+be with Brian.
+00:09 When he comes up and
+00:10 talks about how he built the
+airbnb culture.
+00:14 So you're here you,
+00:15 I've been following the
+presentations.
+00:17 And so, now you know how to
+get started.
+00:20 You've built a team.
+00:21 You start to sort of build
+your product.
+00:23 It's off the ground, it's
+growing.
+00:25 People love it, you figured
+out how to do that.
+00:27 You figured out how to
+create a very special one of
+00:30 a kind company with monopoly
+powers that's big,
+00:34 and the market that you're
+chasing after
+00:36 is slightly bigger than the
+paper air plane business so
+00:40 you're good, right?
+00:41 So, now what?
+00:42 So, we're here to submit
+that actually culture is
+00:45 the thing that's gonna be
+very, very important for
+00:46 you to be able to scale the
+business.
+00:49 As well as your team.
+00:50 And hopefully,
+00:51 after this talk you'll be
+able to know what,
+00:54 what is culture?
+00:55 Why does it matter?
+00:56 How to sort of create your
+core values and think about
+01:00 elements that sort of fit
+together for a core values
+01:03 in the culture that create a
+high performance team.
+01:06 And get some best practices
+for the culture.
+01:09 So, what is culture?
+01:12 Anybody have a, wanna take a
+guess at what,
+01:15 how one should define this?
+01:17 &gt;&gt; A set of values
+&gt;&gt; Yeah, that's good.
+01:21 Did you look that up on the,
+01:23 because you had a computer
+and Internet connection.
+01:24 Did you just look it up?
+01:25 So these are some
+definitions, that,
+01:28 you'll find, in, in
+Webster's dictionary.
+01:32 And.
+01:33 But that, that.
+01:34 We're at Stanford.
+01:35 This is kind of a trick
+question, it's a CS class.
+01:38 Questions are never
+straightforward.
+01:39 The real question is, what
+is company culture gonna be?
+01:42 You know, culture that we
+can
+01:44 generally talk about
+society.
+01:46 About groups.
+01:46 About places or things.
+01:48 Here we're talking about
+company culture.
+01:50 And so how do one define
+company culture?
+01:53 We can take the previous
+definition and
+01:55 modify it a little bit.
+01:57 And so every, this is a hint
+of how we may want to
+02:00 define company culture.
+02:02 Everyday blank and blank of
+each member of
+02:05 the team in pursuit of our
+company blank.
+02:08 And some people have filled
+these in with different
+02:12 sort of things.
+02:13 A, the first blank could be
+assumptions,
+02:15 beliefs, values.
+02:16 My favorite is core values.
+02:18 The second blank for the B
+blank.
+02:20 People have said behaviors.
+02:22 My favorite, sort of,
+02:23 answer to that is real
+action, how do you act?
+02:27 And in pursuit of goals,
+that's kind of weak.
+02:31 in, in, in pursuit of big
+and
+02:33 hairy audacious goals,
+that's a little stronger.
+02:35 But a better definition is
+in pursuit of the mission.
+02:39 So.
+02:40 Now that, sort of, we have
+that definition,
+02:42 what do we do with it and
+why does it matter?
+02:46 This is a quote from Gandhi,
+02:47 your beliefs become your
+thoughts.
+02:49 Your thoughts become your
+words.
+02:51 Your words become your
+actions.
+02:52 And your actions become your
+habits.
+02:54 And your habits become your
+values.
+02:56 Your values become your
+destiny.
+02:58 If you don't have a good
+culture in the company,
+03:00 you can't pursue your
+destiny.
+03:04 Why it matters is it, it
+becomes the first principles
+03:08 that you sort of go back to
+when you make decisions.
+03:10 It becomes a way to align
+people on values that
+03:13 matter to the company.
+03:15 It provides a certain level
+of
+03:16 stability to fall back on
+and it provides a level of
+03:19 trust that people can sort
+of trust each other with.
+03:22 It also give you a list of
+03:23 things that you should be
+able to.
+03:26 Figure out what to do and
+what not to do and what
+03:28 the more important thing
+about that is what not to do
+03:31 And then finally the other
+thing that is important is
+03:34 it allows you to retain the
+right employees.
+03:37 There are people in this
+world that are not gonna be
+03:38 a fit for your company but
+if you have good strong
+03:42 culture and good strong core
+values you'll know who you
+03:45 wanna retain and who you do
+not wanna retain.
+03:48 And if you took the,
+03:49 take the first words the
+first letter of those it
+03:53 happens to help you move
+faster.
+03:57 Another reason.
+03:58 You're thinking that's like
+all mushy stuff.
+03:60 This is actually more
+scientific stuff.
+04:04 So here are indices for,
+04:07 from 1997 to 2003 of stock
+market index of companies.
+04:11 And the S&amp;P 500 and the
+Russell 3000 and
+04:14 then for the Fortune 100
+best companies to work for.
+04:19 They survey all these
+companies out there and
+04:21 they've picked out companies
+that they
+04:22 believe are the best
+companies to work for.
+04:25 And, the returns, the stock
+market returns of
+04:29 those companies happens to
+be 11.8%, 11.08%,
+04:32 which is almost twice that
+of the other two indices.
+04:36 And so, there's real power
+in companies that treat
+04:39 their employees well, where
+there is a lot of trust,
+04:41 where there is a lot of
+strong culture.
+04:45 So, how do you sort of
+create a, a set of values,
+04:48 and, and sort of define the
+culture et cetera.
+04:50 I get asked that a lot.
+04:51 You got to start with the
+leader of the company,
+04:53 the founder.
+04:54 And, so ask yourself, what
+are the personal values that
+04:59 are most important to you?
+05:01 What are those things that
+are most important to
+05:03 the business?
+05:04 Who are the types of people
+you like working with and
+05:07 what are their values?
+05:09 And, through that,
+05:09 you sort of distill together
+what a set of values are.
+05:13 And think about all the
+people that you've
+05:14 never liked working with,
+what values they have.
+05:17 Think about the opposite of
+that, and maybe those should
+05:20 be considered values for,
+for your company.
+05:24 And, finally, remember this,
+05:26 the values have to support
+your mission.
+05:28 And, if it doesn't support
+your mission,
+05:30 you're missing something.
+05:32 And, and then the last,
+05:33 final chapter, they have to
+be credible and
+05:35 they have to be uniquely
+tied to your mission.
+05:37 So, at Zappos, in terms of
+uniquely applied to
+05:41 the mission, we're focused
+on creating a culture that
+05:44 was gonna provide great
+customer service.
+05:47 So the first core value we
+had was to deliver.
+05:49 While through service.
+05:51 We're very specific that we
+want to
+05:52 deliver great customer
+service.
+05:54 And it was gonna be a wild
+experience.
+05:56 And then, below that,
+05:57 we want to sort of add a
+paragraph supporting that.
+06:00 Talking about exactly what
+we mean by that.
+06:03 We want it to support them,
+deliver while through
+06:06 service, and support people,
+such as our employees,
+06:08 our customers, and our brand
+partners, and our investors.
+06:12 In terms of the opposite
+thing, we generally didn't
+06:14 like working with arrogant
+people.
+06:16 So, one of our core values
+that's that was,
+06:18 was to be humble.
+06:19 So those are two examples
+where we sort of
+06:21 create a core values in a
+way that sort of, sort of,
+06:25 became credible and uniquely
+tied to our mission.
+06:30 So, you go through this
+process,
+06:32 you come up with a few core
+values.
+06:35 These might be some of them.
+06:36 Whether it's honestly,
+06:37 integrity, service, teamwork
+and they might be a list of,
+06:42 you might start with three.
+06:43 You might end up with a list
+of ten.
+06:45 You might list, list of 30.
+06:46 It's a good start.
+06:47 And when Zappos went through
+this process we started with
+06:51 like, we asked all the
+employees at the time,
+06:54 what core values they wanna
+identify with,
+06:56 we came up with 37.
+06:58 We initially, we sort of
+whittled it down to
+07:00 about ten.
+07:02 And it took a year to do
+this.
+07:04 That's a long time and you
+might wanna ask why.
+07:08 Well, if you just come up
+with the word honesty,
+07:11 I mean give me a break
+everybody wants
+07:16 the culture to be honest.
+07:17 Now you.
+07:18 Nobody is going to say I
+want to be lied to everyday.
+07:22 service.
+07:23 What do you mean by service?
+07:26 There's gotta be a lot more
+depth in this than that.
+07:29 And nobody, everybody talks
+about teamwork.
+07:31 But there's a difference in
+level of
+07:34 team work that you see in a
+intramural sports team as
+07:37 versus a baseball team.
+07:39 And so how do you sort of
+dive deeper into team work.
+07:41 What are the things that
+don't work on for a team?
+07:45 A lot of it has to do with
+communications.
+07:46 A lot of it has to
+07:47 do with things that people
+have studied.
+07:49 And you might want to go
+deeper into that.
+07:51 At Zappos we thought about
+well there
+07:53 are a lot of smart people in
+this room.
+07:55 When they're fighting with
+each and
+07:57 trying to figure out whose
+right and whose not.
+07:59 It's probably not the best
+use of time.
+08:01 And we want everybody to
+sort of riff off each other
+08:04 and help each other make any
+idea better.
+08:07 The result is that the
+company gets a better idea,
+08:09 not that any individual
+person is right.
+08:12 So we wanted to instill this
+idea that
+08:15 it's company first,
+08:16 then your department, then
+your team, then yourself.
+08:19 And how do you do that?
+08:20 Gonna go a, ano, a level a
+little deeper than that.
+08:24 There's another,
+08:24 there's a great sort of sort
+of element of
+08:28 high performing teams that I
+really like which is this
+08:30 pyramid that was created by
+Patrick Lencioni and
+08:35 he wrote this book The Five
+Dysfunctions of a Team and
+08:38 the reason this is
+interesting is he
+08:40 talks about the breakdowns
+of a teams.
+08:41 First of all if you don't.
+08:43 A lot of teams break down
+because they don't have
+08:45 any trust.
+08:46 Then, even if you had trust,
+why do you need trust?
+08:49 Well, then if you have trust
+you can actually have
+08:52 debates and conflict and get
+to the right answer.
+08:55 If you don't have conflict
+and debate, people are just,
+08:59 it's the blind leading the
+blind.
+08:60 How do you know you actually
+got to
+09:01 the right answer before you
+sort of commit to something?
+09:04 So, people are not actually
+willing to commit.
+09:06 They're afraid of
+committing.
+09:09 And so let's say you get to
+the next level and
+09:11 you are actually able to
+commit.
+09:13 Well what, what goes wrong
+then?
+09:15 It's usually because people
+are not held accountable to
+09:18 things that they committed
+to?
+09:20 And if people are not held
+accountable to the things
+09:23 that they've committed to,
+then they can't get results.
+09:26 And I would submit to you,
+09:27 if you think about the
+company as a black box,
+09:30 and results, whether it's
+financial,
+09:32 whether you produce a great
+product,
+09:34 or anything like that as the
+output.
+09:38 One of the major inputs is
+the culture of the company.
+09:44 So some other best practices
+we're gonna actually talk
+09:48 about during Q and A because
+I think this is gonna blend
+09:50 into the conversation is
+that you want to incorporate
+09:53 your mission to values we've
+talked about that.
+09:55 Performance, you gotta think
+harder,
+09:56 deeper, longer about your
+values than
+09:59 you might initially think
+you need to do.
+10:01 One of the things I think
+that a lot of
+10:03 companies don't actually do
+is they interview for
+10:05 a technical fit or skill fit
+or competency in that realm.
+10:09 But they don't actually
+interview for
+10:11 the culture fit, and
+10:12 whether someone will
+actually believe and
+10:14 follow the mission.
+10:15 I think that's a big, big
+no-no.
+10:17 Like I think you can have
+the smartest engineer in
+10:19 the world but, if they don't
+believe in their mission.
+10:21 They're not gonna put their,
+pour their heart and
+10:23 soul into it.
+10:25 And that's one of the things
+that where, if you actually
+10:27 sorta start thinking about
+culture from the interview
+10:31 process to performance
+reviews to making sure that
+10:33 it's a daily habit, you'll
+get a lot further with
+10:37 produ, with, making a great
+culture.
+10:40 The finally point on making
+it, a daily habit, I think.
+10:43 Culture, just like customer
+service or
+10:47 fitness, is like mother had
+an apple pie.
+10:49 Everybody wants to provide
+great customer service.
+10:51 Every company wants to have
+a great culture.
+10:53 What they fail to do is make
+it a daily habit.
+10:57 You just can't be fit if
+your,
+10:60 if you don't do it as a
+daily habit.
+11:02 Eventually you get out of
+shape,
+11:04 then you get fat, and then
+you're like, oh,
+11:06 I got to go on a crash diet
+to sort of
+11:08 get back into shape.
+11:10 That doesn't quite work.
+11:12 And the same is true with
+something like culture.
+11:15 So I think we checked all of
+these off,
+11:19 so we can go into Q and A
+with Brian.
+11:21 &gt;&gt; All right.
+Cool.
+11:28 &gt;&gt; Yeah, that's good.
+11:30 &gt;&gt; All right.
+Hello, everybody.
+11:33 It's quiet in here, I'll be
+honest.
+11:35 Now it's better.
+11:36 Now, I feel less on edge.
+11:38 Nothing worst than a room
+full of people really,
+11:40 really quiet, staring at
+you, but now I feel better.
+11:42 &gt;&gt; I'd say it for five, ten
+minutes.
+11:44 &gt;&gt; Yeah.
+&gt;&gt; You could bare for
+11:45 a little longer.
+11:46 So Brian.
+11:47 Talk about how the process
+by which you came to
+11:50 understand the culture was
+important.
+11:52 &gt;&gt; So Airbnb and then
+building the company.
+11:55 Yeah, so I think one of the
+things we realize is so
+12:00 just to give you.
+12:01 I won't tell the full story
+of
+12:02 everyone being some you may
+know it, but.
+12:05 The very short version of
+this story was that,
+12:08 Airbnb wasn't meant to be,
+like,
+12:10 the company we were trying
+to start.
+12:12 I had quit my job,
+12:13 I was complete, I was living
+in LA.
+12:15 One day I drove to San
+Francisco,
+12:17 became roommates with my,
+friend from college,
+12:21 I went to Joe Gebia, and I
+had $1,000 in the bank.
+12:25 And the rent was $1,150.
+12:27 So that weekend this
+international design
+12:29 conference was coming to San
+Francisco.
+12:31 All the hotels were sold
+out.
+12:32 We had this idea,
+12:33 let's just turn our house
+into a bed and
+12:35 breakfast for the
+conference.
+12:36 I didn't have any beds.
+12:37 Joe had three air beds.
+12:38 We pulled them out of the
+closets.
+12:39 We called it the air bed and
+breakfast.
+12:41 That's how the company
+started.
+12:44 I probably told that story
+10,000 times, by the way.
+12:46 Some version of that story.
+12:48 And I didn't think I'd ever
+tell that a second time.
+12:51 when, I, I remember growing
+up, I, I also went to
+12:55 college, and my parents were
+social workers, and they had
+12:59 kinda been nervous about me
+going to art school.
+13:00 They kinda worried that
+maybe I would like not
+13:02 get a job after college,
+which is I'm sure a lot of
+13:04 parents are worried about,
+so she said, make sure you
+13:06 promise you get a job with
+health insurance.
+13:08 I ended up starting Air Bed
+and
+13:10 Breakfast.com was the
+original name.
+13:12 She remembered her telling
+me I
+13:13 guess you never got that job
+with health insurance.
+13:16 The reason I say this though
+is this.
+13:18 Airbnb was never meant to be
+the big idea.
+13:22 It was meant to be the thing
+to pay the rent so
+13:24 we could think of the big
+idea.
+13:25 And along the way by solving
+our own problem,.
+13:28 It became the big idea.
+13:30 So alongside that and, and
+I'm not gonna
+13:33 talk about like kind of how
+he built the product.
+13:34 That's probably another
+conversation that some other
+13:37 people were talking about.
+13:38 You have to build a team in
+a great company.
+13:39 And in the early days, we
+had three co-founders, Joe,
+13:43 Nate and myself.
+13:44 And I kind of think of one
+of
+13:45 the reasons we're successful
+was I was really lucky.
+13:48 And I don't think I was
+really lucky because we
+13:50 came up with the idea of
+Airbnb.
+13:51 I don't think we're really
+lucky that we
+13:52 became successful once we
+had the team.
+13:53 I think we could have come
+up with a lot of ideas, and
+13:55 been somewhat successful.
+13:57 I think I was lucky cuz I
+found two great people that
+13:59 I wanted to start a company
+with.
+14:00 People I admired,
+14:01 that almost intimidated me
+how talented,
+14:03 how smart they were.
+14:04 And I think that's one of
+the first things you got
+14:06 to build a team that is so
+talented that they kind of
+14:08 almost make you slightly
+uncomfortable because they
+14:10 know by being with them
+you're going to have to
+14:12 raise your game to be with
+them.
+14:14 And then when we were
+working together in
+14:15 the early days.
+14:16 This is like 2008.
+14:17 The first thing is we, we
+were like a family.
+14:21 You think about founders.
+14:22 Founders are like parents
+and the company is a child.
+14:24 And a child will manifest in
+many ways behaviors that
+14:27 parents have between their
+relationship.
+14:28 If the parents are
+dysfunctional.
+14:30 They're not working
+together.
+14:31 Then the child's gonna be
+frankly pretty fucked up.
+14:33 And so you don't want that.
+14:34 You want your culture to be
+awesome.
+14:36 And so Joanie and
+14:37 I, we're like total, total
+family in the beginning.
+14:40 We worked 18 hours a day, 7
+days a week.
+14:43 I remember when we're white
+commentator.
+14:45 We like, worked together.
+14:46 We like, ate food together.
+14:48 We like, even went to the
+gym together.
+14:49 We may as well have gotten
+jump suits.
+14:50 We didn't go that far.
+14:51 But we were like.
+14:52 It was like we were on a
+mission.
+14:53 I felt like we were like
+special forces or something.
+14:55 And we had this like amazing
+shared way of doing things.
+14:58 Amazing accountability.
+15:00 And then we realized that
+was like the DNA of
+15:03 the company.
+15:04 And then, we started
+thinking at some point you
+15:07 go from building the product
+to phase two.
+15:09 Which is building the
+company that
+15:11 builds the product.
+15:12 And so a lot of the talk is
+about how do
+15:14 you build a product, how do
+you get product market fit.
+15:16 Once people start doing that
+now you've got to
+15:18 build a company.
+15:19 And it doesn't matter how
+great your
+15:20 original product or idea is
+if you can't build
+15:22 a great company then your
+product will not endure.
+15:24 As we thought about this and
+one of the things he
+15:26 realized is we want to build
+a company for the long term.
+15:29 The last thing is that I
+want to build something,
+15:31 I mean, think about it this
+way.
+15:33 If, if your company like
+your child,
+15:35 a parent wants his child to
+outlive him or her.
+15:38 It would be a tragedy to
+outlive your child.
+15:39 Also, I felt it would be a
+tragedy for
+15:41 us to outlive our company
+and
+15:43 just watch it rise and fall.
+15:45 We didn't want that.
+15:45 We wanted a company that
+would endure.
+15:47 And so to do that, we
+started
+15:49 noticing companies have
+something in common.
+15:51 Companies that were around
+for
+15:53 a really long time had a
+clear mission.
+15:55 And they had a clear sense
+of values.
+15:56 They had a shared way of
+doing something that was
+15:59 unique to them and was
+really, really special.
+16:01 And so, then, Joanie and I,
+when we were three people,
+16:03 decided to look around
+companies.
+16:05 I noticed Apple, you know,
+16:06 Steve Jobs talked about his
+core value as that he
+16:08 believed people with passion
+could change the world.
+16:10 And he said our products
+change but
+16:12 our value never had.
+16:14 And we learned about Amazon.
+16:15 We learned about Nike.
+16:16 We learned about companies
+in early days.
+16:18 You can even use this to
+talk about organizations you
+16:21 know even like a founding of
+a,
+16:23 a nation has a strong values
+and a declaration.
+16:26 Then the country might
+endure longer.
+16:27 As we started realizing like
+we need to have intention.
+16:30 Culture needs to be
+designed.
+16:32 And that's kinda how we got
+connected is because
+16:35 you know, when we were
+funded by Sequoia.
+16:36 Alfred Lin had just joined
+from Zappos Sequoia.
+16:38 And I was told Zappos had an
+amazing culture and
+16:41 we went to Las Vegas and met
+up with Tony and
+16:44 we learned about it.
+16:45 &gt;&gt; And so what did you
+learn.
+16:47 &gt;&gt; Well.
+16:50 &gt;&gt; You guys were crazy.
+16:52 I, the, the thing we
+learned.
+16:54 And we were three people
+with you need to have,
+16:56 like, if culture's a shared
+way of doing things,
+16:59 there's really two parts.
+16:60 One is behaviors and those
+can kinda change, and
+17:02 maybe 50 years from now
+there will be rituals and
+17:05 behaviors that will change,
+be different.
+17:07 But there has to be some
+things that never change.
+17:08 Some principles,
+17:09 some ideas that endure, that
+make you, you.
+17:13 And I think of core values
+as integrity, honesty,
+17:15 those aren't core values,
+17:16 cuz they're values everyone
+should have.
+17:17 They're, like, integrity
+values.
+17:19 But would there have to be
+like three, five,
+17:21 six things that are unique
+to you and
+17:22 you can probably think about
+this in your life.
+17:24 What is different about you
+than
+17:26 every single other person.
+17:27 If you could only tell
+somebody three or
+17:29 four things, what do you
+want them to know about you?
+17:31 And we realized that when
+Zappos has 100 employees,
+17:34 they wrote down these nine
+core, is it nine?
+17:36 &gt;&gt; Ten, ten.
+&gt;&gt; Ten, ten core values.
+17:38 And the only thing I learned
+from Tony is you said I
+17:40 wish I didn't wait until I
+was a 100 employees-
+17:42 &gt;&gt; Yeah.
+17:42 &gt;&gt; To write down our core
+values.
+17:43 So I think I was talking to
+Sam he
+17:45 says he thinks we're one of
+the only companies that
+17:47 wrote our core values down
+before we hired anyone.
+17:51 &gt;&gt; How long did it take you
+to hire a first employee?
+17:53 &gt;&gt; So our first employee was
+our first engineer.
+17:56 And I think we looked for
+him for four or five months.
+17:59 And I probably interviewed,
+18:00 I probably looked through
+thousands of people and
+18:03 interviewed hundreds of
+people.
+18:04 &gt;&gt; And by then, when you
+hired the pro,
+18:06 when did you write it?
+18:07 Did you write it?
+Did you write it
+18:08 on day one or did you, was
+it month three?
+18:10 &gt;&gt; I think we started
+working on it
+18:12 around the time of like
+culminator,
+18:14 which would have been
+January 2009.
+18:17 And it was probably a
+process that evolved over
+18:19 the course of six to seven
+months.
+18:21 We finished Y Combinator in
+April 2009.
+18:23 I think we hired our first
+engineer in July.
+18:26 Something like that.
+18:26 So it's probably like six
+months.
+18:28 And the rea.
+Cuz some people ask, like,
+18:29 why did you spend so
+18:30 much time on, like, hiring
+your first engineer?
+18:33 And here's how we thought
+about it.
+18:35 I kinda felt like your first
+engineer was
+18:37 like bringing in DNA to your
+company.
+18:40 This person was gonna, like,
+there were gonna be a.
+18:42 If we were successful,
+18:43 there were gonna be 1,000
+people just like him or
+18:46 her in the company.
+18:47 And so, it wasn't a matter
+of like,
+18:49 getting somebody to build
+the next three features that
+18:51 we needed to ship for our
+users.
+18:53 There was something much
+more long-term and
+18:54 much more enduring.
+18:56 Which was, do I wanna work
+with a 100 or
+18:58 a 1,000 more people like
+this?
+18:59 Now you want diversity but
+19:00 you don't want, you want
+diversity of like beliefs,
+19:03 you want diversity of like
+backgrounds, age,.
+19:06 You don't want diversity of
+values.
+19:07 You want a very, very
+homogenous beliefs and
+19:09 that's the one thing that
+shouldn't be diverse.
+19:11 &gt;&gt; So what, what are
+Airbnb's values?
+19:13 &gt;&gt; We have six core values.
+19:15 I'll maybe talk about three
+of them.
+19:17 &gt;&gt; Okay.
+19:18 &gt;&gt; So our first core value
+that
+19:19 we talk about is champion
+the mission.
+19:21 And what it really means is
+that we want to
+19:23 hire people that are here
+for a mission.
+19:25 We don't want people here
+because they think we've got
+19:27 a great valuation, they like
+our office design.
+19:30 They need a job or they
+think it's hot.
+19:31 We want people to be here
+for
+19:33 the one thing that will
+never change, and
+19:35 that's our mission.
+19:36 And just to tell you a quick
+story about our mission.
+19:40 You know, Airbnb, you know,
+19:42 a lot of people describe it
+as a way to book a room or
+19:44 book a house when you travel
+around the world.
+19:46 And that's what we do.
+19:47 But that's not at all why we
+do it.
+19:49 And to answer the question
+of, like, what,
+19:51 what our mission is, I'll
+just tell you a quick story.
+19:53 And this, I think, describes
+it.
+19:55 In early 2012, I met a host
+named Sebastian.
+19:59 So we do these meet-ups
+around the world where you
+20:01 meet with hosts.
+20:02 And I meet this host named
+Sebastian.
+20:03 He's probably, like, late
+50s.
+20:05 He lives in north London.
+20:05 And Sebastian looks at me.
+20:07 He says, Brian.
+20:09 There's this word you never
+use in your website.
+20:11 And I said, what's that
+word?
+20:14 He said that word is
+friendship.
+20:15 I would love to tell you the
+story about friendship.
+20:17 I said, okay.
+20:18 Tell me the story about
+friendship.
+20:20 He said six months ago,
+20:21 the run riots broke out in
+front of my home and
+20:24 I was very scared.
+20:25 And the next day my mom
+called my to
+20:27 make sure I was okay.
+20:28 He said yeah, mom.
+20:29 I'm okay.
+20:30 He said, what about the
+house?
+20:31 And he says well yeah, the
+house is okay as well.
+20:33 He said, here's the
+interesting thing.
+20:36 Between the time the riots
+broke out.
+20:38 And the time my mom called
+me,
+20:39 was a 24 hour window of
+time.
+20:40 And in that period of time
+he said,
+20:43 seven of my previous Airbnb
+guests called me.
+20:46 Just to make sure I was
+okay.
+20:47 He said, think about that.
+20:49 Seven of my guests called me
+before my own mother did.
+20:51 I don't know what that says
+about our guests or
+20:54 his mother more but-
+20:57 &gt;&gt; But in this summer.
+20:59 On a typical night or
+21:01 a peak night we would have
+425,000 people,
+21:04 25,000 people staying in
+homes and living together.
+21:08 And they were coming from
+195 countries in the world.
+21:09 Which is every country but
+21:10 North Korea, Iran, Syria and
+Cuba.
+21:12 So when you hear that story,
+21:14 at our core what we're
+about,
+21:15 that's much more than just
+booking a room or traveling.
+21:19 What we are about is we
+21:20 wanna help bring the world
+together.
+21:22 We wanna do that by giving a
+sense of
+21:24 belonging anywhere you go.
+21:25 So our mission is to belong
+anywhere.
+21:28 So five years from now, 20
+years from now, maybe we're
+21:30 still selling rooms and
+homes but maybe we're not.
+21:33 But I can guarantee you what
+we're always gonna be about.
+21:36 It's a sense of belonging
+and bringing people together
+21:39 and that's the more enduring
+idea.
+21:40 So when we hire people the
+first thing we need to
+21:43 make sure is if that's our
+mission you need to
+21:44 champion that mission.
+21:46 You champion the mission by
+living the mission.
+21:48 Do you believe in it?
+21:49 Do you have stories about
+it?
+21:50 Have you used the product?
+21:51 Would you bleed for the
+product?
+21:53 I used to ask like, crazy
+questions like, one of the,
+21:55 the cra-crazy question Sam
+reminds me of is I used to
+21:58 interview people.
+21:59 So, I interview the first
+300 employees at
+22:01 Airbnb which people think
+I'm like neurotic and
+22:04 that may also be true.
+22:05 But and I use to ask them a
+question.
+22:08 Which I've now amended.
+22:09 I use to ask them, if you
+had a year left to live,
+22:11 would you take this job?
+22:13 And actually, the people who
+say yes to that,
+22:14 you probably don't want.
+22:15 Cuz that's, like,
+22:16 they should spend time with
+your family.
+22:17 &gt;&gt; So I amended it to ten
+years.'
+22:19 Cuz I feel like you should,
+you, whatever.
+22:20 If you knew you had ten
+years left to live.
+22:22 Whatever you want, you would
+do in those last ten years,
+22:25 you should just do.
+22:26 And, and I really wanted
+people to think about that.
+22:28 That was enough time for,
+like,
+22:30 you to do something you
+really cared about.
+22:32 And the answer doesn't have
+to be this company.
+22:34 I say, fine.
+22:34 If the you're meant to do is
+to travel, or
+22:36 if you're meant to do is
+start a company,
+22:38 you should just do that.
+22:39 Don't come here.
+22:40 Go do that.
+22:41 And so there's this old kind
+of parable probably many
+22:44 of you heard of it.
+22:45 About like two men are
+laying brick.
+22:47 Somebody comes up to
+22:48 the first man says what are
+you doing?
+22:49 He says I'm building a wall.
+22:50 He asks the other guy what
+are you doing?
+22:51 He says I'm building a
+cathedral.
+22:53 There's a job and then
+there's a calling.
+22:55 And we want to
+22:56 hire people that aren't just
+looking for jobs.
+22:58 They're looking for a
+calling.
+22:58 And that's, that's kinda the
+first value and
+23:00 that's to champion the
+mission.
+23:01 I'll just, maybe,
+23:02 cuz I don't want to just
+take all the time up.
+23:04 I'll, I'll talk about,
+23:05 I'll talk about just one
+more, just so
+23:06 we don't talk the whole
+thing up just about values.
+23:08 The second value relates to
+being kinda creative and
+23:12 frugal, and I'll tell you a
+story.
+23:14 Our company was like.
+23:15 By the way, all the founding
+stories in your company end
+23:18 up becoming the things that
+people repeat and
+23:20 talk about when you're a
+1,000 people.
+23:21 And it kinda embodies,
+right,
+23:23 its kinda like your
+childhood.
+23:24 These things kinda come back
+later in life.
+23:26 Same thing with a company.
+23:27 So Airbnb, I think Mark said
+in the last talk that was
+23:31 like the worst idea that
+ever worked and.
+23:34 It, it, it really probably
+was the worst idea, I mean,
+23:36 people thought we were
+crazy.
+23:39 I remember telling people
+about the idea.
+23:41 And I remember actually
+telling Paul Graham,
+23:43 we have this idea, in our
+interview,
+23:45 we have this idea, it's
+called Airbnb.
+23:47 He goes, people actually
+doing this?
+23:48 I go, yeah.
+23:49 His follow up question was,
+what's wrong with them?
+23:50 So I knew the interview
+wasn't going well,
+23:55 And in the, at the end of
+the interview, Paul Graham,
+23:57 I think, wasn't going to
+accept us.
+23:59 And, but we told him the
+story of
+24:01 how we funded the company.
+24:02 And here's how it goes.
+24:03 We were introduced, Michael
+Siebel,
+24:05 who I believe he's a partner
+of Y-Com.
+24:06 To let people know,
+introduced me and
+24:08 Joe to like 15 investors in
+the Valley,
+24:10 including some of the ones
+that have been here.
+24:13 And all of them like said no
+to the company.
+24:15 They could have bought 10%
+of the company for
+24:17 like 100, $150,000.
+24:18 They all said no.
+24:19 They thought it was a crazy
+idea.
+24:21 No one would ever stay in
+someone's home.
+24:23 So we ended up
+24:24 just funding the company
+with credit cards.
+24:26 And you know those binders
+pe,
+24:27 kids use to put baseball
+cards in?
+24:29 So we put credit cards in
+those.
+24:32 &gt;&gt; Cuz we had to put them
+all somewhere.
+24:34 That's how many credit cards
+we had.
+24:35 And we were completely in
+debt.
+24:37 And in the fall of 2008 we
+provided housing for
+24:40 the Democratic and
+24:41 Republican national
+convention and.
+24:45 We had this weird crazy idea
+cuz we
+24:48 weren't really selling a lot
+of homes.
+24:49 So basically Airbnb launched
+and a year after we
+24:52 launched I think we had a
+hundred people a day
+24:54 visiting our website and we
+had like two bookings.
+24:57 Which is generally bad.
+24:58 It's kinda like releasing a
+song and a year
+24:60 later like three people
+listen to it every day.
+25:01 Like it's probably not going
+to be a very popular song.
+25:03 So, but I believed in it and
+Joe and
+25:06 Nate believed in it but And
+so
+25:08 we were completely in debt,
+we don't know what to do.
+25:11 And so we get this idea well
+we're air bed and breakfast,
+25:13 we're providing housing for
+the Democratic and
+25:15 Republican national
+conventions.
+25:17 What if we made like a
+collectible breakfast cereal
+25:20 for like the Democratic
+national convention.
+25:22 And we came up with this
+Obama,
+25:24 Barack Obama theme cereal.
+25:25 We called it Obama-Os the
+breakfast of change.
+25:30 And then we came up with a
+Republican theme, so for
+25:33 John McCain, we found out
+he's a captain in the Navy,
+25:35 so we came up with?
+25:37 Captain McCain's.
+25:38 A maverick in every bite.
+25:41 And we had 0 dollars, and
+without any money,
+25:45 we were able to, we tried to
+call, like, General Mills.
+25:48 And they told us to, like,
+stop calling them, or
+25:50 they're getting restraining
+orders, so that didn't work.
+25:52 But we found a local alumni
+of RISD; he made 1,000 boxes
+25:55 of cereal for us.
+25:56 And we end up sending them
+to press, and eventually,
+25:59 within a week, we got on
+national television,
+26:01 national news.
+26:02 We made $40,000 selling
+breakfast cereal.
+26:05 And that, the year 2008,
+26:07 we made $5,000 from our
+website, and
+26:09 we made $40,000 selling the
+breakfast cereal.
+26:12 And I remember my mom asking
+me,
+26:14 so are you a cereal company
+now?
+26:16 And that wasn't the bad
+part.
+26:17 The bad part was the oddest
+answer.
+26:19 Which was well, but the
+reason I tell that,
+26:24 is our second core value is
+to be a serial entrepreneur.
+26:29 I'm sorry for the cheesy
+pun.
+26:31 I'm sorry.
+26:32 But be a serentrepreneur.
+26:34 And we really mean that we
+believe constraints bring
+26:37 out creativity.
+26:38 And when you raise like $800
+million,
+26:41 suddenly all that
+scrappiness.
+26:43 It's easy to lose that
+scrappiness.
+26:45 It's easier for people to
+tell you, you know,
+26:47 I just need this like
+$50,000 contract or
+26:49 I need this or I need that.
+26:50 And whenever somebody
+just,is just being a little
+26:52 bit not, like frugal and not
+being creative.
+26:55 Or they tell me they can't
+do something,
+26:56 I'll just take a box of
+cereal.
+26:59 And, like,
+26:59 even just a suggestion of
+Obama knows they need to
+27:02 be scrappy and frugal.
+27:03 And so again, a lot of the
+founding DNA of your company
+27:07 becomes these values, these
+principles.
+27:09 And so, everyone knows,
+27:10 if you don't give a crap,
+you shouldn't be here.
+27:13 And it doesn't mean you have
+to give a crap.
+27:14 It just means you have to,
+to be here.
+27:16 And you also have to be
+creative and
+27:18 be like, kinda like an
+entrepreneur.
+27:19 Super scrappy.
+27:20 And these are some of the
+values we learn.
+27:22 &gt;&gt; Cool.
+27:24 So you guys should start,
+27:25 start thinking about
+questions.
+27:27 I'm gonna open up to
+questions from the audience.
+27:29 But I have a few more
+questions for you.
+27:30 &gt;&gt; Yeah.
+&gt;&gt; So,.
+27:31 This all sounds nice.
+27:32 The stories are great.
+27:33 &gt;&gt; Yep.
+27:34 &gt;&gt; People here are a pretty
+skeptical group.
+27:35 &gt;&gt; Yep.
+&gt;&gt; It's
+27:36 a CS Department class.
+27:37 &gt;&gt; Yep.
+&gt;&gt; Probably left
+27:38 brain focused.
+27:39 &gt;&gt; Yep.
+&gt;&gt; Feels like
+27:40 a softy kinda right brain
+focus.
+27:41 &gt;&gt; I'm a total softy.
+27:42 Sorry.
+27:45 &gt;&gt; But how has having your
+strong culture helped you
+27:49 make important tough
+decisions?
+27:53 &gt;&gt; Well, I think that having
+a, so
+27:55 here's the thing about
+culture.
+27:58 There's three things they
+never tell you
+27:60 about culture.
+28:01 The first thing is they
+never tell you anything.
+28:02 In other words, no one ever
+talks about culture, and
+28:04 no one ever tells you you
+need to have strong culture.
+28:07 And so, like there's tons of
+28:08 articles about building a
+great product.
+28:10 There's tons of articles
+about
+28:11 like growth and adoption.
+28:12 And there's very few things
+about culture.
+28:14 It's this like mystical
+thing that's like kinda
+28:16 soft and fuzzy.
+28:17 That's the first problem.
+28:18 The second problem is it's
+hard to measure.
+28:20 And things that get,
+28:20 are hard to measure often
+get discounted.
+28:23 And these are like two
+really hard things.
+28:26 But the third thing is the
+biggest problem.
+28:28 The biggest problem of
+culture,
+28:29 is it doesn't pay off in the
+short-term.
+28:31 In fact, if you wanted to,
+in one year,
+28:33 build a company and sell it
+as quickly as possible.
+28:35 The number one piece of
+advice I give you is,
+28:37 fuck up the culture.
+28:38 Forget about it, just hire
+people quickly.
+28:40 Culture makes you hire
+really slowly and
+28:43 makes you be deliberate
+about decisions that in
+28:45 the near term can slow
+progress.
+28:47 It's kinda like putting an
+investment into
+28:49 the company short-term.
+28:51 And so, these are the things
+people never tell you.
+28:53 So it, it's really about
+building a company for
+28:55 the long-term and to endure.
+28:58 Now, some of the things
+about culture.
+28:60 The first thing is you need
+to
+29:01 like be very clear about
+like.
+29:02 What's unique to you, that
+you stand for?
+29:04 Once you do that, you need
+to
+29:05 make sure you hire people
+that believe in that.
+29:08 And so we interviewed
+hundreds of people.
+29:09 You need to make sure that
+you hire and
+29:11 fire based on the ideas of
+these values.
+29:14 And, and, you know?
+29:16 One of the things we do is
+we
+29:17 constantly repeat over and
+over again.
+29:20 So we interview.
+29:21 Like, when we interview,
+29:22 we wanna make sure they're
+world class and
+29:25 they fit the culture.
+29:26 So, the first thing I used
+to ask people,
+29:27 I had at the end of an
+interview sheet.
+29:29 Is if you can hire.
+29:31 This is a functional
+question.
+29:32 If you can hire anybody in
+the world,
+29:34 would you hire the person
+sitting accords from you.
+29:36 And if our, our vision if
+become like the best of
+29:39 what we do why dont we hire
+the very best in the world.
+29:42 So, every single person is
+meant to
+29:44 hire a person better than
+the previous people.
+29:46 You're constantly hiring,
+raising the bar.
+29:48 You're constantly hiring
+world class people.
+29:50 Then we have separate people
+called core value people.
+29:54 Who aren't in the function.
+29:55 So if you're an engineer,
+the core values
+29:57 engineers interviewers are
+never engineers.
+29:59 Because we don't want them
+to be biased and
+30:01 say, oh, I know how good
+they are.
+30:03 And they interview just for
+values,
+30:05 to make sure that people
+care about the same thing.
+30:07 And we've said no to a lot
+of really great people.
+30:10 Because we just didn't feel
+right about them being with
+30:14 us long term.
+30:15 So that's one of the things.
+30:16 I also think that maybe some
+other
+30:21 examples of when we kind of
+had hard decisions.
+30:27 In mid 2011 we had this.
+30:31 So we were mostly in the
+United States.
+30:33 And we had this internet
+clone funded by these guys
+30:36 called the Samwer brothers.
+30:37 Has anyone heard about the
+Samwer brothers?
+30:39 They basically, they clone.
+30:41 Yeah Rocket Internet, they
+just went public.
+30:42 And they basically copy
+American websites quickly,
+30:45 and they try to sell it back
+to you.
+30:46 And if you don't, then they
+just try to,
+30:48 so it's kind of like putting
+a gun to your head.
+30:51 And so, and they had
+basically done
+30:53 this to Groupon.
+30:54 Groupon at this point was
+30:55 like the fastest growing
+company in the world ever.
+30:58 First company to,
+30:58 fastest company to a billion
+dollars in revenue.
+31:01 And then they stopped doing
+Groupon.
+31:02 This is when Groupon was on
+top of the world.
+31:03 And they cloned us.
+31:05 And we had 40 employees.
+31:06 We had raised $7 million.
+31:07 They cloned us, and they
+raised $90 million.
+31:10 And, in 30 days, they hired
+400 people.
+31:14 And they wanted to sell the
+company and if they
+31:16 couldn't, they were gonna
+destroy us around the world.
+31:19 And the problem with
+31:19 Airbnb is if we're not
+everywhere around the world.
+31:22 Like, a travel site not
+being in Europe is like
+31:25 your phone not having email,
+it doesn't actually work.
+31:27 So we were kind of in
+trouble.
+31:29 And we had this conversation
+and there was the pragmatic
+31:32 decision of should we
+acquire them and
+31:34 then there was the values
+decision.
+31:36 The pragmatic one should've
+probably have said buy
+31:38 them because you can't risk
+losing international.
+31:41 So just guarantee you're
+gonna get international.
+31:43 But we ended up not buying
+them.
+31:46 And the reason we ended up
+not buying them is I
+31:47 just didn't like the
+culture.
+31:49 I didn't wanna bring in this
+400 people.
+31:50 I felt like we were
+missionaries and
+31:52 they were mercenaries.
+31:53 I didn't think they were
+doing it for the beliefs.
+31:55 I thought they were doing it
+to make a lot of
+31:56 money very quickly.
+31:57 And I believe in a war on
+31:59 missionaries would outlast
+and out-endure mercenaries.
+32:02 And I also felt like the
+best
+32:03 revenge against an Internet
+startup, Internet clone was
+32:06 just to make them run the
+company long term.
+32:07 It's like you have the baby,
+now you gotta raise it.
+32:10 &gt;&gt; So.
+32:11 &gt;&gt; That's what we ended up
+dong.
+32:13 And that was a very
+controversial decision.
+32:15 A lot of people are telling
+me,
+32:16 you should buy this company.
+32:17 We didn't.
+32:18 And I think it worked out.
+32:20 &gt;&gt; Let's see, the last part
+being how.
+32:22 What percentage of revenue
+comes from Europe?
+32:24 &gt;&gt; More than 50%.
+32:25 &gt;&gt; I think it worked out.
+32:27 &gt;&gt; Yeah.
+32:28 &gt;&gt; All right, anybody have
+any questions?
+32:32 I can keep going.
+32:33 Yeah, so one other question,
+one other statement we had
+32:36 at Zappos was that culture
+and
+32:37 brand were two sides of the
+same coin.
+32:39 &gt;&gt; Yes.
+32:40 &gt;&gt; Airbnb has a great
+culture and
+32:42 also a great brand.
+32:43 You wanna talk a little bit
+about branding, since that's
+32:46 actually a kind of a weak
+thing in Silicon Valley.
+32:48 We don't tend to focus on
+this, on culture and brand.
+32:50 &gt;&gt; Yeah.
+Yeah, that's what
+32:51 I actually just said that to
+Sam Altman.
+32:54 I think Silicon Valley is
+32:55 not historically really
+strong, or
+32:57 we don't talk about culture
+and brand very much.
+32:59 They are two sides of the
+same coin.
+33:00 So cultural like the
+principles and the beliefs
+33:03 you have inside the company
+that you want people to be
+33:06 aligned with long term.
+33:07 And whatever happens inside
+33:09 the company eventually comes
+out.
+33:10 You can't hold it in.
+33:11 And brand is really the
+promise outside the company
+33:15 that everyone identifies
+with.
+33:16 And so I think, having a
+clear mission, and
+33:21 making sure that you know
+that mission, and
+33:22 making sure that mission
+comes through the company is
+33:25 probably the most important
+thing you can do for
+33:26 both culture and values.
+33:28 And then, the second thing
+you need to know is
+33:30 that your brand, the way
+people think about you
+33:32 as a company, is often
+decided by your, you know,
+33:36 your brand evangelists are
+your employees.
+33:38 And so you have a weak
+culture.
+33:40 And we often think that
+companies that hire
+33:43 employees or people that are
+deeply passionate,
+33:45 create companies that
+customers are really,
+33:48 really passionate about.
+33:49 And those are the companies
+that have strong brands.
+33:51 And so, Zappos had a really
+strong brand because they
+33:53 have strong culture.
+33:54 And a lot of companies,
+33:55 Google, they care deeply
+about the culture.
+33:58 They actually have a
+question,
+33:59 is this person googly?
+33:60 And it's meant to be like, a
+catchall for
+34:02 do they fit the Google
+culture.
+34:04 Google's a very strong
+culture.
+34:05 It's unique to Google.
+34:06 And, by the way, there's no
+such thing as a good or
+34:08 bad culture.
+34:09 It's either a strong or weak
+culture.
+34:11 And a good culture for
+34:12 somebody else may not be a
+good culture for you.
+34:14 So, I think brand is
+34:16 incredibly important as
+well.
+34:18 And brand is really the
+connection of you with your
+34:20 customers.
+34:21 And so, if you have an
+incredibly strong
+34:23 culture that can be a whole
+talk and brand.
+34:25 But if you have a fairly
+strong culture,
+34:28 then the brand will come
+through.
+34:29 The final thing to say about
+brand is,
+34:32 a lot of people when they
+talk about their brand,
+34:33 they talk about what they
+sell.
+34:34 So if you're Apple, one way
+of doing it is to say,
+34:37 we sell computers.
+34:38 And like, our new screens
+are larger and it's faster.
+34:42 And they talk about bits and
+bytes.
+34:44 And I remember Steve Jobs
+had this really important
+34:46 talk where he says the way
+to win, this is 1997 when he
+34:49 first came back, wasn't to
+talk about bits and bytes.
+34:52 The way to win is to talk
+about what we value.
+34:54 And our core value is we
+believe people with
+34:56 passion can change the
+world.
+34:57 And that was how we
+34:58 introduced the Think
+Different campaign.
+34:60 And so Apple before they had
+this huge renaissance, which
+35:02 became the most valuable
+company in the world.
+35:04 They did the Think Different
+campaign,
+35:05 which is basically saying,
+this is what we believe in.
+35:07 And if you buy an Apple
+computer,
+35:09 you're also saying, I
+believe in this, too.
+35:11 And there would have to be,
+35:13 I think, a deeper core
+belief and
+35:14 if that doesn't happen,
+you're a utility.
+35:16 And the utilities get sold
+at commodity prices.
+35:21 &gt;&gt; Go ahead.
+35:22 &gt;&gt; How did you know how to
+communicate this idea?
+35:27 &gt;&gt; How?
+35:28 The question is how do you
+know how to communicate this
+35:31 to the company?
+35:31 The culture or the core
+values.
+35:34 &gt;&gt; To the employees.
+35:36 To the outside world.
+35:37 &gt;&gt; The culture?
+35:38 The values.
+35:39 The brand?
+35:39 &gt;&gt; How to communicate what
+Airbnb does
+35:43 &gt;&gt; Well, so
+35:43 the question is how do
+35:44 we communicate what Airbnb
+does early in the days?
+35:47 Well, we learned a lot
+because in the early days,
+35:49 we communicate like a
+utility.
+35:51 We actually said Airbnb is a
+cheap,
+35:53 affordable alternative to
+hotels.
+35:56 And we had a tagline of
+forget hotels,
+35:58 save money with Airbnb.
+36:00 And over time we felt like
+that was,
+36:03 I mean this was in really
+early days.
+36:04 And we felt like that was
+way too limiting.
+36:06 That undercut the idea.
+36:08 And so, we then eventually
+changed our tag line to
+36:12 travel like a human.
+36:13 Which we haven't kept.
+36:15 But it was basically meant
+to say that we believe in
+36:19 a certain kind of world and
+36:21 we really feel like travel
+is mass produced.
+36:24 You feel isolated, you feel
+like a stranger.
+36:27 And we want to bring the
+world back to the place
+36:29 where it's a little bit like
+a village again.
+36:30 Where the service is coming
+from other people.
+36:33 You have this feeling like
+you belong and
+36:34 you're actually treated like
+a human.
+36:36 You know, no matter how
+successful you are in life,
+36:39 often travelling will remind
+you,
+36:40 you're not that successful.
+36:41 Go through TSA, stay in a
+typical hotel.
+36:44 Sometimes you'll have some
+problems.
+36:46 And so we really want to
+make people feel special.
+36:47 And this was kind of some of
+the stuff we did in
+36:50 the early days and we did a
+lot of storytelling.
+36:52 I mean, I probably told the
+story of
+36:55 Airbnb like 10,000 times.
+36:57 And this is something that's
+kind of related to culture.
+36:59 But one, somebody asked me
+37:00 the other day like what's
+the job of the CEO.
+37:02 And there's a number of
+things a CEO does.
+37:04 But what you mostly do is
+articulate the vision.
+37:07 So you articulate the
+vision,
+37:09 you gotta develop a strategy
+and
+37:10 you gotta hire people to fit
+the culture.
+37:12 If you do those three things
+you
+37:13 basically have a company.
+37:14 And that company will
+hopefully be successful.
+37:16 If you have the right
+vision,
+37:17 the right strategy and good
+people.
+37:18 So what we end up doing is
+37:20 articulating the vision over
+and over and over again.
+37:22 Whether you're hiring people
+or
+37:23 recruiting them, talking to
+investors to raise money,
+37:26 doing PR interviews, if
+you're speaking at a class.
+37:28 You're always reinforcing
+the values.
+37:30 You're doing it in email to
+a customer.
+37:31 And so you just do it
+thousands of times.
+37:34 And if you do something
+thousands of
+37:35 times it will change and get
+better every time.
+37:37 So it's just kind of,
+evolved.
+37:40 &gt;&gt; Yeah, question.
+&gt;&gt; So
+37:40 you are interacting with the
+host,
+37:43 somehow you're in charge of
+the host and
+37:45 reinforcing the parts of
+Airbnb?
+37:47 &gt;&gt; Very, very good question.
+37:48 How do we make sure
+37:49 the hosts are reinforcing
+the culture of Airbnb?
+37:53 So when, the answer to that
+is, we do a pretty good
+37:58 job but not yet an amazing
+job at it.
+38:01 When we first started
+Airbnb,
+38:04 I kinda took the Craig
+Newmark school of thought.
+38:06 Craig Newmark's the founder
+of Craigslist.
+38:07 And I said, anybody should
+be able to use Airbnb.
+38:09 You didn't have to apply.
+38:11 If you wanted to rent your
+place,
+38:12 you could rent your place.
+38:14 And it turned out that many
+of
+38:15 the people believed in our
+values because we
+38:18 talked about it and we
+tracked them.
+38:19 But there were people who
+rented on Airbnb not
+38:21 because they believed in
+values, but because they
+38:23 realized they can make a lot
+of money renting their home.
+38:25 And not everyone really was
+a great culture fit.
+38:28 And these people actually
+did cause us a lot of
+38:30 problems.
+38:31 So, that was actually a bit
+of a lesson for me.
+38:33 And I didn't think our host
+had to,
+38:35 it didn't really occur to me
+in the early days.
+38:38 The host had to completely
+fit the values,
+38:40 that we met them, we attract
+people like us.
+38:42 And so, over time, we've
+realized host or partners,
+38:46 and so they need to believe
+in the same values we do.
+38:48 And so now we have a program
+called the Superhost
+38:52 program where they have to
+demonstrate values to
+38:55 reach this kind of badge,
+which gets them kind
+38:57 of priority customer support
+and distribution.
+39:00 We are having this host
+convention where you
+39:03 bring all the hosts in.
+39:04 We're gonna be talking about
+and reinforcing the values.
+39:06 We're moving towards the
+place where they have to
+39:08 apply to list.
+39:09 And we don't test them the
+way we test an employee but
+39:12 we're starting to get more
+rigorous about it.
+39:15 So the answer is, the answer
+is we were really late but
+39:18 we now do it by gradually
+moving towards apply to list
+39:21 and reinforcing it every
+step of the way.
+39:24 &gt;&gt; Go ahead.
+39:25 &gt;&gt; When Airbnb has made some
+great contributions to
+39:28 the open source community.
+39:30 Do you have any thoughts on
+how that contributes to
+39:33 the culture of your
+development team?
+39:35 &gt;&gt; Yeah.
+39:36 I think, just in general,
+and
+39:39 it may be related to two
+things about Airbnb.
+39:44 We tend to be a pretty open
+culture, just in general.
+39:47 We communicate a lot.
+39:48 And we generally believe in
+the idea of like,
+39:51 a shared world where people
+are giving back and
+39:53 contributing, making
+communities and
+39:56 industries stronger.
+39:57 So, just my one philosophy
+on communication is,
+39:60 we basically communicate and
+40:01 talk about everything
+internally except for things
+40:05 that relate to employee or
+customer privacy.
+40:07 So, if it doesn't relate to
+those two things,
+40:09 we'll basically talk about
+it.
+40:11 As far as open source
+culture and
+40:13 engineering, we wanted to
+make sure that we
+40:15 had a really strong
+identification of the team.
+40:18 And so we really felt like a
+lot of source codes
+40:22 shouldn't be,
+40:23 you know, we felt like every
+company needs a moat.
+40:27 Some kind of
+40:28 moat that protects you from
+your competition.
+40:31 We thought some technology
+would be, but
+40:33 we also felt like we wanted
+to be
+40:34 able to get back from a
+technology standpoint.
+40:36 And we preferred our moat to
+be that we provide the very
+40:39 best experience in the world
+when you use Airbnb.
+40:41 We have the biggest network
+effects.
+40:43 And we thought that kind of
+took precedent over
+40:47 having certain technology
+that only we could use.
+40:51 And so we decided to try to
+share some of
+40:52 that out to people.
+40:53 And I think, again, it does
+relate to the values.
+40:57 Now one other thing is I
+never one day recommended.
+41:00 Hopefully, if you have a
+strong culture,
+41:01 I didn't recommend we do any
+of that.
+41:04 We hired engineers that we
+felt like fit the values.
+41:07 And it just independently
+occurred to
+41:08 them they should do that.
+41:09 They felt like that was the
+right thing to do.
+41:11 &gt;&gt; All the way in the back.
+41:13 &gt;&gt; You talked about how
+during the conventions you
+41:15 didn't have any money and
+41:17 only a couple people visited
+your site.
+41:18 What did you do to increase
+the number of
+41:20 users that came to your
+site?
+41:21 How did you scale that out?
+41:22 &gt;&gt; So the question was,
+Brian had talked about
+41:26 that there weren't that many
+visitors to the site
+41:29 when they were trying to
+sort of get off the ground.
+41:30 How did they get users to
+the site?
+41:33 &gt;&gt; So this is actually not
+about culture but
+41:37 I will answer it anyway.
+41:39 So, you know a lot of
+people,
+41:42 this is not even a culture
+question, but the best
+41:45 advice I ever got was
+probably from Paul Graham.
+41:49 And Paul Graham basically
+said,
+41:51 I remember he had this line.
+41:52 He said it's better, he may
+have even talked about this
+41:55 at a talk, he said it's
+better to have 100 people
+41:58 that love you than to have a
+million people that just
+42:01 kinda sorta like you.
+42:03 It's literally better to
+have 100 people love you.
+42:05 And the reason why, if you
+have a million costumers or
+42:07 a million users and
+42:08 they just kinda don't care
+about you but
+42:10 they kinda use your app and
+you're okay.
+42:13 To get them to care is a
+really, really hard thing.
+42:16 In fact, I don't know how to
+get a million people to
+42:17 all of a sudden care.
+42:18 What I do know is if you get
+100 people that love you,
+42:21 those people if they feel
+incredibly passionate,
+42:24 each of them will tell 100
+people.
+42:26 And in fact all movements
+typically start, or
+42:29 companies or ideas that are
+really powerful,
+42:31 start with just 100 people.
+42:32 So the reason this is so
+42:34 critical is he gave us
+another lesson.
+42:36 Which is if all you need to
+do
+42:37 is get 100 people to love
+you.
+42:39 Then what you need to do is
+things that don't scale.
+42:42 So it's hard if you have a
+million people you
+42:45 can't meet all of them.
+42:46 But you can meet 100 people.
+42:47 You can spend time with
+them.
+42:49 So that's exactly what we
+did.
+42:51 Joanie and I,
+42:52 we would go door to door in
+New York City or in Denver
+42:55 where the Democratic
+National Convention was.
+42:56 Literally meeting with,
+staying with and
+42:58 living with our users.
+43:00 I use to joke that when you
+buy an iPhone Steve Jobs
+43:02 didn't come and sleep on
+your couch but I did.
+43:05 And that, that was really
+critical,
+43:08 living with your users.
+43:09 And by living with our users
+and spending time with them,
+43:12 all we had to do is give
+them enough time, attention.
+43:14 And get them to get to
+43:15 the point where they were
+deeply passionate.
+43:17 And if you work backwards
+from 100 people or
+43:20 even one person.
+43:21 Without even technology,
+43:22 imagine what would be an
+amazing experience for
+43:25 just this one person.
+43:26 And walk through the journey
+from the time they,
+43:29 whatever your service is,
+right?
+43:30 And make it perfect for that
+one person.
+43:33 Once you make a service
+perfect for
+43:34 one person, it's actually
+really easy to
+43:36 make almost anything perfect
+for a person.
+43:37 It's not actually that hard.
+43:39 The hard thing is then how
+do we scale this to
+43:40 millions of people.
+43:42 Where everyone gets in
+trouble is they try to
+43:43 solve both at the same time.
+43:45 So, the first thing we
+43:46 do is get the perfect
+experience for one person.
+43:48 We went door-to-door to do
+this,
+43:49 we won over their love.
+43:50 Then we use a separate part
+of our brain to imagine,
+43:52 now how would we achieve
+that at scale?
+43:54 And I'll give you one
+example before I
+43:56 stop talking about this.
+43:58 Right now on Airbnb you can,
+43:60 if you put your home on
+Airbnb,
+44:01 you can click a button and
+it kinda works like UBER.
+44:04 And we did this before UBER,
+44:05 a professional photographer
+comes to your house and
+44:07 they'll photograph your
+homes for free.
+44:09 We have 5000 photographers
+around the world, and
+44:12 we photographed hundreds of
+thousands of homes.
+44:15 So it's probably one of the
+largest on-demand
+44:17 photography networks, if
+there was such a thing,
+44:19 I guess probably the only
+one in the world.
+44:22 And that started with Joe
+and I.
+44:25 We were living, we were
+staying not living,
+44:26 staying with this one host
+in New York City.
+44:29 And her house is amazing,
+but
+44:31 her photos were terrible.
+44:32 And we said, why don't you
+just put up better photos?
+44:33 And this is before, you
+know,
+44:35 iPhones had great cameras,
+this was 2008.
+44:36 And she said, well,
+44:37 I can't figure out how to
+get photos from this camera,
+44:40 onto this computer.
+44:41 She wasn't very technically
+savvy.
+44:43 And we just said well, we'll
+just take photos for you.
+44:45 Or actually I said, what if
+you can press a button and
+44:49 somebody just showed up at
+your door and
+44:51 took professional
+photographs.
+44:53 She said, that would be
+magic.
+44:54 So next day, I knocked on
+her door and said I'm here.
+44:57 And I photographed her home.
+44:60 And then we sent emails to
+people saying,
+45:02 we have this new magical
+photography service.
+45:04 And if you want you can
+press this button and
+45:05 a professional photographer
+will show up at your home.
+45:08 Somewhere just press this
+button and
+45:09 just send me an alert or Joe
+an alert.
+45:10 And we'd rent a camera in
+Brooklyn.
+45:12 In January of 2009 walking
+through snow,
+45:14 photographing people's
+homes.
+45:16 We did this by hand without
+any technology.
+45:18 We managed it with just
+spreadsheets.
+45:20 I wasn't gonna burden Nate
+with trying to
+45:22 build something we designed
+before we had photography.
+45:25 Then we started hiring
+contract photographers.
+45:27 Then eventually we
+45:28 got a intern to manage all
+the contract photographers.
+45:30 Then we got a intern to
+become
+45:32 a full-time employee
+managing other interns to
+45:34 manage the contract
+employees.
+45:35 &gt;&gt; And at some point, this
+is before we built anything.
+45:38 And at some point there were
+too many,
+45:40 like people to manage.
+45:42 Like, there were like
+hundreds of photographers.
+45:43 And then we finally built
+all of
+45:45 the tools to manage all the
+photography.
+45:47 But we did it only after we
+knew exactly what
+45:50 the perfect service was.
+45:52 &gt;&gt; How about one more
+question?
+45:53 &gt;&gt; One more question.
+45:54 &gt;&gt; So a lot of people say
+that when,
+45:57 when the hardest part isn't
+the technology.
+45:59 Here the marketing,
+46:00 the communication is the
+hardest part there would be.
+46:03 And a lot of people say it's
+not
+46:05 the technology
+&gt;&gt; So
+46:09 do you wanna repeat the
+question?
+46:11 &gt;&gt; So the question is a lot
+of peop in this particular
+46:15 situation with Airbnb, a lot
+of people think that this is
+46:18 not necessarily a technology
+company, but
+46:20 it's more of a marketing
+company.
+46:22 &gt;&gt; Good question.
+46:23 So I'll, well, I'll tell
+you,
+46:25 I'll answer the question
+with a story.
+46:28 &gt;&gt; Okay, let me, let me, let
+me, let me just,
+46:30 let me preface that question
+by a set of questions.
+46:33 Do you have, do you today
+have proprietary technology?
+46:37 &gt;&gt; Yes.
+46:37 &gt;&gt; Do you have a moat?
+46:40 &gt;&gt; Yes.
+46:41 &gt;&gt; Do you have network
+effects?
+46:42 &gt;&gt; Yes.
+46:42 &gt;&gt; Do you have pricing
+power?
+46:44 &gt;&gt; Yes.
+46:46 &gt;&gt; Do you have a good brand?
+46:47 &gt;&gt; I think so.
+46:50 &gt;&gt; Are are you a monopoly?
+46:53 &gt;&gt; I'm not gonna answer
+that.
+46:57 &gt;&gt; But, but I think similar
+to the question
+47:01 just forgetting about all of
+that.
+47:02 It, companies that have
+network affects and
+47:05 sort of get off the ground
+based on.
+47:06 &gt;&gt; Yeah.
+&gt;&gt; The fly wheel is going.
+47:07 &gt;&gt; Yep.
+&gt;&gt; People just think that
+47:09 you're lucky.
+47:09 &gt;&gt; Yeah, let me, let me.
+47:10 It's a totally fair
+question.
+47:12 And people have said it.
+47:12 So, I wanna answer it.
+47:14 You guy that runs the
+Sequoia Capital now,
+47:17 his name is Doug Leoni.
+47:18 &gt;&gt; Yep.
+47:19 &gt;&gt; One day, I think it was a
+year, year and
+47:20 a half ago, Doug Leoni says,
+your job sucks.
+47:23 &gt;&gt; And I was like, what the
+hell does that mean?
+47:25 Like this is like,
+47:25 you've got the worst job of
+an CEO in my portfolio.
+47:29 And I said, tell me why.
+47:30 And this is what he said.
+47:31 He says, well, let me,
+here's how I think about it.
+47:34 First of all, you're a
+technology company.
+47:36 And he thought we were a
+technology company and
+47:38 I would say, at our heart,
+47:39 in many ways we are a
+technology company.
+47:42 And so, we have all the
+challenges of all my
+47:43 other portfolio companies.
+47:45 But beyond that, you are in
+190 countries.
+47:49 And so, you have to figure
+out how to be international.
+47:51 We have to hire people in
+47:52 countries all over the
+world.
+47:53 We're literally in every
+country but
+47:54 North Korea, Rio, Syria, and
+Cuba.
+47:56 You're a, basically a
+payments company.
+47:58 We handle billions of
+47:59 dollars through our system
+every year.
+48:01 And we had to get
+48:02 money transmitter licenses
+in the state of California.
+48:04 So we actually are a
+payments company, and
+48:06 we have serious fraud and
+risk to, to, to warrant, and
+48:09 needs to be locked down like
+Fort Knox.
+48:11 He said, that's, that's
+usually where companies end.
+48:14 But you've gotta worry about
+all the other crap.
+48:15 And he says, trust in
+safety.
+48:17 You know we have 425,000
+people staying in
+48:20 other people's, under, in
+other people's beds,
+48:22 in their sheets.
+48:24 &gt;&gt; Think about a woman from
+Texas staying in
+48:26 the Middle East or vice
+versa.
+48:28 The cultural conflicts that
+could happen and
+48:30 misunderstandings and,
+48:32 you know, you have 425,000
+people a night.
+48:35 It's like being the mayor of
+Oakland.
+48:37 Now, imagine if you're the
+mayor of Oakland,
+48:38 all these things happen in
+Oakland tonight.
+48:41 &gt;&gt; So you've got trust in
+safety.
+48:42 Now, we have regulatory
+problems.
+48:44 You know, we are in 34,000
+cities.
+48:47 Every city has a different
+law, different rules.
+48:49 And many of them were
+written in a different
+48:51 century, before you had any
+of this technology.
+48:53 So you've got to deal with
+that.
+48:55 Then you've got issues like
+search and discovery.
+48:57 So, Google's got this brand
+about being really
+48:59 important about search.
+49:00 The thing about search,
+49:01 though, is usually if I have
+a question, if Google can
+49:05 give me 40,000 results, but
+it's probably clear that
+49:07 there's like one or two best
+options for everybody.
+49:11 So if I wanna know a
+question to an answer,
+49:12 these are usually my best
+answer.
+49:15 We have 40,000 homes in
+Paris.
+49:16 There is no best home in
+Paris for
+49:18 anybody in this room.
+49:19 So we have to be really,
+49:20 really great at matching
+people and technology.
+49:23 We have to be a company
+that's just, you know,
+49:25 another example.
+49:26 Facebook, for example, is a
+digital product.
+49:29 Their product is their
+website.
+49:31 Our product are these
+experiences you
+49:32 have in the real world.
+49:34 So, we're not just an online
+product.
+49:35 We have to be an offline
+product.
+49:36 And we need to transition
+from when you're in
+49:39 your app, through cities.
+49:40 And these are just some of
+the examples why technology,
+49:43 design.
+49:44 So basically, the long and
+49:45 short of it is we have to be
+world class at technology.
+49:47 We have to be world class at
+design.
+49:49 We have to be world class at
+branding, because we've got
+49:52 to convince people this
+isn't crazy.
+49:54 You're not gonna die when
+you use it.
+49:55 We had to convince
+governments,
+49:56 this is good for
+neighborhood.
+49:58 What happens if the internet
+moves into
+49:59 your neighborhood?
+49:59 That's what people call it.
+50:01 It's a good thing,
+hopefully.
+50:02 And you've got to make sure
+trust in safety is really
+50:04 world class, that we handle
+all these payments and
+50:06 not have problems with risk.
+50:08 And I can kind of go
+through, and
+50:09 this is not even to do with
+culture.
+50:10 I didn't even mention
+culture.
+50:12 So, that's how I describe it
+is like,
+50:14 I think great companies are
+companies that are probably
+50:16 really strong at everything.
+50:17 But you know, we have,
+50:18 we try to hire the very best
+engineers and
+50:20 technical talent in the
+world and
+50:21 I definitely don't see us as
+a marketing company.
+50:24 &gt;&gt; Thank you.
+50:25 &gt;&gt; Thank you.
+&gt;&gt; Thank you, guys.
+50:30 &gt;&gt; All right, thank you sir.

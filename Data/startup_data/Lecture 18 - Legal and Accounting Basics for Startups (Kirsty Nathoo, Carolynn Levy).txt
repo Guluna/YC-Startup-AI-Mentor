@@ -1,0 +1,1976 @@
+00:06 General consul.
+00:07 >> Oops.
+00:08 >> Christine and Caroline.
+00:09 And they're going to talk
+about finance and
+00:12 legal mechanics for startups.
+00:14 This is certainly not the most
+exciting of
+00:16 the classes, sorry.
+00:18 But if you get this right this
+is probably the class that.
+00:21 So thank you very much for
+coming, and yeah, go ahead.
+00:25 >> Okay.
+00:27 So like Sam said,
+00:27 this lecture is about the
+mechanics of start up.
+00:30 And Kristi and I are going to
+be talking about some of
+00:32 the basic legal and accounting
+issues that your
+00:33 startup may face in the very
+beginning.
+00:36 I was watching Paul Graham's
+video, and at one
+00:39 point he says, founders don't
+need to know the mechanics of
+00:42 starting a startup.
+00:42 I thought, oh no,
+00:44 that's exactly what Sam titled
+this lecture.
+00:47 >> Ha.
+00:48 >> But what PT actually says
+is that founders don't need to
+00:51 know the mechanics in detail.
+00:54 Because it's very dangerous
+for
+00:55 founders to get bogged down in
+the details.
+00:58 And that's exactly right.
+00:59 And Kirsten,
+00:59 I can't give you the details
+in 45 minutes anyway.
+01:03 So our goal here today is to
+make sure that you
+01:08 do know better than to form
+your startup as a Florida LLC.
+01:11 >> So, as Sam mentioned, we
+are also
+01:15 worrying this is going to be
+pretty boring for you to
+01:18 listen to an accountant and a
+lawyer talking about this.
+01:23 You know?
+You've had some really
+01:24 amazing founders talking about
+really interesting things.
+01:26 But like, like Sam said, you
+know,
+01:28 this is the kind of stuff that
+if you know the basics you can
+01:31 get yourself set up in the
+right way of always paying.
+01:35 Stop worrying about it and
+01:36 then concentrate on what you
+actually want to do.
+01:38 Which is make your company a
+success.
+01:41 And so, you know,
+01:43 we refer to this term startup
+all the time.
+01:46 And probably in the back of
+your head,
+01:48 you kind of know that by
+startup we mean there has to
+01:51 be some legal entity.
+01:53 And that's, you know, kind of
+separate legal entity.
+01:56 We'll talk a little bit more
+about how we
+01:58 actually set that up and what
+that means to you.
+02:01 And you also probably know
+that a startup will have
+02:04 assets.
+02:05 IP, inventions, other things.
+02:07 And that the company needs to
+protect those.
+02:08 So we'll talk a little bit
+more about that.
+02:11 About how to raise money
+hiring employees, and
+02:15 entering into contracts.
+02:17 So there's a few other things
+that talk, that you need
+02:19 to talk about whilst your
+setting up your company,
+02:22 which kind of ferrets out a
+few issues amongst founders.
+02:25 Things like who's going to be
+in charge and
+02:28 how much equity is everybody
+going to own.
+02:30 So those are really good
+things to talk about too.
+02:32 You know, we can switch
+slides.
+02:35 >> Uh-oh.
+>> There we go.
+02:38 >> Okay.
+02:39 This is us.
+02:40 Kirsti has the calculator.
+02:42 I have like, the geriatric
+glasses,
+02:43 which is actually pretty fair.
+02:46 Okay, so
+02:47 the first thing we're going to
+talk about is formation.
+02:50 Kirsti actually just mentioned
+that.
+02:52 Your startup is going to be a
+separate legal entity.
+02:56 And the, and you guys probably
+already know this, but the
+02:58 primary purpose for forming a
+separate legal entity is
+03:01 to protect yourselves from
+personal liability.
+03:03 And what that means is, if
+you're company ever gets sued
+03:07 you know, it can't, it's not
+your money in your
+03:09 bank account that the, that
+the person can take.
+03:12 It's the corporations.
+03:13 So that's why you form one.
+03:15 So then the question is, where
+do you form one?
+03:18 And theoretically you have 50
+choices but
+03:22 the easiest place is Delaware,
+and
+03:25 I'm sure you're all familiar
+with that as well.
+03:27 But Delaware is in
+03:28 the business of forming
+corporations.
+03:30 The law there is very clear
+and
+03:32 very settled, it's the
+standard.
+03:36 The other thing is that
+investors are very
+03:39 comfortable with Delaware.
+03:41 They already invest in
+companies that
+03:43 are Delaware corporations.
+03:44 Most of
+03:45 their investments are probably
+Delaware corporations.
+03:47 So if you are also a Delaware
+corporation then
+03:50 everything just becomes much
+more simple, right?
+03:52 There's less diligence for the
+investor to do.
+03:54 You don't have to have a
+conversation about whether or
+03:58 not to reincorporate your
+03:59 Washington company into
+Delaware.
+04:01 So there's a reason that so
+many companies do it.
+04:04 It's standard.
+04:05 It's familiar.
+04:05 So I'll tell you a story.
+04:07 We had a company at YC about
+two years ago,
+04:10 that was originally formed as
+an LLC in a state that I'll,
+04:14 that I'll say, Connecticut.
+04:16 The founders had some lawyer
+friends there who said,
+04:18 this is the right way to do
+it.
+04:20 And when they came to
+04:20 YC we said you guys need to
+convert to Delaware.
+04:24 So the lawyers in Connecticut
+did the conversion
+04:27 paperwork and unfortunately
+they didn't do it right.
+04:30 They made a very simple
+mistake but
+04:32 it was a very crucial mistake.
+04:34 The company was recently
+raising money.
+04:36 Like a lot a lot of money and
+this mistake was uncovered.
+04:41 That the basically the mistake
+was this company thought it
+04:43 was a Delaware corporation for
+a couple years, but
+04:45 in fact it was still a
+Connecticut LLC.
+04:47 And I'll just say this four
+different law
+04:50 firms were needed to figure
+that one out.
+04:52 Two in Delaware one in
+Connecticut,
+04:54 one here in the Silicon Valley
+and the bill right now is at
+04:57 $500,000, for a conversion
+mistake.
+04:59 So, so what's the takeaway
+here, pretty simple.
+05:03 Keep it really simple and
+familiar for yourself.
+05:06 The reason we incorporate all
+companies the same way at
+05:08 Y Combinator is because it's
+easy.
+05:10 So don't get fancy.
+05:11 Just save yourself some time
+and money.
+05:14 >> Okay.
+So once you've decided that
+05:16 you're going to be a Delaware
+corporation,
+05:18 how do you actually set that
+up?
+05:21 And it requires a few
+different steps, but
+05:23 the first one is actually
+really easy.
+05:25 You literally just fax two
+pieces of paper into
+05:27 Delaware saying, we're
+going to set up a corporation.
+05:31 All that does though is create
+a shell of a company.
+05:33 It doesn't actually do
+anything within the company.
+05:36 So after that,
+05:37 you then need to complete a
+set of documents that
+05:40 among other things approve the
+bylaws of the company.
+05:44 It creates a board of
+directors,
+05:46 it creates offices of the
+company.
+05:48 Delaware requires that
+somebody has the title of
+05:50 CEO or president, and of
+secretary.
+05:54 So also at this point,
+05:55 you need to complete documents
+that assign any inventions or
+05:59 any code or anything that you
+as an individual create,
+06:01 so that the company actually
+owns that.
+06:05 And remember at this point,
+it's,
+06:07 it's a really good thing to
+think about.
+06:09 You as founders have to
+06:10 think about things in two
+different ways.
+06:13 You always have to be
+thinking,
+06:14 am I doing this as an
+individual?
+06:16 As me?
+06:17 Or am I doing this on behalf
+of the company,
+06:20 which is a separate entity.
+06:21 So you have to maintain that
+split in
+06:23 your mind going through all of
+this.
+06:25 And we'll talk more about
+where that comes in
+06:27 a little bit later.
+06:30 So there are services that can
+help you get incorporated,
+06:33 of course you can use a law
+firm but there are also
+06:36 other online services that
+help, and the one we often use
+06:40 with a lot of the YC companies
+is call Clearkie Clearkie.com.
+06:45 And they are set up so
+06:47 that all the standard, basic
+documents are used and
+06:51 they get you set up in a very
+vanilla way.
+06:53 So that you can just move on
+and
+06:54 keep, keep focusing on what
+you need to do.
+06:59 So a note on paperwork.
+07:02 You're creating documents.
+07:03 These are really important
+documents that are going to be
+07:08 affecting what the company
+does, and what the company is.
+07:10 So it's really, really
+important that you
+07:12 actually keep these signed
+documents in a safe place.
+07:15 And it sounds so basic, but we
+get so
+07:17 many founders coming to us
+saying oh, I don't know.
+07:20 These, these, some documents.
+07:22 And they have no idea what
+they are or where they are.
+07:25 So really, really make sure
+that you keep them in
+07:28 a safe place.
+07:29 And let's be, let's be honest,
+this is not the glamorous part
+07:32 of running a startup, you
+know, filing documents.
+07:35 But actually at
+07:36 the times where this is
+crucial are going to
+07:38 be at really high stress times
+in the startup's life.
+07:42 It's likely to be if the
+company's raising a big
+07:44 series A round, or if the
+company's being acquired.
+07:48 The company will have to go
+through due diligence, and
+07:51 there will be lawyers asking
+for all this stuff.
+07:53 And if you don't have it and
+you don't know where it is,
+07:56 it's just making a really
+stressful situation even
+07:59 more stressful.
+08:01 So really, the, you know, the
+key thing here is,
+08:03 like we say, keep it simple,
+but
+08:04 keep those documents in a safe
+place and keep it organized.
+08:08 It will make your life so much
+easier.
+08:12 >> Okay.
+So now,
+08:13 we're going to talk about
+equity.
+08:14 And we're going to touch on a
+couple of
+08:16 different things in this
+section.
+08:19 The first thing that
+08:20 we're going to talk about is
+equity allocation.
+08:22 So what am I talking about
+here?
+08:25 I'm talking about.
+08:26 If your company stock is a
+pie,
+08:28 you're talking about how to
+divide the pie and
+08:30 you're talking about this with
+your cofounders.
+08:34 Why is this important?
+08:36 Well if you're a solo founder,
+this really isn't important.
+08:39 But if you are a team of two
+or
+08:41 more than this issue is
+absolutely critical.
+08:44 So the first thing that you
+need to know is that
+08:48 execution had greater value
+than the idea.
+08:51 What do I mean by that?
+08:53 A lot of founder teams give
+way too much credit and
+08:56 therefore a lot of the
+company's equity to the person
+08:59 who came up with the idea for
+the company.
+09:02 And ideas are obviously very
+important but
+09:05 they have zero value.
+09:06 Who's ever heard of a billion
+dollar payment for
+09:09 just an idea.
+09:09 So value is really created
+when the whole founder team
+09:13 works together to execute on
+an idea.
+09:16 And so you need to resist the
+urge to
+09:18 give a disproportionate amount
+of stock to the founder who is
+09:21 credited with coming up for
+the idea for the company.
+09:24 The next thing you want to
+think about is, okay, so
+09:27 how much stock, or
+09:28 should the stock be allocated
+equally among the founders?
+09:32 And from our perspective, the
+simple answer is probably yes.
+09:35 Our mantra at Y Combinator is
+that
+09:39 stock allocation doesn't have
+to be exactly equal, but
+09:42 if it's very disproportionate,
+that's a huge red flag for us.
+09:47 We wonder what conversation is
+not happening in,
+09:50 among the founder team when
+the ownership isn't equal.
+09:53 For example, is one founder
+secretly thinking that this
+09:56 whole startup thing is
+temporary?
+09:59 Is one founder over inflating
+the work that he or
+10:01 she has already done on the
+company or
+10:04 over inflating his or her
+education or prior experience?
+10:08 Do the founders really trust
+each other and have they
+10:10 been honest with each other
+about their expectations for
+10:13 this startup and for the
+future?
+10:15 So when ownership is
+disproportionate,
+10:17 what we worry about is
+10:18 that the founders are not in
+sync with one another.
+10:21 Thirdly it's really important
+to look forward in
+10:24 the startup and now backwards.
+10:26 Instead another way all the
+founders in it 100%?
+10:30 Are they in it for the long
+haul?
+10:33 If the expectation at your
+startup is that each founder
+10:36 is in it 100% and you're all
+in it for the long haul,
+10:39 then everything that happened
+before the formation of
+10:42 the company shouldn't matter.
+10:44 It doesn't matter who thought
+of the idea.
+10:46 It doesn't matter who did the
+coding, or
+10:48 who built the prototype, or
+which one has an MBA.
+10:50 It will feel better to the
+whole team if
+10:53 the allocation is equal,
+10:55 because the whole team is
+necessary for execution.
+10:59 So, here's the take away on
+this point.
+11:02 In the top YC companies, which
+we call those, you know,
+11:06 with the highest evaluations,
+11:08 there are zero instances where
+the founders have
+11:11 had significantly
+disproportionate equity split.
+11:16 >> Alright, so you've had the
+conversation about how to
+11:18 split the equity.
+11:19 But then what?
+11:21 again, we talked to many
+founders who
+11:23 were actually surprised that
+they have to do something in
+11:25 order to own this stock.
+11:27 They think about, they think
+that talking about this is,
+11:29 is actually enough.
+11:31 And this again is another
+situation where you have to
+11:34 think about you as an
+individual,
+11:36 versus you as a representative
+of the company.
+11:39 And if you, if you equate this
+to a large company,
+11:41 you know if you, if you worked
+at Google and
+11:44 you were told as part of your
+compensation package,
+11:46 that you would be receiving
+some shares,
+11:48 you would expect to sign
+something to get those shares.
+11:51 And if you didn't, you'd be
+thinking,
+11:52 oh what's going on here?
+11:54 Well, it's the same thing
+with,
+11:56 with a small company as well.
+11:58 So in this case the paper,
+the, the documents that
+12:01 you're signing is a stock
+purchase agreement.
+12:04 So you as an individual, buy
+the shares from the company.
+12:07 And in any situation, if
+you're buying something,
+12:11 there's a two-way transaction
+where you pay for
+12:13 something and you get
+something in return.
+12:16 And in this case you're
+getting shares in return for
+12:19 either a cash payment, or for
+contributing IP, or
+12:24 inventions, or code to the
+company, so that the company
+12:27 actually owns everything that
+you've done in the past.
+12:32 So, we also refer to that
+stock being restricted
+12:36 because it vests over time.
+12:37 And we're going to cover that
+next in more detail.
+12:41 But, as a result of the stock
+being restricted investing,
+12:45 there's one very very crucial
+piece of paper.
+12:48 That we talk about until we're
+blue in the face to everybody,
+12:52 because there's actually no
+way to go back and fix this.
+12:54 And this is actually one of
+the things that,
+12:58 because there's no, there's no
+way to fix this,
+13:01 this has blown up deals in the
+past.
+13:03 We've, we've seen companies
+where, because they haven't
+13:07 filed what's called an 83 b
+election deals have blown up.
+13:11 And I'm not going to go into
+detail about what that 83 b
+13:14 election is actually about,
+but
+13:16 just leave it as it affects
+your individual taxes, and
+13:19 it affects the company's
+taxes.
+13:21 And so, it can have a big
+impact.
+13:24 So, you know, here we have the
+main,
+13:27 the main things here are sign
+the paperwork.
+13:30 Sign the, sign the stock
+purchase agreement,
+13:33 sign the 83 b election, and
+make sure that you
+13:36 actually have proof that you
+sent that in.
+13:38 Because if you don't have the
+proof,
+13:39 it just goes into a black hole
+at the IRS, and
+13:43 investors and acquirers will
+walk away from a deal if
+13:46 you can't prove that.
+13:48 >> Okay.
+13:49 So the next thing we're going
+to talk about is vesting.
+13:52 And I imagine that many of you
+are familiar with what
+13:55 vesting is.
+13:57 But just in case,
+13:58 really simply vesting means
+that you get full ownership of
+14:01 your stock over a specific
+period of time.
+14:03 So we're talking about the
+stock that Chrissie just said,
+14:06 you bought your stock of your
+company, and
+14:08 you own it and you get to vote
+it.
+14:10 But if you leave before this
+vesting period is over,
+14:15 then the company can get some
+of those unvested shares back.
+14:18 So and I'm just going to, just
+so you guys know the other
+14:21 ways to refer to vesting,
+you'll hear restricted stock.
+14:26 That means that,
+14:26 that stock that's subject to
+vesting, the IRS speak for
+14:29 this is, shares that are
+subject to forfeiture.
+14:32 So, so, it's a little
+terminology there.
+14:35 okay.
+So,
+14:37 what should a typical vesting
+period be?
+14:40 In Silicon Valley, the
+so-called standard vesting
+14:43 period is four years with a
+one year cliff.
+14:47 This means that after one
+year, the founder vests in or
+14:51 fully owns, 25% of the shares.
+14:55 Then the remaining shares vest
+monthly over the next
+14:58 three years.
+14:58 So here's an example.
+15:00 Founder buys stock on
+Christmas Day, let's say, and
+15:03 then quits the company on the
+following Thanksgiving, so
+15:06 before the year is passed.
+15:08 In that case, the founder
+leaves with zero shares,
+15:11 right, cliff period hasn't
+been met.
+15:14 If the founder though, quits
+the day after the next
+15:17 Christmas, so a year and a day
+later, he or
+15:19 she's vested in exactly 25% of
+the shares, right?
+15:22 In that case, the one year
+cliff has been met.
+15:25 So, what happens to the shares
+when a co,
+15:27 when a founder stops working
+at the company?
+15:30 Company can repurchase those
+shares.
+15:33 An example I just gave, where
+the founder quit, a year and
+15:35 a day after purchasing the
+shares,
+15:38 75% of those shares are still
+invested.
+15:39 And the company will
+repurchase all the,
+15:42 that full 75% of those shares
+from the founder.
+15:46 How?
+15:47 Just writes the founder a
+check.
+15:48 That's how the founder bought
+it, right?
+15:50 So, it's the same price per
+share that the founder paid,
+15:53 and it's really just
+15:54 giving the founder his or her
+money back.
+15:57 So then the question is, why
+would you have vesting?
+15:60 Why would founders do this to
+themselves, right?
+16:02 because it's just the founders
+they're,
+16:03 they're doing this on their
+own shares.
+16:07 Doing this to their own
+shares.
+16:09 So, and probably the number
+one reason why vesting is
+16:13 important has to do with
+founders leaving the company.
+16:18 So without, say you didn't
+have vesting and
+16:21 a founder leaves, a huge chunk
+of the equity ownership leaves
+16:24 with a him, him or her.
+16:26 And obviously that is not fair
+to the founders left behind.
+16:29 And we're actually going to
+talk about this a little bit
+16:31 more when we get to the
+founder employment slide,
+16:33 I'll go into that in more
+detail.
+16:35 But the other reason to have
+vesting is the concept of
+16:38 skin in the game.
+16:39 The idea that founders need to
+be incentivized,
+16:41 to keep working on their start
+up.
+16:43 If a founder can walk away
+with his or
+16:46 her full ownership at any
+point in time, then why would
+16:48 you stay and grind away, start
+ups are hard.
+16:52 So do single founders need
+vesting?
+16:59 They do, and the reason is
+because the skin in the game
+17:01 concept applies to solo
+founders as well.
+17:04 And investors really want to
+see all founders, even
+17:06 solo founders incentivized to
+stay at the company for
+17:09 a long time.
+17:11 And the other reason that
+single founder should put
+17:13 vesting on their shares is to
+set an example for employees.
+17:16 Because you can imagine it
+would be, you know,
+17:18 inappropriate for a founder to
+tell an employee that he or
+17:22 she has to have four year
+vesting on his or her shares.
+17:25 But the founder doesn't think
+that he or
+17:26 she needs any on their own
+shares.
+17:29 It's really a culture point.
+17:30 A founder who has vesting on
+his or
+17:32 her shares, then sets the,
+sets the tone for
+17:35 the company, saying, we're all
+in it for the long haul.
+17:37 We all have vesting on our
+shares,
+17:39 we're doing this together.
+17:40 So, what are the takeaways
+from here?
+17:42 I would say vesting alliance
+incentives among the founders,
+17:46 if they all have to stick it
+out and
+17:47 grow the company before any of
+them get any of that company.
+17:50 And then number two,
+17:52 investors don't want to put
+money in a company where
+17:54 the founders can quit whenever
+they feel like it and still
+17:57 have a big equity ownership
+stake in that company.
+18:01 >> Okay, so moving on.
+18:02 We've now got a beautifully
+formed corporation
+18:06 in Delaware.
+18:07 Everybody's got their stock.
+18:09 It's all the, the plain
+vanilla standard paperwork.
+18:13 So, so then what?
+18:14 You know, probably the next
+stage of a company's life
+18:17 is needing to raise some
+money.
+18:19 So we're going to, we're going
+to talk a bit more about that.
+18:22 And you, and, you know,
+18:23 we know that you've already
+heard a lot from investors and
+18:26 from founders already in, in
+this set of classes.
+18:30 And they've been talking much
+more around the tactics and
+18:32 how to raise money but, what
+about the paperwork?
+18:35 What about when somebody
+actually agrees to
+18:37 invest, then what?
+18:38 So, first of all in terms of
+logistics,
+18:43 in very simple terms there are
+two ways to raise money.
+18:47 So, either the price is set
+for
+18:49 what the, the money that comes
+in or the price isn't set.
+18:53 And by price, we mean the
+valuation of the company it's,
+18:55 it's the same things.
+18:58 So rounds can't actually be
+called anything people can,
+19:01 can name them whatever they
+want.
+19:02 But generally if you hear the
+term,
+19:04 seed round, it would mean that
+the price has not been set,
+19:07 and anything that's a Series A
+or a Series B,
+19:10 would be something where the
+price has been set.
+19:14 So not setting the price is
+the most straightforward,
+19:17 fast route to getting money.
+19:20 And usually the way that this
+is done is through convertible
+19:23 notes or safes.
+19:27 And, again this is a two way
+transaction.
+19:29 So, there's a piece of paper
+that says, for
+19:31 example, that an investor is
+paying $100,000 now.
+19:35 And in return, has the right
+to receive stock at a future
+19:39 date when the price is set by
+investors in a priced round.
+19:45 So it's important to note that
+at, at the time the paper work
+19:48 is set, that investor is not a
+shareholder, and
+19:52 therefore doesn't have any
+voting rights on the company.
+19:55 They will have some other
+rights which Carolynn is
+19:58 going to talk about
+separately.
+20:01 Of course, investors want
+something in return for
+20:05 putting in money at the
+earliest,
+20:07 ie riskiest, stage of the
+companies life.
+20:10 And this is where the concept
+of evaluation cap comes in,
+20:14 which I'm sure many of you
+have heard mentioned before.
+20:18 So usually the documents for
+an un,
+20:21 unpriced round set a cap for
+the conversion into shares.
+20:25 And that's not the current
+valuation of the company
+20:29 it's actually an upper bound
+on the valuation used in
+20:32 future to use used in future
+to calculate how
+20:36 many shares that investor is
+going to get.
+20:39 So, for an example, an
+investor that invests $100,000
+20:43 on a safe with a $5 million
+cap.
+20:45 Then a year later the company
+raises a priced round with
+20:50 evaluation of, let's say $20
+million.
+20:55 And then the early investor
+would have a much,
+20:57 much lower price per share,
+about a quarter.
+21:01 And therefore that $100,000
+would buy them approximately.
+21:05 Four times more shares than an
+investor that was coming in
+21:08 and putting in 100,000 in that
+Series A priced round.
+21:13 So that's where they get
+their, their reward for
+21:16 being in early.
+21:19 So again, this is another
+situation where you need to
+21:22 make sure you have the signed
+documents and you,
+21:25 you know where they are,
+21:26 because different investors
+may have different rights.
+21:29 And so you need to know what
+those things are.
+21:32 And again services like Clerky
+can, can help with that.
+21:35 They have very standard
+documents that most of
+21:37 our YC companies use to raise
+money on.
+21:41 A couple of other things to
+think about when
+21:44 you are raising money.
+21:45 Hopefully you've got a really
+hot company that's,
+21:48 that's doing great and it's
+really easy to raise money.
+21:51 But you should be aware that
+all
+21:52 these people throwing money at
+you does have some downsides.
+21:57 So the first thing is to
+understand your
+22:00 future dilution.
+22:02 So if you raise, let's say,
+22:05 $2 million on safes with a
+valuation cap of $6 million.
+22:10 Then when those safes convert
+into equity, those early
+22:14 investors are going to own
+about 25% of the company.
+22:18 And that's going to be in
+addition to the investors that
+22:21 are coming in at that priced
+round,
+22:24 who may want to own 20% of the
+company.
+22:27 So you've already at that
+point given away 45% of
+22:30 the company.
+22:32 So is this really what you
+want?
+22:34 And, you know, the answer
+might be yes.
+22:38 Remember that some money on a
+low valuation cap
+22:41 is infinitely better than no
+money at all.
+22:44 And if those are the terms
+that you can get,
+22:45 then, then take that money.
+22:48 But it's just something to be
+aware of,
+22:50 and to follow through the
+whole process, so that you can
+22:52 see where this is going to
+lead you down the road.
+22:54 The other thing to bear in
+mind is that the invest,
+22:59 investors should be
+sophisticated.
+23:03 And by that we mean that they,
+they have enough money to be
+23:05 able to invest and that they,
+they understand that
+23:09 investing in startups is a
+risky business.
+23:12 You know we, we see so many
+companies coming into us that
+23:15 say, oh yeah, my, my uncle put
+money in, or my neighbor put
+23:18 money in, and they've put in
+$5 or $10,000 each.
+23:21 And often, those are the
+investors that
+23:24 cause the most problems going
+forward,
+23:27 because they don't understand
+how this is a long term game.
+23:31 And so, you know, they get to
+the point where they're
+23:34 sitting, thinking hm, I could
+actually do with that
+23:37 money back because I need a
+new kitchen.
+23:40 Or, you know this,
+23:41 this startup investing is not
+actually as exciting as
+23:44 all the TV shows and movies
+made it out to be.
+23:46 So, and those, those cause
+problems to the company,
+23:49 you know, if they're, they're
+asking for their money back.
+23:51 So, just be aware that, that
+you should really be
+23:54 getting money from people who
+are sophisticated and
+23:57 know what they're doing.
+23:58 And the term that you'll hear
+that, that refers to
+24:01 these people are that they are
+accredited investors.
+24:07 So really the main,
+24:08 the main points here is keep
+it simple, raise your
+24:11 money using standard documents
+keep, make sure that you have
+24:16 people who understand what
+they're getting into,
+24:18 and understand what you're
+getting into in terms of
+24:20 future dilution.
+24:23 >> Okay.
+24:25 So you're raising money, you
+understand what you're
+24:28 selling, you figured out the
+price,
+24:30 you've got down the logistics
+that Kirstie just described.
+24:33 But what you may find is that
+you don't understand some of
+24:36 the terms and terminology that
+your investors are using.
+24:39 And this okay, but
+24:42 you have a burden to go figure
+that stuff out.
+24:45 Don't assume that just because
+you've agreed on the valuation
+24:47 of the price that all the
+other stuff doesn't matter,
+24:50 because it does matter, and
+you need to know how these
+24:53 terms are going to impact your
+company in the long run.
+24:55 At Y Combinator Chris and
+24:58 I hear founders say all the
+time, I didn't know
+25:01 what that was, I didn't know
+what I was signing, you know?
+25:03 I, I didn't know I agreed to
+that.
+25:05 So, really, the burden is on
+you to figure this,
+25:07 to figure this stuff out.
+25:08 And we're going to go over
+four common investor requests.
+25:12 So, the first one is, board
+seat.
+25:14 Some investors will ask for
+25:15 a seat on your company's board
+of directors.
+25:18 And the investor usually wants
+to be a director,
+25:20 either because he or
+25:21 she really wants to keep tabs
+on their money.
+25:24 Or because he or
+25:25 she really thinks they can
+help you run your business.
+25:28 And you have to be
+25:28 really careful about adding an
+investor to your board.
+25:31 In most cases, you want to say
+no.
+25:34 Otherwise, make sure it's
+25:35 a person who's really going to
+add value.
+25:38 Having money is very valuable,
+but someone who really helps
+25:42 with strategy and direction is
+priceless, so choose wisely.
+25:47 The other thing, is advisors.
+25:49 There are so many people who
+want to give advice to
+25:52 startups, and so few people
+who actually give good advice.
+25:57 Once an investor has given
+your company money,
+25:59 that person should be a
+defacto advisor.
+26:03 But without any official
+title, and
+26:04 more importantly without the
+company having to
+26:06 give anything extra in return
+for the advice.
+26:10 So here's an example.
+26:12 At Y Combinator we've noticed
+that
+26:13 whenever a startup manages to
+garner a celebrity investor,
+26:16 the celebrity almost always
+asks to be an advisor.
+26:19 We have a company that
+provides on demand bodyguard
+26:22 services, and an MBA
+basketball player invested.
+26:27 Ask to be an advisor, and then
+asked to be given shares of
+26:30 common stock in exchange for
+the advisor services.
+26:33 And the services that this
+person had in mind,
+26:36 this investor had in mind,
+would be to introduce his
+26:37 company around to all the
+other professional basketball
+26:39 players who might want to use
+an on demand bodyguard.
+26:43 But, this celebrity just made
+a big investment.
+26:46 Shouldn't he want to help the
+company succeed anyway?
+26:49 Why does he need something
+extra?
+26:51 All investors who can help,
+should do so.
+26:55 Asking for additional shares
+is
+26:56 just an investor looking for a
+freebie.
+27:00 Okay, next we're going to talk
+about pro-rata rights.
+27:03 What are pro-rata rights.
+27:04 Some of you may have heard of
+this before.
+27:05 But, very simply its the right
+to maintain your
+27:09 percentage ownership in a
+company by buying more shares
+27:12 in the company in the future.
+27:14 Pro-rata rights are a way to
+avoid dilution, and
+27:18 dilution in this context means
+owning less and
+27:20 less of the company each time
+the company sells more stock
+27:23 to other investors.
+27:25 So, this is a really basic
+example but,
+27:28 say an early investor buys
+shares of preferred stock and
+27:30 ends up owning 3% of the
+company once the financing
+27:34 has closed.
+27:35 And the company raises another
+round of financing, and
+27:38 the company will go to this
+investor who negotiated and
+27:41 got pro-rata rights and say,
+hey, we're raising more money.
+27:44 So you're welcome to buy,
+27:45 you know, this many shares in
+the new round to keep your
+27:48 ownership at approximately 3%,
+27:50 that is pro-rata rights at
+their very most basic.
+27:52 So pro-rata rights are a very
+common request for,
+27:56 from investors, and they are
+not necessarily a bad thing.
+27:59 But you absolutely as
+28:00 a founder need to know how
+pro-rata rights work.
+28:04 Especially because, Kirstie
+touched on this a little bit.
+28:07 The corollary to an investor
+having pro-rata
+28:10 rights to avoid dilution,
+28:11 is that the founders typically
+suffer greater dilution.
+28:16 The final thing is information
+rights.
+28:19 Investors almost always want
+28:21 contractual information rights
+about,
+28:23 to get certain information
+about your company.
+28:26 Giving periodic information
+and
+28:28 status updates is not a bad
+thing.
+28:30 In fact at YC we encourage
+companies to
+28:32 give monthly updates to their
+investors, because
+28:34 it's a great opportunity to
+ask for help for
+28:37 your, from your investors,
+like introductions or
+28:39 help with hiring, that kind of
+thing.
+28:42 But you have to be really
+careful about overreach.
+28:45 And the investor who's saying
+they want like a month budget,
+28:48 or a weekly update, that's not
+okay.
+28:50 So the take-away here is that
+just because
+28:55 the type of financing and the
+valuation has been negotiated,
+28:60 doesn't mean that everything
+else is unimportant.
+29:02 You need to know everything
+about your financing.
+29:07 >> Okay, so then moving on to
+after you've got that money.
+29:11 You know, you've raised some
+money the, the company bank
+29:14 accounts probably showing more
+zeros than at,
+29:16 than you've ever seen in your
+life.
+29:18 So, so then what?
+29:21 This is where
+29:22 you actually start incurring
+business expenses.
+29:25 And business expenses are the
+cost of carrying out
+29:29 your business.
+29:30 So things like paying
+employees paying rent for
+29:34 an office, hosting costs,
+acquiring customers,
+29:37 that kind of thing.
+29:39 And business expenses are
+important,
+29:41 because they get deducted on
+the company's tax return
+29:45 to offset any revenues that
+are made to
+29:47 lower the taxes that the
+company pays.
+29:51 And on the flip side,
+29:52 if it's a non-business expense
+that the company incurs,
+29:55 then that is not deductible on
+the tax return, so
+29:57 that can increase the profits
+that the company then have to
+29:60 pay tax on.
+30:03 So, again, this is, this is a
+separation issue.
+30:06 The company will have its own
+bank accounts, and
+30:08 that's where the company's
+expenses should be paid
+30:11 out of.
+30:13 again, you know, thinking
+about this from a,
+30:15 from a large company, if you
+were working at Google,
+30:17 you would not use a Google
+credit card to buy
+30:20 a toothbrush and toothpaste.
+30:24 So the other thing to remember
+is that, you know,
+30:27 the investors gave you this
+money.
+30:29 They trusted you with all
+these huge amounts of, of,
+30:32 of money, and they want you to
+30:35 use that money to make the
+company a success.
+30:38 It's not your money for you to
+spend how you please.
+30:42 And believe me, we've had some
+horror stories of founders who
+30:45 take that approach.
+30:47 We had, we had one founder
+that we knew of who took
+30:50 investor money and went off to
+Vegas.
+30:53 And boy by his Facebook photos
+did he have a good time.
+30:57 Needless to say he's no longer
+with the company.
+30:59 But really this is, this is
+stealing from the investors.
+31:04 You know, think about it the,
+the concept of business
+31:08 expenses can get a little bit
+blurry especially in
+31:11 the early days when you're
+working outside,
+31:14 working in your apartment and
+your working 24 hours a day.
+31:18 But the way to think about it
+is,
+31:20 if an investor asked me what
+I'd spent their money on, and
+31:23 I have to give a line by line
+breakdown of that,
+31:26 would I be embarrassed about
+telling any of the,
+31:29 telling them what any of those
+lines were?
+31:31 And if you were, it's probably
+not a business expense.
+31:37 So, the other thing to bear in
+mind is that, you know,
+31:40 you're busy running your
+company at 90 miles an hour,
+31:43 just constant, constant.
+31:45 So you don't have to
+necessarily think about
+31:47 the bookkeeping and accounting
+at that point, but it's really
+31:50 crucial that you do keep the
+receipts, so that when you do
+31:55 engage a bookkeeper or a CPA
+to prepare your tax returns.
+31:59 They can unpick all of this
+and
+32:00 they can figure out what are
+business expenses and
+32:02 what aren't business expenses.
+32:05 But they're going to need your
+help as a founder, because
+32:07 they aren't going to know what
+all these things are.
+32:09 So, there is some involvement
+from you and the way to
+32:12 make the involvement the least
+amount possible,
+32:15 is to keep those documents in
+a safe place,
+32:17 so you can refer back to them.
+32:21 So, if nothing else that you
+remember do not go to
+32:24 Vegas on investors money and
+spend that money wisely.
+32:30 >> Okay, so in this section
+we're going to talk about just
+32:33 doing business and, we're
+going to hit a couple of
+32:38 couple of topics in this
+section.
+32:40 So the first one is founder
+employment.
+32:43 Why are we talking about
+founder employment?
+32:46 Because, as we said a couple
+times already,
+32:48 the company is a separate
+legal entity.
+32:50 It exists completely separate
+and apart from U.S.
+32:52 founders, and so no matter how
+prestigious we in
+32:55 the valley think the title
+founder is, you're
+32:58 really just a company employee
+and founders have to be paid.
+33:03 Working for free is against
+the law,
+33:04 and founders should not let
+their company take on
+33:07 this liability.
+33:08 You wouldn't work for
+33:09 free anywhere else, so why is
+your startup an exception?
+33:13 And companies have to pay
+payroll taxes.
+33:15 We had a YC company that
+completely blew
+33:18 off their payroll taxes for
+three years, it was a huge,
+33:23 expensive disaster, and
+33:24 in extreme cases, people can
+actually go to jail for
+33:26 that, fortunately not in this
+case, but it's bad.
+33:29 So the moral of this story is
+setup a payroll service.
+33:32 This is something that is
+worth spending your money on.
+33:35 But, and I actually I think,
+I'm sure some of
+33:38 the other lecturers have
+touched on this points, and
+33:40 actually Kirsty just mentioned
+too.
+33:41 Don't go overboard on lavish
+salaries, minimum wage this is
+33:46 still a startup and you have
+to run lean.
+33:49 So now I'm going to mention
+founder break ups,
+33:52 and first, well what is a
+founder break up?
+33:56 In this context I'm talking
+about one found,
+33:58 founder on the team being
+asked to leave the company.
+34:02 Which, because I've just said
+founders are employees,
+34:04 that means your cofounders are
+firing you.
+34:07 So why are we talking about
+breakups in the context of
+34:09 founder compensation, and it's
+because, at YC we have seen
+34:15 a ton of founder breakups and
+we know that the breakups get
+34:19 extra ugly when the founders
+haven't paid themselves.
+34:22 Why, how does it get ugly?
+34:25 Unpaid wages become leverage
+for
+34:27 the fired founder to get
+something he or she wants from
+34:31 the company, and typically
+that is vesting acceleration.
+34:34 So the fired founder says,
+hey,
+34:37 my lawyer says you broke the
+law by not paying me.
+34:41 But if you pay me, and
+34:42 you give me some shares that
+I'm not actually entitled to,
+34:46 I'll sign a release and make
+all this ugliness go away, and
+34:49 if you're the remaining
+cofounders,
+34:51 you're probably like, sounds
+like a good deal.
+34:54 And so now you have a
+disgruntled person who
+34:57 owns a piece of your company
+and even worse in a sense,
+34:59 the remaining founders are
+kind of working for
+35:02 that ex-founder, right?
+35:03 Because they're building all
+the value in the company and
+35:05 the ex-founder who got fired
+is just sitting there with
+35:07 their shares going, that's
+right, make it valuable.
+35:10 So, what's the takeaway here?
+35:13 Avoid problems by paying
+yourself, paying your
+35:16 payroll taxes, and thinking up
+of your co-founder's wages
+35:20 like a marital prenup.
+35:23 >> And as well as the
+founders,
+35:25 you are going to need to hire
+employees.
+35:27 And again, a lot's been spoken
+in previous,
+35:29 in previous classes here about
+how to find those people,
+35:33 what makes a good fit,
+35:34 how to make them really
+productive employees.
+35:36 But when you actually find
+somebody, how,
+35:38 how do you hire them?
+35:39 You know, what's, what's
+involved?
+35:42 And employment is governed by
+a huge raft of laws, and
+35:46 therefore it's important to
+get this right.
+35:49 It's again the kind of
+nitty-gritty stuff that as
+35:52 long as you know the basics
+you can probably keep yourself
+35:54 out of most situations, but as
+soon as things get complicated
+35:58 you need to get yourself
+involved with a specialist.
+36:02 So the first thing you need to
+do is figure out if
+36:05 the employee or
+36:06 if the person is really an
+employee or a contractor, and
+36:10 there are subtle differences
+to this classification.
+36:13 And this is important to get
+right because the IRS
+36:16 takes a big interest in this
+and if they think you've got
+36:20 it wrong they will come after
+you and with fines.
+36:23 Both an employee and a
+contractor will sign documents
+36:27 that assign any IP that they
+create to the company, and
+36:30 that's obviously really
+important.
+36:33 But the, the form of the
+document is very different for
+36:36 each, each type of person and
+36:38 the method of payment's very
+different.
+36:41 So generally, a contractor
+will be able to set their own
+36:45 work hours, they'll be able to
+set their own location.
+36:48 They will be given a project
+where there is an end result,
+36:51 but how they actually get to
+that and
+36:53 the means they use will, will
+not be set.
+36:56 They'll be using their own
+equipment, and
+36:58 they'll not really have any
+say in the day to day running
+37:01 of the company or their
+strategy going forward.
+37:06 And a contractor will sign a
+consulting agreement, and
+37:09 when the company pays them,
+37:11 the company doesn't withhold
+any taxes on their behalf, and
+37:15 that's on the responsibility
+of the individual.
+37:18 But at the end of the year,
+the company will
+37:21 provide what's called a form
+1099 to the individual and
+37:25 also a copy to the IRS which
+they'll use to
+37:28 prepare their personal tax
+returns.
+37:33 The opposite side of this is,
+37:34 is an employee, and an
+employee will
+37:37 also sign some form of IP
+assignment agreement.
+37:41 But when the company pays
+them,
+37:43 the company will withhold tax,
+taxes from their salary, and
+37:47 then the company is
+responsible for
+37:48 paying those taxes over to the
+relevant State and
+37:51 Federal authorities.
+37:54 And at the end of the year the
+employee receives what,
+37:57 a W-2 form, which will then
+get used to prepare their
+38:00 personal tax returns.
+38:03 So, as Carolina said, the
+founders need to be paid so
+38:06 do employees, it isn't enough
+to just say well I'm
+38:09 paying them in stock so that
+can be,
+38:11 that can be their, their
+compensation,
+38:13 and they need to be paid at
+least minimum wage.
+38:17 So, in San Francisco which
+actually has a slightly
+38:20 higher minimum wage than, than
+California as
+38:23 a whole that works out to
+about $2000 a month, so,
+38:27 you know, it's not a huge
+amount, but it, it can add up.
+38:31 There's also another couple of
+things that you need to be,
+38:34 you need to make sure that you
+have, if you have employees.
+38:38 So, the first thing is that
+you're required to
+38:40 have workers' compensation
+insurance, and
+38:43 especially if you're in New
+York
+38:45 where the New York authorities
+that look after this will send
+38:49 really threatening letters
+saying you owe $50,000 in
+38:52 fine because your one employee
+that's being paid minimum wage
+38:56 is not paid the $20 a month
+workers compensation fees.
+38:60 So it is really important that
+you do, you do set that up,
+39:03 and the other thing that's
+very important is that you
+39:06 do need to see proof that the
+employee is authorized to work
+39:10 in the U.S. you know, founders
+are not payroll experts and
+39:16 nobody expects you to be one
+either.
+39:18 This is all just about the
+basics, but
+39:20 what that does mean is that
+you absolutely must use
+39:24 a payroll service provider who
+will,
+39:27 who will be able to look out
+after this for you,.
+39:29 And services like Zen Payroll
+are again set up, they're
+39:32 focused on start ups and they
+help you get this set up in
+39:35 the easiest way possible, so
+that again you can go back and
+39:39 concentrate on, on what you do
+best.
+39:42 And in the example that
+Caroline gave just a few
+39:44 minutes ago, if that company
+had actually set themselves up
+39:47 with a payroll service
+provider,
+39:49 all of that heartache would
+have gone away because it
+39:52 would all of just been looked
+after for them.
+39:54 They were trying to save money
+by not doing it and
+39:56 look where it got them.
+39:60 So that's, that's really the
+key thing,
+40:01 use, use a payroll service
+provider and
+40:04 make sure that you understand
+the basics of employment.
+40:06 >> We're running short on
+time.
+40:08 Yeah okay, so
+40:09 I can breeze really fast
+firing employees slide and
+40:13 then should, or should we cut
+it off now for questions?
+40:17 What?
+40:17 >> Why don't we do firings
+real fast?
+40:19 >> Okay.
+40:19 Okay.
+40:21 Okay, so somebody at YC once
+said you're not
+40:24 a real founder until you've
+had to fire somebody.
+40:26 Why is that?
+40:27 Because firing people is
+really hard.
+40:30 It's hard for a lot of reasons
+including because
+40:32 founders tend to hire their
+friends.
+40:34 They tend to hire former
+coworkers, or
+40:37 they just get really close to
+their
+40:38 employees because working in a
+startup is really intense.
+40:41 But in every company there is
+going to
+40:42 be an employee who doesn't
+work out.
+40:45 And firing a founder, sorry,
+firing this employee
+40:48 makes a founder a real
+professional because he or
+40:50 she has to do what is right
+for
+40:52 the company instead is what is
+easy.
+40:54 So I have some best practices
+for
+40:58 how to fire someone number
+one, fire quickly.
+41:02 Don't let a bad employee
+linger.
+41:04 It's so easy to put off the
+difficult conversation but
+41:06 there is only downside to
+procrastination.
+41:09 If a toxic employee stays
+around too
+41:11 long, good employees may quit,
+and if the employee's actually
+41:14 screwing up the job, you may
+lose business or users.
+41:18 Number two, communicate
+effectively.
+41:20 Don't rationalize, don't make
+excuses,
+41:22 don't equivocate about why
+you're firing the employee,
+41:25 make clear, direct statements,
+don't apologize.
+41:29 Example, we're letting you go.
+41:31 Not, I'm so sorry,
+41:33 sales didn't take off this
+quarter, blah, blah, blah.
+41:36 Fire the employee face to face
+and
+41:38 ideally with a third party
+present.
+41:41 Number three, pay all wages
+and
+41:43 accrued vacation immediately.
+41:45 This is a legal requirement.
+41:47 We don't debate or negotiate
+this.
+41:49 Number four, cut off access to
+digital systems.
+41:53 Once an employee is out the
+door, cut off physical and
+41:56 digital access.
+41:57 Control information on,
+41:58 in the cloud, change
+passwords, et cetera.
+42:01 We, we had a situation at YC
+where one founder.
+42:03 Had access to the company's
+GitHub account and held
+42:06 the password hostage when his
+cofounders tried to fire him.
+42:10 And number five,
+42:12 if the terminated has any
+investitures,
+42:14 the company should repurchase
+them right away.
+42:17 So, the take-away here is that
+is as surprising as this
+42:21 may sound.
+42:22 One of hallmarks of a really
+effective start-up founder is
+42:25 how well he or she handles
+employee terminations.
+42:29 okay.
+So
+42:30 then, we had this section that
+we called legitimacy,
+42:33 which actually going to, goes
+into a little bit more about,.
+42:37 You know, how to be, how to be
+a real company.
+42:38 How to be sort of a grown up
+company.
+42:40 And we can totally jettison-
+42:41 >> Is this the last slide?
+42:46 >>
+>> No.
+42:46 >> We have our take-aways-
+42:47 >> Take away the last slide.
+42:49 >> Take-aways.
+42:50 >> Okay.
+So, Chris,
+42:51 you want to read the
+take-aways?
+42:52 >> Okay, so, we've,
+42:53 we've pretty much covered all
+of these anyway.
+42:56 But, you know, the basic,
+42:58 the basic tenet to all of this
+is, keep it simple.
+43:01 Do all the standard stuff.
+43:03 And keep it organized to
+43:04 make sure you know what you're
+doing.
+43:06 Equity ownership is really
+important.
+43:08 So make sure that you're
+thinking about the future
+43:11 rather the three months of the
+history of the company.
+43:14 A stock doesn't buy itself, so
+43:16 again, make sure you do the
+paperwork for that.
+43:20 Make sure that you actually
+know about
+43:21 the financing documents that
+you're signing up to.
+43:24 It's not enough to just say,
+yeah, I'll take your 100k.
+43:26 Make sure you actually know
+those rights.
+43:29 And you need to get paid.
+43:31 You and the employees need to
+be paid.
+43:34 And then, everybody needs to
+assign IP to the company.
+43:37 Because if the company does
+not own this IP,
+43:40 there is no value in the
+company.
+43:44 If an employee must be fired,
+then as Carolyn,
+43:47 as Carolyn was saying, do it
+quickly and professionally.
+43:52 The couple of things,
+43:53 that we didn't mention, was
+knowing your key metrics.
+43:56 At any time, you should know
+the cash position,
+43:59 you should know your burn
+rate,
+44:01 you should know when that cash
+is going to run out.
+44:04 So that you can talk to your
+investors, about that, and,
+44:07 you know.
+44:09 A lot of running a company is
+following the rules and
+44:12 taking it seriously.
+44:13 It's not all the glamorous
+bits that we see in
+44:16 all the movies and
+44:17 TV shows, so you do have to
+take that seriously.
+44:21 >> Okay.
+44:22 So, it was shorter when we did
+it the first time.
+44:25 >> That's right.
+44:27 >> Sorry about that!
+44:28 >>
+>> Sorry.
+44:29 >> If you could get like,
+44:29 two questions in there?
+44:30 >> Sure.
+>> Yep.
+44:31 How do you advise
+44:32 searching for an accountant?
+44:33 And when in the process do you
+need them?
+44:36 >> So there's two.
+44:37 So, the question was how do
+you advise searching for
+44:39 a, an accountant?
+44:40 And when do you.
+44:42 When, at what point do you do
+this?
+44:44 So, there's two different
+things.
+44:45 There's a bookkeeper and
+there's a CPA, an accountant.
+44:49 And generally, bookkeepers
+will be the ones who
+44:51 can categorize all your
+expenses.
+44:53 And CPAs are the ones that
+will prepare you tax returns.
+44:56 In the very, very early days,
+it's probably fine for
+45:01 the founders to just be able
+to see the bank statements and
+45:04 to be able to see those
+expenses coming out.
+45:06 But tax returns have to be
+prepared annually.
+45:09 And so, at some point in that
+first year of the company's
+45:12 life, some service is going to
+need to be.
+45:17 Engaged to do that,
+45:18 because it's just not worth
+the founder's time to do it.
+45:21 There are services available,
+45:22 like inDinero, which kind of
+try to, to make things as
+45:28 effortless as possible from
+the founder's point of view.
+45:31 So that kind of thing is quite
+useful, but
+45:33 you do need to get a CPA at
+some point.
+45:35 Because you need to
+45:36 file your annual tax returns
+for the company.
+45:38 >> And how do you find one?
+45:41 >> Finding one is kind of
+tough.
+45:42 Probably the best thing is
+recommendations from people.
+45:47 With, with any kind of
+specialist, a CPA or an
+45:50 account a lawyer, or anything
+like that, it's always best to
+45:52 use people who are used to
+dealing with startups.
+45:55 Again, not your, sort of, you
+know, your aunt who lives in
+45:58 Minnesota and doesn't actually
+know how startups work.
+46:02 So, probably recommendations
+are the best way.
+46:07 Sure.
+46:10 >> Considering what's in a
+budget for
+46:11 you know incorporating the
+lawyer for
+46:13 getting legal advice for
+46:14 my first seed round and then
+for hiring the first employee.
+46:17 Money for that
+>> So,
+46:21 in terms of incorporation,
+don't spend a dime on that.
+46:24 You can do that online.
+46:25 >> Well, I, actually, I'm
+sorry.
+46:26 It does cost a little bit.
+46:27 >> It just costs, yes.
+46:28 >> Incorporating online using
+a, a, a service like Clerky,
+46:32 which Kirsti mentioned, is
+inexpensive,
+46:34 like in the hundreds, not in
+the thousands.
+46:37 So you don't need a lawyer for
+that part.
+46:39 When you actually need to hire
+a lawyer is,
+46:41 it kind of depends on what
+business you are starting, and
+46:45 how complicated it is in terms
+of, you know,
+46:48 do you have a lot of privacy
+policies, do you, is
+46:51 HIPA involved, I mean you can
+imagine, there's like a ton.
+46:54 And so, and also when then you
+46:55 mention when you're raising
+your seed around.
+46:57 Well, how much money are you
+raising and
+46:59 who are the investors and
+47:01 what kind of terms are in the
+term sheet?
+47:03 Sometimes that dictates
+whether or
+47:04 not you need to get legal
+council.
+47:05 >> And again, a service like
+can help if you're just
+47:09 using very standard documents
+for the fundraising.
+47:12 There are very basic, vanilla
+fundraising documents so,
+47:15 you can use those.
+47:16 And again, they, they cost you
+know, less,
+47:19 less than $100, I think, which
+can save you some legal fees.
+47:25 One more question.
+47:27 >> Do you want to take?
+47:28 Should we go back over this
+side?
+47:30 I'm going to ignore good luck.
+47:31 Let's go over here.
+47:32 >> Do you guys have any advice
+or
+47:33 comment on the complexity that
+comes with working with
+47:36 cryptocurrencies or
+cryptoequities in particular?
+47:39 Like your fundraising, since
+that's becoming more and
+47:42 more popular.
+47:43 Oh, wow.
+That's a tough
+47:44 question to end with.
+47:46 yes.
+There are,
+47:46 there are some issues.
+47:48 Often banks will struggle to
+deal with,
+47:50 with companies that are
+working cryptocurrencies.
+47:52 Because they haven't quite
+figured out how to,
+47:55 to deal with it, and, and that
+sort of thing yet.
+47:58 generally, a lot of it,
+47:59 it, it's, it's very
+product-specific.
+48:01 It, it's not something that
+kind of
+48:03 has real general advice
+unfortunately.
+48:10 >> Okay.
+48:11 Thank you very much.
+48:12 >> You're welcome.

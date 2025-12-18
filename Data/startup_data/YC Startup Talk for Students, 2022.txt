@@ -1,0 +1,633 @@
+00:01 [Music]
+00:10 so a little bit about me I'm a former YC
+00:13 founder I've worked at startups
+00:15 basically my entire career both small
+00:17 ones and large ones and me and my team
+00:19 run YC's work at a startup which is a
+00:22 hiring platform a great way to find a
+00:24 job and we'll be touching upon that a
+00:25 little bit more in a bit
+00:27 if you don't know about YC we help
+00:29 startups get their early start and just
+00:33 to name a few of the companies that have
+00:35 gone through YC Dropbox this is Ashton
+00:38 and one of the founders in the very very
+00:40 early days you know kind of your garage
+00:43 moments stripe when it was a little
+00:45 further along where there's like a team
+00:46 of eight or ten
+00:48 um Airbnb when they were working out of
+00:50 their own apartment and instacart so we
+00:53 work with startups when they are two to
+00:56 three people just the founders and there
+00:58 are a number of ways in which we help we
+00:59 talk about three things that are the
+01:01 hardest things about starting a startup
+01:02 they are building a product and making
+01:05 something people want raising money and
+01:07 hiring a team so I framed this a little
+01:09 bit from your input but also what I wish
+01:12 I knew way way way back when along my
+01:15 career even coming out of college you
+01:17 know a lot of people ask what's the best
+01:18 way to learn about startups but one of
+01:20 the best ways to actually learn about
+01:21 startups is to just go work at one right
+01:24 you're not going to be able to
+01:25 experience that unless you really go
+01:27 find one that is interesting you you
+01:29 find one where you get along with the
+01:31 founders and you work at one if you have
+01:33 multiple years to try different things
+01:35 then going and working it in startup is
+01:38 one way to learn about startups with a
+01:39 very low risk if there's
+01:41 um anybody who would be a postage child
+01:43 for this for better or worse it's me I
+01:46 was an early engineer at Salesforce I
+01:47 graduated from college and I got the
+01:51 chance to join you know a seven person
+01:53 team work with the founders work with
+01:55 Mark benioff and work with this
+01:56 gentleman right here Parker Harris he's
+01:58 one of the co-founders of Salesforce he
+02:00 taught me a lot about just full stack
+02:03 engineering about running teams about
+02:04 managing people and I really got to work
+02:07 with someone who's very very experienced
+02:09 so I got to be pretty darn Technical and
+02:11 build the apps top to bottom and that's
+02:13 something that you get to do at a
+02:14 startup from there I then got to be an
+02:18 engineer at a company called Zora and
+02:19 within a year I ran the engineering team
+02:21 and you know one thing that we say about
+02:23 working at startups is we're going to
+02:25 start up sometimes meetings you get more
+02:27 responsibility than you deserve and so
+02:29 in this case I got to run an engineering
+02:31 team in China I got to manage this
+02:33 gentleman named Lei Jin who was just one
+02:35 of the most talented Engineers I'd ever
+02:38 met with and sometimes I'm like you
+02:39 could be my boss but I'm glad that we're
+02:41 doing this together and I felt in some
+02:43 ways over my skis but you know I grew a
+02:46 ton through that experience and that's
+02:47 what working at startup often gives you
+02:49 this is a picture of me with the head of
+02:51 engineering at Lyft and that woman Amy
+02:54 Farrow who is amazing CSO at one point
+02:57 of Lyft and so I got to work with these
+02:59 two people to help take a company public
+03:01 and the last thing is I started my own
+03:03 startup in YC this is me and my
+03:05 co-founder Kendall at the YC office back
+03:07 in the day when we did our stuff he got
+03:09 like 125k or something like that and now
+03:12 YC is getting half a million dollars
+03:14 half a million dollars to start doing
+03:15 you got a great idea and you're really
+03:17 passionate about it all right so a lot
+03:20 of people don't know how startups are
+03:22 different from Fang
+03:23 um or don't know enough about startups
+03:25 and channels so I want to share some of
+03:27 the things and like both the good and
+03:28 the bad a fan companies a lot of times
+03:31 you have Specialists right and that's by
+03:33 Design because if you literally have
+03:36 five thousand eight thousand ten
+03:37 thousand a hundred thousand people at a
+03:39 company you don't get the bigger picture
+03:41 you don't get to see how the business is
+03:43 doing you don't get to understand 360
+03:45 all the things that are going on
+03:47 um startups they tend to hire
+03:49 generalists people who are willing to
+03:51 wear many hats the one caveat I've seen
+03:54 to that is that in order to compete as a
+03:57 startup oftentimes they start in a very
+03:59 specific Niche and so we have motion
+04:01 detection motion image creation API or
+04:04 API startups that need Specialists that
+04:07 meet people in deep machine learning and
+04:09 so forth and when we say generalists
+04:11 it's like well can you also put together
+04:12 a website because we might need you to
+04:13 have a landing page so people can sign
+04:15 up
+04:15 paying companies have lots of customers
+04:18 billions of customers high impact but
+04:20 that high impact is like potentially a
+04:22 small impact across those billions of
+04:23 customers where's the startups you have
+04:25 fewer companies but you get to know the
+04:27 com customers and you have a very deep
+04:28 impact right it starts you get to talk
+04:30 to the customers you get to understand
+04:31 what they want and build what they want
+04:34 things definitely has lower visibility
+04:36 slower decision making there's a whole
+04:38 organizational structure or chart
+04:40 convincing politics I saw that at
+04:42 Twitter and I saw that at Lyft and it's
+04:44 not a bad thing that's what it takes to
+04:46 run an organization at that scale but
+04:48 versus startups higher visibility faster
+04:50 decision making process you get to see
+04:52 the creation that you make like the next
+04:54 day because you can ship it
+04:57 mentorship is kind of toss-up I think
+04:59 mentorship is not a function of like
+05:00 large company or small company it's a
+05:02 matter of who you'll be working with so
+05:04 it's up to you to learn who you'll be
+05:06 working with and to in some ways
+05:07 interview the people interview your
+05:09 manager to know what projects will I be
+05:11 working on what things do you think are
+05:13 interesting what are you an expert at
+05:14 that by the end of my summer internship
+05:16 or by working with you for two years am
+05:17 I going to learn bang is low risk uh you
+05:21 know there's no doubt about that
+05:22 especially in this economy that said
+05:24 some of them are having layoffs and
+05:26 that's hard to track and startup sites
+05:28 here low to medium risk people say that
+05:30 startups are high risk and I will say
+05:32 that if you're a Founder yes it's high
+05:34 risk could you pick the right one low
+05:36 medium if you pick one that's like later
+05:37 staged and growing and we'll share some
+05:39 of those not really risky at all and
+05:41 another consideration because it's not
+05:43 just you in a vacuum uh fan companies
+05:45 you know your family will be very very
+05:47 happy and it's startups your family
+05:49 might not be so happy unless it takes
+05:51 off
+05:52 hard to determine and then they're gonna
+05:54 be stoked so how do you choose a startup
+05:56 but one of the things is trying to find
+05:58 the right stage startup for you right
+06:00 not all startups are the same they get
+06:02 lumped into a bucket people think that
+06:04 the startup that you saw on Silicon
+06:06 Valley is what a startup is and I think
+06:09 we're here to debunk a bit of that myth
+06:10 and help you find one that might be good
+06:11 for you
+06:13 we talk about startups in these four
+06:15 categories one is the seed stage startup
+06:17 and this is the one that's most close to
+06:19 the TV show Silicon Valley it's
+06:21 pre-product they might not have
+06:23 customers pre-revenue you know our
+06:25 startups raise one five million dollars
+06:28 so if you're trying to work at a startup
+06:30 um they can pay your salary uh the only
+06:33 challenges that like you know is a five
+06:36 person a two-person startup a good fit
+06:38 for you maybe maybe not
+06:40 um in the case of I think it was Kyle at
+06:44 Cruz he used to work at twitch and I
+06:47 think he was like fresh out of college
+06:48 and he was one of the first early
+06:49 employees
+06:51 um he thought it was a good fit but not
+06:52 everyone is a good fit for these early
+06:54 early stage companies also early stage
+06:56 companies are looking for engineers a
+06:58 bit more of a jack of all trade and
+07:00 sometimes Ops so if you're looking for
+07:02 Ops roles or something that is more like
+07:04 operational
+07:06 um imagine instacart in the early days
+07:08 they need people running around doordash
+07:10 they need people running around doing
+07:11 deliveries talking to restaurants right
+07:14 um it's a matter of you selling what you
+07:17 can do for them but like they're those
+07:18 opportunities where operations keep a
+07:20 good fit you know you have fewer sales
+07:22 you have fewer product roles and that's
+07:24 because we tell the founders to do it
+07:25 themselves
+07:28 serious days where it gets a little
+07:29 bigger
+07:30 um it's where they've raised maybe five
+07:33 to twenty million dollars we can see
+07:35 some that are like 30 or 40 at this
+07:36 these days
+07:38 um you know the companies are a little
+07:40 larger there is a hint of something
+07:43 possibly working and that's like a hint
+07:45 called Product Market fit like does the
+07:48 product actually have customers and is
+07:50 there enough demand that instead of you
+07:52 trying to get it out there pushing
+07:53 people your products selling people our
+07:55 product the entities actually pulling
+07:57 you along with it uh you're getting
+07:59 inbound calls and asks to like hey can I
+08:02 use your product hey can I you know
+08:03 where do I pay for this thing and then
+08:06 we have two other categories of which
+08:08 are growth and scale
+08:09 um growth is definitely where this
+08:11 product Market fits so it's like how do
+08:12 we get all the customers that we know
+08:14 that are out there using our products
+08:15 maybe it's 50 to 500 people and this is
+08:17 where they're hiring for like so many
+08:19 roles Ops customer support more
+08:21 specialization and scale is Market
+08:23 expansion we usually think like going
+08:24 International or using Partnerships to
+08:26 like find new ways to get new customers
+08:27 members 500 people you're getting like
+08:30 half a billion dollars of investment and
+08:33 they're hiring for everything
+08:35 okay if you're able to get a job what
+08:37 should you focus on at your job slash
+08:39 internship the number one thing number
+08:42 one thing I say is understand the
+08:43 business and measure your impact too
+08:45 many people go in and don't know
+08:46 anything about the business don't want
+08:48 to know anything about your business and
+08:49 that's a missed opportunity especially
+08:50 if you're at a startup and the second
+08:52 thing is if they give you something
+08:53 media to work on you want to be able to
+08:54 measure that so you can put it back on
+08:56 your resume for your next job that
+08:58 you're trying to land right and why
+08:59 wouldn't you want to know that you're
+09:00 actually having a positive contribution
+09:02 so Roll by roll if you're in marketing
+09:05 you know your responsibility is you're
+09:08 supposed to build a pipeline for sales
+09:09 or growth so the more that you can
+09:11 measure the number of companies you
+09:13 reach out to the number that actually
+09:14 connect and the number that go into a
+09:16 sales funnel or if you're going out and
+09:19 doing you know driver acquisition for
+09:21 doordash or Lyft the number of people
+09:23 that you talk to a number of Flyers you
+09:25 hand out the number that converts to an
+09:27 actual user and the number that actually
+09:28 activate and drive marketing is about
+09:30 pop a funnel and that's what you should
+09:32 be measuring please do not make it about
+09:34 social and about Instagram and the
+09:37 number of posts the number of likes
+09:38 unless it converts in a way that you can
+09:40 measure right
+09:42 sales is about Revenue you are trying to
+09:45 get sales for the company if you can get
+09:47 people to buy and pay then that's where
+09:51 sales is that's where your role of sales
+09:52 is going to shine
+09:54 products and I'm not going to be late at
+09:56 this point there are different types of
+09:57 product roles there are different types
+09:59 of things that product people do but
+10:01 ultimately if you were a mini CEO you
+10:03 care about the growth of the business
+10:04 maybe that's the conversion funnel of
+10:06 the number of people that turn into
+10:07 drivers and help you make money maybe
+10:09 it's retention because they're using the
+10:11 product over and over again and you're
+10:13 an ads company so that means that
+10:14 eyeballs equals ad revenue or maybe it's
+10:17 literally just about revenue and so
+10:19 product is a bit the most variant
+10:21 because it really is tied to again
+10:23 understanding the business and making
+10:24 sure that you are measuring and
+10:25 improving the business
+10:27 engineering it's about impact and this
+10:30 is a tricky one because I think
+10:31 Engineers are the only ones who can work
+10:33 at a company not have an impact and
+10:35 still get promoted because they did what
+10:36 the product manager said even if the
+10:38 product manager was wrong sounds crazy
+10:40 but it's true
+10:41 um that said even still focusing on the
+10:44 impact that you're having to the
+10:45 business impactingly having the systems
+10:47 making them more efficient processing
+10:48 more tickets whatever the case might be
+10:51 will benefit you because then you can
+10:53 say that you have a demonstrable impact
+10:55 to the product you understand that and
+10:57 startups love that kind of stuff
+10:58 startups love people who can understand
+10:60 the product understand the business talk
+11:01 to customers because it just helps
+11:04 things move faster versus like oh you
+11:06 need to build a PRD and then we're going
+11:07 to split this up over like the next nine
+11:09 months in order to build these things
+11:10 and if we're wrong oh it's not my fault
+11:11 that's not where if that's how you want
+11:13 to work and that's how you're used to
+11:14 working at larger companies definitely
+11:16 don't work at a startup
+11:18 if you're working in support and some
+11:19 people like it's a great first job you
+11:21 can be the first person to support and
+11:22 then I'm running all the support at a
+11:23 large later Stage Company NPS which is
+11:26 net promoter score how many of your
+11:28 customers actually love what you're
+11:29 offering number of responses or percent
+11:31 responses in 24 hours
+11:33 um how can you make process or system
+11:35 improvements so you can actually process
+11:36 more requests with the same size team or
+11:39 you can process them faster which
+11:40 improves MPS or retention you know maybe
+11:43 there's a correlation between good
+11:45 support and actually reducing customer
+11:47 churn
+11:48 now let's go a bit more into starting
+11:49 your own company with YC has these very
+11:52 three basic startup principles make
+11:55 something people want right uh
+11:59 it seems obvious but when you start
+12:02 working on a startup
+12:04 um it's tempting to follow side paths or
+12:07 side quests sort of think hey maybe if
+12:09 we pull on this little thing we'll
+12:12 unlock all these other users
+12:14 um but then you lose your focus on
+12:15 making something that people want and
+12:17 you find yourself three six months later
+12:19 you that you don't even remember what
+12:21 you were starting to start for in the
+12:22 first place so number two talk to your
+12:25 users talk to your users if you're lucky
+12:27 to have users even before you have users
+12:29 talk to them understand what problem it
+12:32 solves understand the pain Point
+12:33 understand how they feel iterate with
+12:36 them on a regular basis to get a sense
+12:38 of like whether or not you're getting
+12:39 closer and closer what they want
+12:42 um and never stop talking to them and
+12:44 the last thing is do things that don't
+12:45 scale right talking to users does not
+12:47 scale sending emails to all the students
+12:49 on here does not scale but I do it
+12:51 because I want to get feedback I want to
+12:53 understand what you're looking for and
+12:54 how it can help and be able to crack
+12:56 slides and talking points that are
+12:59 useful to you we'll take a case study
+13:00 Airbnb I don't know if you guys have
+13:02 seen these slides or anything like it
+13:04 before at this point everyone knows what
+13:05 Airbnb is but this was their first
+13:07 website it was hyper hyper Niche it was
+13:11 actually a website for sharing a air bed
+13:14 and maybe breakfast for a design
+13:17 conference on what is it October
+13:19 something 2007 right in San Francisco
+13:23 this is the website it almost looks more
+13:26 like a marketing website than an actual
+13:28 app the V2 was actually just a place
+13:31 where people could post almost on a
+13:33 Google spreadsheet and this is what it
+13:35 looked like you know this is an actual
+13:37 like early air bed and breakfast
+13:39 experience and you know
+13:42 a lot of people think that you have to
+13:44 have a ton of stuff built you have to
+13:45 have the whole product you just need to
+13:47 have the hustle and the grit to get the
+13:50 proof that this might be a real thing
+13:53 all right why does YC look for in a
+13:55 startup and I'll share some things
+13:58 um and an oversimplified version but
+13:60 number one is domain experience and a
+14:04 passion for an industry
+14:06 if you start a startup you got to be
+14:08 willing to Duke it out for 10 years you
+14:10 got to be willing to work with the same
+14:12 team or the same Founders for like five
+14:14 to ten years and so having that passion
+14:17 for the industry passion of like wanting
+14:19 to work with your friends and especially
+14:21 domain experience because maybe that
+14:22 gives you an advantage are things that
+14:24 are super helpful for you to have and be
+14:27 an expert on when you start a startup
+14:29 otherwise you're competing with people
+14:30 who probably already have this
+14:31 experience anyway
+14:33 let's see also likes technical members
+14:35 of the team but there's a question mark
+14:37 there because in the past it used to be
+14:39 really really helpful to have a startup
+14:42 where it is all technical team one of
+14:44 the reasons is you can live longer if
+14:46 you're burning money you're burning less
+14:48 money if everyone is technical
+14:49 especially if you have to Pivot and
+14:51 start over again we have people who are
+14:53 founders and their sales experts and
+14:56 they know so much about the sales
+14:57 process and they've already made 10
+14:59 million dollars in annual recurring
+15:01 revenue and then hiring an engineering
+15:03 team once they've raised 20 million
+15:04 dollars is a lot easier so we have a lot
+15:07 of startups now that are non-technical
+15:08 and if you are not Technical and looking
+15:10 for a Founder you should check out
+15:12 startup school which is run by YC and we
+15:14 have this program called co-founder
+15:16 matching that might help you find a
+15:17 tactical founder
+15:19 do you need a prototype it turns out
+15:21 that you don't need a prototype but the
+15:23 question mark slash caveat is it's if
+15:27 you're passionate about the idea and
+15:29 you're technical why haven't you built a
+15:32 prototype to try it out to go to
+15:35 customers to get feedback to iterate
+15:38 I'll play another thing that YC is not
+15:41 looking necessarily for the next billion
+15:42 dollar business we're looking for strong
+15:45 Founders who can build things who can
+15:46 talk to customers who can iterate
+15:47 quickly and eventually grow into a
+15:49 billion dollar business right and it
+15:51 sounds weird but this is a team that did
+15:54 it it's a team called stagnant and their
+15:56 first
+15:57 product actually which targeted at
+16:00 professors at universities and they
+16:03 found out that professors hated it
+16:05 professors said I couldn't tell if
+16:08 students were looking at Facebook or
+16:09 paying attention to me so the team went
+16:11 back to YC these four gentlemen said oh
+16:15 we learned that we needed to build a lot
+16:16 of analytics a lot of instrumentation to
+16:18 understand whether or not our product
+16:20 was useful
+16:21 and then they said why don't you go
+16:22 build that as a product and ship it they
+16:24 launched on Hacker News it blew up the
+16:27 GitHub repo got so many pull requests
+16:29 they came back to yct all of YC ended up
+16:31 using it and they started building a
+16:32 real business and a few years ago they
+16:34 sold it for six billion dollars to
+16:36 twilio those are the types of things
+16:38 that we're looking for in YC Founders a
+16:40 lot of great a lot of determination
+16:41 talking to users learning quickly and
+16:43 being willing to iterate as necessary
+16:48 um how do you learn more about startups
+16:51 mentioned this before but they're
+16:53 startup School startup school is almost
+16:55 like a pre-wyc you go on to Startup
+16:57 school and you can take your idea and
+17:01 run it through the program there's
+17:02 software to help keep you accountable in
+17:05 terms of your metrics your analytics
+17:07 there's lectures both live and recorded
+17:09 to help you think about product users
+17:12 getting more users whether or not you're
+17:14 on something or whether or not you
+17:15 should start over and now startup school
+17:17 also has tools to help you find a
+17:19 co-founder if you want to learn more
+17:21 about startups but you maybe don't have
+17:23 an idea or you're like on that cost
+17:24 definitely check out startup school and
+17:26 all the content there
+17:28 and then there's work at a startup right
+17:30 we talked about working at a startup to
+17:32 learn more about startups YC runs a job
+17:34 platform with I think 800 plus companies
+17:38 6 000 jobs
+17:39 and you know working at a startup might
+17:42 actually help you start your own startup
+17:44 one day if that's your interest does
+17:46 anybody know just in the chat any of
+17:48 these people at all whatsoever
+17:50 uh Brian Armstrong is the founder of
+17:52 coinbase he used to work at Airbnb as a
+17:54 product manager right actually as an
+17:56 engineer Kyle vote was an early employee
+17:58 at twitch and he started Cruise uh Logan
+18:00 head who is the CTO and founder of
+18:03 whatnot which is now like a you know
+18:05 three billion dollar company in two
+18:06 years used to work at a YC company
+18:08 called goat
+18:12 um is it Mutiny but she used to be at uh
+18:14 Gusto doing growth and um rajul who is
+18:18 the founder of zip uh was a product
+18:21 manager at Airbnb so lastly and I said
+18:25 I'd come back to this of like what does
+18:27 YC do to help and what are the things
+18:28 you will need as a founder of a startup
+18:31 number one you will need help building
+18:33 your product part of that is
+18:35 personalized advice with one-on-one
+18:37 office hours from like Founders former
+18:39 Founders and YT Partners who have done
+18:41 it before and talked to tens of
+18:42 thousands of companies and have pretty
+18:44 good pattern matching of like what works
+18:45 and doesn't work we have a secret
+18:47 startup handbook with 20 years of YC
+18:50 knowledge no joke it keeps getting
+18:52 better it's so much better even than the
+18:53 one I did when I see eight years ago
+18:54 there's a YC network of sorry 8 000 Alum
+18:58 um there's a secret bookbase software ah
+19:00 secret kind of secret where it's like a
+19:02 social network it's a fundraising tool
+19:04 the whole batch is run on our software
+19:07 um you know startups are hardened so
+19:09 these are the types of things that YC
+19:10 offers that gives startups an advantage
+19:13 um there's five hundred thousand dollars
+19:15 in discounts and offers from Amazon from
+19:17 Google from other YC companies to help
+19:19 you get your startup off the ground and
+19:22 then YC isn't just three months like
+19:25 there's alumni events there's workshops
+19:27 there's conferences we actually just ran
+19:29 an alumni event for all YC alumni we
+19:32 rented out spark social in San Francisco
+19:33 it was an awesome time you'll see a lot
+19:35 of people who tweeted about it and then
+19:36 we have later stage programs if you're
+19:39 lucky enough or you know skilled enough
+19:41 to build a startup that goes through
+19:42 series a or growth we have programs
+19:44 where we re-batch Founders to make it
+19:46 feel feel like a smaller YC but with
+19:49 people who are CEOs of like half a
+19:51 billion billion dollar companies
+19:53 we help you raise money so we offer 500
+19:57 000 right off the bat which we used to
+19:59 do 125 but now five hundred thousand
+20:01 dollars it's a pretty compelling option
+20:02 an alternative to working at another
+20:05 company and some people are like oh
+20:06 that'll actually help a ton most of our
+20:08 companies raise two to four million plus
+20:10 even in this economy
+20:12 um and then we have the ability to write
+20:14 hundred thousand hundred million dollar
+20:15 checks on later to teach companies demo
+20:17 days where we bring thousands of
+20:18 investors to your doorstep to invest we
+20:21 give you pitch practice we give you
+20:22 advice to make intros and then we have a
+20:25 pretty wide investor Network to help you
+20:28 raise we also do this other thing that
+20:29 when other Founders in your batch finish
+20:32 their fundraising we asked those
+20:34 Founders to make intros to the other YC
+20:36 companies
+20:37 um and that works really really well so
+20:39 the network effect is real in YC and
+20:41 lastly we help you build your team uh we
+20:44 do team building training we have hiring
+20:46 conferences we run Hacker News so we
+20:49 help use Hacker News in terms of Hacker
+20:52 News launches and access to slash jobs
+20:54 to help you hire only what I see
+20:56 companies can do that we run work at a
+20:57 startup we run these events internship
+20:59 programs Tech talks Expos and these are
+21:02 the things that are the hardest the
+21:03 three hardest things about starting a
+21:05 startup Building Product raising money
+21:06 and hiring a team and YC helps on all
+21:09 fronts so
+21:10 if that's not going to convince you to
+21:12 apply to YC know that this slide right
+21:14 here are the things that you're going to
+21:16 need to do as a Founder on your journey
+21:18 and uh you know YC certainly has a ton
+21:21 of resources to help you do so
+21:25 that's my email right there if you want
+21:27 to shoot me a note again more than happy
+21:29 to help in whatever you're looking for
+21:33 [Music]

@@ -1,0 +1,2114 @@
+00:02 That short.
+00:03 Like, long introductions are
+no good.
+00:07 Sam knows.
+00:09 Alright, ready, everybody?
+00:11 I'm not gonna ask if the mic
+is working like in
+00:13 every talk so far.
+00:15 I'll just assume it's
+working.
+00:18 &gt;&gt; No!
+00:18 &gt;&gt; No, fuck!
+00:22 &gt;&gt; All right, well make it
+work somebody.
+00:24 &gt;&gt; It works, it works
+00:25 &gt;&gt; All right, this is like
+some kinda class tradition.
+00:28 All right, all right.
+00:31 I wrote out my talk and
+00:32 afterwards in a couple days
+I will like turn it
+00:36 from a talk into an essay
+and put it online.
+00:38 So, you don't have to take
+notes, just, just listen.
+00:42 All right.
+00:43 So, one of the advantages of
+having kids is
+00:46 that when you have to give
+advice to people,
+00:48 you can ask yourself, what
+would I tell my own kids?
+00:51 And actually, you find this
+really focuses you.
+00:54 So, even though my kids are
+little.
+00:56 My two year old today,
+00:58 when I asked what he was
+gonna be after two?
+01:00 He said a bat.
+01:03 The correct answer was
+three.
+01:05 But a bat is so much more
+interesting.
+01:06 So even though my kids are
+little,
+01:09 I already know what I would
+tell them about startups if
+01:12 they were in college.
+01:14 And so that is what I am
+gonna tell you.
+01:15 So, you're literally getting
+what I
+01:17 would give my own kids,
+01:18 since most of you are young
+enough to be my own kids.
+01:22 All right.
+So,
+01:23 startups are very
+counterintuitive.
+01:26 And I'm not sure exactly
+why,
+01:28 it could be simply because
+knowledge about them has not
+01:31 permeated our culture yet.
+01:33 But, whatever the reason,
+this is an area where you
+01:35 cannot trust you're
+intuitions all the time.
+01:38 It's like skiing in that
+way.
+01:40 Any of you guys learn to ski
+as adults?
+01:43 You know, when you're
+skiing,
+01:44 when you first try skiing
+and you want to slow down,
+01:46 your first impulse is to
+lean back,
+01:48 just like in everything
+else,
+01:49 but lean back on skis and
+01:51 you fly down the hill out of
+control, so, as I learned.
+01:56 So, part of learning to ski
+is learning to
+01:58 suppress that impulse.
+01:60 Eventually, you get new
+habits.
+02:01 But in the beginning there's
+this list of things you're
+02:04 trying to remember as you
+start down the hill.
+02:06 You know, like alternate
+feet, make s-turns,
+02:09 do not drag the inside foot,
+all this stuff.
+02:11 Well, startups are as
+unnatural as
+02:14 skiing and there is a
+similar list of stuff you
+02:17 have to remember for
+startups.
+02:19 And what I’m gonna give you
+today is the beginning of
+02:22 the list.
+02:23 The list of the
+counterintuitive stuff you
+02:24 have to remember to like
+prevent your
+02:27 existing instincts from
+leading you astray.
+02:30 The first thing on it, is
+the fact that I just
+02:33 mentioned that startups are
+so weird that if you
+02:36 follow your instincts they
+will lead you astray.
+02:38 If you remember nothing more
+than that.
+02:40 When you're about to make a
+mistake,
+02:42 you may at least pause
+before making it.
+02:46 When I was running Y
+Combinator,
+02:47 we used to joke that our
+function was to tell
+02:51 founders things they would
+ignore.
+02:53 And it's really true.
+02:55 Batch after batch, the YC
+partners warn founders about
+02:58 mistakes they are about to
+make.
+03:00 And the founders ignore
+them.
+03:02 And they come back a year
+later and
+03:04 say, I wish we'd listened.
+03:06 But, that dude is in their
+cap table and
+03:08 there's nothing they can do.
+03:11 Why do founders persistently
+ignore the partner's advice?
+03:15 Well, that's the thing about
+counterintuitive ideas, they
+03:19 contradict your intuitions,
+so they seem wrong.
+03:22 So, of course you're first
+impulse is to ignore them.
+03:26 And in fact that is not just
+the curse of Y Combinator,
+03:29 but to some extent our You
+don't need people to
+03:32 give you advice that doesn't
+surprise you, right?
+03:36 If founder's existing
+intuitions gave them
+03:38 the right answers they
+wouldn't need us.
+03:40 That's why there are a lot
+of ski instructors and
+03:43 not a lot of running
+instructors.
+03:45 You don't see those two
+words together,
+03:48 running instructor, as much
+as you see ski instructor.
+03:51 It's because skiing is
+counterintuitive.
+03:53 So sorta, what YC is,
+03:56 is like business ski
+instructors, except for
+03:60 going up the slopes instead
+of down them.
+04:04 Well, ideally,
+04:06 you can however trust your
+instincts about people.
+04:12 You, your life so far hasn't
+been much like
+04:14 starting a startup, but all
+the interactions you've had
+04:16 with people are just like
+the interactions you've had
+04:18 with people in the business
+world.
+04:19 So, in fact one of
+04:20 the big mistakes that
+founders make is to not
+04:22 trust their intuitions about
+people enough.
+04:25 They meet someone who seems
+impressive, but
+04:28 about whom they feel some
+misgivings.
+04:31 And then later, when things
+blow up,
+04:33 they tell themselves, they
+say, you know,
+04:36 I knew there was something
+wrong about that guy, but
+04:38 I ignored it because he
+seemed so impressive.
+04:41 And there's a specific
+sub-case in business,
+04:44 especially if you come from
+an engineering background as
+04:47 I believe you all do.
+04:48 You think business is
+supposed to be
+04:50 this sorta slightly
+distasteful thing.
+04:53 And so when you meet people
+who seem smart, but
+04:56 somehow distasteful you
+think well,
+04:57 okay this must be normal for
+business.
+04:59 But it's not.
+05:01 Just like pick people the
+way you would pick people if
+05:04 you were picking friends.
+05:05 This is one of those rare
+cases where it
+05:08 works to be self indulgent.
+05:10 Work with people you
+genuinely like and respect
+05:13 and that you have known long
+enough to be sure.
+05:16 Because there's a lot of
+people who
+05:17 are really good at seeming
+likeable for a while.
+05:21 Just wait till your
+interests are opposed and
+05:22 then you'll see.
+05:23 All right.
+05:25 The second counterintuitive
+point is that, and this
+05:29 will, might come as a little
+bit of a disappointment.
+05:33 But what you need to succeed
+in a startup is
+05:36 not expertise in startups.
+05:39 That makes this class
+different from most other
+05:42 classes you take.
+05:43 You take a French class at
+the end of it you will
+05:45 learn how to speak French if
+you do the work.
+05:48 You may not sound exactly
+like a French person,
+05:50 but pretty close, right?
+05:52 This class can teach you
+about startups but
+05:56 that is not what you need to
+know.
+05:57 What you need to know
+to suceed in a startup is not
+06:00 expertise in startups,
+06:02 what you need is expertise
+in your own users.
+06:05 Mark Zuckerberg did not
+succeed in
+06:08 Facebook because he was an
+expert in startups.
+06:11 He succeeded despite being a
+complete noob at startups.
+06:15 I mean, Facebook was
+06:16 first incorporated as a
+Florida LLC.
+06:21 Even you guys know better
+than that.
+06:25 He succeeded despite being a
+complete noob at startups
+06:28 because he understood his
+users very well.
+06:32 Most of you don't know the
+mechanics of
+06:34 raising an Angel round.
+06:35 Right, and if you feel bad
+about that, don't, because I
+06:39 can tell you Mark Zuckerberg
+probably doesn't know
+06:41 the mechanics of raising an
+Angel round either.
+06:44 If he was even paying
+attention when Ron Conway
+06:47 wrote him the big check,
+06:49 he has probably forgotten
+about it by now.
+06:52 In fact, I worry, it's not
+merely unnecessary for
+06:55 people to learn in detail
+about the mechanics of
+06:57 starting a startup, but
+possibly somewhat dangerous.
+07:01 Because another of the
+characteristic mistakes of
+07:04 young founders starting
+startups is to go through
+07:07 the motions of starting a
+startup.
+07:09 They come up with some
+plausible sounding idea.
+07:14 They raise funding at a nice
+valuation.
+07:16 They rent a nice office in
+Soma,
+07:19 hire a bunch of their
+friends.
+07:21 And then the next step,
+after rent a nice
+07:26 office in Soma and hire a
+bunch of their friends,
+07:29 is gradually realize how
+completely fucked they are.
+07:32 Because while imitating all
+the outward forms of
+07:35 starting a startup,
+07:37 they have neglected the one
+thing that's actually
+07:39 essential which is to make
+something people want.
+07:41 By the way, that's the only
+use of that swear word
+07:44 except for the initial one
+that was involuntary.
+07:47 And I did check with Sam
+whether it would be okay.
+07:50 He said he had done it
+several times.
+07:52 I mean, used the word.
+08:04 &gt;&gt; We saw this happen so
+often, No, I mean people
+08:08 going through the motions of
+starting a startup.
+08:13 &gt;&gt; That we made up a name
+for it.
+08:15 Playing house.
+08:17 Eventually, I realized why
+it was happening.
+08:20 The reason young founders go
+through the motions of
+08:22 starting a startup is
+08:24 because that is what they
+have been trained to do for
+08:27 their whole lives up to this
+point.
+08:29 Think about what it takes to
+get into college.
+08:32 Extracurricular activities,
+check.
+08:36 Right?
+08:37 Even in college classes,
+most of the work you do is
+08:40 as artificial as running
+laps.
+08:43 And I am not attacking the
+educational system for
+08:46 being this way.
+08:47 Inevitably, the work that
+you do to learn something is
+08:50 gonna have some amount of
+fakeness to it.
+08:52 And if you measure people's
+performance,
+08:54 they will inevitably exploit
+the difference.
+08:57 To the degree that what
+you're measuring is
+08:59 largely an artifact of the
+fakeness.
+09:02 And I confess that I did
+this myself in college.
+09:04 In fact, here is a useful
+tip on getting good grades.
+09:08 I found that in a lot of
+classes there might only be
+09:10 20 or 30 ideas that
+actually,
+09:12 had the right shape to make
+good exam questions.
+09:15 And so the way I studied for
+exams in these classes was
+09:18 not to master the material
+in the class.
+09:20 But to try and
+09:21 figure out what the exam
+questions would be and
+09:23 work out the answers in
+advance.
+09:25 Unlike, for me the test was
+not like what my
+09:27 answers would be on the
+exam.
+09:29 For me the test was.
+09:30 Which of my exam questions
+would turn up
+09:33 on the exam, right?
+09:35 So I would get my grade
+instantly.
+09:37 I would walk into the exam
+and
+09:38 look at the questions and
+09:39 see how many I got right
+essentially.
+09:43 &gt;&gt; It works in a lot of
+classes,
+09:45 especially CS classes.
+09:46 I remember Automata Theory,
+there's only a few
+09:49 things that make sense to
+ask about Automata Theory.
+09:52 So, it's not surprising that
+after being effectively
+09:54 trained for their whole
+lives to play such games,
+09:57 young founders first impulse
+upon starting a startup is
+09:60 to figure out what the
+tricks are.
+10:02 For this new game,
+10:03 what are the extracurricular
+activities of startups,
+10:06 what are the things that I
+have to do.
+10:08 They always wanna know
+since,
+10:10 since apparently the measure
+of success for
+10:13 a startup is fundraisingn
+another noob mistake.
+10:16 They always wanna know, what
+are the tricks for
+10:18 convincing investors.
+10:20 And we have to tell them,
+10:21 the best way to convince
+investors,
+10:23 is to start a startup that's
+actually doing well, meaning
+10:27 growing fast, and then
+simply tell investors so.
+10:30 So then they ask, okay, what
+are the tricks for
+10:32 growing fast?
+10:34 Alright?
+And
+10:35 this is exacerbated by the
+existence of this term,
+10:38 growth hacks.
+10:39 Right?
+10:40 Whenever you hear anybody
+talk about growth hacks,
+10:42 just mentally translate it
+in your mind to bullshit.
+10:47 Because what we tell them is
+the way to make your startup
+10:51 grow is to make something
+that users really love.
+10:54 Right, and then tell them
+about it.
+10:57 So that's what you have to
+do.
+10:58 That is growth hacks right
+there.
+11:01 So many of the conversations
+the YC partners have with
+11:04 the founders begin with the
+founders saying a sentence
+11:07 that begins with, how do I.
+11:09 And the partner is answering
+with a sentence that begins
+11:12 with, just.
+11:13 Right, why do they make
+things so complicated?
+11:16 The reason, I realized,
+11:17 after years of being puzzled
+by this,
+11:19 is they're looking for the
+trick,
+11:21 they've been trained to look
+for the trick.
+11:23 So, this is the third thing.
+11:25 The third counterintuitive
+thing to
+11:27 remember about startups.
+11:28 Starting a startup is
+11:29 where gaming the system
+stops working.
+11:32 Gaming the system may
+continue to work if you go
+11:35 to work for a big company.
+11:37 Depending on how broken the
+company is you may be able
+11:40 to succeed by sucking up to
+the right person.
+11:44 Giving the impression of
+productivity by sending
+11:47 emails late at night.
+11:48 Or if your smart enough,
+11:49 changing the clock on your
+computer,
+11:51 cause whose going to check
+the headers, right?
+11:54 But, I like an audience I
+tell jokes like that to and
+11:60 they laugh.
+12:02 Over in the business school,
+headers, okay.
+12:07 God this thing is being
+recorded,
+12:10 I just realized that.
+12:13 All right, from now on,
+12:15 we are sticking strictly to
+the script.
+12:19 &gt;&gt; All right.
+12:21 But in startups, that does
+not work.
+12:24 There is no boss to trick.
+12:26 There's no, how can you
+trick people if
+12:27 there's no one to trick?
+12:28 There's only users.
+12:29 And all users care about is
+whether your software.
+12:34 Does what they want, right?
+12:35 They're like sharks.
+12:37 Sharks are, like, too stupid
+to fool.
+12:39 You can't, like, wave a red
+flag at a shark and fool it,
+12:41 it's like, meat or no meat.
+12:44 So, you have to have
+something people want.
+12:46 And you only prosper to the
+extend that you do.
+12:49 The dangerous thing is,
+12:50 particularly for you guys,
+the dangerous thing is
+12:53 that faking does work to
+some extent with investors.
+12:57 You, if you're really good
+at
+12:58 knowing what you're talking
+about.
+12:59 You can fool investors for
+13:01 one, maybe two rounds of
+funding.
+13:03 But it's not in your
+interest to.
+13:05 I mean, you're all doing
+this for equity.
+13:07 You're playing a confidence
+trick on yourself.
+13:09 You're wasting your own
+time,
+13:10 because the startup is
+doomed.
+13:12 And all you're doing is,
+13:13 you're just gonna waste your
+time writing it down.
+13:16 So, stop looking for the
+trick.
+13:18 There are tricks in the
+startups,
+13:20 as there are in any domain.
+13:21 But they are an order of
+magnitude less
+13:23 important than solving the
+real problem.
+13:25 Someone who knows zero about
+fund raising but
+13:28 has made something users
+really love will have
+13:31 an easier time raising
+money.
+13:33 Than someone who knows every
+trick in the book, but
+13:34 has a flat usage graph.
+13:36 Though in a sense it's bad
+news that
+13:40 gaming the startups stops
+works gaming the system,
+13:43 stops working now.
+13:44 In a sense that you're
+deprived of one of your most
+13:47 powerful weapons and
+13:48 afterall something you have
+spent 20 years mastering.
+13:53 It is something, I find it
+very exciting.
+13:57 That there even exists parts
+of the world
+13:60 where gaming the system is
+not how you win.
+14:02 I would have been really
+excited in college if I had
+14:05 explicitly realized that
+there were parts of
+14:07 the world where
+14:08 gaming the system matters
+less than others.
+14:10 And some where it hardly
+matters at all.
+14:12 But there are, and this is
+one of the most important
+14:14 things to think about when
+you're planning your future.
+14:17 Got that, okay.
+14:22 How do you win at each type
+of the work?
+14:26 And what do you want to win
+by doing?
+14:28 So, that brings us to
+14:32 our fourth counterintuitive
+point.
+14:34 Startups are all consuming.
+14:36 If you start a start up, it
+will take over your life
+14:40 to a degree that you cannot
+imagine.
+14:43 And if it succeeds, it will
+take over your life for
+14:45 a long time.
+14:46 For several years, at the
+very least.
+14:48 Maybe a decade.
+14:50 Maybe the rest of your
+working life.
+14:51 So there's a real
+opportunity cost here,
+14:54 it may seem to you that
+Larry Page has an enviable
+14:57 life, but
+14:58 there are parts of it that
+are definitely unenviable.
+15:01 The way the world looks to
+him,
+15:03 is that he started running
+as fast as he could at
+15:05 age 25.
+15:06 And he has not stopped to
+catch his breath since.
+15:09 Every day, shit happens
+within the Google empire
+15:12 that only the emperor can
+deal with.
+15:15 And he, as the emperor, has
+to deal with it.
+15:19 If he goes on vacation for
+15:20 even a week, a whole backlog
+of shit accumulates.
+15:23 And he has to bear this
+uncomplainingly, because,
+15:27 number one, as the company's
+daddy,
+15:30 he can never show fear or
+weakness.
+15:32 And number two, if you're a
+billionaire,
+15:34 you get zero, actually less
+than zero sympathy if you
+15:37 complain about having a
+difficult life.
+15:42 Which has this strange side
+effect
+15:44 that the difficulty of being
+a successful startup founder
+15:48 is concealed from almost
+everyone who's done it.
+15:50 People who win the hundred
+meters in the Olympics,
+15:52 like they walk up to them
+and
+15:53 they're going like, right.
+15:56 Larry Page is doing that
+too, but
+15:57 you never get to see it.
+16:00 All right, where are we?
+16:02 Y Combinator has now funded
+several companies that
+16:04 could be called big
+successes.
+16:06 And in every single case,
+16:08 the founders say the same
+thing,
+16:09 it never gets any easier.
+16:11 The nature of the problems
+change.
+16:14 So, you may be worrying
+about more
+16:16 glamorous problems like
+construction delays in
+16:19 your new London offices,
+rather than the broken air
+16:22 conditioner in your studio
+apartment.
+16:24 But the total volume of
+worry never decreases,
+16:27 if anything, it increases.
+16:29 Starting a successful
+startup is similar to
+16:31 having kids, in that it's
+like a button you press,
+16:35 that changes your life
+irrevocably.
+16:39 And while it is, like,
+16:40 honestly the best thing in
+the world having kids.
+16:43 If you take away one thing
+from this lecture,
+16:45 remember that.
+16:49 &gt;&gt; There are a lot of things
+that are easier to do
+16:52 after you, before you have
+kids, then after.
+16:55 Many of which will make you
+a better parent,
+16:57 when you do have kids.
+16:58 And so, in rich countries,
+17:01 most people delay pushing
+the button for a while.
+17:04 And I'm sure you
+17:04 are all intimately familiar
+with that procedure.
+17:09 Yet, when it comes to
+starting startups,
+17:12 a lot of people seem to
+think they're supposed to
+17:13 start them in college.
+17:16 Are you crazy?
+17:17 And what are the
+universities thinking?
+17:19 They go out of their way to
+ensure that their
+17:21 students are well supplied
+with contraceptives.
+17:24 And yet they're starting up
+entrepreneurship programs
+17:27 and startup incubators left
+and right.
+17:30 &gt;&gt; To be fair,
+17:31 the universities have their
+hand forced here.
+17:33 A lot of incoming students
+are interested in startups.
+17:36 Universities are at least
+defacto,
+17:38 supposed to prepare you for
+your career.
+17:41 And so, if you're interested
+in startups, it seems like
+17:43 universities are supposed to
+teach you about startups.
+17:45 And if they don't,
+17:46 maybe they loose applicants
+to universities.
+17:49 You do claim to do that.
+17:51 So, can universities teach
+you about startups?
+17:53 Well, if not what are we
+doing here?
+17:57 &gt;&gt; Yes and no, as I explain,
+they can teach you about
+18:00 startups, but this is not
+what you need to know.
+18:04 Essentially, what universe,
+if you wanna learn French,
+18:07 universities can teach you
+linguistics.
+18:09 That's what this is.
+18:10 This is a linguistics class.
+18:11 Right?
+We're teaching you
+18:12 about how to learn
+languages.
+18:14 And what you need to know is
+like,
+18:15 how to learn a particular
+language?
+18:18 What you need to know, are
+the needs of your own users.
+18:21 You can't learn those,
+18:23 until you actually start the
+company.
+18:26 And starting a company,
+18:27 which means that starting a
+startup is something, and
+18:29 you can intrinsically only
+learn by doing it.
+18:32 And you can't do that in
+college for
+18:33 the reason I just explained,
+18:35 that startups take over your
+entire life.
+18:37 If you start a startup in
+college,
+18:39 If you start up a startup as
+a student,
+18:40 you can't start up a startup
+as a student, because if
+18:42 you start a startup you're
+not a student anymore.
+18:45 You may be nominally a
+student, but
+18:46 you won't even be that for
+much longer.
+18:48 So, given this dichotomy,
+18:50 which of the two paths
+should you take?
+18:52 Be a real student and not
+start a startup or
+18:55 start a real startup and not
+be a student.
+18:57 Well I can answer that one
+for you.
+18:59 I'm talking to my own kids
+here.
+19:02 Do not start a startup in
+college.
+19:06 I hope I'm not disappointing
+anyone, seriously, honestly.
+19:08 Starting a startup could be
+a component of
+19:12 a good life for
+19:13 a lot of ambitious people,
+but this is just part of
+19:16 a much bigger problem that
+your trying to solve.
+19:19 How to have a good life,
+right, and
+19:21 though starting a startup
+could be a good thing to
+19:22 do at some point, 20 is not
+the optimal time to do it.
+19:27 There are things, that, that
+you can’t, there are things
+19:30 you can do in your early
+20’s, that you cannot do as
+19:33 well before or after, like
+plunge deeply into
+19:36 projects on a whim that seem
+like they have no payoff.
+19:40 Or travel super cheaply with
+no sense of a deadline.
+19:44 In fact those are really
+just isomorphic shapes in
+19:46 different domains.
+19:47 For unambitious people this
+sort of thing can
+19:50 be the dreaded failure to
+launch.
+19:53 But for the ambitious ones,
+19:55 it's a really valuable sort
+of exploration.
+19:58 And if you start a startup
+at 20,
+19:59 and you're sufficiently
+successful,
+20:01 you will never get to do it.
+20:03 Mark Zuckerberg will never
+get to
+20:05 bum around a foreign
+country.
+20:08 He can, if he goes to a
+foreign country,
+20:09 it's either as a defacto
+state visit, or, like,
+20:12 he's hiding out incognito at
+the George Cinc in Paris.
+20:16 Right?
+20:17 But he's never gonna get to
+just, like,
+20:19 backpack around Thailand if
+that's still what people do.
+20:23 Do people still backpack
+around Thailand?
+20:25 &gt;&gt; Yes.
+&gt;&gt; Okay, well there,
+20:27 that's the first real sign
+of enthusiasm I've seen from
+20:30 this audience.
+20:31 I should have given this
+talk in Thailand.
+20:37 &gt;&gt; All right, he can do
+things that you can't do,
+20:40 like charter jets to fly him
+to foreign countries,
+20:43 really big jets.
+20:45 But success has taken a lot
+of
+20:47 the serendipity out of his
+life.
+20:50 Facebook is running him as
+much as he
+20:52 is running Facebook.
+20:53 And while it can be really
+cool to be in the grip of
+20:57 some project you consider
+your life's work,
+20:60 there are advantages to
+serendipity.
+21:04 And among other things, it
+gives you more options to
+21:08 choose your life's work
+from.
+21:11 There's not even a trade-off
+here.
+21:12 You're not sacrificing
+anything if
+21:14 you forego starting a
+startup at 20,
+21:16 cuz you'll be more likely to
+succeed if you wait.
+21:19 In the unlikely case that
+you're 20,
+21:21 like astronomically unlikely
+case, that you're 20 and you
+21:24 have some side project that
+takes off like Facebook did.
+21:28 Then you face the choice of
+either running with it or
+21:30 not, and maybe it's
+reasonable to run with it.
+21:33 But usually the way startups
+take off is for
+21:36 the founders to make them
+take off.
+21:37 It's gratuitously stupid to
+do that at 20.
+21:41 So should you do it at any
+age?
+21:44 I realize, I've made
+Starting a startup sound
+21:48 kind of hard.
+21:49 If I haven't, let me try
+again.
+21:51 Starting a startup is really
+hard.
+21:56 What if it's too hard?
+21:57 What if you're not up to
+this challenge?
+21:59 The answer is the fifth
+counter-intuitive point.
+22:02 You can't tell.
+22:04 Your life, so far,
+22:06 has given you some idea what
+your prospects might be,
+22:10 if you wanted to become a
+mathematician, or
+22:12 a professional football
+player.
+22:15 Boy, it's not every audience
+you could say that to.
+22:18 But unless you have had a
+very strange life,
+22:21 indeed, you
+22:21 have not done much that's
+like starting a startup.
+22:24 Meaning, starting a startup
+will change you a lot
+22:27 if it works out.
+22:28 So, what you're trying to
+estimate is not just what
+22:30 you are, but what you could
+become, and who can do that?
+22:33 Well, not me, for the last
+nine years,
+22:36 it was my job to try and
+guess whether people would.
+22:39 Guess is, I wrote predicted
+here and
+22:41 it came out as guess.
+22:43 That's a very informative
+Freudian slip.
+22:48 &gt;&gt; Seriously, it's easy to
+tell how smart people are in
+22:52 ten minutes.
+22:52 You know, hit a few tennis
+balls over the net and
+22:54 do they hit them back at you
+or into the net.
+22:57 But, the hard part was, and
+the most important part was
+23:01 predicting how tough and
+ambitious they would become.
+23:04 There may be no one at this
+point who
+23:06 has more experience than me
+at doing this.
+23:07 And I can tell you
+23:08 how much an expert can know
+about that.
+23:10 The answer is, not much.
+23:12 I learned from experience to
+keep a completely open
+23:15 mind about which startup in
+each batch,
+23:17 which startups would turn
+out to be the stars.
+23:20 The founders sometimes
+thought they knew.
+23:23 Some arrived feeling
+confident that they
+23:25 would ace Y Combinator,
+23:27 just as they had aced every
+one of the few, easy,
+23:31 artificial tests they had
+faced in life so far.
+23:34 Others arrived wondering
+what mistake could cause
+23:37 them to be admitted and
+23:38 hoping that no one would
+discover it.
+23:40 But there's little to no
+correlation between these
+23:45 attitudes in how things turn
+out.
+23:49 I've read the same is true
+in the military that
+23:51 the swaggering recruits are
+no more likely to
+23:53 turn out to be really tough
+than the quiet ones.
+23:55 And probably for the same
+reason that the tests are so
+23:58 different from the tests in
+people's previous lives.
+24:03 If you're absolutely
+terrified of
+24:04 starting a startup, you
+probably shouldn't do it,
+24:06 unless you're one of those
+people who
+24:07 gets off on doing things
+you're afraid of.
+24:10 Otherwise, if you're merely
+unsure of
+24:12 whether you're gonna be able
+to do it,
+24:14 the only way to find out is
+to try, just not now.
+24:21 So, if you wanna startup one
+day, if you wanna start
+24:24 a startup one day, what do
+you do now in college?
+24:28 There are only two things
+you need initially,
+24:31 an idea, and co-founders.
+24:35 And the MO for getting them
+both is the same,
+24:37 which leads to our sixth,
+sixth and
+24:39 last counter-intuitive
+point.
+24:42 The way to get startup
+ideas,
+24:44 is not to try to think of
+startup ideas.
+24:46 I've written a whole essay
+on this and
+24:48 I'm not gonna repeat the
+whole thing here.
+24:50 But the short version is
+that if you make
+24:52 a conscious effort to try
+and think of startup ideas,
+24:55 you will think of ideas that
+are not only bad, but
+24:58 bad and plausible sounding.
+25:00 Meaning you and everybody
+else will be fooled by them,
+25:02 and you'll waste a lot of
+25:03 time before realizing
+they're no good.
+25:06 The way to come up with good
+startup ideas is
+25:08 to take a step back.
+25:11 Instead of trying to make a
+conscious effort to think of
+25:14 startup ideas, turn your
+brain into the type that
+25:17 has startup ideas
+unconsciously.
+25:20 In fact, so
+25:21 unconsciously that you don't
+even realize at first that
+25:24 they're startup ideas.
+25:26 This is not only possible,
+Yahoo, Google, Facebook, and
+25:32 Apple all got started this
+way.
+25:34 None of these companies were
+even supposed to be
+25:36 companies at first, they
+were all just side projects.
+25:39 The very best ideas almost
+have to
+25:41 start as side projects,
+because they're always such
+25:44 outliers that your conscious
+mind would reject.
+25:47 As ideas for companies.
+25:49 Okay?
+25:50 So, how do you turn your
+mind into the kind that
+25:53 has startup ideas
+unconsciously?
+25:55 1, learn about things that
+matter.
+25:59 2, work on problems that
+interest you.
+26:02 3, with people you like and
+respect.
+26:05 That third part incidentally
+is
+26:07 how you get co-founders at
+the same time as the idea.
+26:11 The first time I wrote that
+paragraph,
+26:13 instead of learn a lot about
+things that matter,
+26:16 I wrote become good at some
+technology.
+26:20 But that prescription,
+though sufficient,
+26:23 is too narrow.
+26:24 What was special about Brian
+Chesky and Joe Gebbia from
+26:28 Airbnb was not they were
+experts in technology.
+26:30 They went to art school.
+26:32 They were experts in design,
+and
+26:35 perhaps even more
+importantly,
+26:37 they were really good at
+organizing people and
+26:39 getting projects done.
+26:41 So, you don't have to work
+on technology per se, so
+26:45 long as you work on things
+that stretch you.
+26:48 What kind of things are
+those?
+26:50 Now, that is very hard to
+answer in the general case.
+26:53 History is full of examples
+of young people who
+26:56 were working on problems
+that no one else,
+26:58 at the time, thought were
+important.
+26:60 And in particular that their
+parents didn't think they
+27:02 were important.
+27:04 On the other hand, history
+is even fuller
+27:08 of examples of parents who
+thought their kids were
+27:11 wasting their time, and who
+were right, so.
+27:14 &gt;&gt; How do you know if you're
+working on real stuff?
+27:19 I mean when Twitch TV
+switched from being
+27:22 Justin Dot TV to Twitch TV,
+and
+27:24 they were gonna broadcast
+people playing video games,
+27:27 I was like what?
+27:28 But, turned out to be a good
+business.
+27:32 Well, I know,
+27:33 I know how I know, real
+problems are interesting.
+27:37 And I'm self-indulgent.
+27:38 I like, I'm always
+interested in
+27:39 working on interesting
+things even if
+27:41 no one else cares about
+them.
+27:42 And I find it very hard to
+make myself work on boring
+27:45 things even if they're
+supposed to be important.
+27:47 My life is full of case
+after case where I
+27:49 worked on things just cuz I
+was interested.
+27:52 And they turned out to be
+27:53 useful later in some worldly
+way.
+27:55 Y Combinator itself is
+something I
+27:57 only did because it seemed
+interesting.
+27:59 So, I seem to
+28:00 have some sort of internal
+compass that helps me out.
+28:03 But, this is, for you, not
+me and
+28:05 I don't know what you have
+in your heads.
+28:07 Maybe if I think more about
+it I could come up with some
+28:10 heuristics for recognizing
+genuinely interesting ideas.
+28:13 But for now, all I can give
+you is the hopelessly
+28:17 question begging advice,
+incidentally,
+28:20 this is the actual meaning
+of the phrase,
+28:23 begging the question.
+28:24 The hopelessly question
+begging advice that if
+28:27 you're interested in
+genuinely interesting
+28:29 problems, gratifying your
+interest energetically is
+28:32 the best way to prepare
+yourself for a start-up.
+28:35 And, for that matter,
+28:35 probably the best way to
+live.
+28:38 But although I can't explain
+in
+28:39 the general case what counts
+as an interesting problem,
+28:42 I can tell you about a large
+subset of them.
+28:45 If you think of technology
+as something
+28:47 that's spreading like a sort
+of fractal stain,
+28:50 every point on the edge
+that's moving,
+28:53 represents an interesting
+problem.
+28:54 Steam engines is not so
+28:55 much, although maybe, you
+never know.
+28:60 So, one guaranteed way to
+turn your mind into the type
+29:03 that startup ideas form in
+unconsciously is to
+29:06 get yourself to the leading
+edge of some technology, to,
+29:10 as Paul Buchheit put it,
+live in the future.
+29:14 And when you get there,
+ideas that seem uncannily
+29:17 prescient to some people
+will seem obvious to you.
+29:21 You may not realize they're
+startup ideas, but you'll
+29:23 know they're something that
+ought to exist.
+29:25 For example, back at
+Harvard,
+29:27 back in the mid 90s,
+29:29 a fellow grad student of my
+friends Robert and
+29:31 Trevor, wrote his own
+voiceover IP software.
+29:35 It wasn't meant to be a
+startup.
+29:36 He never tried to turn it
+into one.
+29:38 He just wanted to talk to
+his girlfriend in
+29:40 Taiwan without paying for
+long distance calls.
+29:44 And since he was an expert
+on networks,
+29:46 it seemed obvious to him
+that the thing to do was to
+29:49 turn the sound into packets
+and
+29:51 ship them over the Internet
+for free.
+29:53 Why didn't everybody do
+this?
+29:54 Well because they weren't
+good at writing that kind
+29:57 of software.
+29:58 He never did anything with
+this.
+29:60 He never tried to turn it
+into a startup.
+30:01 But that is how all the best
+startups tend to happen.
+30:06 So, strangely enough, the
+optimal thing to do in
+30:09 college if you wanna be a
+successful startup founder,
+30:12 is not some sort of new
+vocational version of
+30:15 college focused on
+entrepreneurship.
+30:18 It’s the classic version of
+college as education for
+30:21 its own sake.
+30:23 If you wanna start a
+startup, what you
+30:25 should do in college is
+learn powerful things.
+30:29 And if you have genuine
+intellectual curiosity,
+30:32 that's what you'll naturally
+tend to
+30:33 do if you just follow your
+own inclinations.
+30:36 The component of
+entrepreneurship,
+30:38 I can never quite say that
+word with a straight face,
+30:42 that really matters is
+domain expertise.
+30:46 Larry Page is Larry Page cuz
+he was an expert on search.
+30:49 And the way he became an
+expert on search,
+30:51 was because he was genuinely
+interested in it,
+30:53 not because of some ulterior
+motive.
+30:55 At its best,
+30:56 starting a startup is merely
+an ulterior motive for
+30:59 curiosity and you'll do it
+best if you introduce
+31:03 the ulterior motive at the
+end of the process.
+31:06 So here, is the ultimate
+advice for young would-be
+31:10 startup founders reduced to
+two words, just learn.
+31:15 All right, how much time do
+we have left?
+31:16 &gt;&gt; 18 minutes.
+31:18 &gt;&gt; 18 minutes of questions,
+good god,
+31:20 do you guys have the
+questions?
+31:23 &gt;&gt; Sure, we’ll start with,
+two questions online or
+31:26 we can start with others.
+31:27 &gt;&gt; You guys are in charge,
+whatever you wanna do.
+31:29 &gt;&gt; Okay.
+31:33 So, to start with, online
+questions.
+31:36 The most voted question
+today was-
+31:38 &gt;&gt; Do I have to repeat them,
+by the way?
+31:40 &gt;&gt; Yeah.
+&gt;&gt; Okay.
+31:40 &gt;&gt; How can a non-technical
+founder most
+31:42 effectively contribute to a
+startup?
+31:44 &gt;&gt; How can a non-technical
+founder most
+31:46 effectively contribute to a
+startup?
+31:49 Well, if the startup is,
+31:51 if the startup is working in
+some domain.
+31:54 If it's not a pure
+technology startup, but
+31:57 is working in some very
+specific domain, like,
+32:01 if it's Uber, right?
+32:03 And the, and the
+non-technical founder was
+32:05 an expert in the limo
+business, then,
+32:07 actually, the non-technical
+founder would probably be
+32:10 doing most of the work,
+recruiting drivers and
+32:12 doing whatever else Uber has
+to do, right?
+32:14 And the technical founder
+will be just writing
+32:17 the iPhone app, which is
+probably less, well, iPhone
+32:21 and Android app, hm, which
+is less than half of it.
+32:24 If it's a purely technology
+startup, the,
+32:28 the non-technical founder
+does sales.
+32:31 And brings coffee and
+32:32 cheeseburgers to the
+programmer.
+32:35 &gt;&gt; Okay, next.
+32:38 &gt;&gt; Oh, audience?
+32:39 Okay, audience, yes?
+32:42 &gt;&gt; Do you see,
+32:43 any value in business school
+for people who want to
+32:47 pursue entrepreneur,
+entrepreneurship?
+32:49 &gt;&gt; Do I see any value in.
+32:50 &gt;&gt; Or, if so, what value, I
+guess?
+32:52 I'm hoping that's not.
+32:53 &gt;&gt; Well, we probably won't
+have to get to
+32:54 the second question.
+32:57 &gt;&gt; Which I suppose is the
+answer to
+32:58 your first question.
+33:00 Okay, so the question is, is
+there any value in business
+33:03 school if you're interested
+in entrepreneurship?
+33:06 And, if so, what?
+33:08 So, basically, no.
+33:10 I mean, it sounds
+undiplomatic, but
+33:12 the point, what business
+school was designed for
+33:15 is to teach people
+management, right?
+33:19 And management is a problem
+that you only have in
+33:21 a startup if you're
+sufficiently successful.
+33:25 So, really,
+33:25 what you need to, what you
+need to know early on to
+33:28 make a startup successful,
+is developing products.
+33:32 You'd be better off going to
+design school,
+33:34 if you want to go to some
+sort of school.
+33:36 Although frankly,
+33:37 the way to learn how to do
+it is just to do it,
+33:39 you know?
+33:40 One of the things I got
+wrong early on,
+33:43 is that I advised people who
+were interested in starting
+33:45 a startup to go work for
+some other company for
+33:48 a few years before starting
+their own.
+33:50 But, honestly, the best way
+to learn how to
+33:51 start a startup is to try
+and start it.
+33:53 You may not be successful,
+but
+33:55 you'll learn faster if you
+just do it.
+33:57 So, not really.
+34:02 Business schools are trying
+really hard to do this, but
+34:04 honestly, like, they were,
+they were designed to
+34:07 train the officer corps of
+large companies, right?
+34:11 Which is what business
+seemed to be,
+34:12 back when it was a choice of
+either the officer corps of
+34:15 large companies or Joe's
+Shoe Store.
+34:17 And then, then there was
+this new thing, Apple,
+34:20 which started out as small
+as Joe's Shoe Store and
+34:22 then, like, turns into this
+giant mega-company.
+34:25 But they weren't designed
+for that world.
+34:27 And, like, they're good at
+what they're good at,
+34:29 they should just be, do that
+and
+34:30 screw this whole
+entrepreneurship thing,
+34:32 just cuz it's cool.
+34:33 Yes?
+&gt;&gt; You said, management
+34:35 is a problem that you have
+only when you're successful.
+34:38 &gt;&gt; Yes.
+&gt;&gt; So what about those first
+34:39 two or three people as
+34:41 a founder that you're trying
+to manage?
+34:43 &gt;&gt; Okay, so management is a
+problem only if
+34:45 you're successful.
+34:46 What about those first two
+or three people?
+34:48 Well, ideally, you're
+successful before you
+34:51 even hire two or three
+people, right?
+34:54 Didn't you say, Sam, that
+Airbnb took five months to
+34:57 hire their first employee?
+34:59 So ideally, you don't have
+even two or
+35:02 three people for quite a
+while.
+35:05 When you do, you can, you
+can sort of, the,
+35:10 the first hires in a startup
+are almost like founders.
+35:16 They should be motivated by
+the same things.
+35:19 They can't be people, they
+can't be people you have to,
+35:21 like, manage, right?
+35:24 This is like that, this is
+not, like, The Office or
+35:26 something like that.
+35:27 These are your, these have
+to be your peers, really.
+35:31 You shouldn't have to manage
+them much.
+35:32 &gt;&gt; So it's just a big no-no,
+like if someone has to
+35:35 be managed, no way they can
+be on the founding team?
+35:39 &gt;&gt; Well, never say never.
+35:40 I should repeat all these
+questions, so
+35:42 if someone has to manage,
+35:43 no way they should be on the
+founding team?
+35:46 In, in the case where you're
+doing something where you
+35:49 need some sort of super
+advanced technical thing.
+35:52 And there's some boffin, if
+you know that word,
+35:55 who knows this thing and
+nothing else in the world
+35:58 including, like how to wipe
+his mouth.
+36:01 Then it may be to your
+advantage to hire said
+36:04 boffin and wipe his mouth
+for him.
+36:07 But.
+36:08 &gt;&gt; Okay.
+36:10 &gt;&gt; As a general rule, you
+want people who are,
+36:13 sort of self-motivated early
+on.
+36:16 They should be just like
+founders.
+36:19 Yes, questions?
+36:20 In the far back?
+36:21 &gt;&gt; Do you think we're
+currently in a bubble?
+36:24 &gt;&gt; Do I think we're
+currently in a bubble?
+36:27 Okay, so I'll give you two
+answers to this question.
+36:33 One, ask me questions that
+are useful to this audience,
+36:36 cuz these people are here to
+learn how to
+36:37 start startups and I have in
+my head, like,
+36:39 more data about that than
+anybody else.
+36:41 And you're asking me the
+kind of questions a reporter
+36:43 does cuz they can't think of
+anything interesting to ask.
+36:45 But I will answer your
+question.
+36:49 There is a difference
+between prices merely being
+36:52 high and a bubble.
+36:53 A bubble is a very specific
+form of prices being high,
+36:57 where people knowingly pay
+high prices for
+36:59 something in the hope that
+they will be able to
+37:01 unload it later on some
+greater fool.
+37:04 Right?
+And
+37:04 that's what happened in the
+late 90s.
+37:06 Like, VCs knowingly invested
+in bullshit startups,
+37:10 thinking that they would be
+37:11 able to take those things
+public, and unload them onto
+37:13 the retail investors before
+everything blew up.
+37:16 And I was there, I was there
+for
+37:18 that, at the epicenter of it
+all.
+37:21 And that is not what's
+happening today.
+37:23 Prices are high, valuations
+are high.
+37:26 But valuations being high
+does not mean a bubble.
+37:28 Every, every commodity has
+prices that go up and
+37:31 down in some sort of sine
+wave.
+37:33 Definitely, prices are high.
+37:35 And so we tell people, if
+you raise money, don't think
+37:38 the next time you raise
+money it's gonna be so easy.
+37:40 Who knows, maybe between now
+and
+37:42 then the Chinese economy
+will have exploded and
+37:44 there's another giant
+disastrous recession.
+37:46 Who knows, assume the worst,
+but bubble, no.
+37:52 Yes?
+37:53 &gt;&gt; I'm noticing a trend
+among young people and
+37:56 successful entrepreneurs,
+where they don't want to
+37:59 start one more great
+company,
+38:01 they want to start like 20.
+38:03 And so you're starting to
+see the rise of these labs
+38:06 attempts where they're gonna
+try to launch a bunch
+38:09 of stuff.
+38:09 I don't know a really
+stellar example yet but.
+38:12 &gt;&gt; Like ideal?
+38:15 &gt;&gt; No like, like Idea lab,
+like new one.
+38:19 There's
+&gt;&gt; Oh, yeah yeah.
+38:22 So there's this new thing
+where people start labs that
+38:26 are supposed to spin off
+startups, it might work.
+38:30 That's how Twitter started.
+38:32 In fact I meant Ideo Lab,
+38:34 not Idea, that was another
+Freudian slip.
+38:36 Because Twitter was not
+Twitter at first.
+38:39 Twitter was the side
+project.
+38:41 Side project at a company
+called Ideo that was
+38:45 supposed to be in the
+podcasting business.
+38:48 You're like podcasting
+business,
+38:49 do those words even
+grammatically fit together?
+38:51 The answer turned out to be
+no, as Evan discovered.
+38:54 But like as a side project
+they spun off Twitter and
+38:57 boy was that a dog wagging
+tail.
+39:00 So people are starting these
+things that are supposed to
+39:03 spin off startups, will it
+work?
+39:05 Quite possibly, quite
+possibly,
+39:07 if the right people do it.
+39:09 You can't do it yet
+39:10 though, cuz you have to do
+it with your own money.
+39:12 Yes, far back?
+39:14 &gt;&gt; Thanks so much.
+39:15 I hate to step into sort of
+a gendered pitfall, but
+39:18 what advice do you have for
+39:19 female cofounders as they
+pursuing funding?
+39:22 &gt;&gt; Female cofounders when
+you're pursuing funding,
+39:24 well it probably is true
+that women have
+39:27 a harder time raising money,
+right?
+39:30 I've noticed this in
+empirically, and,
+39:32 Jessica is just about to
+publish a bunch of
+39:35 interviews with female
+founders.
+39:36 And a lot of them said that
+they thought they had
+39:39 a hard time, a harder time
+raising money too.
+39:42 So, what I would, you
+remember I said,
+39:44 like the way to raise money?
+39:47 Make your startup actually
+do well.
+39:49 Well, that's just especially
+true in that case.
+39:52 If have any, if you, if you
+miss the ideal target
+39:56 from the VC's point of view
+in any respect, the way to
+39:58 solve that problem is make
+the startup do really well.
+40:02 So in fact, there was a
+point like a year or
+40:04 two ago when I tweeted this
+growth graph of this
+40:07 company and I didn't say who
+they were.
+40:09 But I knew it would start
+people asking and
+40:11 it was actually a female
+founded startup that was
+40:13 having trouble raising money
+but
+40:14 their growth graphs were
+stupendous.
+40:16 And so I tweeted it, knowing
+that, like, all these VC's
+40:19 would start asking me who is
+that, right?
+40:22 And, like, growth graphs
+have no gender, right?
+40:24 So if they see the growth
+graph first,
+40:26 let them fall in love with
+that.
+40:28 Right?
+40:30 So do well, which is good
+advice for
+40:31 startups generally.
+40:32 Yes?
+40:33 &gt;&gt; What would you learn in
+college right now?
+40:35 &gt;&gt; What?
+40:35 &gt;&gt; What would you learn in
+college right now?
+40:37 &gt;&gt; What would I learn in
+college?
+40:40 Hm, literary theory?
+40:45 No, just kidding.
+40:47 &gt;&gt; Let's see, well, you
+know,
+40:50 honestly, I think I might
+try and study physics.
+40:54 I feel that's the thing I
+feel like I missed.
+40:56 For some reason, like, I was
+all excited,
+40:59 when I was a kid, computers
+were the thing,
+41:01 maybe they still are, right?
+41:02 So I sort of got very
+excited about writing code.
+41:06 And you could do things
+with, you could do,
+41:07 you could write real
+programs in your bedroom.
+41:10 You can't like, build real
+linear accelerators.
+41:12 Well maybe you can, so
+maybe, physics.
+41:15 I feel kind of,
+41:16 I always, I have this, I
+sort of look lon,
+41:18 I notice I sort of look
+longingly at physics.
+41:21 So maybe.
+41:24 But I don't know if that's,
+what am I saying?
+41:26 I'm saying, I was about to
+say, I don't know if
+41:27 that's going to be helpful
+starting a startup and
+41:29 I've just told you to follow
+you own curiosity!
+41:32 So who cares if it's
+helpful?
+41:33 It'll turn out to be
+helpful.
+41:35 Questions?
+41:36 &gt;&gt; Another question online,
+41:37 what are your recurring
+systems in your work and
+41:39 personal life that make you
+efficient?
+41:40 Oh, boy, Ookay.
+41:43 So what are my recurring
+systems in my work and
+41:46 personal life that make me
+efficient?
+41:50 Well, having kids is a good
+way to be efficient.
+41:52 Cuz you have no time left,
+so if you wanna get anything
+41:55 done, the amount of done you
+do per time is high.
+42:01 &gt;&gt; So, actually many
+parents, many startup
+42:04 founders who have kids have
+made that point explicitly.
+42:07 It causes you to focus,
+because you have no choice.
+42:10 Let's see but that's not, I
+wouldn't actually recommend
+42:15 you having kids, just to
+have you more focused so,
+42:20 let's see, you know, I don't
+think I'm very efficient.
+42:25 I have two ways of getting
+work done.
+42:27 One is, like, during Y
+Combinator,
+42:29 the way I worked on Y
+Combinator was,
+42:30 I was forced to, right?
+42:32 Like, there was just,
+42:33 I had to set the application
+deadline.
+42:36 And then people would apply,
+and then there would be
+42:37 all of these applications
+that I'd have to
+42:39 respond to by a certain
+time, so I had to read them.
+42:41 And I knew if I
+42:42 read them badly we would get
+bad startups, so
+42:44 I tried really hard to read
+them well, right?
+42:45 So I set up this situation
+that forced me to work.
+42:49 The other kind of work I do
+is like writing essays.
+42:52 And I do that involuntarily.
+42:53 I'm like walking down the
+street and
+42:55 the essay starts writing
+itself in my head.
+42:57 And so really I either force
+myself to work on
+43:02 less exciting things or,
+43:04 I can't help working on
+exciting things, and I don't
+43:09 have any useful techniques
+for making myself efficient.
+43:15 Sorry.
+43:17 If you work on things you
+like you don't have to
+43:18 force yourself to be
+efficient.
+43:20 Yes?
+&gt;&gt; When do you think is
+43:21 a good time to turn a side
+project into a startup?
+43:25 &gt;&gt; When is a good time to
+43:25 turn a side project into a
+startup?
+43:28 You will know.
+43:28 Right?
+43:29 &gt;&gt; What do has the
+properties
+43:33 &gt;&gt; It starts, you,
+43:34 you when you okay,
+43:35 the question is when you
+turn a startup into,
+43:38 a side project into a real
+startup.
+43:40 You will know that it's
+becoming a real startup when
+43:43 it takes over an alarming
+percentage of
+43:45 your life, right?
+43:46 Like when you find like, my
+God, I've just spent all day
+43:48 working on this thing that's
+supposed to be
+43:50 a side project, I'm gonna
+fail all my classes.
+43:52 What am I gonna do?
+43:53 Right?
+43:54 Then maybe it's turning into
+a startup.
+43:57 Yes?
+Wait, I already answered
+43:58 your question.
+43:59 I should ask, I should let
+somebody else ask one.
+44:01 I may get back to you.
+44:02 Yes?
+44:02 &gt;&gt; I, I know you talked a
+lot earlier about
+44:04 you'll know when you start
+doing extremely well.
+44:06 But I feel like in a lot of
+cases,
+44:08 it's just you have a grey
+line where it's like,
+44:10 hey you have some users but
+maybe not as
+44:12 explosive growth chart as to
+the right.
+44:14 What would you do?
+44:15 Or what would you recommend
+doing in those
+44:17 situations specifically
+allocating time and
+44:18 resources, how do you
+balance in?
+44:21 &gt;&gt; Okay, when a startup is
+sort of
+44:23 growing but not much.
+44:24 &gt;&gt; Mm-hm.
+&gt;&gt; Didn't you tell them
+44:26 they were supposed to redo
+things that don't scale?
+44:28 &gt;&gt; Yeah.
+&gt;&gt; You sir,
+44:29 have not done the readings.
+44:30 &gt;&gt; And you are busted
+therefore.
+44:32 Because I wrote a whole
+essay in answer to
+44:33 that question.
+44:34 That is it.
+44:35 Do things that don't scale.
+44:36 Just go read that.
+44:38 Cuz I can't remember
+everything I said.
+44:40 &gt;&gt; But it's about exactly
+that problem.
+44:43 &gt;&gt; Yes, back there.
+44:45 &gt;&gt; What kind of startup
+should not go
+44:46 through incubation, in your
+opinion?
+44:48 &gt;&gt; What kinda, you mean.
+44:49 &gt;&gt; Well, yeah.
+&gt;&gt; Do you mean
+44:50 incubation YC?
+44:51 &gt;&gt; No, yeah, YC or.
+44:52 &gt;&gt; What kind of startup
+should not through YC.
+44:56 Definitely any that will
+fail.
+45:01 &gt;&gt; And, or, if you'll
+succeed but
+45:04 you're an intolerable person
+that also,
+45:08 Sam would probably sooner do
+without.
+45:11 Short of that, I cannot
+think of any,
+45:13 because most, a large
+percentage of,
+45:15 founders are often surprised
+by how large a percentage of
+45:19 the problems that startups
+have are the same regardless
+45:22 of what kind of thing
+they're working on.
+45:25 And those tend to be kind of
+problems that YC helps with
+45:28 the most not the ones that
+are domain specific.
+45:30 So I can’t, is there, can
+you think of,
+45:33 class of startups that YC
+wouldn't work for?
+45:36 I can't.
+45:37 I mean like we had fission
+and
+45:38 fusion startups in the last
+batch.
+45:41 Rather they had, yes?
+45:44 &gt;&gt; You mentioned that it's
+good advice to
+45:46 learn a lot about something
+that matters?
+45:48 &gt;&gt; Yes.
+&gt;&gt; Some good strategies to
+45:49 figure out what matters?
+45:51 &gt;&gt; Well, If you think of,
+45:53 okay, so how do you figure
+out what matters?
+45:55 If you think of technology
+as something that's
+45:58 spreading as a sort of
+fractal stain, anything on
+46:02 the edge represents an
+interesting idea.
+46:05 It sounds familiar.
+46:07 So how do you figure out
+hmm?
+46:09 Like I said, that was the
+problem.
+46:11 You have correctly
+identified,
+46:13 the thing where I didn't
+really answer the question,
+46:15 where I gave this question
+begging answer.
+46:17 I said, like I, just like,
+46:19 I'm interested in
+interesting things.
+46:20 If you're interested in
+interesting things,
+46:21 work on them and things will
+all work out, right?
+46:24 But how do you tell what is
+a real problem?
+46:28 I don't know.
+46:28 That's like important enough
+to
+46:30 write a whole essay about,
+and I don't know the answer.
+46:31 I probably should write
+something about that.
+46:33 But I don't know!
+46:34 I don't know.
+46:34 I figured out a technique
+for
+46:38 detecting whether you have a
+taste for
+46:39 genuinely interesting
+problems, which is whether
+46:43 you find working on boring
+things intolerable, right?
+46:46 And there are known boring
+things,
+46:47 like literary theory and
+46:49 working in middle management
+in some large company.
+46:51 So if you could tolerate
+those things,
+46:53 then you must not,
+46:54 you must either have
+stupendous self discipline,
+46:56 or you don't have a taste
+for
+46:58 genuinely interesting
+problems, and vice versa.
+47:02 Yes?
+&gt;&gt; One more question.
+47:02 &gt;&gt; Okay, one more question,
+it better be good.
+47:05 &gt;&gt; I was wondering out, you
+know like Snapchat, like,
+47:08 makes money
+&gt;&gt; Snapchat?
+47:10 What do I know about
+Snapchat?
+47:12 &gt;&gt; We didn't fund them.
+47:15 How about another question?
+47:18 All right go ahead.
+47:21 &gt;&gt; You talked about hiring
+employees you like.
+47:24 But it seems like that could
+read into a monoculture, and
+47:26 there are a lot of benefits
+in being a monoculture, but
+47:28 how do you feel about the
+blind spots that arise?
+47:31 &gt;&gt; Okay, so if you hire
+people who
+47:32 you like you might get a
+monoculture, and
+47:34 how do you deal with the
+blind spots that arise?
+47:37 Starting a startup is
+47:38 something where many things
+will be going wrong.
+47:40 You can't expect it to be
+perfect, and
+47:42 the advantages of hiring
+people that you know and
+47:45 like are far greater than,
+you know,
+47:47 the small disadvantages of
+having some monoculture.
+47:51 You look at it empirically
+all the most
+47:53 successful startups someone
+just like hires all
+47:55 their pals out of college.
+47:57 All right you guys, thank
+you.

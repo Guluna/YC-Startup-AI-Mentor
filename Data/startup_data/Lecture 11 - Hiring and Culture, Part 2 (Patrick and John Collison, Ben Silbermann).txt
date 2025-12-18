@@ -1,0 +1,2369 @@
+00:01 Part two of Culture and
+Team, and
+00:03 we have Ben Silverman, the
+founder of Pinterest, and
+00:06 John and Patrick Collison,
+the founders of Stripe.
+00:11 Founders that have obviously
+sort of, some of the best in
+00:13 the world at thinking about
+culture and
+00:15 how they build teams.
+00:16 So, there's three areas that
+we're gonna cover today.
+00:18 One will just be sort of
+general thoughts on
+00:21 culture as a follow up to
+the last lecture.
+00:23 And then we're really gonna
+dig into what happens at
+00:26 the founding of these
+companies.
+00:27 And building out the early
+team.
+00:29 And then how that changes
+and evolves as these
+00:33 guys have scaled their
+companies up to 100 plus.
+00:36 I don't even know how many
+people you have now,
+00:37 but quite a lot.
+00:38 Very large organizations and
+00:40 how you adapt these
+principles of culture.
+00:43 But to start off I just
+wanna ask a very
+00:46 open-ended question which
+is,
+00:48 what are the core pieces of
+culture that you found to
+00:51 be most important in
+building out your companies?
+00:53 &gt;&gt; So what are the most
+important parts?
+00:58 &gt;&gt; It's on.
+&gt;&gt; Oh, it's on.
+01:02 Yeah I mean I think for
+01:03 us, like we think about on a
+few dimensions.
+01:05 One is like who do we hire,
+01:06 and what do those people
+value?
+01:09 Two is what do we do every
+day, like why do we do it?
+01:13 Three is what do we choose
+to communicate?
+01:15 And then I think the fourth
+is what we
+01:17 choose to celebrate.
+01:18 I guess the converse of
+01:19 that is like what you choose
+to punish.
+01:21 But in general I think
+running a company based on
+01:24 what you celebrate,
+01:24 is more exciting than what
+you punish.
+01:26 But I think those four
+things kind of make up
+01:29 the bulk of it for us.
+01:36 &gt;&gt; We've placed a large
+emphasis on, as Stripe has
+01:39 grown and probably more than
+other companies is,
+01:42 transparency internally.
+01:44 And I think it's been
+something that's been
+01:45 really valuable for
+01:46 Stripe, and also a little
+bit misunderstood.
+01:50 All the things people talk
+about like hiring really
+01:54 great people, or giving them
+a huge amount of leverage.
+01:57 Transparency for us plays
+into that.
+02:00 We think that, if you are
+aligned at a high
+02:03 level about what Stripe is
+doing, if everyone really
+02:07 believes in the mission, and
+then if everyone has
+02:11 really good access to
+information, and kind of
+02:15 has a good picture of the
+current state of Stripe.
+02:18 Then that gets you a huge
+amount of the way there in
+02:21 terms of working
+productively together.
+02:24 And it kind of forgives a
+lot of the other things that
+02:27 tend to break as you, as you
+grow a start-up.
+02:30 As we've grown, we started
+off two people.
+02:33 We're now over 170 people.
+02:34 We've put a lot of thought
+into the tooling that
+02:37 goes around transparency,
+because at 170 people,
+02:41 there is so much information
+being produced,
+02:44 that you can't just consume
+it all as a fire hose.
+02:46 And so
+02:47 how we use slack, how we use
+email, things like that.
+02:50 We can go into it more
+later.
+02:51 But I think that's one of
+02:52 the core things that's
+helped us work well.
+02:55 &gt;&gt; I think culture to some
+degree is basically kind of
+02:58 the resolution to a
+bandwidth problem.
+03:01 In the sense that, maybe
+when you start out working
+03:04 on something, you're sort of
+coding all the time, but you
+03:06 can't code all the things
+that you think the product
+03:09 might need, or the company
+might need, or whatever, and
+03:10 you so you decide to work
+with more coders, right?
+03:15 And so the organization gets
+larger.
+03:18 And maybe, in some idealized
+world,
+03:20 I don't think this actually
+true, but kind of ideally
+03:22 you could be involved in
+every single decision, and
+03:24 every single sort of moment
+of the company, and
+03:26 everything that happens, but
+obviously you can't, or
+03:29 maybe you can if two people.
+03:30 But you certainly can't at
+even like five or
+03:32 ten kind of that point comes
+very quickly,
+03:35 then by the time you're 50
+it's completely hopeless.
+03:37 And so culture is kind of
+how you kind of,
+03:40 what the strands are that
+you sort of want to have,
+03:44 the invariance that you want
+to kind of maintain,
+03:48 as you can get specifically
+involved in sort of
+03:51 fewer and fewer decisions
+over time.
+03:53 And I think when you think
+about it that way it,
+03:56 maybe its kind of importance
+becomes sort of
+03:60 self evident, right?
+04:01 Because again, like the
+fraction of things you
+04:03 can be involved in directly
+is diminishing, I mean,
+04:07 almost exponentially,
+04:08 sort of assuming your head
+count growth sort of is
+04:10 on a curve that looks like
+one of the great companies.
+04:14 And yeah that's super
+important.
+04:18 And again, it manifests
+itself in a bunch of
+04:21 different ways.
+04:22 Like for example, in hiring,
+I think a large part of
+04:26 the reason why maybe the
+first ten people you hire,
+04:29 what kind of goes to ship,
+04:30 decisions are so important
+is because you're not just
+04:33 hiring those first ten
+people.
+04:34 You're actually kind of
+hiring 100 people.
+04:36 Because you should think of
+kind of
+04:38 each one of those people as
+bringing along sort of
+04:40 another ten people with
+them, and
+04:42 sort of figuring out exactly
+what 90 people, you would
+04:46 like those first ten people
+to bring along is obviously
+04:49 gonna be quite consequential
+for your company.
+04:53 But really briefly I think
+it's largely about sort of
+04:58 abstraction.
+04:59 &gt;&gt; So one thing that a lot
+of speakers in this
+05:01 class have touched on is how
+hiring those first ten
+05:04 employees, if you don't get
+that right,
+05:06 the company basically will
+never recover but
+05:08 no one has talked about how
+to do that so.
+05:11 What have the three of you
+looked for
+05:15 when you've hired these
+initial employees,
+05:17 to get the culture of the
+company right?
+05:20 How, how have you found
+them, and
+05:21 what have you looked for?
+05:24 &gt;&gt; Sure.
+So,
+05:25 I guess this answer is
+different for every
+05:29 company and I'll say for us
+it was very inductive.
+05:33 So I literally looked for
+people that I wanted to work
+05:35 with and that I thought were
+talented.
+05:38 I think, I've read all these
+books about culture,
+05:40 because when I don't know
+how to do something,
+05:41 I first go read things and
+05:43 everyone has all these
+frameworks.
+05:44 And I think one bit, big
+misconception that someone
+05:47 said once is that people
+think culture is like
+05:49 architecture when it's a lot
+more like gardening.
+05:51 You know, you plant some
+seeds and
+05:53 then you pull out weeds that
+aren't working,
+05:54 and they sort of expand.
+05:56 So, when we first hired
+people we hired people that
+05:59 were like ourselves.
+06:01 I often looked at like three
+or
+06:02 four different things that I
+really valued in people.
+06:04 You know, I looked for
+people that worked hard and
+06:07 seemed high integrity and
+low ego.
+06:09 I looked for people that
+were creative, and
+06:10 I usually meant that they
+were really curious.
+06:12 They had all these different
+interests.
+06:14 Some of our first employees
+are probably some of
+06:17 the quirkiest people I've
+ever met.
+06:19 They were engineers but
+06:20 they also have all these
+crazy hobbies.
+06:23 Like one guy made his own
+board game
+06:24 with this elaborate set of
+rules.
+06:26 Another guy was really into
+magic tricks.
+06:28 And he had coded not only
+like this magic trick on
+06:31 the iPhone, but
+06:32 he had shot the production
+video with a preview.
+06:35 And I think that, that
+quirkiness has actually been
+06:37 a little bit of a calling
+card.
+06:38 And we find that really
+creative, quirky people that
+06:41 are excited about many
+disciplines, and are
+06:43 extraordinary at one tend to
+build really great products.
+06:47 They tend to be great at
+collaborating.
+06:49 Then the last thing is, we
+really look for
+06:51 people that wanted to,
+06:51 they just wanted to build
+something great, and
+06:54 they weren't arrogant about
+it, but they just felt like,
+06:57 it'd be really cool to take
+a risk and
+06:58 build something bigger than
+themselves.
+07:02 And that, in the beginning,
+is very,
+07:03 very easy to select for if
+you're in our situation.
+07:05 We had this horrible office,
+like, nobody got paid.
+07:08 So there was no external
+reason, other than being
+07:11 excited about building
+something to join.
+07:13 In fact, there was every
+reason not to.
+07:15 And that's something,
+looking back,
+07:16 I really, really value,
+07:17 because we always knew
+people were joining for
+07:19 the purest reasons, and in
+fact,
+07:20 were willing to forgo other
+great job opportunities,
+07:24 market salary, a clean
+office,
+07:27 good equipment just for the
+chance to work.
+07:30 So, to this day I think a
+lot of those traits have
+07:33 been seeded and
+07:33 are embedded in the folks
+that we look at now.
+07:38 &gt;&gt; Yeah the first ten hires
+are really
+07:39 hard because you're making
+these first ten
+07:44 hires at a point where no
+one's heard of this company,
+07:47 no one really wants to work
+for it.
+07:48 You're just these,
+07:49 like two weird people
+working on this weird idea.
+07:51 &gt;&gt; And like their friends
+are telling them not
+07:53 to join.
+07:54 For our second employee, I
+think
+07:57 he'd accepted the offer or
+he was just about to, and
+07:60 his best friends took him
+out the night before, and it
+08:03 was like a full on assault
+for, why you should not join
+08:07 this company, why this is
+ruining your life basically.
+08:11 And so anyway the guy
+subsequently
+08:14 continued to join.
+08:15 And actually one of
+08:16 those friends also now works
+at Stripe.
+08:18 But this is what you're up
+against.
+08:20 &gt;&gt; Yeah.
+08:21 And I mean it's also hard
+because no batch of
+08:24 ten people will have as
+great an influence on
+08:28 the company as those first
+ten people.
+08:32 I think everyone's
+impression of recruiting is,
+08:35 you open LinkedIn.
+08:36 It's sort of like ordering
+off the dollar menu.
+08:38 It's, I want that one, that
+one, and that one.
+08:40 And, and now you have some
+hires.
+08:43 Whereas at least for us, it
+was very much over a very
+08:47 long time period, talking
+people we knew or
+08:50 friends of friends into
+joining.
+08:54 We didn't have huge
+networks, Pat and
+08:57 I were both in college at
+the time.
+08:58 So there were no people that
+08:60 we'd really worked with to
+draw on, and so
+09:02 a lot of those early Stripes
+were people we had heard of,
+09:05 friends of friends, and the
+other interesting thing they
+09:09 all had in common is that
+they were all
+09:12 early in their career, or
+undervalued in some way.
+09:16 Cuz when you think about it,
+09:17 if someone is a known
+spectacular quantity,
+09:20 then they're probably
+working in a job and
+09:23 very happy with that.
+09:24 And so we have to try and
+find people who were,
+09:28 in the case of our designer
+that we hired, he was 18 and
+09:31 in high school and in Sweden
+at the time.
+09:34 In the case of our,
+09:35 our CTO, he was in college
+at the time.
+09:39 You know, a lot of these
+people,
+09:40 they were early on in their
+careers and
+09:43 the only way we could, you
+can relax when constrained.
+09:48 You can relax the fact that
+they're talented or
+09:50 relax that it's apparent
+that they're talented,
+09:52 and we, not consciously, but
+we relaxed the latter.
+09:57 &gt;&gt; Yeah, I think finding
+kind of people who are, or
+10:03 just think like a value
+investor.
+10:05 You're looking for the human
+capital that's
+10:10 significantly devalued by
+the market, you know?
+10:12 You probably shouldn't look
+to
+10:13 hire your brilliant friends
+at Facebook and Google or
+10:16 whatever, because they're
+already discovered.
+10:18 You know, if they're wanting
+to join that's great,
+10:20 but they're probably harder
+to convince.
+10:23 John and I spent a little a
+while yesterday
+10:26 afternoon sort of trying to
+figure out in retrospect,
+10:29 what kind of traits our
+first ten or
+10:31 so people had in common that
+we thought were significant.
+10:34 And you know, in general
+sort of in speaking about
+10:38 culture, I sort of want to
+caveat everything we say
+10:41 with, I that sort of advice
+is very limited experience,
+10:46 widely over extrapolated.
+10:48 And I think there's a lot of
+truth to that.
+10:51 But for our particular first
+ten people, the things we
+10:54 sort of figured out that
+seemed to be important were
+10:58 they were also very genuine
+and straight.
+11:02 I think that actually
+matters quite a lot in that
+11:04 sort of they're people that
+sort of that others want to
+11:07 work with, that they're
+people that others trust.
+11:10 They sort of have an
+intellectual honesty in
+11:12 how they approach problems
+and, and so forth.
+11:15 They were people who
+11:16 really liked getting things
+finished.
+11:18 There's a lot of people who
+11:19 are really excited about
+tons of things.
+11:21 Only a subset of those are
+actually excited about like
+11:24 completing things.
+11:25 You know, there's a lot of
+talk about, for
+11:26 example hiring people off
+their GitHub resumes,
+11:29 whatever, actually think
+that doesn't quite ring,
+11:31 kind of correct to me.
+11:33 In the sense that place is a
+large premium on sort of
+11:36 lots of different things.
+11:37 I think it's actually a
+priori,
+11:38 sort of much more
+interesting to work with
+11:41 someone who has spent two
+years really investing in
+11:44 going deep in a particular
+area.
+11:45 And then the third trait
+they all seem to have in
+11:50 common is they just sort of
+cared a great deal.
+11:52 Like, it was offensive to
+them when something was
+11:54 just a little bit off.
+11:56 And kind of again,
+11:57 in hindsight, there are all
+these like crazy things we
+11:59 used to do that I mean, do
+in fact seem crazy like we
+12:03 probably shouldn't have done
+them,
+12:04 but everyone was always like
+well, was borderline insane
+12:09 in sort of how much they
+cared about tiny details.
+12:11 Like we used to, like every
+single API request that
+12:16 ever generated an error went
+to all of our inboxes and
+12:20 phoned all of us.
+12:21 Because it seems terrible to
+ever have an error that
+12:25 didn't go and
+12:26 get a resolution from the
+user standpoint.
+12:29 Or we used to like copy
+everyone else on
+12:31 every outgoing email.
+12:33 And we'd like point out
+slight grammar or
+12:35 spelling mistakes to each
+other, because it's terrible
+12:37 to ever send an email with a
+spelling mistake.
+12:39 So anyway those were the
+three traits come
+12:42 from that area.
+12:43 A genuine, caring a great
+deal.
+12:46 And, so what was my second
+one?
+12:51 &gt;&gt; The other one.
+12:52 &gt;&gt; Yeah so.
+12:55 Sorry yes completing things
+like list of three items.
+13:01 &gt;&gt; Yeah, I'm only gonna say
+I just don't think
+13:03 there's any wrong place to
+find people, so when I
+13:06 look back at our first few
+folks that we hired.
+13:09 They came from all over the
+place.
+13:10 Like I put up ads on
+Craigslist.
+13:12 I went to random tech talks.
+13:14 You know, we met people at,
+13:16 we used to throw weekly
+barbeques at the office.
+13:18 It was like bring your own
+food and drinks.
+13:21 And then we would just talk
+to folks.
+13:23 I think every time I ever
+went and
+13:24 got coffee in Palo Alto.
+13:25 Like one of you guys was
+recruiting at
+13:28 Coopa because their office
+was like
+13:30 strategically situated next
+to the best coffee shop.
+13:33 But I think that the really
+good people generally,
+13:36 they're generally doing
+something else, and
+13:38 so you have to go seek them
+out,
+13:40 rather than expecting that
+they're gonna seek you out.
+13:42 Triple so, when no one's
+ever heard of or
+13:45 is using the product that
+you're working on.
+13:47 &gt;&gt; Yeah it's probably really
+important to
+13:52 have a great elevator pitch.
+13:55 Not even for investors, but
+13:57 just because everyone you
+run into right now is maybe
+13:60 six months, a year down the
+road, a potential recruit.
+14:04 And so, the right time to
+have gotten them
+14:06 excited about your company,
+the right time for
+14:08 them to have started
+following us,
+14:10 and be thinking about it if
+they think about what
+14:12 they're going to do next, is
+as soon as you can start.
+14:16 It's gonna take a very long
+time to recruit people so to
+14:18 being able to consistently
+get people excited about
+14:20 what you're doing will pay
+back dividends later.
+14:25 &gt;&gt; Maybe this is a little
+tangential but John and
+14:28 I were also chatting
+yesterday afternoon sort of
+14:30 like a bunch of our friends
+have sort of
+14:32 started companies right out
+of school.
+14:34 We were sort of thinking
+about,
+14:36 what seems to go wrong in
+those companies.
+14:38 And I think something,
+14:40 that may be the most common
+failure mode.
+14:43 Since we said of doing
+something kind of
+14:45 overly niche, or overly sort
+of specific and banded.
+14:47 I think maybe it comes from
+sort of like there's a major
+14:50 shift in time horizon.
+14:52 As you go from classes to
+building a start-up.
+14:54 Right?
+A class kind of plays out in
+14:56 a quarter or a semester or
+whatever.
+14:57 Whereas a start-up is like a
+five or ten year thing.
+15:00 And I think this is really
+problematic because it's
+15:03 actually quite hard to hire
+people for
+15:05 niche things, in that if you
+tell somebody,
+15:08 look we're going to build a
+rocket that goes to Mars.
+15:11 Like I mean that sounds
+almost impossible, but
+15:13 also sounds fucking awesome.
+15:14 Right?
+And so it's actually pretty
+15:16 easy to convince people to
+work on it.
+15:17 Of course, if it's well, you
+know,
+15:18 we're going to build this, I
+don't wanna single out any
+15:20 particular idea, because
+probably sound like I'm
+15:22 picking some actual start up
+that's doing it.
+15:23 But you know, if you pick
+something pretty narrow,
+15:25 something that maybe kind of
+inductively comes out of
+15:27 the kinds of problems you
+solve as part of a class
+15:28 project, that's actually a
+much harder effort.
+15:33 &gt;&gt; One specific question
+that has come up a lot is,
+15:36 how as a relatively
+inexperienced founder do
+15:40 you identify who the really
+great people are?
+15:42 So, you know, you meet
+people at these barbecues or
+15:44 for your friends or
+whatever, and
+15:45 maybe you've worked with
+them a little bit.
+15:46 But what specifically did,
+15:48 did you guys do in your
+processes to identify like,
+15:51 you know, what this person's
+going to be really great?
+15:53 Or when did you really get
+it wrong?
+15:55 But what have you learned
+about how to
+15:56 identify raw talent if you
+can't just say, well they
+15:59 worked at Google or
+Facebook, they must be good?
+16:03 &gt;&gt; Well, I mean, you'll
+never
+16:05 like 100% know obviously
+until you work with folks.
+16:07 Which is why the flip side
+of it is, you know,
+16:09 if someone you hired just
+wasn't a good fit,
+16:11 you owe it to the company
+and
+16:13 to them, to tell them how
+they can improve, and
+16:16 if they're not working out
+to fire them.
+16:18 But I think that the
+generally,
+16:19 the question of talent falls
+into two big buckets.
+16:21 Like, one is you have some
+sense of
+16:23 what makes them good at
+their job, and
+16:25 there are some areas where
+you have taste in that area,
+16:29 and there's some where you
+don't.
+16:30 And the ones where you
+16:31 don't are actually much more
+difficult.
+16:34 So what we would do is, is
+we would do a few things.
+16:36 Like first,
+16:37 before talking to anyone we
+try to get a sense for like
+16:40 what is really world class
+in that discipline mean.
+16:42 And this becomes very
+important later,
+16:44 when you're hiring things
+like Head of Finance and
+16:46 you don't anything about
+finance.
+16:48 Except what was contained in
+like a library book you
+16:50 got about like an
+introduction to finance,
+16:52 or head of marketing.
+16:53 So, I always made it a habit
+of, like, talking to
+16:56 people that I knew de facto
+were world class and
+16:59 then asking them,
+16:59 specifically, what are the
+key traits or
+17:01 characteristics that you
+look for?
+17:02 What are the questions that
+you ask, and
+17:04 how do you find them?
+17:06 And if you're looking for
+17:07 the next person that's as
+good as you, like,
+17:08 where are, where is that
+person working right now,
+17:11 and, like, what's, what's
+her phone number?
+17:14 I think that, like, learning
+what good and bad is during
+17:17 the interview process, is
+extremely expensive.
+17:19 It's an expensive use of
+your time, and
+17:21 it's an expensive use of
+everyone else's time,
+17:22 so precalibration of that
+really matters.
+17:25 And then, once you have
+someone in, sort of,
+17:27 the interview process,
+17:28 you'll build the process
+over time,
+17:30 to both screen quality.
+17:33 And so at Pinterest, you
+know, we have
+17:37 an evolving set of standard
+questions that we're
+17:39 always rotating through, and
+we're always measuring,
+17:40 are these good indicators or
+bad indicators of quality?
+17:43 But the other thing that the
+questions are meant to do,
+17:45 is they're supposed to give
+a sense for,
+17:47 is this the right place for
+17:48 that person to come and
+work?
+17:49 And this to the point you
+guys made about being very
+17:51 transparent about what's
+gonna be easy or hard.
+17:53 Really great people wanna do
+things that are hard,
+17:55 they wanna solve tough
+problems.
+17:58 And so, there was a certain
+brilliance in
+18:02 Google setting out these
+interview questions that
+18:03 were thought to be really
+difficult.
+18:04 Because then people who like
+solving really
+18:06 difficult problems, they
+come out and seek those.
+18:10 I think it's really
+important,
+18:12 even as companies get
+bigger,
+18:13 that you don't whitewash the
+risks.
+18:15 I heard that PayPal, you'd
+go in and
+18:18 after interviewing with like
+Peter Thiel and
+18:20 Max Levchin, then they would
+say by the way like Visa and
+18:23 MasterCard wanna kill us,
+and
+18:24 we might be doing something
+that's illegal.
+18:26 But if you succeed, you'll
+redefine payments.
+18:29 Or when they were recruiting
+for iPhone,
+18:30 they didn't even tell people
+what they were doing.
+18:32 They were like you won't see
+your families for
+18:35 three years, but when you're
+done,
+18:37 your kid's kids will
+remember what you built.
+18:41 And I think that's a really
+good thing in recruiting as
+18:44 well that you're very
+transparent about why you
+18:46 think it's an amazing
+opportunity, but
+18:48 you lay out in gory detail
+why it's gonna be hard.
+18:51 And then the right people
+select in, or
+18:53 they select out of that
+opportunity.
+18:58 &gt;&gt; Evidence suggest it's
+worth a lot of
+18:59 people to see their kids,
+though.
+19:03 I feel like one thing you
+have to do as you try to
+19:06 identify talent is have the
+confidence to interview for,
+19:12 in a way that works for you.
+19:14 I think you know, if you're,
+say you're not,
+19:17 the world's best engineer
+and
+19:19 you're trying to interview
+engineering candidates.
+19:22 I think it's tempting to try
+to
+19:23 color code what everyone
+else does.
+19:25 And you know, get them to
+call it on white board.
+19:26 And do other engineering,
+interviewee things.
+19:29 You know in the case of
+Stripe,
+19:30 hiring our first engineer.
+19:32 We flew the guy out, and we
+spent a weekend coding with
+19:36 him, and you know looked
+over his shoulder and
+19:38 kind of, it was the only way
+we could really tell and
+19:41 get ourselves confident
+that, that person was good.
+19:45 And I think you can actually
+extend that to other roles,
+19:48 where again you're not an
+expert, and
+19:49 that you know I'm no
+business development guru.
+19:53 But when we interview people
+for
+19:54 business development roles,
+19:55 we'll ask them to do a
+project, you know?
+19:57 Where they talk about how
+they would
+19:59 improve an existing
+partnership that Stripe has.
+20:01 Or which new partnerships
+they would go out and do.
+20:03 And again, you know,
+20:04 even though it's not my
+domain area, I am actually
+20:07 confident enough that I can
+judge those pretty well.
+20:09 And I think people often
+have this imposter syndrome
+20:12 when it comes to
+interviewing for roles.
+20:15 Yeah.
+I think a pretty specific,
+20:16 just kind of just tactical
+thing, and to do for
+20:18 again the first 10 people,
+is to work with them as much
+20:21 as you can before committing
+to hiring them.
+20:24 I mean, once you
+20:24 reach a certain scale it's
+kind of impractical,
+20:26 because it's a huge time
+commitment on their side.
+20:28 And ultimately I mean it
+just would be unskilled,
+20:30 would be expensive from your
+side.
+20:32 But it's really worth it
+20:33 to get the first ten people
+right.
+20:34 And so, for
+20:35 a majority, maybe in all of
+the first ten people,
+20:38 we worked with them in some
+capacity.
+20:40 Usually for a week in
+advance, and
+20:41 it's pretty hard to fake it
+for a week.
+20:45 It tends to be pretty clear,
+quite quickly.
+20:49 And another thing I thought
+of you know, to the question
+20:53 of sort of how do you know
+like who is great or
+20:55 who is good enough or
+whatever.
+20:56 And people always talk about
+this notion of
+20:58 the ten x person, that
+whatever that skill set is.
+21:00 I don't really know what ten
+x means,
+21:02 I think maybe the slightly
+more kind of helpful or like
+21:06 intuitive version of that
+is, is this person probably,
+21:09 the best out of all of their
+friends at what they do.
+21:14 And so you know, it's a
+little bit sensitive to you
+21:16 know, how well they chose
+friends, how many they have.
+21:18 But for me at least, I find
+that kind of
+21:20 a more helpful way to think
+about it, like
+21:22 is this the best engineer
+this engineer knows.
+21:25 And the other thing I
+21:25 think that's actually
+probably just worth
+21:27 mentioning in all of those
+kind of first ten people, or
+21:28 even more generally on the
+culture and hiring topic.
+21:32 I think everyone sort of
+doesn't realize until they
+21:35 go through it themselves how
+it important it is,
+21:37 in large part because the,
+like in life and the media
+21:40 and everything, people focus
+way too much on founders.
+21:43 And they're like, here we
+are.
+21:44 And so kind of,
+21:44 we're re-enforcing the sort
+of structural narrative that
+21:47 like, stripe is about John
+and Patrick.
+21:49 And Pinterest is about Ben
+and so forth.
+21:51 Whereas, I mean, obviously,
+21:52 sort of the vast majority of
+what our companies do
+21:54 like 99.9% is being down by
+people who are not us.
+21:57 Right?
+21:57 And I think, I mean, that's
+kind of,
+21:59 it's obvious when you say
+it, but it's at a very much,
+22:02 not just the macro narrative
+and
+22:04 you know, companies are
+abstract.
+22:05 So you kind of need to
+associate them with people.
+22:07 But I think it's worth
+bearing in mind that like
+22:08 for, you know, Apple, you
+know everything was
+22:12 you know, Steve Jobs was a
+like tiny, tiny detail at
+22:15 the end, right, or Google
+was that way, and so forth.
+22:17 &gt;&gt; So don't screw it up, is
+that what you're saying?
+22:20 &gt;&gt; Something like that.
+22:20 &gt;&gt; I think, you know, one
+other thing I'll mention is
+22:23 that I think referencing
+people is really important,
+22:25 and referencing people is
+just what it sounds like.
+22:30 You're basically asking
+people who have real,
+22:32 material working experience,
+for their honest opinion.
+22:35 And we do that really
+aggressively, and
+22:38 what we're trying to
+22:39 figure out is what's this
+person like to work with?
+22:43 We're not trying to validate
+like whether they
+22:44 told the truth on their
+resume,
+22:45 cuz we assume that they're
+telling the truth.
+22:47 So, very standard questions
+that I'll ask somebody who's
+22:51 in an interview, I might
+say, hey,
+22:53 we both know Jonathan in
+common.
+22:56 I'm gonna talk to him, you
+know,
+22:57 in a couple weeks, cause
+we're both social friends.
+22:59 Like if I asked him, what
+you're the best at, or
+23:03 what you would be most proud
+of, or
+23:04 what you were kind of
+working to improve.
+23:06 What would he or she say?
+23:09 Because it sort of tests the
+level of self awareness, and
+23:11 creates a bit of social
+accountability.
+23:13 And then I'll try to ask
+something that makes the
+23:16 question which is typically
+very soft feel a little bit
+23:18 more quantitative, and then
+calibrate that over time.
+23:20 So you know,
+23:22 in evaluating this person or
+this dimension, do you think
+23:25 this is the top 1% of people
+you've ever worked with?
+23:26 The top 5% and the top 10%?
+23:28 And it forces a scarcity
+that gives a materially
+23:31 different reference, then if
+you just say hey,
+23:34 like what's the best thing
+about John?
+23:36 He told me you know, he's
+good at these things.
+23:38 Can you validate?
+23:38 And you're like yeah,
+23:39 sure, Cuz they don't gain
+anything.
+23:40 So I think that's just a
+tool that people should
+23:43 take seriously.
+23:44 &gt;&gt; Yeah.
+23:45 &gt;&gt; Yeah, and
+23:45 referencing isn't obviously
+easy to begin with, but
+23:48 it does actually prove
+really useful over time.
+23:51 And you just have to, people
+I think especially for
+23:54 named references, people
+really want to be nice.
+23:56 So you have to do things
+like create an artificial
+23:58 scarcity by saying you know,
+where would you rank this
+24:01 person amongst the people
+you worked within this role?
+24:03 Or, you know,
+24:04 you just splitz out on the
+enchant of how to reference,
+24:06 but usually I aim to spend,
+you know,
+24:08 15 minutes on the phone with
+that person.
+24:09 Not just let them say, yeah
+this person is awesome, and
+24:13 then hang up.
+24:14 &gt;&gt; That's also a tremendous
+source of new recruits.
+24:16 &gt;&gt; Yeah.
+24:17 &gt;&gt; Those references are also
+a tremendous source of
+24:19 new recruits.
+24:21 What have each of you
+learned about,
+24:23 once you hire these first
+people and they joined?
+24:26 What have you done to make
+them effective quickly?
+24:28 To get them sort of, you
+know,
+24:31 to the right cultural place,
+you know?
+24:34 Cuz sort of hiring is
+usually very difficult, but
+24:37 then not as difficult as
+making them
+24:38 happy and effective.
+24:39 So what do you do
+24:40 with these early employees
+to accomplish that?
+24:45 &gt;&gt; Well, ways that it's
+changed when we've gone from
+24:47 really small to bigger.
+24:49 When we first started,
+24:50 we were generally hiring
+because we needed
+24:53 that person, like, a long
+time ago.
+24:55 And so their whole
+on-boarding was like,
+24:57 here's your computer,
+24:58 we already set up your
+environment,
+24:59 don't worry about it,
+24:60 this is the problem that we
+have to solve together.
+25:02 And then because of the
+nature of the start ups,
+25:05 we were all in this, like,
+tiny, two bedroom apartment.
+25:09 All of the other things,
+25:10 like building personal
+relationships,
+25:11 spending time together,
+getting to know one another,
+25:13 it just all happened.
+25:14 Kind of automatically like,
+25:15 you didn't have to do
+anything.
+25:16 The one thing that I would
+add to that is, though,
+25:20 we would always try to
+remind people of like,
+25:21 where we wanted to go some
+day.
+25:23 Cuz it's really easy when
+you first join to drop
+25:24 somebody into a problem, and
+then they think the whole
+25:26 world is like this little
+problem in front of them.
+25:29 We'd always say,
+25:29 you know, hey, some day we
+wanna do for
+25:33 Discovery what Google did
+for search.
+25:35 This is our plan for trying
+to get that done.
+25:37 Now as the company, grows I
+think that process has to
+25:41 get a little bit more
+formalized.
+25:42 And so we spend a lot of
+time thinking, and honestly
+25:46 trying to constantly refine
+what is that person's
+25:49 experience look like from
+the day they came in,
+25:52 to their very first
+interview,
+25:53 through 30 days after they
+joined.
+25:55 Like do they have somebody
+whose name they know?
+25:58 Do they know who their
+manager is?
+25:59 Have they sat down with
+people on their team?
+26:01 Do they know what the
+general architecture of
+26:03 the company is, and what the
+top priorities are?
+26:06 And we have a program and
+it's a week long, and
+26:08 then there are some function
+specific programs that
+26:10 go in deeper.
+26:12 And that's something that's
+always been refined.
+26:14 And the alpha metrics that
+we look on that,
+26:15 it's when we ask people like
+what did you think
+26:17 afterwards and then 30 days
+afterwards.
+26:19 And then we also ask their
+peers and their manager,
+26:21 like hey, is this person
+kind of up to speed?
+26:23 Do you feel like we've done
+26:24 a good job making them
+productive?
+26:25 And if we haven't, that's a
+key A, that, that team
+26:28 shouldn't be hiring anymore
+people, because they're not
+26:31 doing a good job bringing in
+new people.
+26:34 And B, that we need to
+retool that.
+26:36 And so I think those things
+are important.
+26:38 I just wouldn't discount
+just how important it is to
+26:40 get to know the person as a
+person.
+26:42 Like what are their
+aspirations?
+26:44 What's their working style?
+26:45 How do they like to be
+recognized?
+26:48 Do they really prefer being
+in total silence?
+26:52 Are they a morning person or
+night person?
+26:53 Like knowing those things I
+think, it just
+26:56 demonstrates that you care
+about them individually as
+26:58 well as collectively, like
+what you goals are.
+27:00 &gt;&gt; I think there are two
+things that are important at
+27:05 any stage through the
+implementation of a change.
+27:07 The first is to get them up
+and
+27:08 running, doing real work
+quickly.
+27:10 Because that's only when you
+can find the problems,
+27:13 that's how progress is
+measured,
+27:15 is how much real work
+they're doing.
+27:16 And so, you know, when we
+have engineers start,
+27:19 we'll try to get them
+committing on the first day.
+27:21 When we have people you
+know,
+27:22 people in business roles
+start,
+27:23 we will have them in real
+meetings on the first day,
+27:27 on what they're meant to be
+working on.
+27:28 But I think sometimes
+there's a tendency to
+27:30 be tentative, and help ease
+people in.
+27:32 We're much more of the push
+people off the cliff school.
+27:37 And then I think the second,
+is to try and
+27:39 start quickly giving people
+feedback, and
+27:42 especially feedback on how
+to adapt to the culture.
+27:44 Because when you think about
+it, like, you know,
+27:46 if you have built a strong
+culture as, you know,
+27:49 all the companies up here
+are trying to,
+27:52 then it's going to take some
+adapting for the person.
+27:55 It's not going to be
+necessarily easy, you know?
+27:58 One thing we have at Stripe,
+27:59 is just the culture was a
+lot more written.
+28:02 And so, you know?
+28:03 You have people who are
+right next to
+28:04 each other each with
+headphones on, and
+28:06 just like IM'ing away to
+each other.
+28:07 And for you know,
+28:08 a lot of people coming in
+who hadn't worked in
+28:09 an environment like that,
+it's, it's sort of hard.
+28:11 &gt;&gt; In normal places.
+28:12 &gt;&gt; Exactly.
+Yeah.
+28:14 And so, everything from kind
+of high level how you're
+28:17 doing at your job, to kind
+of minor cultural pointers.
+28:20 The more feedback you can
+give them,
+28:23 the better they'll do.
+28:23 And it's unnatural.
+28:24 Right?
+Because it's
+28:25 unnatural to be constantly
+telling people that
+28:28 they're doing a good or bad
+job.
+28:29 You don't do that,
+hopefully,
+28:31 in your normal life, you're
+more restrained.
+28:34 But when you have employees,
+28:36 that's kind of what you owe
+them for them to do well.
+28:38 &gt;&gt; So I think this is sort
+of a good transition too,
+28:40 as your companies have
+scaled.
+28:43 What are the biggest changes
+you've had to make to your
+28:46 hiring processes?
+28:48 And also how you sort of
+manage and
+28:50 run the team, as you've gone
+from, you know,
+28:53 two to 10 to 100 to 1000
+employees?
+28:59 &gt;&gt; There a lot of changes.
+29:02 I mean, I think one thing
+that we try to do on
+29:04 the team side is, the goal
+is to make the teams feel as
+29:07 autonomous and nimble as
+possible within
+29:09 the constraints of having a
+large organization.
+29:11 And that means over time,
+that we're always trying to
+29:14 make it feel like a start-up
+of of many start-ups,
+29:16 rather than this monolithic
+organization with a set of
+29:19 foreign processes that cut
+horizontally through it.
+29:21 And it's easier said than
+done.
+29:22 I think that, like we're not
+all the way there.
+29:24 But one of our goals is that
+each team has, they control
+29:28 the resources that they need
+to get things done,
+29:30 they know what the most
+important thing is, and
+29:33 how it's measured.
+29:34 And in that way,
+29:35 then the management problem
+becomes somewhat tractable,
+29:37 otherwise it feels
+completely impossible if
+29:39 you can't decompose it into
+autonomous units.
+29:42 Like you just look at it,
+and you're like, oh my gosh,
+29:44 communication complexity is
+increasing geometrically.
+29:46 Management complexity,
+29:47 like it's never gonna work,
+and so
+29:48 you have to sort of create
+these abstracted units, or
+29:50 that's at least what we're
+gonna try to do.
+29:52 And at Pinterest in
+particular, the real
+29:55 challenge of creating those
+abstracted units is.
+29:58 We want to actually have
+29:59 units that encompass a
+super-strong designer,
+30:02 a super-strong leader in
+engineering, often a writer,
+30:06 often sometimes like a
+community manager.
+30:09 We want them all to be
+self-contained.
+30:11 And so that makes the
+problem really hard,
+30:12 but that's kind of core to
+our philosophy of how we
+30:15 build products.
+30:15 We try to put people
+together that have all of
+30:18 these different disciplines.
+30:19 They're curious about lots
+of things.
+30:20 And then we anchor them on a
+single project and then we
+30:22 try to remove barriers to
+let them go fast.
+30:24 When we find new barriers,
+we sit down and
+30:26 we think, how do we speed
+that up?
+30:28 I think hiring is a little
+bit different.
+30:31 And I think the biggest
+change and
+30:34 the biggest asset that you
+get as you get more
+30:35 people is referrals become
+like more and more and
+30:39 more and more the life blood
+depending on
+30:41 the network of all the
+people that you bring in.
+30:42 So one of the really lucky,
+30:43 and in hindsight, great
+decisions that we made, was
+30:46 actually the 14th or 15th
+person that we hired was
+30:49 a professional recruiter and
+she had worked at start-ups.
+30:52 She had worked at big
+companies like Apple.
+30:55 But she knew where that
+pipeline breaks down,
+30:58 knew the early indicators,
+and
+30:60 taught everyone not just how
+to screen for talent, but
+31:03 how scalably to identify the
+people that are gonna be
+31:07 culturally, really good for
+the company.
+31:10 And I think looking back on
+that,
+31:12 it's something that I
+personally really value.
+31:17 &gt;&gt; You know, there's just a
+huge amount of
+31:18 stuff here, right?
+31:18 In that I guess,
+31:20 this is all under kinda the
+rubric of managing growth.
+31:23 And either your company
+fails very quickly or all of
+31:28 your problems become in some
+way about managing growth.
+31:33 One thing that I think tends
+to take people by surprise,
+31:35 and certainly took me by
+surprise,
+31:37 is kind of how quickly just
+like the time
+31:39 horizon has changed.
+31:40 In that, in your first month
+you're largely thinking
+31:45 about things maybe one month
+ahead, right?
+31:49 In that, maybe that's kind
+of
+31:50 what your development road
+map is oriented around,
+31:53 even in terms of who you're
+working with.
+31:55 Maybe it's like,
+31:55 informal relationships where
+they haven't fully committed
+31:58 to remain full time or
+whatever, right?
+32:00 And then, the more time goes
+by,
+32:02 I think that kind of has a
+reciprocal, or
+32:05 corresponding increase in
+the time horizons.
+32:08 After one year, you're kind
+of thinking one year ahead.
+32:10 After four years, you're
+thinking four years ahead.
+32:14 But that increases very
+quickly, right?
+32:17 And so after you know,
+32:18 it's after one month, it's
+again, super short term.
+32:20 And then just 11 months
+later you should now
+32:23 actually be thinking and
+planning a year ahead, and
+32:26 thinking about human
+structures on
+32:27 that time horizon.
+32:28 Thinking about the stuff Ben
+talked about, like where you
+32:31 want to be going long term
+and things like that.
+32:35 I think that also plays into
+your hiring and
+32:37 the kinds of people you
+hire, right?
+32:39 In that in the really early
+days you kind of
+32:40 have to hire people who will
+be productive,
+32:42 essentially immediately.
+32:45 You don't have the luxury of
+hiring people who are really
+32:48 promising, but they're not
+quite gonna be up to
+32:50 speed for another year or
+two.
+32:52 They have to be able to
+contribute immediately.
+32:54 But after two or three
+years, now it starts to get
+32:57 much more reasonable to make
+those investments and
+32:60 in fact, if you're not
+making those investments,
+33:01 you're probably being much
+too short term.
+33:03 And so I think that's really
+important.
+33:06 And a lot of it also just
+comes from
+33:09 all these problems in some
+sense are easy,
+33:11 like how do you build good
+social bonds between people?
+33:14 I mean, we all do it every
+day, right?
+33:18 It's kind of, how do you
+make it systematic and
+33:21 effective at scale?
+33:23 It's always a very severely
+imperfect approximation of
+33:27 what you would ideally do if
+you were small, and
+33:30 what hacks can you pull to
+make it work as well as
+33:33 you possibly can at a larger
+scale.
+33:35 Like a rapidly growing
+company,
+33:37 say growing headcount here,
+two or
+33:38 three x a year, it is a very
+unnatural thing.
+33:40 And so it's, what's the
+least bad way of sort of
+33:43 managing that period of
+growth?
+33:45 Human organizations aren't
+designed for
+33:47 it and I think it's worth
+being quite systematic about
+33:52 thinking about ways to do
+that.
+33:53 But realizing that you
+probably can't do
+33:57 much better than adequation.
+33:59 You know, for Stripe, it's
+things like we
+34:01 have three meals every day
+at sort of
+34:03 long tables where everyone
+can sit together, right?
+34:06 And if you think of net, how
+much more total human
+34:09 interaction happens as a
+result of having these kind
+34:12 of randomly mixed meals,
+it's vast, right?
+34:15 And it's kind of a whole
+list of things like that.
+34:18 But, I think that's kind of
+the general framework.
+34:22 &gt;&gt; One thing I'm really
+curious about you guys value
+34:24 transparency.
+34:24 How have you scaled it over
+time?
+34:27 I know we think about
+figuring it out all
+34:28 the time, just curious.
+34:29 &gt;&gt; So you know, start-ups, I
+can't remember who it was,
+34:33 defined it as a, start-up is
+an organization that's not
+34:38 yet stuck with all of these
+principle agent problems.
+34:42 That at most large
+companies,
+34:44 what is locally optimal for
+you is very frequently not
+34:47 what is globally optimal for
+the company.
+34:50 And so there are, as a
+consequence of that,
+34:57 probably a lot of ways in
+which a start-up can
+34:58 work differently to a big
+company.
+35:00 At a big company, a lot of
+the things that are good for
+35:04 you, well, you couldn't do
+them in
+35:07 a completely transparent
+environment, right?
+35:10 Because people would think
+less of you or
+35:11 you're doing things you're
+not supposed to.
+35:13 But because everyone is kind
+of sailing in the, or
+35:15 rowing in the same direction
+at a start-up, you can
+35:17 actually just make all of
+the information transparent.
+35:19 And so, I guess I mentioned
+earlier, Stripe used to BCC
+35:23 every other person at Stripe
+on basically every single
+35:28 outgoing email unless you
+opted out of it, because we
+35:32 thought that would be much
+more efficient.
+35:35 You wouldn't need to have as
+many meetings,
+35:37 if you just kind of keep
+abreast of what's happening.
+35:39 And over time we've sort of
+built an increasingly
+35:43 intricate framework of
+mailing lists and
+35:46 we now have a program for
+generating Gmail filters.
+35:49 And for like a pretty rocky
+patch where 50 people or
+35:51 so, to Ben's point of like,
+asking people how they're
+35:55 getting on after the first
+couple of days.
+35:56 They're reported terribly
+because like they couldn't
+35:59 even find all the emails
+that people were sending to
+36:01 them and they were missing
+things and everything.
+36:04 &gt;&gt; Gmail broke at one stage.
+36:05 &gt;&gt; Oh, right, at one point
+Gmail broke because we
+36:07 were just like sending too
+much email.
+36:08 It is hard to scale, because
+I mean,
+36:11 you might contact somebody
+outside of the company with
+36:15 like some great idea, and
+maybe the person
+36:19 sitting across the way from
+you thinks that's like
+36:23 the stupidest idea they've
+ever heard, right?
+36:27 And you're kind of subject
+to the scrutiny of
+36:29 the entire organization, to
+some degree,
+36:31 with all of your
+communication.
+36:33 Like kind of the challenging
+side of it.
+36:35 Then the good side is people
+are much more informed about
+36:38 what's happening.
+36:40 I guess I don't feel that I
+can give much
+36:45 stronger endorsement of it
+than it has worked so far.
+36:51 &gt;&gt; That's a pretty good
+endorsement.
+36:52 &gt;&gt; Yeah, I'm actually really
+curious how or whether it'll
+36:56 work when we're 5,000 people
+or something like that.
+36:58 If we're ever at that scale.
+36:60 &gt;&gt; I think the two things
+that have
+37:01 helped us scale it are one,
+changing the tools and
+37:04 two, developing the culture
+around it.
+37:06 And so on the tools front,
+you know,
+37:08 used to be the case, or the
+infrastructure, it
+37:11 used to be the case that you
+could keep abreast by what's
+37:14 happening in the company by
+reading all the email.
+37:16 Now we have weekly all-hands
+sometimes on the deck,
+37:18 and we actually have to put
+all this work into
+37:21 developing a deck to, to
+communicate to people what's
+37:23 going on in the company,
+since there's so much more.
+37:26 And the second is on the
+cultural side, so much
+37:30 information being available
+internally, you have to
+37:34 develop cultural norms
+around how it's treated.
+37:36 Obvious things like the fact
+that a lot of
+37:39 it's confidential to Stripe.
+37:41 But even less obvious things
+like when emailing someone
+37:44 or talking in Slack or
+37:46 IRESE, when that is viewed
+by now 170 people,
+37:49 it's pretty easy to get
+stage fright.
+37:53 And it's, it's pretty easy
+for what you thought was
+37:56 a reasonable proposal, you
+get this drive-by criticism.
+37:59 And you're now less likely
+to share in the future.
+38:02 And so, we've had to create
+norms around when it's
+38:05 reasonable to jump into
+discussions and
+38:07 how that interaction works.
+38:08 Because people are on the
+stage so much more.
+38:11 &gt;&gt; I'm pretty sure it's not
+good,
+38:12 but, not to put her on the
+spot but
+38:15 Emily interned at Stripe
+this summer.
+38:16 I'm curious, like,
+38:17 as an intern, what you
+thought of it?
+38:19 &gt;&gt; I think, overall, it's
+great.
+38:21 I think, like, my first
+week,
+38:22 I spent most of the time
+reading Hackpad and
+38:24 getting caught up on what
+the company was doing.
+38:27 It can often be quite
+distracting,
+38:29 from your own work, as there
+are oftentimes other parts
+38:31 of the company you're really
+interested in.
+38:33 &gt;&gt; Hackpad, by the way, is
+like Google Docs, but
+38:35 with a news feed and
+38:36 that way you can just like
+see all the documents.
+38:38 &gt;&gt; Yeah, and you're
+encouraged to make
+38:39 everything public,
+everything you work on.
+38:41 But overall, it gets you
+spun up really quickly.
+38:43 And we also have things
+called spin ups where
+38:45 every single leader of a
+team at the company,
+38:48 whether it's sys or it's
+product gives like a 30
+38:51 minute talk on what their
+team is currently doing and
+38:53 how you can contribute, if
+you're interested.
+38:55 &gt;&gt; Do you think email
+transparency was net good?
+38:57 &gt;&gt; Yes I remember having a
+hard time understanding what
+38:60 I should and should not
+subscribe too.
+39:02 And the first week having
+2,000 emails in my inbox and
+39:05 then by the end there are
+three of four teams you
+39:07 actually want that
+information coming in from.
+39:12 &gt;&gt; All right, audience
+questions.
+39:14 Yes.
+39:15 &gt;&gt; So this question for
+Patrick and John.
+39:18 Is it your experience that
+your early hires begin to
+39:22 grow and
+39:22 evolve into leadership roles
+as the company scales?
+39:27 And a question for
+39:28 Ben, how is the difference,
+what difference is today?
+39:33 How is a difference in your
+initial bid run of
+39:37 the product and the audience
+would be?
+39:40 &gt;&gt; All right, we'll go first
+on.
+39:41 The people, actually all
+three of you are welcome to
+39:43 answer this, have the people
+that you
+39:44 hired early been able to
+grow into leadership roles?
+39:49 &gt;&gt; In the Stripes case, yes,
+in that quite a number of
+39:52 the first ten people are in
+leadership roles now.
+39:55 I think that's one thing
+that organizations, again
+39:60 it's an unnatural skill that
+they have to get good at,
+40:03 is realizing that people
+don't necessarily come out
+40:06 of the womb being good at
+managing or being good at
+40:09 leadership and being able to
+develop that in people, and
+40:13 being able to help people
+progress as
+40:17 they spend a number of years
+at the company.
+40:19 It's a lot of work at a time
+when everyone is running
+40:22 around with their hair on
+fire, but it's also damaging
+40:26 if the company can't develop
+that skill.
+40:30 &gt;&gt; Yeah, I think for
+40:31 us the answer is some yes
+and some no.
+40:36 I think one of the big
+benefits of
+40:37 working at a start-up is
+that you can be
+40:39 handed a challenge that no
+one else would be
+40:40 crazy enough to give you the
+opportunity to take on.
+40:43 And that could managing
+people.
+40:45 It could be taking on a
+project.
+40:47 But the implicit contract
+with that is that if
+40:50 your going to ask somebody
+to take a really big risk on
+40:52 that, it shouldn't be like
+one-way through the door and
+40:55 if you don't succeed,
+40:55 otherwise it creates fright
+to give it a shot.
+40:58 So we have some folks that
+are managing large teams
+41:01 that started as individual
+programmers, where they were
+41:04 engineering and they said
+hey, I would love to try.
+41:06 I'd love to try leading a
+project and
+41:07 then leading a group and
+41:08 then taking responsibility
+for
+41:09 management, taking a group.
+41:11 And we've had other folks
+that tried it and
+41:12 they were like, I'm really
+glad I tried it because I
+41:14 never wanna do that again.
+41:16 We try to make sure that,
+for those people, like you
+41:18 can have just as much impact
+at a company through your
+41:21 individual contributions as
+an engineer or designer.
+41:23 You don't have to manage.
+41:25 But it's really hard to
+41:26 predict until you give
+people a shot.
+41:27 And so my strong preference
+is that you give as many
+41:31 people a shot as possible,
+in the few areas where you
+41:34 really feel like there's too
+much learning curve relative
+41:38 to the business objective
+you're trying to achieve.
+41:40 That's when you look for
+somebody who might be able
+41:43 to walk in and really
+execute well in that job.
+41:46 Are you going to answer the
+other question?
+41:49 &gt;&gt; Oh, so the question was
+41:50 how has the vision changed
+since we initially started?
+41:52 &gt;&gt; Yes,
+&gt;&gt; Sure,
+41:59 well I think on the vision,
+when we first started,
+42:04 I think we started hiring
+very inductively.
+42:07 We were like, oh, we're
+42:07 gonna build this really cool
+tool.
+42:08 People are gonna enjoy it.
+42:10 I love collecting things.
+42:11 Maybe other people like
+collecting things.
+42:13 And what we didn't expect,
+42:14 that kind of revealed itself
+early on,
+42:16 was that looking at other
+people's collections turns
+42:20 out to be this really
+amazing way to discover
+42:21 things that you didn't know
+you were looking for.
+42:24 It becomes kind of a
+solution to a problem that
+42:26 a lot of other technologies
+don't have.
+42:28 And so, over the last couple
+years especially,
+42:31 we've poured enormous kind
+of technical and design
+42:33 resources into building out
+recommendations products,
+42:37 search products, feed
+products.
+42:38 Leveraging the unique data
+that we have which
+42:42 are these pins that were all
+hand-picked by someone and
+42:44 hand-categorized.
+42:45 And then on the audience
+side, the first big
+42:48 surprise was truthfully when
+we first started,
+42:51 we didn't really know if
+anyone would use it.
+42:53 And we were just happy that
+anybody that wasn't related
+42:56 to us and
+42:57 obligated by familial
+relationship would use it.
+42:60 And so one of the biggest
+surprises has been how many
+43:03 people and how diverse those
+groups of people have been.
+43:06 I think that's been one of
+43:07 the things that's really
+exciting.
+43:10 And, the funny thing is,
+43:11 that is often like the
+company goes farther along,
+43:14 your aspirations therefore
+get bigger.
+43:16 So there's this gap that
+always exists,
+43:19 I tell my team, between
+where we are and
+43:21 where I think we should be,
+and
+43:22 even though objectively,
+we're much farther along,
+43:24 I feel like the gap has
+widened even farther.
+43:26 But I think that's a really
+common trait among
+43:30 people who found companies.
+43:33 &gt;&gt; Yes?
+43:34 &gt;&gt; You said that like,
+43:35 while selling a vision of
+the company you had to
+43:38 describe and
+43:39 go into detail that how hard
+it is going to be.
+43:41 And like they won't see
+their families for
+43:43 three years but then they
+will also get a thing that
+43:46 their grandchildren can be
+proud of.
+43:48 But how do you really know?
+43:49 Both of you know that the
+second part is
+43:52 not guaranteed but the first
+part,
+43:54 if they're not gonna see
+their family for
+43:55 the next year, it's gonna be
+a different show.
+43:57 So like, how can you be
+authentic by selling that
+43:60 vision of the company or is
+it about giving high returns
+44:03 for the high risk they are
+taking when the number of
+44:05 equity that already
+&gt;&gt; Great question.
+44:08 So the question is,
+44:10 most start-ups are not the
+iPhone.
+44:12 You can't guarantee that
+people's grandchildren
+44:14 are gonna remember this
+because most start-ups fail.
+44:16 How do you convince people
+to sort of
+44:17 make sacrifices to join a
+start-up?
+44:22 &gt;&gt; I think, part of the way
+in which it resonates with
+44:26 people is because it's not
+guaranteed, right?
+44:30 If it were guaranteed then
+it'd be boring.
+44:32 And so it's that there is
+the prospect of affecting
+44:37 this outcome, but nothing
+more than that potential.
+44:42 To the not seeing their
+families or
+44:45 kids, start-ups often do
+involve longer hours in
+44:50 the beginning, but I think,
+well.
+44:53 I, I think that that
+particular story is
+44:56 probably somewhat
+overstated.
+44:58 I guess, it was, I think
+44:60 Scott Forestall was trying
+to recruit these people.
+45:02 But I mean, even though
+startups,
+45:06 especially in the earlier
+days,
+45:07 tend to involve somewhat
+longer working hours.
+45:09 I think it was kind of this
+tendency to,
+45:11 to exaggerate it.
+45:12 And sort of,
+45:12 I mean it's like the startup
+version of fishing.
+45:15 Like, every startup thinks
+they worked even more insane
+45:17 hours than, you know,
+45:19 the next one back in the
+early days.
+45:21 Like, we literally never
+sleep or slept rather,
+45:23 for two years.
+45:25 So I don't know.
+45:27 I think that realistically
+for most people,
+45:30 it's not that big a
+sacrifice, right?
+45:32 You're, maybe on average,
+being really realistic about
+45:36 it, you'll work two hours
+more on average per day.
+45:38 It's certainly a sacrifice,
+but
+45:40 it is not forgoing all you
+know, pleasure and
+45:45 enjoyment for the next half
+decade.
+45:48 &gt;&gt; Yeah, I mean, I think
+even the iPhone
+45:49 wasn't the iPhone before it
+got done, right?
+45:54 I mean, no smart person
+you're hiring is
+45:56 under the illusion that you
+have a crystal ball into
+45:58 the future that only you
+have, and
+46:00 that joining is a guaranteed
+thing.
+46:02 And in fact, if you're
+telling him that and
+46:04 they select in, you probably
+shouldn't hire them.
+46:07 Because they,
+46:07 they didn't pass like a
+basic intelligence test
+46:10 about uncertainty in the
+future.
+46:13 But I, but I think it's fair
+to say, like you know,
+46:15 what's exciting and where
+you think you can go, and
+46:18 where it's going to be hard
+and chart your best plan.
+46:21 And then tell them why their
+role in it can be
+46:24 instrumental, because it is.
+46:27 You know I really liked what
+you said.
+46:29 You know, if you tell people
+like hey we're gonna go
+46:31 to Mars, it attracts the
+best people and
+46:34 then you're incrementally
+closer to getting to Mars.
+46:36 And they know that going in.
+46:38 What I would discourage
+doing is
+46:40 just whitewashing all of
+that.
+46:42 And if people kind of are
+joining because they want
+46:45 sort of oh, I want all this
+certainty and guarantee of
+46:47 working at Google, plus like
+the perk of working in
+46:50 a small start up and more
+email, and transparency.
+46:53 Like that's, that's a
+really,
+46:53 really negative sign.
+46:54 And for
+46:57 example, when I interview
+people they'll often say oh,
+47:00 I'm really passionate at
+what you're doing, and
+47:02 then I'm like well, what
+else are you interviewing?
+47:03 And then they'll just list
+seven companies that have
+47:05 nothing to do with each
+other except they're sort of
+47:08 at the same stage we're at.
+47:09 They're like, you know,
+47:10 I love the problem of
+discovery, so
+47:11 I'm interviewing at Stripe,
+Dropbox, Airbnb, Uber.
+47:15 Now I'm also putting into my
+resumé into Google X,
+47:17 into that part of the
+division.
+47:19 And that's a sign that
+they're probably not
+47:20 being authentic with which
+they care about.
+47:21 &gt;&gt; Yeah.
+47:22 &gt;&gt; And those folks often,
+when things get really hard,
+47:25 they won't stick it out and
+work through it.
+47:27 Because they were really
+signing up for
+47:28 an experience, not for
+achieving a goal.
+47:32 &gt;&gt; I think the other thing
+that motivates people
+47:35 a great deal, in addition to
+the prospect of sort of
+47:38 them you know, affecting
+some outcome is just sort of
+47:41 the personal development
+angle.
+47:43 And that a start up,
+47:43 just because it's much, kind
+of more lightly staffed.
+47:49 It's much less forgiving,
+right?
+47:50 In that, like,
+47:51 even if you're the best
+person in the world,
+47:53 if you're not going to.
+47:54 Well, whether or not you're
+the best or
+47:56 the worst person in the
+world, you're probably not
+47:58 going to significantly alter
+Google's trajectory, right?
+47:60 Whereas if you sort of,
+48:03 really wanted to benchmark
+yourself, and
+48:06 see how much a contribution
+and an impact you can make.
+48:09 And I think that prospect is
+quite compelling to a lot of
+48:11 the best people, then a
+start up is
+48:13 a much better place to, to
+go test that.
+48:18 &gt;&gt; All right.
+48:19 &gt;&gt; Last question, who'd you
+want?
+48:21 Last question.
+48:22 So this question is for
+48:24 Ben, but you guys can all
+answer it.
+48:26 But how has your user base
+effected your
+48:29 hiring strategies?
+48:30 So Pinterest is a site
+that's used like 80% by
+48:33 women, so
+48:34 how did that effect your
+initial hiring decisions?
+48:37 &gt;&gt; How has your user base
+effected your
+48:38 hiring strategy?
+48:40 &gt;&gt; Yes, so, You know,
+48:42 conventional wisdom is like
+you only hire people that
+48:44 religiously use your product
+every single day.
+48:47 And that probably works
+really well if
+48:48 you're making an API,
+probably amazing.
+48:50 For us, we screen for people
+that are ambitious and
+48:55 excited about the vision of
+cracking discovery online.
+48:59 And they have to know
+exactly how
+49:01 our service works and have
+to have used it.
+49:03 But they may not be a
+lifelong user.
+49:04 And that, for us it's this
+great opportunity because we
+49:07 can be like, what is the
+barrier that's
+49:09 preventing you from using
+it?
+49:10 Come join, remove that
+barrier,
+49:12 and help us get closer to
+that vision.
+49:15 I don't know, there's a lot
+of,
+49:19 if you read any sort of
+book, there's all this
+49:20 startup wisdom that sounds
+like really reasonable.
+49:23 But it's only useful if it
+works in
+49:25 your particular
+circumstance.
+49:27 And so for us, we've had to
+sort of
+49:28 broaden the lens a little
+bit in looking broadly about
+49:31 people that are ambitious
+about the mission.
+49:33 That care about the product
+and
+49:35 our approach to building
+products,
+49:36 even if from day one, they
+weren't our earliest users.
+49:40 &gt;&gt; The one thing I'll just
+tack on to that is that when
+49:44 we talked about the fact
+that, you know,
+49:46 it's really hard to hire for
+those early employees.
+49:49 And you know, you have
+people who have
+49:50 other good options.
+49:52 You're very much at the ugly
+duckling stage.
+49:55 Finding people who are
+passionate about your
+49:57 product can be a great way
+to find people.
+49:58 Because there you kind of
+have an unnatural advantage
+50:02 over other companies.
+50:03 And so I know, for
+50:05 sure, in Stripe's case, we
+definitely, we hired I think
+50:09 it was four Stripe users in
+the very early days.
+50:14 And you know, those were
+people who,
+50:16 who we probably couldn't
+have gotten otherwise.
+50:19 I'm sure it was the same in
+Pinterest's case,
+50:21 where you'll get all this
+benefit of working at
+50:24 Pinterest and hey, it's
+Pinterest.
+50:26 And you get to work where
+you pin.
+50:27 Yeah.
+50:29 &gt;&gt; Thank you guys very much
+for coming in today.
+50:31 &gt;&gt; Thank you.

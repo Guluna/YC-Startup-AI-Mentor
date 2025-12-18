@@ -1,0 +1,2337 @@
+00:00 Okay, great.
+00:02 So okay, great, thanks for
+having me.
+00:06 So, my name's Tyler I'm the
+CEO of Clever and
+00:09 what I want to talk today is
+about sales.
+00:13 And I've a little bit of
+insight into this I graduated
+00:16 college, I actually studied
+math and
+00:18 statistics, probably like some
+of you here in this room.
+00:21 And thought I was destined for
+this world of, finance.
+00:24 I was about to go start at a
+hedge fund.
+00:26 And at the last second, a
+friend of mine roped me in to
+00:30 join his startup, and asked me
+to do sales there, which was
+00:34 something that I knew nothing
+about, and so, had to
+00:38 figure out on the fly, and
+spent a couple of years there,
+00:41 figuring out sales for this
+very early stage company.
+00:45 And then, when it came to
+start Clever, you know,
+00:49 we started Clever, and I did
+it with two co-founders who
+00:51 are very technical, and one
+very product-oriented, and
+00:53 we wanted to build this
+product for schools, and I
+00:55 thought that experience would
+have no relevancy whatsoever.
+00:59 But it turns out that some of
+the things that I picked up at
+01:02 the, this previous job, where
+it was figuring out sales,
+01:05 have been huge parts of what's
+made Clever grow so
+01:09 quickly today.
+01:11 Quick background on Clever, we
+build software for schools.
+01:14 We are an app platform used by
+developers and
+01:17 it's used today by about one
+in five schools in America.
+01:21 And we started it about two
+years ago.
+01:23 And so sales have been a be,
+key piece of that, and
+01:26 I want to use this time to
+just share some of
+01:27 the things that have worked
+for me along the way.
+01:30 Of course, there's a million
+ways to do this,
+01:31 so you'll find what works for
+you.
+01:35 So first I want to start about
+how most,
+01:38 how I used to perceive sales.
+01:39 And a lot of people see sales
+as having this, you know,
+01:42 a lot of mystique around it.
+01:43 You know, it's people who are
+you know,
+01:45 really articulate and
+impossibly charming.
+01:48 And they have these, you know,
+01:49 killer closing lines that they
+use.
+01:51 And I think this is how I saw
+sales, and I think this is
+01:54 how a lot of founders I talked
+to see sales, because they say
+01:58 things to me like, you know,
+we're just going to work on
+02:00 the product and build a great
+product, and then when it's
+02:03 finally finished we're
+going to hire the salespeople.
+02:05 And what I've learned is that
+hire the salespeople,
+02:10 as a founder, the reality is
+that's you.
+02:14 And so you know, Paul Graham
+likes to talk about how
+02:16 there's two things you should
+be doing at any point in
+02:18 time when you're starting your
+company.
+02:21 You're either talking to your
+users or
+02:22 you're building your product.
+02:23 And that talking to your users
+part, that's selling.
+02:27 And so.
+02:28 You know, this is intimidating
+to some people because
+02:30 they're like, I've never done
+sales, and I don't,
+02:32 wouldn't even know where to
+begin.
+02:34 But it turns out that as a
+founder,
+02:36 you have some unique
+advantages that make it,
+02:38 possible for you to be really,
+really good at sales.
+02:41 And one of those is your
+passion for
+02:44 the product, and what you're
+building.
+02:46 And the second is your
+industry knowledge of what
+02:49 your, of the industry and the
+problem that you're solving.
+02:52 And those two things actually
+totally trump sales experience
+02:56 from what I've seen.
+02:58 So, this is actually my
+cofounder, doing sales.
+03:00 This is what sales,
+03:01 looks like in the very early
+stage of a startup.
+03:03 It's not Don Draper.
+03:04 It's a lot of calls like
+these.
+03:07 But this is something that
+even as
+03:08 a founder who's never done it
+before, it's very easy to do,
+03:10 but you have to commit
+yourself.
+03:12 And what we did at Clever was
+we dedicated one founder,
+03:15 which was me, to peel off and
+say,
+03:17 okay, Tyler you're going to go
+figure this out and and work
+03:20 on this full time because it's
+so important to our business.
+03:26 So, couple things that I've
+picked up about sales along
+03:28 the way and in, in trying to
+figure this out.
+03:30 You know, the first thing that
+everybody knows about sales is
+03:32 they say, okay, it's a funnel.
+03:33 And you have these different
+stages of funnels and you, of,
+03:36 of the funnel and you move
+your customers through it.
+03:39 Pretty common categories.
+03:41 There's this prospecting
+category where
+03:43 you're trying to figure out
+who's even interested.
+03:45 Then you're having a lot of
+conversations,
+03:47 which is the second level of
+the funnel.
+03:49 Then you're finding out who's
+really serious and
+03:51 you want to close them and
+sign the deal.
+03:53 And then of course,
+03:54 you're in the promised land
+of, of revenue.
+03:56 And what I thought would be
+interesting would be to talk
+03:58 about each of the stage, a
+couple strategies that
+04:01 we've used at Clever that
+have, worked really well.
+04:05 So that these aren't abstract
+things but
+04:06 things that, you know, you can
+hopefully use at your startup.
+04:09 So, prospecting.
+04:14 So, prospecting is the process
+of
+04:18 figuring out who will even
+take your call.
+04:21 And you know, one of the
+things that I
+04:24 realized early on, so there's
+this guy Everett Rogers who,
+04:27 who's created this technology
+life cycle adoption curve.
+04:29 And he describes it as bell
+curve where you've got you
+04:32 know, your innovators and who
+will try new things, and
+04:34 you've got your early
+adopters,
+04:35 your mid-stage adopters, your
+late adopters, your laggards.
+04:39 And one of the things that was
+really helpful for
+04:43 me in understanding sales in
+an early startup is he's
+04:46 quantified the tail of this
+bell curve and this part over
+04:50 here, the innovators, those
+are your potential customers.
+04:54 And it might seem discouraging
+that only 2.5% of companies
+04:59 are your potential customers
+that would even consider
+05:01 buying from a startup that has
+no users and no revenue.
+05:05 But actually, I found just the
+opposite.
+05:07 I found it to be extremely
+helpful to have this frame of
+05:09 mind, because you realize,
+when only 2.5% of companies
+05:14 will even take your call or
+consider using your product,
+05:16 you realize what a numbers
+game this becomes.
+05:18 So if you want to reach that
+2.5% and
+05:22 you want to get some early
+sales, you, you've,
+05:24 if you're starting to do math,
+you're hopefully starting to
+05:26 realize you have to do a lot
+of calling.
+05:29 You have to do, talk to a lot
+of people.
+05:33 So early on in the early days
+at Clever, this was my job.
+05:35 You know, in the,
+05:36 in the 2 months the first two
+months of YC,
+05:38 I reached out to over 400
+companies trying to get them
+05:41 to take a call and and talk to
+us about what we're building.
+05:45 There's, there's three ways
+that I
+05:47 have found most successful in,
+in prospecting and
+05:51 getting these people, one is
+your personal network.
+05:53 That's obvious.
+05:54 I'm not going to spend any
+time there.
+05:56 Another one is conferences,
+05:58 which is surprising to a lot
+of people, and then the one
+06:00 that people are most familiar
+with is cold email.
+06:03 And when I say conferences,
+this is what people think.
+06:05 They think I'm talking about
+CES or, you know,
+06:08 E3 or something.
+06:09 And actually, the kind of
+06:11 conferences where sales happen
+look more like this.
+06:15 And we've got, we would in the
+early days would go to a lot
+06:18 of these because you've got to
+where your users are.
+06:20 And if they're, if you're
+selling to CIOs and there
+06:22 happens to be a gathering of
+them at a hotel in Milwaukee,
+06:26 guess what, that's probably
+where you should be.
+06:29 So we go to conferences like
+these.
+06:30 We get the attendee lists in
+advance.
+06:31 We email every single person
+in advance, and, and try and
+06:34 set up meetings so that when
+we get there,
+06:36 every single minute of that
+trip was, was well spent.
+06:40 And this was huge in Clever's
+early days.
+06:42 These, this was where we met
+all of our earliest customers.
+06:47 The second thing I mentioned
+is cold email.
+06:49 A lot of people don't know how
+to write cold emails.
+06:52 It's actually really easy, and
+the key is not to write a lot.
+06:54 Should be really concise.
+06:56 This is an email template that
+I used early on and
+06:59 you're welcome to copy it, but
+it's really short.
+07:01 Here's who I am, here's what
+I'm building, and
+07:03 I'd love to talk to you about
+this.
+07:04 Could we find time tomorrow?
+07:06 It's really easy and, and you
+can customize this and
+07:09 find out for
+07:09 every business you want to
+sell to who's the right person
+07:11 to send it to and you can send
+out quite a few of these.
+07:16 So all right, that's
+prospecting.
+07:18 And the reason this is so
+important is because you've
+07:20 gotta build that first layer
+of the funnel.
+07:24 Then you get them to take your
+call.
+07:26 And this is another place
+where a lot of
+07:27 founders I think just have a
+lot of
+07:30 questions about what to
+actually do.
+07:33 And the biggest thing to take
+away,
+07:35 in fact if you only take away
+one thing from this
+07:37 presentation today, the number
+one thing you should remember
+07:40 is when you get them on the
+phone, remember to shut up.
+07:44 And that's really surprising
+to people.
+07:47 So many founders, when I help
+them with
+07:49 their first sales pitch, they
+finally get somebody on
+07:50 the phone who wants to talk to
+them about their product.
+07:52 And they're so proud of this
+thing they've been
+07:55 building for the last three
+months that all they want to
+07:59 do is get on the phone and
+talk about every feature and
+08:01 talk about all the different
+things they can do and
+08:03 talk about why it's the
+greatest thing in the world.
+08:06 And I have that temptation
+too.
+08:07 It's just part of being really
+proud of something.
+08:10 But it turns out that if you
+watch the best salespeople,
+08:13 like the best salespeople in
+the world, the top 1%.
+08:16 And you have a chance to
+listen in on a call with some
+08:19 of those people, like I have,
+08:21 the most surprising thing is
+how little talking they do.
+08:25 In fact, I've seen calls where
+the,
+08:27 where the salesperson told me
+their goal was to
+08:30 only spend 30% of the call
+talking, and
+08:34 have 70% of the call the other
+person.
+08:35 And they would ask a lot of
+questions.
+08:37 They'd say things like,
+08:38 why did you even agree to take
+my call today?
+08:41 This problem that we're
+talking about solving for you,
+08:43 how do you solve it today?
+08:45 You know, what would your
+ideal solution look like?
+08:48 And they're not, they're not
+doing the talking.
+08:50 They're finding, they're doing
+everything they can to find
+08:53 out what this person needs,
+and hopefully understand their
+08:56 problem even better than they
+do.
+08:59 That's what really great sales
+is and in fact this is
+09:02 something I, I, I, I drill
+into everybody at Clever.
+09:05 It's a really important part
+of sales and
+09:07 there's actually now if any of
+you use Uber Conference,
+09:09 they have this amazing feature
+where when you hang up
+09:11 a call it sends you an email
+automatically and tells you
+09:14 how much you talked versus how
+much the other person talked.
+09:16 And looking at one of those
+emails you know,
+09:19 if someone doing sales at
+Clever, I get one of those
+09:22 emails, I can tell immediately
+how likely the sale is
+09:25 based on how much talking we
+were doing.
+09:28 So, you got all these people,
+now you got on the phone,
+09:31 do a lot of listening, really
+understand their problem.
+09:35 And then the other part of
+this stage that surprises
+09:39 a lot of people is follow up.
+09:41 So here's a lot of different
+steps that you
+09:43 can imagine going through.
+09:45 You know, emailing somebody,
+not getting a response, and
+09:47 emailing them back.
+09:48 Calling them, leaving a voice
+mail, having a pricing call.
+09:52 You know, there's probably
+like you know,
+09:53 60 things up here on this
+slide that could be steps for
+09:57 closing a deal.
+09:59 These actually aren't just
+random things,
+10:01 this is one deal that,
+10:02 this was the second deal
+Clever ever signed.
+10:04 These are all the different
+steps that we had to in
+10:06 order to get this done.
+10:08 And you can see there's a lot
+of really embarrassing things
+10:10 up there like I emailed
+somebody and they didn't
+10:12 respond and I emailed them
+again and they didn't respond.
+10:13 And then I emailed them again
+and
+10:16 this is from somebody who
+wanted to buy our product.
+10:19 Isn't that crazy?
+10:20 Ana that surprises a lot of
+people.
+10:22 I see so many founders today
+have a great call with
+10:24 someone, they send an email,
+they dont hear back and
+10:26 they say, oh that person might
+not be interested.
+10:28 well, guess what,
+10:29 this is what it looks like in
+the best case and.
+10:33 And so you really have to have
+kind of,
+10:35 this unhuman, unreasonable
+willingness to follow up, and
+10:38 drive things to closure.
+10:41 Now, qualify with that with
+one thing.
+10:43 Which is to say, when you're
+starting a company,
+10:45 your time is extremely
+valuable.
+10:46 because it's your only
+resource.
+10:48 And, and you couldn't possibly
+do this for
+10:51 every single person who might
+buy your product.
+10:53 So your goal should be to get
+people to a yes or
+10:57 a no, as quickly as you can.
+10:59 Where you die is if you have a
+thousand maybes.
+11:01 And sometimes I talk to
+founders who say oh, yeah,
+11:03 I have this great pipeline of
+you know, a hundred people who
+11:07 are, who have expressed
+interest in our product.
+11:09 And the maybes are what kill
+you.
+11:10 If you can get to a yes or
+11:11 a no, in some ways a no is, is
+even better than a maybe.
+11:15 Because it allows you to move
+on and
+11:16 focus on somebody who might be
+a yes.
+11:18 So, have this super-human
+level of,
+11:20 of follow up and ambition.
+11:21 But make sure you're focusing
+it on the right pieces.
+11:28 All right.
+11:29 So you've talked to someone,
+11:30 you've talked to a ton of
+people.
+11:32 You've had all these phone
+calls.
+11:33 You've followed up with them
+ridiculously.
+11:35 To the point where they,
+11:36 they just know you're not
+going away, and
+11:38 they've gotta sign an
+agreement.
+11:41 This final step is something
+that,
+11:42 if you haven't done before, it
+might seem opaque, but
+11:44 it's actually really simple.
+11:45 It's called redlining.
+11:46 So you'll send over an
+agreement.
+11:47 Their lawyers will mark it up.
+11:49 Your Lawyers will mark it up
+and
+11:50 you kind of go back and forth.
+11:52 If you're part of YC, this is
+really easy because YC
+11:55 has standard template
+agreements that they give you.
+11:59 So you don't have to find
+these and
+12:01 you can just you know, use
+those.
+12:03 But they've never been
+available, you know,
+12:05 if you weren't part of YC you
+kind of had to
+12:06 figure this out on your own.
+12:08 One of the things that I'm
+really excited about is,
+12:11 as part of this presentation,
+12:13 YC has agreed to open source
+their deal documents.
+12:16 So these documents that YC
+founders used to
+12:18 get are now going to be
+available to everybody.
+12:20 So this should never,
+hopefully,
+12:22 never be a barrier to anyone
+who wants to do sales for
+12:24 their start up.
+12:25 You've got some great
+documents.
+12:27 And then the other thing I'll
+say about this,
+12:29 a place I see so many smart,
+smart people go wrong,
+12:32 is you gotta remember what
+your goal is.
+12:35 Your goal is to sign some
+deals, and
+12:37 get some reference customers,
+and
+12:38 get some validation and get
+some revenue.
+12:39 That, if you don't do that,
+12:41 your start up is, is, you
+know, toast.
+12:45 So in light of that, it's
+really surprising how many
+12:47 smart people will want to do
+ten rounds of document review.
+12:50 Quibbling over the most minor
+points because of pride,
+12:54 because of intelligence,
+whatever.
+12:56 You know, make sure the
+agreement is the way
+12:58 you want it, but then sign it
+and move on.
+13:01 I've seen founders spend
+months quibbling over
+13:03 some indemnification clauses.
+13:04 And their business would have
+been way better off if they'd
+13:07 you know, just signed the deal
+and moved onto the next one.
+13:11 So, that's one closing trap
+you can fall into.
+13:16 I've two more.
+13:18 One other closing trap that I
+see founders struggle with
+13:21 a lot, is they're talking to a
+company who says,
+13:25 I will use your product, but I
+just need one more feature.
+13:29 You know?
+Or
+13:29 they say you know, I'd love to
+use your product but
+13:31 it doesn't have this one
+feature so
+13:33 we're just not ready.
+13:35 And to most people, especially
+if you're ambitious,
+13:38 when somebody says that to you
+what you want to hear is, oh,
+13:42 well I can build that feature.
+13:43 Great.
+You know,
+13:44 I'll build that feature and
+13:44 then they're going to use my
+product.
+13:47 But the problem is, it almost
+never works that way.
+13:49 In fact, somebody telling you
+that they would use your,
+13:51 they want to use your product
+but
+13:53 it's just missing this one
+feature.
+13:54 I would almost map that to a
+pass in your mind.
+13:57 Because nine times out of
+13:58 ten if you actually build that
+feature.
+14:00 You go back to them and
+14:01 then there'd be one more
+feature, or there'd be
+14:02 some other reason that they're
+not using the product.
+14:05 So, if somebody says to you
+hey, I want to, but, you know,
+14:08 there's this one thing that's
+preventing us
+14:09 from using your product.
+14:10 I would do one of two things.
+14:12 One say, well that's great.
+14:14 Let's sign an agreement.
+14:15 And we'll put in
+14:16 the agreement that we're
+going to build this feature.
+14:18 In which case, you know,
+14:19 you know that if you build it
+you're off to the races.
+14:23 Or more commonly,
+14:25 what we did at Clever was we
+would say, that's great.
+14:27 We're going to wait to see if
+14:28 we hear that demand from more
+customers.
+14:30 And then once you have a lot
+of customers requesting it,
+14:32 then you should build it
+regardless.
+14:34 And then, and then you're not,
+14:35 you don't have to worry about
+doing something that's
+14:37 customer one-off, which is
+what you really want to avoid.
+14:40 So, don't fall into this trap,
+it happens all the time.
+14:44 And the other trap I would
+highly,
+14:45 highly recommend you try to
+avoid is the free trial trap.
+14:49 Because this hap, happens all
+the time.
+14:51 People, you know, they go down
+this path with a,
+14:53 with a customer, it seems
+really exciting.
+14:56 And then the customer says,
+oh,
+14:57 well can I get a free trial?
+15:00 And you can't blame them.
+15:01 That's a totally reasonable
+thing to ask for.
+15:03 But the problem is,
+15:04 when you're starting a start
+up you need revenue,
+15:06 you need validation, you need
+users, you need commitment.
+15:10 And free trials get you none
+of those things.
+15:13 So you go, you do all this
+work, and
+15:14 if you end up with a free
+trial,
+15:16 unfortunately, you haven't
+made as much progress as you.
+15:19 It's actually terrible.
+15:19 You, you think you've made
+progress.
+15:21 But really, at the end of the
+free trial,
+15:23 you're going to have to sell
+them all over again.
+15:25 So the way I handle this that
+has worked really well,
+15:28 is when somebody says, can I
+get a free trial?
+15:29 You say, well we don't, we
+don't do free trials.
+15:33 But what we can do is we're
+going to,
+15:35 we do annual agreements here.
+15:37 And what we'll do is for the
+first 30 or 60 days, if for
+15:39 any reason you're not happy,
+you can opt out.
+15:42 And that's a way to get you
+the things that you need,
+15:44 while giving them the comfort
+that they might need to take
+15:47 a chance on a start up.
+15:49 So that minor change is
+actually makes a night and
+15:52 day difference when you're,
+15:52 when you're thinking about
+these things.
+15:57 All right.
+So, you've prospected.
+15:60 You've had a lot of
+conversations.
+16:02 Now you've closed people.
+16:03 You've gone through the
+redline process.
+16:04 You worked out the free
+trials.
+16:05 And you're on your way,
+16:06 hopefully, to your first
+sales.
+16:09 Now early on, you could think
+of
+16:11 sales as just like any other
+thing of a start up.
+16:13 Your goal is to, you don't
+have to do things that scale.
+16:16 In fact you can purposely do
+unscalable things to try and
+16:18 get early customers.
+16:20 That's, that's the fun of it.
+16:22 But the other thing that I
+think is really important to
+16:23 keep in mind is, once you've
+done this enough.
+16:26 What you should start thinking
+about is,
+16:28 well what aspects of this are
+repeatable?
+16:30 And, and what aspects of this,
+you know,
+16:33 are we going to scale further?
+16:34 And there's this,
+16:36 Cristoph Janz has this really
+great blog post online about
+16:38 the five ways to build a $100
+million company.
+16:41 And he talks about, he can
+have a thousand customers buy
+16:44 a product that costs $100,000.
+16:46 Or he can have 10,000
+customers buy
+16:47 a product that costs $10,000.
+16:49 Or he can have 100,000
+customers buy
+16:51 a product that costs $1,000.
+16:52 And even though you don't need
+to know on day one,
+16:55 which bucket you're going to
+fall into.
+16:57 Most companies do fall into
+one of these buckets.
+17:00 And so, you should start
+thinking about that as
+17:02 you're doing this.
+17:03 If, if you want to be in the
+elephant category of
+17:06 $100,000 product, that's
+great.
+17:09 And you're going to have a
+really high touch sale cycle,
+17:10 and that's fine.
+17:11 You know, that's sales force.
+17:12 That's work day, that's great.
+17:15 But if you think you're
+going to be a rabbit, and
+17:17 sell products for $1,000 a
+year to businesses.
+17:21 And your sales process
+involves flying out
+17:23 to see them three times and
+eight demos and, and you know,
+17:26 three months of redlining.
+17:28 Then you probably have to
+rethink something.
+17:30 And so I see a lot of startups
+most commonly in that,
+17:33 who want to be the rabbits.
+17:34 And sell for a low priced
+product to businesses,
+17:38 not thinking about how to do
+it in a scalable way.
+17:41 And that's one area where you
+can get underwater.
+17:44 Or it just forces you to
+increase your prices.
+17:46 So this is how I think about
+different businesses.
+17:48 And it'll be helpful for you
+when,
+17:49 once so you can get started,
+and
+17:51 once you've done enough of the
+sales to say, okay.
+17:53 You know, where am I?
+17:55 And the corollary to that is,
+is, how do
+17:58 I have to price my product, to
+be a viable business?
+18:04 So that is, those are some of
+the things that I figured out
+18:07 along the way building,
+building sales now at a few,
+18:09 at a few different companies.
+18:11 And specifically on this very
+narrow stage of,
+18:13 of zero to 1 million.
+18:15 After you get to 1 million,
+18:16 you'll find there's a million
+blog posts, you know,
+18:18 about how to get from 5
+million to 50 million.
+18:20 Or 10 million to 100 million.
+18:22 But this zero to one step, I
+wanted to ded,
+18:25 focus the presentation on that
+today.
+18:28 Because there's not as much
+written about it and it is
+18:30 something that I think is very
+opaque to a lot of founders.
+18:34 I figured this out just by
+doing it.
+18:35 And I'm confident that if
+you're starting a company,
+18:37 you can too.
+18:39 If for whatever reason you
+would like to do what I
+18:41 did and join a startup that's
+figured it out and,
+18:43 and hone your skills and hone
+your craft.
+18:46 We are hiring at Clever, so
+that's an option.
+18:49 &gt;&gt; But even if, and if that
+doesn't,
+18:51 if you do want to start your
+own company, and
+18:53 you have questions about
+sales,
+18:54 I put my e-mail address up
+here.
+18:55 And feel free to reach out at
+any time, I'm happy to help.
+18:58 So, thank you.
+19:03 &gt;&gt; Thank you very much.
+19:04 &gt;&gt; Yeah.
+&gt;&gt; That was awesome.
+19:07 All right.
+So now, we're going to talk
+19:08 about a little bit more detail
+on how to raise money.
+19:10 Michael Seibel is first going
+to talk about how to
+19:13 have a pitch.
+19:14 And then Dalton and Qasar will
+do investor role playing.
+19:18 &gt;&gt; Yeah, sure.
+19:19 My name is.
+19:23 Mind blowingly you know, new.
+19:26 It really is basic blocking
+attack.
+19:28 And the one point I wanted to
+make before we get started is,
+19:30 we actually don't spend a lot
+of time at YC
+19:32 focusing on this.
+19:33 The main reason is, the best
+way you can
+19:35 make your pitch better is to
+improve your company.
+19:38 If you're, if you have
+traction and
+19:39 your product is doing well,
+these conversations are like,
+19:42 the investors want to see you
+succeed.
+19:45 And so, if you remember
+anything,
+19:47 it's make your company better
+and the pitch will be easier.
+19:50 We're going to spend the time
+in the three kind of sections
+19:54 before the meeting, which
+Michael will kind of focus on.
+19:56 We'll do a kind of,
+19:57 a role play of what meeting's
+actually look like.
+19:59 And then we'll just wrap it
+up.
+20:00 We are going to do Q&amp;A at the
+end,
+20:02 we'll kind of save five
+minutes.
+20:03 So if there's something we
+don't cover,
+20:04 please write down your
+questions and
+20:06 we'll go through them.
+20:07 Now, without further ado.
+20:08 &gt;&gt; Beautiful.
+20:12 &gt;&gt; All right.
+20:13 &gt;&gt; So, my name is Michael
+Seibel.
+20:17 I'm a current YC partner.
+20:18 I've started two companies.
+20:20 One was called Justin TV.
+20:22 It ended up selling to Amazon.
+20:23 The other was called
+SocialCam,
+20:24 which sold to Auto Desk.
+20:25 And what I really wanted to do
+was break down and
+20:29 demystifying the process of
+creating a pitch.
+20:32 Because I think what happens
+too often,
+20:34 when I see companies come to
+talk to me,
+20:36 is that they don't know how to
+simply explain what they do,
+20:39 and then ask for money.
+20:41 And that's basically what you
+have to do as a founder.
+20:43 So we're going to go over four
+things.
+20:45 The first is what your 30
+second pitch is.
+20:48 This you need to be armed with
+constantly.
+20:50 This is basically, how you
+talk about your company.
+20:52 This is magic.
+20:54 Whether you're talking to
+people who want to give you
+20:56 money or don't want to give
+you money.
+20:57 You're talking to your
+parents.
+20:59 This is your go to.
+20:59 The second is your two minute
+pitch.
+21:02 This is for people who are
+more interested.
+21:04 This is people who you might
+want to raise money from.
+21:07 Or people who you might want
+to get to work for you, or
+21:09 people you actually.
+21:10 Kind need to get a little bit
+deeper.
+21:12 Notice that's where I stop.
+21:14 A lot of people practice 10,
+30 minute pitches,
+21:17 hour pitches, I think that's
+all garbage.
+21:19 I think you can get everything
+you need done in two minutes.
+21:22 And one thing I like to tell
+founders is the more you talk,
+21:25 the more you have the
+opportunity to
+21:26 say something that people
+don't like.
+21:28 So just talk less and it'll
+probably be better.
+21:32 So, then I want to tell you
+about when to fund raise,
+21:35 because I think a lot of
+21:35 companies get this a little
+bit wrong.
+21:38 And then, quickly, how to set
+up investor meetings.
+21:42 So, 30 second pitch, this is
+so
+21:44 simple, it's three sentences.
+21:46 You can take your time, you
+can breathe when you do this,
+21:48 you don't have to get that
+much information out.
+21:51 The first is one sentence on
+what does your company do.
+21:55 Everyone I meet for the first
+time screws this up.
+21:59 You have to be able to do it
+in a way that is simple and
+22:02 straightforward, that requires
+no pre-information on my part.
+22:07 You have to assume I know
+nothing, literally nothing,
+22:10 about anything.
+22:13 This is how you make it super
+simple.
+22:15 So you know, usually what we
+22:16 tell people is apply the mom
+test.
+22:18 If in one sentence you cannot
+tell your mom what you do,
+22:21 then rework the sentence.
+22:23 There is a one sentence
+explanation that your mom, or
+22:26 your dad is going to
+understand.
+22:28 So really, really start there,
+and
+22:29 it's okay if you use really
+basic language.
+22:31 It's okay if you're saying hey
+we're Air B and B,
+22:34 and we allow you to rent out
+the extra room in your house.
+22:38 That's simple, right?
+22:40 You don't have to say we're
+Air B and
+22:41 B and we're a marketplace for
+space.
+22:43 I don't know what that is.
+22:45 And it's going to require more
+time.
+22:47 So use simple language.
+22:49 Very, very important.
+22:50 The second is how big is your
+market?
+22:53 It makes sense to do a couple
+hours of research.
+22:57 Figure out what general
+industry your product is in.
+22:60 Figure out how big it is.
+23:01 Investors like to
+23:02 hear that you're in a
+multibillion dollar market.
+23:04 It's pretty simple to do this.
+23:06 You know, Air B and
+23:07 B might say, how big is the
+hotel market?
+23:10 How big is the vacation rental
+market?
+23:12 How big is the online hotel
+booking market?
+23:14 These are simple numbers to
+look up on Google.
+23:16 And it makes an investor
+understand, oh wait,
+23:19 if we're big, if we really
+blow this company up,
+23:22 it can be worth billions of
+dollars.
+23:24 Don't skip this step.
+23:25 Second sentence, how big is
+your market?
+23:27 Third sentence, how much
+traction do you have?
+23:30 Ideally this sentence is
+saying something on
+23:32 the order of, we launched in
+January and
+23:35 we're growing 30% month over
+month.
+23:38 We have this number of sales,
+this amount of revenue,
+23:40 this number of users.
+23:42 Very simple.
+23:43 If you can't speak to traction
+in terms of
+23:46 pre-launch, you need to
+convince the investor that
+23:49 you're moving extremely
+quickly.
+23:51 So, the team started working
+in January, by March,
+23:55 we launched a beta, by April,
+we launched our product.
+23:58 Right?
+23:59 Convince the investors that
+you guys are moving fast.
+24:02 That this isn't some long slog
+that you guys aren't thinking
+24:05 about this like a big
+cooperation.
+24:06 Your thinking about it
+24:07 like a startup where you can
+move fast and make mistakes.
+24:10 That's all you have to do in
+30 seconds.
+24:12 Three sentences.
+24:13 From that basis you should be
+able to
+24:15 start a conversation about
+your company.
+24:17 From that basis I understand
+exactly what you do.
+24:20 You have no unders, you have
+no idea how valuable it is to
+24:23 be able to explain to someone
+what you do in 30 seconds,
+24:25 so really internalize that.
+24:27 Like if you take nothing else
+away,
+24:29 that's going to help you.
+24:31 Okay.
+24:31 Two minute pitch.
+24:32 Now you've got someone you
+actually have to
+24:33 convince of something.
+24:36 Maybe even someone you have to
+ask for money.
+24:38 So, I like to add four
+additional components and
+24:42 these also go by very quick.
+24:44 The first is unique insight.
+24:46 Now, if you talk to VCs
+they'll say stuff like, what's
+24:50 your secret sauce, what's your
+competitive advantage,
+24:53 what's your unique insight?
+24:54 It's all the same thing.
+24:57 When I think about unique
+insight,
+24:59 what I think about is here's
+your opportunity to tell me
+25:01 something that I don't know.
+25:03 Here's your opportunity to
+tell me
+25:04 something that the biggest
+players in the market you're
+25:07 trying to enter don't
+understand or don't do well.
+25:11 This is the ah-ha moment.
+25:13 And you'd better have it down
+in two sentences.
+25:15 The ah-ha moment.
+25:16 So you've gotta crystallize
+all of the reasons why you
+25:19 guys are going to kill the
+competitors, or the really
+25:22 intelligent thought that got
+this business started.
+25:25 In two sentences, and I need
+to ah-ha.
+25:29 You can see whether it's
+25:30 happening when you're saying
+it.
+25:31 That's why I like two
+sentences, so
+25:32 you get in and out fast.
+25:34 So if I look at you and I'm
+like huh.
+25:36 Then it's okay, you've nailed
+it.
+25:38 If I look at you and
+25:38 I'm like, I already knew that,
+then you didn't nail it.
+25:41 If I looked at you and
+25:41 I just don't understand what
+you're talking about,
+25:43 you definitely didn't nail it.
+25:44 So, practice that unique
+insight.
+25:47 In your two minute pitch,
+that's all, you're only
+25:49 going to get two sentences to
+get that out there, so
+25:52 it can't be complicated, and
+that's basically the theme of
+25:54 this whole thing right, it
+cannot be complicated.
+25:57 Next, how do you make money?
+25:58 You know, your business model.
+25:60 I see so many founders run
+away from this question
+26:02 because they think things
+like, if I say advertising,
+26:05 people are going to be like,
+oh, that's stupid.
+26:07 Just say it.
+26:09 Don't run away.
+26:09 If it's advertising, say
+advertising.
+26:11 Facebook's a massive
+advertising business.
+26:13 So is Google.
+26:15 If it's direct sales, it's
+direct sales.
+26:18 If it's you know, a game and
+26:19 you're selling in-app in-app
+add ups, like that's fine.
+26:24 Just say it.
+26:25 Don't run away from this
+sentence.
+26:27 It only has to be one sentence
+long.
+26:29 Where founders get tricked on
+how will you make money is,
+26:32 they say, well, we're going to
+run advertising, maybe some
+26:35 virtual goods, we're going to
+figure out how to do this, and
+26:38 maybe this, and maybe this.
+26:39 Well, now you're saying
+nothing.
+26:42 Now you've told me you have no
+idea how you
+26:44 want to monetize this.
+26:45 This was a checkmark that I
+just wanted to write, oh,
+26:47 they know how they're going to
+monetize.
+26:48 Instead, I'm writing a big
+question mark.
+26:51 So, do the thing that everyone
+else in your industry does
+26:55 to monetize 95% of the time.
+26:57 Say it and move on.
+26:58 Like, it's totally okay,
+26:60 no one's going to hold your
+feet to the fire and
+27:02 say three years later, you
+didn't monetize this way.
+27:04 But it's much better to be
+clear and
+27:05 concise than it is to start
+spouting out every single way
+27:09 your company can make money.
+27:10 The next one is team.
+27:13 I think that this answer is
+actually really clear.
+27:16 I think you're trying to do
+two things.
+27:20 If your team has done
+something
+27:22 particularly impressive, you
+need to call that out.
+27:26 We were the founders of
+PayPal,
+27:28 probably want to say that.
+27:30 We were the founders of
+Amazon, might,
+27:31 probably want to say that.
+27:33 So if you guys have done
+something that has
+27:34 made investors money, you want
+to say that.
+27:37 If not, then please don't go
+on about the awards your team
+27:40 has won, or the PhDs or the I
+don't care, I don't care.
+27:44 What we want to hear is how
+many founders.
+27:47 Hopefully between two and
+four.
+27:49 What we want to hear is how
+many of them are technical.
+27:51 How many engineers versus
+business people?
+27:53 Hopefully it's 50 50 or more
+engineers.
+27:57 We want to hear is that how
+long have you
+27:58 guys known each other.
+27:59 We don't want to hear you guys
+met at
+28:00 a founders' dating event three
+days ago.
+28:04 ideally, you've known each
+other either personally or
+28:06 professionally for at least
+six months.
+28:08 We want to hear is that you're
+all working full-time.
+28:10 It's really helpful, we're all
+committed to this business.
+28:14 And what we want to hear is
+how you met.
+28:18 That's it.
+28:19 You can get in and out of that
+two sentences very easy.
+28:23 Your only way to build
+credentials is if
+28:26 you've accomplished something.
+28:29 And with an investor typically
+it's if you've
+28:30 accomplished something that's
+made someone some money.
+28:33 So don't try to overinflate
+yourself if
+28:35 you don't have that stat on
+your resume, move on.
+28:38 The more you talk about a bad
+thing, the worse it looks.
+28:42 So, the last one is the big
+ask.
+28:46 When it comes to this and you
+have to figure out
+28:48 whether this is a conversation
+involves fundraising or not.
+28:51 What I tell people is like
+this is the time where
+28:53 you kind of have to know what
+you're talking about.
+28:56 This is a time where you have
+to know,
+28:57 are you raising on a
+convertible note?
+28:59 Are you raising on a safe?
+28:60 You have to know what the cap
+of that safe is.
+29:02 You have to know how much
+money you're raising.
+29:05 You have to know what the
+minimum check size is.
+29:08 These are things where if you
+don't know these these things,
+29:12 investors going to be like, oh
+these guys aren't serious, or
+29:14 they haven't done their
+homework.
+29:15 So whereas in the rest of
+29:16 this whole thing you shouldn't
+use any jargon.
+29:19 In this part you shouldn't
+just be like, oh,
+29:21 we're just raising some money.
+29:23 Like now it's time to
+29:24 actually use a little bit of
+that jargon.
+29:25 If you don't know that jargon,
+Google search it,
+29:28 like, it's real simple.
+29:29 You guys will learn it fast.
+29:31 So, that's it by the way.
+29:33 That's too, that's all your
+pitch.
+29:34 Done, like, game over.
+29:36 Now you let them talk.
+29:38 So, when to fundraise.
+29:41 I think this is so important.
+29:42 Right, you've got this little
+Growth graph here.
+29:45 Investors like to invest based
+on traction.
+29:48 And so literally it's always
+better to raise money when
+29:51 you've got more traction than
+less.
+29:53 Often times though,
+29:54 you guys'll be in a situation
+where you're just starting.
+29:57 Or maybe you just launched.
+29:59 So what you need to do is you
+need to think about how do
+30:02 you flip the equation?
+30:06 Your entire mindset should be,
+30:08 typically you are the ones
+asking investors for
+30:11 money and therefore they are
+strong and you're weak.
+30:14 How do you create a scenario,
+30:15 where you are strong and they
+are weak?
+30:17 Right?
+30:18 That's where you want to be
+fundraising.
+30:21 So first, how do you know that
+you're strong?
+30:23 If investors are asking you to
+give you money, you're strong.
+30:27 That might be a good time to
+start fundraising.
+30:29 If investors aren't asking
+about giving you money,
+30:33 are you talking to people
+about your startup?
+30:36 Or are you running super
+stealth.
+30:37 If you're talking to people
+about your startup and
+30:39 you're getting the word out,
+30:40 either that's through the
+press or
+30:41 just through talking to your
+friends or
+30:43 people you know doing
+startups,
+30:44 that's a good way to kind of
+start feeding that.
+30:47 The second thing is have you
+created a plan so
+30:50 that you can launch and
+30:51 grow without needing to raise
+a bunch of money.
+30:55 95% of the startups that I
+meet can get a product to
+30:58 market with a very, very
+little bit of money.
+31:01 So never put
+31:01 the investor in the ultimate
+position of power.
+31:03 We can't do anything until you
+give us money.
+31:06 You always want to flip it
+around.
+31:08 You always want it to be, this
+things moving,
+31:10 we all left our jobs, we're
+all working full time.
+31:13 And it's moving, if you want
+to jump on great, if not.
+31:18 There are a lot of angel
+investors.
+31:18 That's the attitude you
+want to have.
+31:20 That's the confidence you
+want to have.
+31:22 If you need money early,
+always plan for
+31:25 needing less money.
+31:28 And always be able to show
+that
+31:29 you've got a fully committed
+team that's working fast.
+31:33 That's going to be
+31:34 how you gain an advantage when
+you can't show traction.
+31:36 If you can show that investor
+that you haven't launched yet,
+31:39 but you've done eight months
+of work in one month, or
+31:41 two months.
+31:42 That you've got a great team
+that have all quit their jobs
+31:45 and they're totally committed.
+31:46 You get some of that advantage
+back.
+31:49 But you don't get all of
+31:50 the advantage unless you're
+launched and growing.
+31:52 So something to keep in mind.
+31:55 Finally, how to set up
+investor meetings.
+31:57 This is really, really simple,
+but I'm surprised at
+31:60 how many companies don't get
+this right.
+32:03 The first is you want a warm
+introduction from another
+32:07 entrepreneur, preferably, or a
+previous investor of yours.
+32:12 That's where you want to
+start.
+32:13 If someone who has passed on
+your company as
+32:16 an investor offers you, to
+make introductions,
+32:19 that's kryptonite.
+32:20 Don't touch that.
+32:21 So first, warm introduction.
+32:24 Very simple, you don't want to
+cold call these people,
+32:26 you don't want to bum rush
+these people, the person,
+32:29 the credibility of the person
+who's introducing you to
+32:31 an investor is a big part on
+32:32 whether the investor will take
+that meeting.
+32:35 Second, think in parallel.
+32:38 So many people that I meet
+will run the fundraising this
+32:40 super slow process, we met
+with one guy this week,
+32:43 we're going to schedule a
+meeting with
+32:44 another guy next week, another
+guy three weeks from now.
+32:47 When you're fundraising you're
+on.
+32:49 It's a sprint, it's not a
+marathon.
+32:51 So you want to schedule all of
+32:52 your meetings during the same
+week.
+32:55 It's extremely hard to do, but
+here's one trick that I love.
+32:58 Tell when you're emailing
+investors,
+32:59 you're getting those warm
+intros,
+33:00 the investors email you back.
+33:01 You say, hey, we'd love to set
+up a meeting but
+33:03 we're building like crazy for
+the next two weeks.
+33:06 So can we set it up in that
+third week?
+33:09 Right?
+33:10 So then, you've, I've e-mailed
+every one that, right?
+33:12 So every one schedules that
+meeting three weeks out.
+33:15 It's better for them because
+their calendar's open.
+33:17 It's better for you because
+you've got all
+33:18 your meetings in one week.
+33:20 And also, what did you do?
+33:21 You hinted, hey, I'm not
+desperate for the money.
+33:24 We're building.
+33:25 Like, I could meet you in
+three weeks.
+33:26 But we're building.
+33:27 We're busy.
+33:28 Like, it's signalling all of
+the right things.
+33:31 So that's the best way to
+kind of go about how
+33:34 you're going to do that.
+33:35 The last thing is one team
+member should be invested in
+33:37 fundraising full time.
+33:38 It shouldn't be something that
+takes over the whole company,
+33:41 because it's very, very
+distracting.
+33:44 So with that, let's kick it
+off to the next part of this.
+33:48 Who am I handing it to?
+33:49 Big Dalton.
+33:51 Yeah, that might.
+33:53 Oh, beautiful.
+All right.
+33:54 Hi my name is Dalton Caldwell
+I'm one of the.
+33:60 Camera can get us here, okay.
+34:01 Yeah, I'm one of the partners
+at YC and one of the things
+34:04 that we're going to do today
+real quick is a mock pitch.
+34:09 And first of all I know this
+is a bit contrived but
+34:12 this is in this format of like
+a college class,
+34:15 we're going to do our best to,
+to have fun and
+34:18 kind of demonstrate what it's
+like.
+34:19 And I realize there's a
+million reasons why this,
+34:21 why you could say, oh this
+isn't realistic of what pitch
+34:23 is really like but you know,
+again, there's, there's a lot.
+34:26 Yeah.
+That we can show you.
+34:28 Just in terms of my background
+over my career,
+34:30 I've raised 85 million over
+several companies, so
+34:33 I've sat in a lot of investor
+meetings.
+34:35 And so, I'm going to be
+34:35 pulling as many things as I
+can.
+34:38 So again, we're just going to
+try to show you
+34:39 something to talk to, and use
+it as a learning session.
+34:43 And you already did your intro
+earlier Caspar, right?
+34:45 It's yeah I've, I mean, I've
+done a couple startups.
+34:48 Cool.
+Yeah, yeah, yeah.
+34:49 So we're going to do two
+pitches, and
+34:50 we're going to go through them
+pretty fast.
+34:51 And as, as Michael said, these
+tend to go fast.
+34:54 So let's go dive into the
+first one.
+34:57 Okay, so so Caspar, I
+understand you, you're coming
+35:00 to pitch me to, can, what can
+you tell me about what you do?
+35:03 So we're building a
+communication platform that
+35:07 will allow you know,
+businesses and consumers
+35:13 to collaborate on one single
+platform rather than
+35:17 the kind of fractured state
+that they're in right now.
+35:20 and.
+I don't know,
+35:21 I, I don't follow.
+35:22 So, like think about like what
+like WhatsApp or
+35:26 Snapchat that's for consumers.
+35:27 We want to do that for
+businesses.
+35:30 and, and so, what the.
+35:32 I have to do this with a
+straight face.
+35:36 What, what that what that
+means is we want to
+35:41 enable consumers to talk to
+businesses.
+35:43 And that's really, what really
+the goal of our business,
+35:45 of our startup business.
+35:46 I still don't, so, who uses
+this,
+35:49 what does this product do?
+35:51 so, I mean, it, it.
+35:52 It's for consumers and
+35:53 businesses, a messaging
+product.
+35:55 a, it allows consumers to
+send.
+35:57 Why, why would,
+35:58 why would a consumer want to
+use your product?
+35:60 Because they want to message a
+business.
+36:04 okay.
+well, okay,
+36:05 what can you tell me about
+the,
+36:06 the market or what the opport,
+what's the size of this.
+36:09 How is this coming together?
+36:10 Well, I mean.
+36:10 Messaging companies are very
+big.
+36:11 Obviously Whats App sold for
+like $19 billion and Snap Chat
+36:16 is like really growing very
+quickly as well so we,
+36:20 I mean we think the
+opportunity is very big.
+36:25 Okay ,.
+So, okay.
+36:31 Okay, could you tell me a
+little about your traction,
+36:34 your numbers.
+36:35 Like, have you, have you given
+this to people yet.
+36:37 yeah, I mean we don't want to
+kind of open the Komodo and
+36:40 kind of go into all the
+details here.
+36:42 I, kind of at a high level.
+36:43 We're live.
+36:44 We definitely have thousands
+of users in the Bay area.
+36:47 Hundred of business, you know,
+have kind of.
+36:50 Can you tell me who some of
+those businesses are?
+36:54 There's ones that you've been
+to.
+36:56 We don't, we don't really
+want to get too much into
+36:57 the details, because, you
+know, we're still early and
+36:59 we don't want, you know, we're
+trying to stay stealth.
+37:01 Okay, well, can you tell me
+about what you've learned so
+37:03 far, what insights you've had
+from.
+37:05 Yes.
+The consumers are sending
+37:07 messages to these businesses,
+and we think that's great.
+37:09 so, and these businesses are
+responding to the messages,
+37:12 and we think that's, you know,
+37:14 I don't think that's obvious
+that that would happen.
+37:16 So, can you tell me about what
+your business model is,
+37:20 and how.
+37:21 Yeah, so we,
+37:22 we charge businesses like a
+monthly rate.
+37:26 We haven't precisely figured
+out what that is we've,
+37:29 we've, right now we're free
+for
+37:32 the few hundred companies
+we're in right now.
+37:35 But we're looking to probably
+do a monthly something.
+37:38 How much do you
+37:38 think a business will be
+willing to pay?
+37:41 We think certainly 10 to
+$15,000 a month.
+37:43 Okay so, so anyway could you
+tell me a little bit
+37:48 about your team and who you
+have working on this.
+37:51 yeah, there's we have five
+founders technically I'm
+37:53 the only one who's full time
+right now the,
+37:57 we're raising money so we can
+get, you know,
+37:59 the rest of the team on board
+yeah.
+38:03 That's this.
+38:05 Or can any of the founders
+program, or, or.
+38:08 yeah, yeah.
+38:09 I mean we have, I mean one of
+them is a bio PhD but
+38:13 he's like he's really picked
+up coding.
+38:15 the, the.
+38:18 I mean, I'm a Python
+developer,
+38:20 I did learn Python the hard
+way.
+38:22 Oh, look at the time.
+38:22 Well, it's been really great
+meeting you.
+38:25 Please keep me in the loop,
+this sounds fantastic.
+38:29 [CROSS-TALK].
+38:30 I'll send you an update.
+38:32 Great.
+That was awful.
+38:34 So let's just go through, so.
+38:38 That was obviously not strong.
+38:40 So let's just talk about some
+of the mistakes.
+38:41 So first of all, you need to
+38:43 make sure the person you're
+talking to knows what you do.
+38:45 This just seems really simple,
+but it's not.
+38:47 Yeah, this seems simple, but
+it's not.
+38:48 So many times, people get
+flustered.
+38:49 They get nervous, and they
+start talking really fast.
+38:52 And there's no way you're ever
+going to convince anyone of
+38:55 anything if they don't know,
+38:56 even what your app actually
+is.
+38:59 You have to know your numbers
+obviously.
+39:00 If you're very vague or
+39:01 evasive, like don't even have
+the meeting.
+39:03 If you don't feel comfortable
+telling an investor what your
+39:05 numbers are, don't even meet
+with them.
+39:07 It means you're not ready yet,
+right?
+39:09 For market size, try to give
+some plausible bottom-up
+39:11 analysis and don't just
+name-drop big companies that
+39:14 aren't even really related to
+what you're doing.
+39:17 People tend to do that a lot.
+39:18 Try to have insights, try to
+convince me that there's
+39:21 something that I don't already
+know about the market that I
+39:23 learn talking to you, rather
+than just
+39:26 what everyone knows about what
+the market is.
+39:27 Right, I learned nothing
+during that particular pitch.
+39:30 also, the team's just like,
+why are you working on this,
+39:32 why are you suited for it is a
+good thing to do.
+39:35 And finally, like,
+39:36 he didn't drive the
+conversation anywhere.
+39:37 Like, obviously that went
+poorly, and
+39:39 he just let the conversation
+just, like,
+39:40 flail around until I cut the
+medium because we ran out of
+39:43 time as fast as I could.
+39:45 So anyway, that was, that was
+not a good pitch.
+39:48 So let's, let's try that
+again.
+39:50 Okay, all right.
+39:51 Let's do this.
+39:52 Okay.
+All right Caspar,
+39:54 well so I understand you have
+a company and can you,
+39:57 can you just tell me a little
+about what you guys do.
+39:59 Yes.
+So we're a messaging product.
+40:02 We allow, I mean that sounds
+kind of vague, so
+40:03 what we allow you to do you to
+do is essentially message
+40:07 a location.
+40:07 So when you walk into a Crate
+and Barrel,
+40:09 you can send the Crate and
+Barrel manager a message like
+40:12 hey there's puke in the
+hallway.
+40:13 Or if you're in the airport,
+I'm trying to find this
+40:15 specific gate because I'm not
+at this airport,
+40:17 where is you know where's a
+terminal for Virgin.
+40:19 Or if you're at Target, what
+aisle.
+40:20 Okay, so is this a mobile app
+or what how do I use it?
+40:22 Yeah, so on the consumer side
+we have iOS Android app,
+40:25 but really getting consumers
+to
+40:26 download apps is obviously
+very difficult.
+40:28 Yeah.
+I don't, I don't.
+40:29 In.
+I don't usually
+40:29 just download apps.
+40:30 Yeah.
+To send a message.
+40:31 [CROSS-TALK].
+40:31 In, in most businesses we have
+a called action,
+40:34 which says text the owner
+directly.
+40:35 Oh.
+40:36 We've tested actually a bunch
+of
+40:37 copy that works the best in
+small print.
+40:39 We have, the messages are
+anonymous,
+40:41 they also lowers the barrier
+to entry.
+40:43 I think the most
+counterintuitive thing we've
+40:44 learned in the kind of launch
+that we've had where,
+40:47 in 350 locations in the Bay,
+we've been doing this for
+40:49 about three months we're about
+11%
+40:51 weekly growth rate in terms of
+acquiring businesses.
+40:54 But the most counter-intuitive
+thing that we learned,
+40:55 because we weren't actually
+sure,
+40:56 is, will people send messages
+when they walk
+40:59 into [CROSS-TALK] and they do.
+41:01 What's the number one type of
+message that people send?
+41:03 So you would, so originally,
+41:04 we started this product off
+thinking this is going to be,
+41:06 like, in-location feedback.
+41:07 That was the premise,
+in-location feedback.
+41:09 What we found is more than
+half the messages,
+41:11 are actually not about
+feedback at all,
+41:13 they ask things like we,
+41:14 we were in this location in
+San Jose this Kabob stand,
+41:17 father and son, it's just a
+take out place, and
+41:19 we saw messages that go
+through,
+41:20 that went through that said
+like are you hiring?
+41:23 And that's like very strange
+because you
+41:24 would think like why wouldn't
+you just ask the owner.
+41:26 Yeah.
+But we realized that we know
+41:27 this is the owner, and
+41:28 the person who's walking in
+doesn't and so
+41:29 they, they do prefer to
+actually just text the owner
+41:33 because they think that's a,
+that's an easier medium.
+41:34 Okay, so it's like a
+suggestion box, or
+41:36 it's like a way to just like
+message a business.
+41:37 Yeah, initially that's what we
+thought it was, but
+41:40 what we actually discovered
+was the vast majority,
+41:42 I shouldn't say vast majority,
+over half
+41:43 the messages are actually just
+things like when do you open,
+41:46 when do you close because
+that's not on Google.
+41:48 Do you, do, you know, are you
+catering can you,
+41:51 do you have any reservations
+available tonight, et cetera.
+41:53 Okay, okay.
+Well, look,
+41:54 in terms of your traction it
+41:55 sounds like you said you had
+some businesses, like.
+41:57 Yeah.
+Tell me about what,
+41:57 what you guys have right now.
+41:58 So we have about 350
+businesses,
+42:00 all from San Jose to San
+Francisco.
+42:02 We sold them ourselves as
+three founders.
+42:04 We're all technical, but we
+actually did all the sales
+42:06 because we learned a lot about
+how these businesses work.
+42:08 We actually come from a retail
+background.
+42:10 We originally built this
+product for
+42:11 large enterprise players like
+Starbucks and Walmart.
+42:13 But we recognize that closing
+those contracts, and
+42:16 our limited amount of runway
+wouldn't really be possible.
+42:18 So we wanted to get the
+product in the hands of users.
+42:20 So we did SMBs.
+42:21 And that's when we discovered
+hey,
+42:22 this like, this messaging
+product.
+42:24 &gt;&gt; Okay, okay, that sounds
+interesting.
+42:25 It sounds like you have some
+customers.
+42:27 &gt;&gt; Yes, so we get.
+&gt;&gt; How, how
+42:27 could this be big though?
+42:28 Like, okay, maybe you can
+100,000 customers.
+42:30 &gt;&gt; Yeah, so, in terms of like,
+numbers, we, we see one and
+42:33 half messages on average per
+location per day.
+42:36 That might not sound a lot,
+but
+42:37 for a business, that's
+skidding 30 messages.
+42:40 You take like a Yelp review or
+a Google review.
+42:42 In a lifetime of visits, they
+might get five or seven.
+42:44 So they're getting a, a huge
+volume of messages relative to
+42:47 what they tend to experience
+and they're private, so
+42:49 they're not public.
+42:50 So in terms of, how do we
+actually make money, it's not,
+42:53 you know, frankly speaking,
+42:54 we don't have a very clear
+answer there.
+42:57 The two paths are the SMB side
+or
+42:59 the LCS side, the large
+customer side.
+43:01 Large customers, we know from
+our retail experience,
+43:03 just regular feedback tools
+are 3 to 4 million per year,
+43:07 so a like a Sear's, where we
+came from.
+43:09 SMBs we've tested with are
+willing to pay $50 a month,
+43:13 so, I, I, you know, I
+certainly I think this is.
+43:16 &gt;&gt; Okay.
+&gt;&gt; This can be a large
+43:17 business, but, and there's
+clear ways to make money, but.
+43:19 I could see, I could see that.
+43:21 Just a couple things like,
+43:22 can you tell me about your
+distribution strategy and
+43:24 also just a little bit about
+the team.
+43:25 &gt;&gt; Yeah.
+So
+43:26 distribution so the thing that
+we learned in
+43:28 selling to these SMBs is it's
+really freaking hard.
+43:30 there, the formula LTV minus
+CPA, lifetime value minus cost
+43:34 price acquisition in SMB is
+never going to work out.
+43:36 Right.
+&gt;&gt; And so we
+43:36 have two solutions.
+43:37 One is to go up market,
+43:38 like we originally planned,
+the Starbucks or
+43:39 Walmarts or two is actually
+essentially pair with
+43:44 consumer facing companies
+Yelp, Google, Facebook.
+43:46 &gt;&gt; Have you been talking to
+them,
+43:47 do they actually want to do
+it?
+43:48 &gt;&gt; Yeah, so we've talked to
+Google and
+43:49 Facebook we're meeting with
+Yelp.
+43:51 What we're basically want to
+do is every time you
+43:52 search for a business there
+should be a message button.
+43:54 We want to get consumers in
+the habit of knowing,
+43:57 they can send, essentially a
+text message to any business.
+44:01 That can help us get broad
+distribution.
+44:03 Our real vision is to become
+kind of that infrastructure,
+44:05 that messaging infrastructure
+between consumers and
+44:08 business.
+44:08 If that doesn't work, let's
+say Google, Facebook, and
+44:10 Yelp don't want to give up
+that valuable property.
+44:11 It's really an ad unit.
+44:13 &gt;&gt; Okay.
+44:14 &gt;&gt; we, we do want to sell this
+as a feedback tool to large,
+44:17 large players.
+44:18 &gt;&gt; All right.
+Can you tell me
+44:18 a little about the team?
+44:19 We're running low on, on time.
+44:20 &gt;&gt; Yeah, there's three of us.
+44:21 All technical.
+44:22 We Mike and I did a company
+before.
+44:25 Sunny is an ex-Google
+engineer.
+44:26 We come from retail.
+44:29 So and our first startup was a
+failure.
+44:30 So, I don't know if that's
+good or
+44:32 bad but, we've, we've worked
+together and, yeah.
+44:34 We're all technical, we built
+everything ourselves.
+44:36 And we sold everything
+ourselves.
+44:38 &gt;&gt; Okay.
+&gt;&gt; So we've already had
+44:40 a couple conversations with
+your firm.
+44:43 We're raising 500,000 and 8.5
+million convertible note.
+44:47 Of that 500, 250's committed
+by Mike Mapels,
+44:50 Eli Gill, and Aiden Sinkit.
+44:54 And Mike with Floodgate is
+willing to fill the round.
+44:57 We think your, you know,
+44:58 you particularly, you and your
+firm can bring a lot to
+45:01 the team with your retail
+experience.
+45:03 Is this something that's
+interesting to you?
+45:05 &gt;&gt; Yeah, you know, I, I think
+this is really interesting.
+45:07 I mean, I would need to talk
+to a couple more folks on my
+45:10 side, but I do think this
+this,
+45:11 this could be pretty big.
+45:13 &gt;&gt; Yes, since we've had a
+couple conversations before
+45:15 and and we're certainly
+willing to meet again,
+45:17 we are closing a round this
+Friday.
+45:20 And so, certainly take time
+and let, you know, and
+45:23 let, your other partners know.
+45:25 I'll be available between now
+and Friday.
+45:26 I'll give you another call
+before Friday.
+45:27 Before we close the round.
+45:29 But we'd love to actually see
+you, see you in the round.
+45:32 &gt;&gt; Okay.
+Well sounds good.
+45:33 I gotta go, but thanks for
+talking to me.
+45:34 &gt;&gt; Great.
+Thanks.
+45:36 Okay.
+45:37 All right,.
+&gt;&gt; So
+45:37 very different class type of,
+type of a conversation.
+45:40 &gt;&gt; Yeah, so do you have a
+clicker.
+45:41 &gt;&gt; Yes.
+&gt;&gt; So in terms of that one,
+45:43 you know, some key points here
+is, try to
+45:47 actually tell a narrative that
+makes sense to people.
+45:49 You notice there was
+narratives there.
+45:50 He was talking about people,
+how they really use it.
+45:52 Were able to tie it down to
+the real world, which is good.
+45:55 He was able to demonstrate
+insights, and
+45:57 actually tell me something I
+didn't already know about
+45:58 the market, like, there were,
+there were some tidbits there.
+46:02 It was more, it was more of a
+collaborative meeting where it
+46:05 felt more like a conversation
+than just like a,
+46:06 like I was interviewing him
+about something in,
+46:09 in my opinion.
+46:11 He actually asked for money.
+46:12 And this is the other key
+thing is at the end,
+46:13 you saw I could have easily
+just been like,
+46:15 okay, gotta go.
+46:17 But he, he did talk about
+fundraising as,
+46:20 as Michael mentioned.
+46:21 And he was able to provide all
+the context and
+46:23 all the questions I would need
+46:24 to actually have a serious
+conversation with him.
+46:26 If he was cagey about it or
+shy about it,
+46:29 and not clear on the numbers,
+that there's a very high,
+46:31 good chance that, you know, I
+probably would have just ended
+46:34 the conversation, due to time
+pressure.
+46:38 &gt;&gt; Yeah, it's interesting.
+46:38 And we, we sit on this side a
+lot.
+46:40 You really, you can tell when
+people are very passionate and
+46:43 know their business very, very
+well.
+46:44 And that's what you have to
+become.
+46:46 okay.
+So closing thoughts here
+46:47 before we, what you want to do
+after the meeting.
+46:50 Before we get into the Q&amp;A.
+46:51 We're running a little short
+on time.
+46:53 After the meeting, the first
+thing,
+46:54 just like Tyler said in the
+sales thing, follow up.
+46:56 This is, this is important.
+46:59 And anything other than a
+check, or wired funds is a no.
+47:02 So if they say, we gotta keep
+talking to partners,
+47:04 I assume that's a no.
+47:06 And so, you do want to put
+some pressure.
+47:08 The way that you can do that
+is get deal heat.
+47:11 Deal heat is just a term which
+means there's a demand for
+47:13 your, to, to be in your round.
+47:15 This is the easiest way and
+47:17 an important way to actually
+drive up price, et cetera.
+47:20 Due diligence on the
+investors.
+47:21 So let's say you have that
+500,000 raise for your
+47:24 seed round on the 8.5 million
+like we used in this example.
+47:27 Due diligence investors.
+47:28 If you do find it, I, I do,
+due diligence on adults, and
+47:31 I find, hey, he's actually not
+a great investor.
+47:33 I can get Elaud, or Mike
+Maples, or
+47:35 whoever to actually fill the
+rest of the round.
+47:37 It's surprising to us,
+47:39 how many entrepreneurs don't
+do this.
+47:41 You would, it's like,
+47:42 you would actually spend a lot
+of time hiring somebody.
+47:44 You're selling a part of your
+company to somebody,
+47:46 you should know who you're
+selling it to.
+47:47 To make sure they,
+47:48 you know, they're the type of
+people you think they are.
+47:51 And then last, know when to
+stop.
+47:54 So some founders get so good
+at fundraising they just
+47:56 want to do it all the time
+because it's much easier to
+47:58 do than actually building the
+company.
+48:01 &gt;&gt; Yeah, you think you can
+48:02 fundraising does not equal
+success and just because.
+48:04 &gt;&gt; Yeah.
+&gt;&gt; You fund-raise does not
+48:05 mean you succeeded and nobody
+realizes that and
+48:08 I'm, we say this and we'll say
+this now, but
+48:10 I'm sure everyone will still
+equate fundraising with
+48:12 success and read about
+someone's fundraising and
+48:14 assume that means they're
+successful.
+48:16 &gt;&gt; Well my, my, my intuition
+as to why this is
+48:17 the case is because a lot of
+smart people their whole life,
+48:19 they've like, applied to good
+schools and applied to
+48:21 good jobs, and they, they just
+think fundraising is
+48:24 another like application they
+can just kind of check off.
+48:26 And building a company is much
+more ambiguous, but.
+48:29 Anyways, that's, that's the
+session.
+48:31 I don't if we have time for,
+oh.
+48:32 The edge is under,
+48:33 underlining, building your
+company.
+48:35 Fundraising is not the goal.
+48:36 &gt;&gt; Can you guys just stick
+around for
+48:37 a few minutes after, and
+answer questions?
+48:39 &gt;&gt; Sure.
+&gt;&gt; Yeah, we can do that.
+48:39 &gt;&gt; All right.
+Thank you very much,
+48:41 that was great.

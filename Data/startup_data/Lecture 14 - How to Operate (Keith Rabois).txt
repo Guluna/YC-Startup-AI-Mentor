@@ -1,0 +1,2390 @@
+00:00 So I'm going to talk about how
+to operate.
+00:02 So I've watched some of the
+prior classes, and
+00:04 I'm going to assume that
+you've already sort of
+00:05 hired a bunch of horrendously
+resourceful people.
+00:08 That you've built a product
+that at
+00:09 least some people love.
+00:09 And you're probably raised
+some capital.
+00:11 And now you're trying to build
+a company.
+00:13 So you're, you're enforging a
+product and
+00:14 now you have to forge a
+company.
+00:16 And it actually argue for
+00:17 GM company is much more
+difficult than for
+00:18 a GM product.
+00:19 Basic reason is people are
+irrational.
+00:21 So you probably all know this
+either your parents,
+00:23 your significant other or your
+brother or sister, or
+00:25 your teacher, somebody in your
+life is irrational.
+00:27 Building a company is
+basically taking all
+00:29 the irrational people you
+know, putting them in one
+00:31 building and then living with
+them 12 hours a day at least.
+00:34 So, it's very challenging.
+00:35 Now, there's techniques for
+coping with that and
+00:37 some people get good at it and
+small people don't but
+00:39 that's where really what
+operating is about.
+00:42 So basically what you're doing
+when you build a company is
+00:44 you're building an engine.
+00:45 And at first you have a
+drawing literally on a white
+00:48 board, and you're architecting
+it, and it
+00:51 looks very conceptually clean,
+and beautiful, and pretty.
+00:55 But when you start actually
+translating to
+00:56 practice actually it looks
+more like this, and
+00:58 you're holding it together
+with duct tape.
+00:60 And it takes a lot of heroic
+effort to people to
+01:02 actually hold it together.
+01:03 That's why people work 80, 100
+hours a week,
+01:05 is that heroic effort is
+actually necessary to keep
+01:08 this thing together.
+01:09 Because you don't actually yet
+have polished metal in place.
+01:12 Eventually you
+01:13 want to construct a high
+performance machine.
+01:15 A machine that actually almost
+nobody really has to
+01:17 worry about every hour.
+01:19 Every minute and you know as
+we
+01:20 used to joke about Ebay that
+if Martians took over Ebay it
+01:23 would take like six months for
+the world to notice.
+01:25 That's what eventually what
+you want to get to.
+01:27 Or as Warren Buffet says, you
+know, build a company that
+01:30 idiots could run because
+eventually they will.
+01:31 So this is what you want
+basically a performance
+01:36 machine that idiots can run.
+01:38 Now, as a leader, what is your
+real job?
+01:40 What's your role?
+01:41 Strictly speaking there's only
+one book that's ever written
+01:43 that actually explains how to
+do this, it's a little old.
+01:45 It was written in 1992 by Andy
+Grove,
+01:47 who's quite famous, quite
+successful, and
+01:49 his definition of what your
+job is,
+01:51 is to maximize the output of
+an organization,
+01:53 your organization that you're
+responsible for, CEOs,
+01:56 everything and a VP would be
+part of the organization.
+01:59 And the organizations around
+you, so if you're VPE,
+02:01 you're actually are
+responsible for
+02:03 the performance of the product
+team too, or
+02:04 the marketing team, because
+you have influence there.
+02:07 So this is how measure people
+and you want to focus on
+02:10 the output not the input the
+old adage about measuring,
+02:13 not measuring motion and
+confusing that will progress,
+02:16 you're measuring only
+progress.
+02:18 And this is going to sound
+like a fancy and
+02:19 glamorous thing to do.
+02:21 Maybe people get excited about
+managing a whole
+02:23 large organization, and being
+responsible for the output.
+02:26 But in practice, what you're
+going to learn today hopefully
+02:28 is that it's more about things
+like ordering smoothies,
+02:31 teaching your receptionist how
+to answer the phone properly,
+02:34 and serving as a $10 an hour
+task rabbit for
+02:36 your employees.
+02:37 So let's talk about that.
+02:39 So at first when you
+02:40 start a company everything's
+going to feel like a mess.
+02:43 And it really should if you
+have too much process,
+02:45 too much predictability you're
+probably not
+02:47 innovating fast enough and
+creatively enough.
+02:50 So it should feel like
+everyday there's a new
+02:52 problem and what you're doing
+is fundamentally triaging.
+02:55 So some things will look like
+a problem, and
+02:57 they're actually a colds,
+they're just going to go away.
+02:60 So, somebody's annoyed about
+this or that.
+03:02 That may be a cold, and you
+shouldn't stress about it,
+03:04 and you certainly shouldn't
+allocated a lot of
+03:05 your time to it.
+03:05 And some things are going to
+present themselves as colds.
+03:08 But just like in the emergency
+room, if they're not
+03:11 diagnosed properly they
+actually can become fatal.
+03:13 So what I'm going to try to do
+is help give you
+03:14 frameworks for thinking about
+which things are colds and
+03:17 which things are potentially
+fatal.
+03:20 So one of the most important
+things I've learned at
+03:22 Square is actually a concept
+of editing.
+03:24 And this is the,
+03:25 I think the best metaphor I've
+ever seen in like 14 years of
+03:28 running stuff of how to think
+about your job.
+03:30 It's natural, it's a natural
+metaphor so
+03:32 it's easy to take with you
+every day.
+03:34 And actually it's easy to
+transmit to each of
+03:36 your employees so that they
+can figure out
+03:38 wether they are editing or
+writing.
+03:40 It's a natural construct.
+03:41 You generally know when
+someone asks you to
+03:42 do something.
+03:43 Am I more writing or am I more
+editing?
+03:45 So an editor, as, is the best
+metaphor for your job,
+03:48 and we're talking about the
+specific things you're doing
+03:51 in editing.
+03:53 The first thing an editor
+does, and
+03:54 you probably all had this
+experience in school,
+03:56 is you submit a paper to a TA,
+a draft to your friend.
+03:59 And the first thing an editor
+does is
+03:60 they take out a red pen or
+nowadays, you know online, and
+04:03 they start striking things.
+04:05 Basically eliminating things.
+04:06 The most important task as an
+editor is to simplify,
+04:08 simplify, and that usually
+means omitting things.
+04:11 So that's your job too, is to
+clarify and simplify for
+04:15 everybody on your team,
+04:16 the more you simplify the
+better people will perform.
+04:18 People cannot understand and
+04:20 keep track of a complicated
+set of initiatives.
+04:22 So you've got to distill it
+down to one, two, or
+04:24 three things.
+04:25 And use a framework that they
+can repeat,
+04:27 they can repeat without
+thinking about,
+04:28 they can repeat to their
+friends,
+04:30 they can repeat at night.
+04:32 Don't except the excuse of
+complexity.
+04:34 A lot of people will tell you
+that well this is
+04:35 too challenging, this is too
+complicated.
+04:37 Well yeah, I know other people
+simplify but
+04:38 that's not for me.
+04:39 This is a complicated
+business.
+04:41 They're wrong.
+04:42 You can change the world, in
+140 characters.
+04:48 You can build the most
+important companies in
+04:51 history in a very simple to
+describe concept.
+04:54 You can market products in
+less than about 50 characters.
+04:59 There's no reason why you
+05:00 can't build your company the
+same way.
+05:02 So force yourself to simplify
+every initiative,
+05:05 every product, every
+marketing, every,
+05:07 everything you do.
+05:08 And, and basically take out
+that red,
+05:10 and start eliminating stuff.
+05:12 Second thing is, what editors
+do,
+05:14 is they ask you clarifying
+questions.
+05:16 So when you present a paper to
+somebody,
+05:17 what do they usually do?
+05:18 Do they, find some ambiguity
+somewhere and
+05:20 they say, well did you really
+mean this, do you mean that,
+05:22 do you have an example of
+this?
+05:23 That's what your job is, so
+you're in a meeting and
+05:25 people are going to look to
+you, and the real thing you
+05:27 do is you actually ask a lot
+of questions.
+05:30 And they can be simple, basic
+questions like,
+05:33 should we try this seven days
+a week or six days?
+05:37 They can be fundamental
+questions like,
+05:39 where's our competitive
+advantage here?
+05:41 We try to this actually as
+investors too
+05:44 some investors will ask you a
+billion questions about
+05:47 a billion things and they'll
+have you do diligence forever.
+05:50 We try to narrow it down to
+what are one, two or
+05:52 three four things that
+actually matter for
+05:54 this company and only focus on
+those things.
+05:56 So it allows us to be more
+decisive, and
+05:59 we can make decisions rapidly.
+06:00 It allows us not to distract
+you from your day job,
+06:03 which is actually building a
+company.
+06:05 And yet, I think we still get
+to the higher fide,
+06:07 highest fidelity answers.
+06:08 We don't have all these extra,
+06:09 extraneous details, pieces of
+data.
+06:11 Now it's hard, it's something
+you have to practice, but
+06:14 when you're good at it, every
+step you eliminate, Andy Grove
+06:17 estimated that you can improve
+performance by 30-50%.
+06:21 The next thing you do is
+allocate resources.
+06:23 So the editing construct,
+06:24 this is what editors do all
+the time.
+06:26 They take editors from the
+mid-East and
+06:28 covering the mid-East and they
+move them to Silicon Valley,
+06:30 because Silicon Valley is now,
+now more interesting.
+06:33 Or they move them to a sports
+section because they want to
+06:35 compete on the basis of sports
+with other journals and
+06:37 other publications.
+06:37 So that can be top down where
+I take a bunch of,
+06:40 allocate resources and
+06:41 people would say, we're now
+going over here,
+06:42 we're going to compete on this
+basis.
+06:44 And then next month, next
+quarter, next year,
+06:46 I'm like well,
+06:47 that Middle East coverage is
+getting boring and bland.
+06:49 We don't want to do that
+anymore.
+06:50 Let's go chase after something
+else, or it can be bottom up,
+06:52 just like journalists mostly
+come up
+06:54 with their own stories, the
+people who work with you.
+06:57 Generally should be coming up
+with their own initiatives.
+06:59 So, a reporter will generally,
+who covers Google, come up
+07:02 with the interesting stories
+that they're hearing in
+07:05 aether, and propose one or two
+to their editor for approval.
+07:08 But it's not like the editor
+is saying, go cover Google,
+07:10 and this is the angle I want.
+07:11 Once in a while they do that,
+but
+07:12 that's not the date, the day,
+the meat and
+07:14 potatoes of what a journalist
+does every day.
+07:17 Your goal over time is to
+actually use less red
+07:20 ink every day.
+07:21 So one way of measuring how
+well you're doing in
+07:22 communicating to
+07:23 your colleagues about what's
+important and what's not.
+07:25 What, why some things are
+important,
+07:27 some things are not,
+07:28 is how much red ink you're
+pulling out every day.
+07:30 It's okay if you have a bad
+day and
+07:32 the red inks all over the
+place.
+07:33 But it's not okay if the red
+ink next month is
+07:35 more is more than it was last
+month,
+07:36 if the next quarter is more
+than this.
+07:38 So measure yourself of how
+much red ink you're creating.
+07:41 The other thing that's very
+important that actually isn't
+07:44 as intuitive to a lot of
+people is,
+07:46 the job of an editor is to
+ensure consistent voice.
+07:49 So if any of you read The
+Economist,
+07:51 you can tell that there's one
+consistent voice.
+07:53 You can pick up any article,
+any post in The Economist, and
+07:56 if feels like it's written by
+the same person.
+07:58 Ideally your company should
+feel like,
+07:60 on your website and your PR
+release,
+08:01 on your packaging, if it's a
+physical product.
+08:04 Anywhere on your recruiting
+pages to feel like it
+08:06 was written by one person.
+08:07 That's extremely difficult to
+do,
+08:09 and first you're going to be
+tempted to do
+08:10 that yourself which is okay
+for a founder to that.
+08:13 Him or herself initially.
+08:15 Over time you do not want to
+be doing all of
+08:17 the consistent voice editing
+by yourself.
+08:20 You are a trained people so
+08:21 that they can recognize the
+differences in voice.
+08:23 So if you see this website
+page it
+08:24 looks very different than the
+recruiting page.
+08:26 You start by asking questions
+why is that?
+08:28 Is the reporting messed up?
+08:30 Is the leaders over here not
+08:31 really understanding the voice
+of the company?
+08:33 So, you've gotta, you have to
+fix that over time.
+08:35 But you want to start with the
+objective of
+08:37 everything should feel exactly
+the same.
+08:39 It's quite, quite difficult in
+practice.
+08:41 Almost every company has at
+least one piece
+08:44 of the organization that isn't
+exactly on the same voice.
+08:46 At Apple, which is notorious,
+you know,
+08:48 even under Steve's regime,
+which was notorious for
+08:50 getting this right.
+08:52 If you asked someone who
+worked at Apple, talk,
+08:54 asked them about the internal
+tools about recruiting.
+08:56 Do they really feel like Apple
+products?
+08:58 All of them will tell you no.
+08:59 So you're never 100%,
+09:00 but you definitely want to get
+a close to that as you can.
+09:04 Next complicated topic is
+delegating.
+09:07 So just like the other thing I
+09:08 like about the metaphor of
+editing is.
+09:10 Writers do most of the work in
+the world.
+09:12 Editors are not actually
+writing most of the content in
+09:15 any publication.
+09:16 So that's actually true of
+your company.
+09:18 You are not going to do most
+of the work.
+09:20 You shouldn't be doing most of
+the work.
+09:21 And the way you get out of
+doing most of
+09:23 the work is you actually
+delegate.
+09:25 Now the problem with
+delegating is,
+09:27 that actually you're
+responsible for everything.
+09:29 So as CEO founder there is no
+excuse,
+09:32 there's no like that's that
+department over there,
+09:34 this person over there screwed
+up,
+09:35 you're always responsible for
+09:36 every single thing, especially
+when things go wrong.
+09:40 So how do you both delegate
+but not abdicate.
+09:42 It's pretty tricky challenge
+and
+09:43 both are sins, like if you
+over delegate.
+09:46 Or, and you advocate, or
+09:47 you micro-manage, those are
+both sins.
+09:50 So I'm going to give you a
+couple techniques for
+09:51 solving this.
+09:54 First, this actually comes
+from high output management
+09:57 and to grow, is what's known
+as task-relevant maturity.
+09:60 It's kind of a fancy phrase
+for
+10:01 basically, has this person
+ever done this before?
+10:03 It's really simple.
+10:04 And how mature is this person
+in doing something/ And
+10:06 the more they've done the
+exact same task before.
+10:09 The more sort of rope you're
+going to give them.
+10:11 And the less, the more they're
+trying something new,
+10:13 the more you're going to
+actually instruct them and
+10:15 consistently, constantly
+regularly monitor.
+10:18 So that's kind of a basic
+concept but
+10:19 it's worth keeping in the back
+of your brain.
+10:22 The interesting implication,
+and
+10:24 this is pretty radical, is
+that any executive,
+10:27 any CEO should not have one
+management style.
+10:30 Your management style actually
+needs to be dictated by
+10:32 your employee.
+10:33 So with one particular person,
+you may be very much a micro
+10:36 manager because they're quite
+low on this scale.
+10:38 And with another person you
+may be delegating a lot
+10:40 because they're actually quite
+mature on this scale.
+10:43 So it's actually a good thing
+if you do reference checks on
+10:45 somebody, and half the people
+you call say they're a micro
+10:48 manager, and the other half
+say they actually give me
+10:50 a lot of responsibility,
+that's actually not a,
+10:52 that's a, that's a feature not
+a bug.
+10:53 I didn't understand that at
+first, at all, like I used to
+10:56 be befuddled when people would
+dereference checks on me, and
+10:59 come back with this like,
+complicated mosaic.
+11:01 And that basically, finally
+figured out that maybe I
+11:04 was actually doing my job
+correctly, and so
+11:05 then of course,
+11:06 thought other people that this
+was the way to do it.
+11:09 A more nuanced answer though,
+that I've sort of came up
+11:12 with, is how, how do you make
+decisions?
+11:15 And delegating versus doing it
+yourself.
+11:17 You don't want to do it
+yourself too often.
+11:19 So what I've basically
+borrowed from Peter,
+11:22 this is my first two by two
+matrix ever in my life but he
+11:25 taught me something at least
+is you basically sort you,
+11:28 your own level conviction
+about a decision on a grid you
+11:31 know, extremely high,
+extremely low.
+11:34 There's times when you know
+something's a mistake, and
+11:36 there's times where you
+wouldn't do it that way, but
+11:37 you have no real idea what
+the, whether,
+11:40 whether it's the right or
+wrong answer.
+11:42 And then there's a consequence
+to mention, there are things
+11:43 that if you make the wrong
+decision are actually
+11:45 catastrophic to your company
+and you will fail.
+11:47 There are things that are
+pretty low impact,
+11:50 that really at the end of the
+day aren't going to
+11:52 make a big difference, at
+least initially.
+11:54 So what I basically believe is
+that where there's low
+11:57 consequences, and
+11:59 you have very a low confidence
+in your own opinion, you
+12:02 should absolutely delegate,
+and delegate completely like
+12:05 people make mistakes and
+learn.
+12:07 On the other side obviously,
+12:08 where the consequences are
+extremely dramatic and
+12:11 you have extremely high
+conviction that you're right,
+12:14 you actually can't let your
+junior colleague,
+12:16 like, make a mistake.
+12:17 You're ultimately responsible
+for that mistake, and if
+12:19 it's really important you just
+can't allow that to happen.
+12:22 Now the best way to do
+12:23 that is to actually explain
+your thinking, the why.
+12:26 It's easy to shortcut when you
+get busy,
+12:28 explaining why's of the world,
+but it's very important to try
+12:32 when I was at LinkedIn I had a
+colleague who's quite,
+12:36 quite talented.
+12:37 Both occasion we get annoyed
+if, if I didn't exactly agree
+12:40 with his opinion on something,
+and so I'd
+12:43 spent a lot of time trying to
+persuade him why I was making
+12:46 a decision a certain way.
+12:47 And his wildcard, the card he
+would ultimately call out if I
+12:50 didn't quite persuade him,
+12:51 he's like, okay you're the
+boss, and that meant to
+12:54 me like I was burning a lot of
+social capital.
+12:56 Every time he said that, I
+knew I was like
+12:57 really creating a thin line,
+and that ultimately that was
+13:00 going to backfire if I did
+that too often, so
+13:02 you want to track the times
+that you're doing that.
+13:04 Example of this is Squares,
+13:06 one of my favorite people in
+the world,
+13:07 and my second hire, first
+marketing hire had this
+13:10 program he wanted to run
+called Inner-Square,
+13:12 which basically allowed people
+to give out square merchants
+13:16 to get out ten other squares
+to their call.
+13:18 Just imagine a food truck
+outside,
+13:19 put like ten squares on the
+counter and
+13:22 people could just grab them,
+and Kyle had this great idea,
+13:25 this would be this awesome
+marketing program.
+13:27 Squares would spread squares
+to other people and, you know,
+13:32 to some extent it was on
+brand, so
+13:34 it didn't have catastrophic
+consequences.
+13:36 Each of these ten squares
+didn't cost that much money,
+13:38 so financially we could afford
+to do it.
+13:40 But, at that time my ten years
+of experience said
+13:42 there's just no way this is
+going to work in
+13:43 a meaningful enough scale, to
+move our metrics enough and
+13:48 I actually would prefer we
+don't, not do this.
+13:50 But Kyle, so
+13:50 excited about this that I
+decided to just let him do it.
+13:54 He learned that actually when
+you
+13:56 measure this thing it's not
+massive.
+13:58 It doesn't create a massive
+value for the company.
+13:60 It did require a fair amount
+of operational complexity to
+14:02 ship all these squares to
+people and
+14:03 figure out how to get them to
+be squares etc.
+14:06 But it allowed him to be
+excited about his job and
+14:09 to learn how to filter future
+ideas, so it's totally worth
+14:12 letting him make the quote
+unquote mistake.
+14:15 The next and most possibly
+most important thing you do
+14:18 is actually edit the team.
+14:20 So these are the people that
+you work with, and
+14:22 nobody's going to have a
+perfect team and
+14:24 you're certainly not going to
+start that way.
+14:26 So would, I'm going to try to
+do is
+14:29 maximize the probability for
+success in editing the team.
+14:32 So I like this idea of Barrels
+and Ammunition.
+14:35 Most companies once they get
+into hiring mode as
+14:37 Sam pointed out you should
+defer that for awhile, but
+14:39 once you do they just hire a
+lot of people.
+14:41 And they're like, you expect,
+and
+14:43 you expected as you add people
+your throughput,
+14:45 your horsepower, or
+14:46 your velocity of shipping
+things is going to increase.
+14:48 It turns out it doesn't work
+that way.
+14:50 Usually when you hire more
+engineers you
+14:52 actually don't get that much
+more done,
+14:53 you actually sometimes get
+less done.
+14:55 You hire more designers,
+14:56 you definitely don't get more
+done,
+14:57 you get less done per day we
+could talk about why.
+15:01 But so the reason why is that
+most people,
+15:04 most great people even, are
+actually ammunition.
+15:08 But what you need in your
+company are barrels, and
+15:09 you can only shoot through the
+number of
+15:11 unique barrels you have.
+15:12 So that's how the velocity of
+your company improves is by
+15:16 adding barrels, and then you
+stock them with ammunition,
+15:19 and then you can do a lot.
+15:20 So if you go from a one barrel
+company,
+15:21 which is mostly how you start.
+15:23 To two barrel companies
+suddenly you get twice as many
+15:25 things done per day, per week,
+per quarter, and if you go to
+15:27 three barrels, great, if you
+go to four barrels, awesome.
+15:30 Barrels are incredibly
+difficult to find,
+15:32 but when you have them, like
+give them lots of equity,
+15:35 promote them, take them to
+dinner every week because it,
+15:38 it, they're virtually it like
+irreplaceable.
+15:41 Because they're also very
+culturally specific.
+15:44 So a barrel at one company may
+not be a barrel at
+15:46 another company because one of
+the ways in the definition of
+15:49 a barrel is they can take an
+idea from inception
+15:51 all the way through shipping
+and bring people with them.
+15:53 And that's a very culturally
+specific opportunity specific
+15:57 skill set, rather.
+15:58 So two questions probably are
+occurring to you,
+16:00 is how do you figure out who's
+a barrel and who's not?
+16:04 One is you start actually with
+a very small set of
+16:06 responsibilities.
+16:07 It can be fairly trivial.
+16:09 It can be something like, I
+want to reward
+16:11 the engineers that are in my
+office at 9 o'clock at
+16:13 night every night with an ice
+cold fresh smoothie.
+16:17 This is actually a real
+example.
+16:18 I was frustrated our engineers
+were
+16:20 working really hard at square.
+16:21 And, you know,
+16:22 maybe 20% to 30% would stay
+very late into evening, and
+16:25 I wanted to serve, we were
+ready to serve them dinner but
+16:27 I wanted to give them
+something cool to reward them,
+16:30 and you could think about
+alcohol, but
+16:31 that's a little complicated.
+16:33 So smoothies were probably a
+little bit
+16:35 better than the pizza, which
+drains you of energy.
+16:38 But nobody could get smoothies
+in my office to show up at 9
+16:40 o'clock sharp that were cold,
+that tasted good and delivered
+16:44 in the right place that
+engineers would find them.
+16:46 You'd think this is simple,
+but
+16:47 in fact, it like, took months
+to get this right.
+16:49 So then we had an in, we had
+an intern start, and
+16:51 I think on his second day,
+16:52 I was explaining this problem
+and
+16:54 he, he said, well, I'll do it,
+and I was like looking at and
+16:56 I'm like there's no way.
+16:57 I've seen my office manager
+fail, my assistant fail,
+16:60 all who are actually pretty
+good.
+17:01 This just isn't going to
+happen, and then long and
+17:04 behold that night they show up
+on time, cold, delivered to
+17:07 the right place, and my first
+instinct was great not,
+17:10 not, nothing about the
+smoothies.
+17:12 But okay, now I can actually
+give you something more
+17:14 important and inconsequential
+and complicated to do, and
+17:17 that's what you actually want
+to do with every
+17:19 single employee every single
+day is expand the scope of
+17:21 their responsibilities until
+it breaks and it will break.
+17:24 Everybody like, I couldn't run
+the world, like everybody has
+17:27 like some level of complexity
+that they can handle, and
+17:30 what you want to do is keep
+expanding it until you see
+17:32 where it breaks and that's the
+role that they should stay in,
+17:35 that level of sophistication.
+17:37 But some people will surprise
+you,
+17:38 there will be people who you
+don't expect without,
+17:40 with different backgrounds,
+without a lot of experience
+17:43 that just can handle
+enormously complicated tasks,
+17:45 and so keep testing that and
+pushing the envelope.
+17:48 The other signal to look for
+17:49 is once you've hired someone
+is this,
+17:51 with an open office just watch
+who goes up to other people's
+17:54 desks, particularly people
+that they don't report to.
+17:57 If people start going to your
+desk,
+17:59 someone individual employee's
+desk and
+18:01 they don't report to them.
+18:01 It's a sign that they believe
+that,
+18:03 that person can help them.
+18:04 So if you see that
+consistently,
+18:05 those are your barrels.
+18:07 Just promote them,
+18:07 give them more opportunity as
+fast as you can.
+18:12 The other question everybody
+asks about people is,
+18:14 when do you hire somebody
+above somebody?
+18:16 And when do you sort of mentor
+somebody or
+18:18 when do you need to replace
+somebody?
+18:20 And the way, the way to think
+about this is
+18:22 every company has its own
+growth rate and
+18:23 every individual has its own
+growth rate.
+18:25 So some companies that are
+very successful,
+18:27 let's say LinkedIn.
+18:28 LinkedIn was always a very
+linear company,
+18:30 it never went like this.
+18:32 So for example I joined
+LinkedIn 18 months after we
+18:35 launched and we had only 1.5
+million users which in
+18:37 a social product is very small
+in number and
+18:40 when I joined I was the 27th
+employee.
+18:42 When I left two and
+18:43 a half years later we only had
+57 employees.
+18:46 In contrast when I joined
+Square as a 20th employee,
+18:49 two and a half years later, we
+had like 250,300 employees.
+18:54 So each company has it's own
+velocity on this curve, and
+18:56 if the company's going like
+this,
+18:58 you can only keep people in
+the roles that their own
+19:00 personal learning curve is
+going like this.
+19:03 On the other hand, if the
+company's growing like this,
+19:05 anybody whose learning curve
+is faster than that,
+19:07 you can keep giving them the
+same role to do.
+19:09 So always track like the
+individual slope of,
+19:11 of an employee, and the
+company's growth rate.
+19:15 Now you have your barrels
+identified, so
+19:19 you're pick out the people
+that can really take an idea
+19:21 that you have in the back of
+your head scope it out,
+19:23 run with it, make it happen,
+ship it,
+19:24 and it's perfect, where do you
+aim these barrels?
+19:28 So I'm going to argue that you
+really need to spend a lot of
+19:30 time focusing people.
+19:32 This is something I've learned
+from Peter Thiel, actually.
+19:35 He used to insist the PayPal,
+that every single person could
+19:38 only do exactly one thing and
+we all rebelled.
+19:41 Every single person in the
+company rebelled to this idea.
+19:43 Because it's so unnatural,
+it's so different than every
+19:45 other company where people
+want to do multiple things,
+19:47 and especially as you get more
+senior you want to definitely
+19:49 want to do multiple things,
+and you're, you're like,
+19:51 you feel like insulting to be
+asked to do just one thing,
+19:54 and Peter would enforce this
+pretty strictly.
+19:55 He'd basically say I will not
+talk to you about anything
+19:58 else except this one thing
+I've assigned to you.
+20:00 I don't want to hear about how
+great you're doing over here.
+20:02 Like just shut up, and peer
+would run away and
+20:06 then focus until you conquer
+this one problem, and
+20:09 the insight behind this is
+that most people will
+20:13 solve problems that they
+understand how to solve.
+20:16 Roughly speaking, they will
+solve B
+20:18 plus problems instead of A
+plus problems.
+20:20 A plus problems are high
+impact problems for
+20:21 your company, but they're
+difficult.
+20:23 You don't wake up in the
+morning with a solution, so
+20:25 you tend to procrastinate
+them.
+20:26 So imagine you wake up in the
+morning,
+20:28 you create a list of things to
+do today.
+20:30 There's usually the A plus 1
+at the top of the list but
+20:32 you never get around to it,
+and so
+20:33 you solve the second and
+third, and over
+20:36 an entire company of hundreds
+of people that just cascades.
+20:38 So you have a company that's
+always solving B plus things.
+20:40 Which does mean you grow and
+does mean you add value.
+20:42 But you never really create
+that breakthrough idea because
+20:45 no one is spending 100% of
+their time banging their head
+20:47 against the wall every day
+until they solve it.
+20:49 So I highly recommend some
+version of that.
+20:51 You can be less stringent.
+20:53 You can be like you can get.
+20:54 Three things to work on, but
+there, I would still track at
+20:57 least the concept of what
+would happen if you only gave
+21:00 everybody one thing to
+prioritize.
+21:05 Now, because you can't make
+decisions, you don't want be
+21:09 making all these decisions
+yourself, you have to
+21:11 create tools that enable
+people to make decisions.
+21:14 At the same level ideally of
+fidelity that you would make
+21:17 them yourself.
+21:18 So how do you create scale and
+leverage?
+21:20 First, thing I'd recommend is
+building a dashboard.
+21:23 This is an old square
+dashboard.
+21:24 It actually looks pretty
+presentable even today.
+21:28 The construct of a dashboard,
+first of all,
+21:30 should be drafted by a
+founder.
+21:32 You need to basically simplify
+the value proposition in
+21:35 the company's metrics for
+success on a whiteboard.
+21:39 You can have other people
+build the dashboard,
+21:40 I don't actually care about
+that, but
+21:42 you need to draw it out.
+21:43 Like what does business
+success look, look to us and
+21:45 what are the key inputs to
+those, and then
+21:48 have someone create something
+that is very intuitive for
+21:51 every single person in
+21:51 the company including customer
+support to use.
+21:54 And then,
+21:55 the key metric of whether
+you've succeeded is what
+21:58 fraction of your employees use
+that dashboard every day.
+22:01 If it's actually useful it
+should be close to 100%.
+22:04 It's not going to be probably
+100%,
+22:06 but you want to measure that.
+22:07 Just like you have quality
+scores for
+22:09 all your other KPIs with
+users,
+22:10 the dashboard needs to be as
+intuitive as it is
+22:13 as your product is for users.
+22:17 Other things, wait, hold on.
+22:20 Yeah, let's go back, one
+second.
+22:21 Another concept is
+transparency.
+22:23 And people will often.
+22:25 That's weird.
+22:27 Okay.
+22:28 Transparency, people talk a
+lot about.
+22:30 It's kind of a goal that
+everybody ascribes to, but
+22:33 when push comes to
+22:34 shove very few people actually
+adhere to it.
+22:36 So let me walk through a
+little bit of transparency and
+22:39 different stages of
+transparency.
+22:42 Metrics are the first step.
+22:43 So everybody in your company
+absolutely should have
+22:45 access to every single thing
+that's going on.
+22:48 Other things that I like to do
+are take your board decks, and
+22:51 as you get more formal, the
+board decks will get
+22:52 more complicated, and actually
+review every single slide with
+22:56 every single employee after
+the board meeting.
+22:58 You can strip out the
+compensation information if
+23:00 you really want to.
+23:01 But every other slide you
+should go
+23:03 through with the entire
+employee base and explain it.
+23:05 And if you can remember some
+of the feedback you
+23:07 got from your board that's
+really cool to pass on.
+23:09 Another thing we did at
+Square,
+23:11 as your company skills,
+23:12 everybody's not going to get
+invited to every meeting, but
+23:14 they want to go to every
+meeting.
+23:16 The way you scale that is you
+create notes for
+23:18 every meeting and you send it
+to the entire company.
+23:20 So we created a notes at alias
+for
+23:22 every single meeting involving
+more than two people,
+23:25 someone would write notes and
+send it to the entire company.
+23:27 So people felt like as the
+company added employees,
+23:30 they could continue to monitor
+and
+23:31 track what was interesting,
+what was going on,
+23:33 and they never felt excluded,
+hopefully.
+23:35 The other thing is
+23:36 like even the details around
+conference rooms.
+23:38 Every conference room at
+Square has glass walls,
+23:41 because as soon as you have
+regular walls,
+23:42 people wonder what's going on.
+23:44 It's amazing, like if they can
+see who's actually in
+23:46 the meeting, and who's meeting
+with who and when.
+23:49 They don't worry nearly as
+much as
+23:50 what's going on behind those
+closed doors.
+23:52 Stripe, you may have seen a
+blog post, but I
+23:54 think Patrick wrote it, about
+email transparency, about
+23:57 actually allowing everybody to
+have access to email.
+23:59 That's pretty far out there
+but
+24:00 it's actually got interesting,
+you know,
+24:02 certain merits to it.
+24:04 I would all call the tactics
+that you read about
+24:06 here about as sort of minimal
+viable transparency.
+24:08 I actually think you could
+push the envelope a lot more.
+24:10 Steve Jobs tried this at Next.
+24:12 He actually tried transparent
+compensation.
+24:14 I actually think, although
+Next didn't do extremely well,
+24:18 the real reason wasn't because
+of the experiment around
+24:21 compensation transparency and
+24:22 then there's a lot of error to
+that.
+24:24 The critique of compensation
+transparency is often well.
+24:27 We want people to be teammates
+and
+24:28 work together and collaborate.
+24:30 And if you look in the sports
+world, though,
+24:32 where people are actually
+teammates and
+24:34 they do have to collaborate,
+24:35 all of their compensation is
+completely public.
+24:37 In fact, each of us can look
+up anybody's compensation in
+24:40 the sports world and
+24:40 get it exactly accurate, and
+somehow it seems to work.
+24:43 So I'm not totally bought in
+24:44 to the idea that you need to
+keep transpar-,
+24:47 compensation non transparent.
+24:49 Then finally metrics.
+24:51 So you want to measure things.
+24:53 You want to measure outputs,
+not inputs.
+24:55 And again, you should dictate
+this yourself.
+24:57 You should draft the dashboard
+to tie this all together.
+24:60 One important concept are what
+are known as
+25:01 pairing metrics or pairing
+indicators,
+25:03 which is if you measure one
+thing and only one thing.
+25:05 The company tends to optimize
+to that, and often at
+25:08 the expense of something else
+that's important.
+25:10 A costly example in payments
+and
+25:11 financial service is around
+risk.
+25:13 It's really easy to give the
+risk team an objective and
+25:15 say, we want to lower our
+fraud rate.
+25:17 It sounds great.
+25:18 Until they start treating
+every single user in
+25:20 this audience as a suspect
+user because they
+25:22 want to lower their fog rate.
+25:24 So they require each of you to
+call them up on the phone and
+25:26 give them more supplemental
+information and
+25:28 fax in things and
+25:29 you have the lowest fraud rate
+in the world,
+25:30 you also have the worst, you
+know,
+25:31 sort of customer satisfaction
+score.
+25:33 So what you want to measure at
+the same time as
+25:35 your fraud rate is your false
+positive rate.
+25:37 That forces the team to
+actually innovate.
+25:39 Similarly, you
+25:40 can give recruiters metrics
+around hiring, and guess what?
+25:43 You'll have a lot of people
+come in through interviews,
+25:45 but if you're not tracking the
+quality of hires,
+25:47 you may be very unhappy with
+the quality of people you're
+25:49 interviewing or the people
+you're giving offers to.
+25:50 So, you always want to create
+the opposite as
+25:52 an indication and measure
+both, and the people that
+25:54 are responsible for that team,
+need to be measured for both.
+25:59 Finally around metrics, one
+insight I've had over my
+26:03 career is what you, you kind
+of want to look for
+26:07 the anomalies.
+26:08 You don't actually want to
+look for
+26:09 the expected behavior.
+26:10 So that a famous example was
+at PayPal.
+26:14 None of the top ten markets
+that
+26:16 the company was planning to go
+after included eBay.
+26:19 But one day, someone noticed
+that 54 Power Sellers had
+26:22 actually handwritten into
+their eBay listings,
+26:25 please pay me with PayPal, and
+brought this to
+26:28 the attention of the executive
+team at the time.
+26:31 The first reaction of the
+executive team was,
+26:32 what the hell's going on?
+26:33 Let's kick them out of the
+system.
+26:35 That's not our focus.
+26:37 Fortunately, I think David
+Sacks came back the next day
+26:39 said, I think we found our
+market.
+26:41 Let's actually build tools for
+these power sellers instead of
+26:44 forcing them to write into
+their listing,
+26:46 pay me with PayPal.
+26:47 Why don't we have an HTML
+button that they can
+26:48 just insert?
+26:49 Well that started to work.
+26:50 And then he said,
+26:51 well actually why do we make
+them insert it.
+26:53 Why should we make them insert
+it all the time?
+26:54 Why don't we just
+26:55 automatically insert it for
+them?
+26:56 So they could just insert it
+once and
+26:57 then every single listing they
+have forever.
+26:60 It'll just automagically
+appear there.
+27:02 So that became the success for
+PayPal.
+27:04 Similarly, I was at LinkedIn,
+27:05 and I saw this stat that made
+no sense to me.
+27:07 The UI for the site was a
+little bit different back
+27:10 then, but 25% of all clicks,
+maybe 30% of all clicks
+27:13 from the home page were people
+going to their own profile.
+27:16 And that made no sense
+whatsoever.
+27:18 I mean like, the set, it was a
+settings,
+27:20 like you had to literally go
+to the right margin.
+27:22 Final a link and it was 25 to
+30% of every single click at
+27:26 scale I mean so this is like
+statistically novel stuff.
+27:28 And it made no sense
+whatsoever,
+27:30 never seen like the UI perform
+that way.
+27:32 And, I kind of went around for
+weeks trying to
+27:35 figure this out and then
+someone very smart.
+27:37 Actually, it's Max Letchin
+said something to me and
+27:40 I was like, he's like it's
+vanity.
+27:42 And I'm like ha people
+27:44 are looking at themselves in
+the mirror.
+27:47 That's pretty good answer.
+27:48 So cause they weren't editing
+their profile.
+27:50 Nobody has like something to
+edit everyday in
+27:51 their profile.
+27:52 But they actually were just
+looking in themselves in
+27:54 the mirror everyday because it
+made them feel good.
+27:55 And then you can actually test
+that hypothesis and
+27:57 say, well, if I had more
+content.
+27:58 Do I look at myself in the
+mirror more often?
+27:60 Turns out you did.
+28:00 If you had more endorsements,
+28:01 did you look at yourself in
+the mirror more often?
+28:03 Turns out you did.
+28:04 So, we actually figured out
+like
+28:05 what was actually underneath
+utilitarian product that
+28:08 the product team thought they
+were
+28:09 building was actually a lot of
+emotional vanity.
+28:11 They didn't exactly translate
+it to the best possible
+28:14 feature, like the PayPal
+example,
+28:16 which you couldn't easily put
+a button that,
+28:17 said be more vain today, you
+know, on the homepage.
+28:19 &gt;&gt; That would probably not
+work perfectly, so it
+28:21 never really like took off the
+way the PayPal example did.
+28:24 But it clarified what the user
+what users of
+28:26 the product really wanted and
+28:28 we wouldn't have found that
+without looking for
+28:30 anomalous data.
+28:30 The final topic I want to talk
+about is details.
+28:34 And there's, in my assigned
+reading,
+28:37 there's a great book I really
+like by BIll Walsh called,
+28:39 The Score Takes Care of
+Itself.
+28:42 And the basic point of the
+book is that if
+28:45 you get all the details right,
+you don't worry about how to
+28:48 build a billion dollar
+business,
+28:50 how to have $100 million of
+revenue,
+28:51 how to have a billion users.
+28:54 That's a byproduct of getting
+all the details of what you
+28:56 do everyday to be excellent.
+28:58 So the example he talks about
+in the book that really
+28:60 resonated with me was he took
+over the 49ers in 1979.
+29:04 They were the worst team in
+football.
+29:05 I believe they were 2 and 14
+the year before,
+29:07 which is really bad for this,
+if you don't know football.
+29:09 In the next ten years, he
+managed to transform the team
+29:12 into the NFL's best, won three
+Super Bowls.
+29:15 And what's the first thing he
+did to start going from
+29:19 a terrible team to the best
+team ever in many ways?
+29:23 He actually taught the
+receptionists how to
+29:24 answer the phone properly.
+29:26 He wrote a three-page memo
+about how to
+29:27 actually answer the phone.
+29:28 Now, that may sound absurd.
+29:31 But his point was, if the
+organization as a whole
+29:34 does everything exactly the
+right way, then receivers, for
+29:37 example, will start running
+their routes at
+29:39 seven-and-a-half yards, not
+seven yards, not eight yards.
+29:42 And that actually will matter.
+29:43 And then everybody on the team
+executes exactly up to
+29:46 the same standard of
+performance.
+29:47 You will have an organization
+that is performing at
+29:50 the highest possible level,
+and
+29:51 then with enough random
+variation, the highest
+29:53 possible performance team will
+do the best.
+29:56 So the way you translate this
+to a company are to
+29:58 a lotta details that may not
+matter.
+30:00 They may not seem that they
+matter superficially.
+30:02 Most people would agree about
+the details matter when it
+30:05 faces the user.
+30:07 But where the real debate is
+on
+30:08 things that don't face the
+user.
+30:09 So Steve Jobs famously in the
+Mac,
+30:11 insisted on an immaculate
+circuit design board.
+30:13 You can read about this in
+various books.
+30:15 The Mac, for those of you who
+don't remember the Mac,
+30:17 probably everybody here but
+30:18 some of you may have seen it,
+actually couldn't be opened.
+30:21 So the circuit board design
+couldn't be
+30:22 seen by any single person in
+the world.
+30:24 There was no way to open the
+Mac except the people who
+30:26 worked at Apple, and Steve
+insisted that it be
+30:28 absolutely perfect and
+beautiful.
+30:30 That's the kind of detail
+obsession that this sort of
+30:33 philosophy of building a
+company requires.
+30:35 Examples that maybe more
+practical for you instead of
+30:38 circuit boards are things like
+what food do you serve people.
+30:42 This actually matters more
+than you might guess.
+30:44 When people don't like the
+food you serve them,
+30:46 what do they do.
+30:47 They go gossip.
+30:48 They go complain to their
+friends.
+30:49 They go walk over to someone's
+desk.
+30:51 And all the sudden at lunch,
+30:52 what they're complaining about
+is, it,
+30:54 their mostly spending time
+gossiping and
+30:55 complaining instead of
+brainstorming.
+30:57 So you don't have this
+serendipitous idea.
+31:00 Not saying other serendipitous
+idea that creates a spark,
+31:03 instead they're all wandering
+and wallowing around.
+31:05 So the best thing you could do
+is actually give
+31:06 people the food they want or
+food that's good for them.
+31:08 That makes them more
+productive.
+31:10 So it may seem a lot like this
+glorious job
+31:12 that you thought you had is
+actually more like
+31:14 running around being a task
+rabbit for people.
+31:16 But it's to
+31:17 take the things off the plate
+that are a distraction.
+31:20 So that they can be
+high-performance machines.
+31:23 And if you take enough things
+away from people that distract
+31:25 them and give them the tools
+to be successful, all of
+31:27 a sudden your organization
+produces a lot more.
+31:30 Similarly, another example
+that's often got wrong is
+31:32 office space.
+31:34 So, one natural instinct is
+when you need an office is to
+31:37 have an office manager or
+31:38 someone on your team go out
+and find offices.
+31:40 And they'll go on tours with
+agents and
+31:41 they'll come back with photos
+and ideas.
+31:44 You need to do that yourself.
+31:45 The office environment that
+people live in and
+31:47 work in everyday dictates your
+culture and
+31:50 how people make decisions, it
+dictates how hard people work.
+31:53 There's almost no important
+more decision other than
+31:55 what company you're going to
+be, than what's the office
+31:57 environment you're actually
+in,
+31:59 and most people don't do that.
+31:60 And then the final thing and
+32:01 then I'll take some questions
+is around effort.
+32:06 Ultimately, I don't believe
+that you
+32:07 can build a company without a
+lot of effort and
+32:09 that you'd need to lead by
+example.
+32:11 So Bill Wallace,
+32:11 the first chapter of his books
+is, get's asked this question
+32:15 of how did you know whether
+you're doing your job?
+32:17 And this is the answer he
+gives coaches that used to ask
+32:19 him that question So if this
+is what you
+32:26 feel like every day, you're
+probably on the right track.
+32:28 And if that doesn't sound
+appetizing,
+32:29 you probably shouldn't start a
+company, truthfully.
+32:31 All right, with that I'm doing
+with the prepared part.
+32:34 Let me see if anybody has
+questions I
+32:35 can try to be helpful with.
+32:38 Any questions?
+32:39 Yes?
+32:40 &gt;&gt; So you talked about making
+compensation transparent.
+32:43 How would you do this,
+especially when people equate
+32:47 themselves to value, you know,
+of how much their salary is?
+32:51 &gt;&gt; I would, I would do it in,
+probably, bands.
+32:53 because you could do it,
+32:54 either just everybody in the
+company gets paid the same, or
+32:56 you could have, like, all
+discipline, all engineers, or
+32:58 you could do it by experience
+like extreme exp.
+33:01 The way Steve did it actually
+at Next was,
+33:03 there was a high band and a
+low band.
+33:04 And you either had a lot of
+experience or
+33:06 low experience, and that was
+it, so low band back then, you
+33:09 know, now it would probably be
+like $85,000 kind of everybody
+33:12 just flatly gets paid $85,000,
+and if your super experienced
+33:15 everybody gets paid like
+$130,000, and that's just it
+33:18 like this sort of the Next
+translated for inflation.
+33:22 &gt;&gt; Instead of what's the how
+many details
+33:27 &gt;&gt; You'd be amazed.
+33:29 &gt;&gt; Well, yeah, so the question
+was besides food what
+33:31 other kind of details do
+people care about?
+33:34 The laptops they use.
+33:35 I mean, this is now the
+default that everybody has.
+33:38 But five years ago,
+33:39 it was a benefit to give
+people high-quality machines
+33:43 as opposed to optimizing our
+costs and
+33:45 having Dell machines and ugly
+monitors, just as an example.
+33:48 So if you think about all
+these people that
+33:49 are relentlessly resourceful,
+incredibly talented in
+33:51 a massively competitive
+ecosystem competing for
+33:54 talent, you want to give the
+people the best
+33:56 possible tools to do the best
+possible job.
+33:58 And so, right rigorously
+thinking through how do I
+34:01 make people more successful?
+34:03 What things do they not need
+to be
+34:04 working on that are
+distracting?
+34:06 And what things can I
+34:07 actually given them that make
+them more valuable per day?
+34:10 And then just break that down
+every day and
+34:11 solve that stuff yourself.
+34:13 &gt;&gt; So, when you're in a
+start-up environment,
+34:16 how you you optimize for those
+things?
+34:17 because, you know, resources
+are scarce and.
+34:19 &gt;&gt; It's a good, it's a good
+question.
+34:20 I actually think that you
+should start,
+34:22 first of all, you must have
+your own office.
+34:24 I don't believe ever in shared
+office spaces.
+34:26 Peter talks a little bit about
+this,
+34:27 that every start-up, every
+good start-up is a cult.
+34:29 It's really hard to
+34:30 create a cult if you're
+sharing space with people.
+34:32 Because a cult means that you
+34:33 think that you're better than
+everybody else in the world,
+34:35 that you have a special way of
+doing
+34:36 things that's different than
+everybody else in the world.
+34:38 And if you're sharing physical
+space with people,
+34:39 it's very hard to inculcate
+that.
+34:41 So, I would start there, but
+34:43 it is a prioritization
+question.
+34:44 When you have, everybody is
+34:45 going to have scarce
+resources, just a question of
+34:47 magnitude like how many zeros
+are you paying attention to?
+34:50 You know, probably not $10.
+34:52 Expenditures, put $100, then
+$1,000,
+34:54 then 10,000, then a million,
+and then 10 million.
+34:56 Starts being a rounding error.
+34:58 So, what I would do is figure
+out like,
+34:60 what's most important?
+35:01 And in a high quality office,
+that creates a good vibe.
+35:03 That allows you to recruit
+people,
+35:05 because recruits are very
+savvy about this.
+35:06 They walk into your office,
+and
+35:07 they can tell a lot about the
+culture instantly.
+35:10 I sometimes, I walk into a
+company office and I can tell,
+35:13 often, whether I'm going to
+invest, as soon as I walk in.
+35:15 Like, I can absolutely rule
+things out that I
+35:17 just don't want to invest in
+as soon as I walk in.
+35:19 And there's times walking into
+the office is like,
+35:21 wow, this is very impressive.
+35:23 You can tell how people worked
+together,
+35:24 how hard they're working, how
+distracted they are.
+35:27 Roelof Botha at Sequoia made a
+point to me about YouTube.
+35:30 So, when I invested in
+YouTube,
+35:31 in the very, very beginning,
+35:33 it wasn't obviously going to
+be successful.
+35:35 And then, Roelof led this
+series A investment for
+35:39 Sequoia in YouTube.
+35:41 And we were at a board meeting
+together and he said,
+35:43 you know, I think YouTube's
+really going to work.
+35:44 And I said, why?
+35:45 And he said well,
+35:46 every time I go to one of my
+portfolio companies,
+35:48 half the office is watching
+YouTube at lunch.
+35:50 &gt;&gt; And I was like, pretty good
+sign.
+35:52 So like, if you pick up on
+these little things you
+35:54 can predict a lot.
+35:57 Yeah?
+35:58 &gt;&gt; What do you think is the
+best way to gain street cred
+36:01 for a new manager?
+36:02 &gt;&gt; Oh boy yeah so the question
+is how's the best way to
+36:06 grain, gain street cred for a
+new manager?
+36:09 Almost all good managers in
+Silicon Valley are promoted
+36:12 because of their individual
+performance in cultures that
+36:15 are meritocratic, you know,
+the percentage is even higher.
+36:18 So we tried at PayPal to only
+promote people that
+36:21 were basically kicking **** at
+their discipline.
+36:23 So Peter didn't believe in
+general managers.
+36:27 In fact, I remember going for
+36:28 a jog around campus within my
+first week at PayPal and
+36:30 he's asking me, you know,
+36:31 how are things going, the
+usual kind of CEO questions.
+36:34 And then we got into this
+36:34 debate about whether the
+company needed any managers.
+36:36 And he's like, nope.
+36:37 No managers.
+36:38 We're only going to promote
+people.
+36:39 So the VP of Engineering is
+36:41 going to be the single best
+engineer.
+36:42 The VP of Design's going to be
+the single best designer.
+36:44 The VP of Product's going to
+be the single best product
+36:46 person and they're going to
+learn to manage later.
+36:48 And the advantage of that is
+you don't demoralize people,
+36:52 because everybody knows that
+their boss actually is
+36:54 better at their job than they
+are, and they can learn stuff.
+36:57 And you can learn a little bit
+of the management techniques
+36:59 later as opposed to promoting
+people who
+37:02 are just good people managers
+that don't actually have
+37:05 the discipline and skill, and
+that does demoralize people.
+37:07 So I think, just being
+excellent at something, and
+37:10 then getting excellent at
+getting a bunch of people to
+37:13 do something is the next task.
+37:14 But people, you just have to
+learn,
+37:17 some things you have to learn
+by doing.
+37:18 You can't learn to play the
+guitar by reading a book.
+37:20 You've actually gotta try to
+manage a bit, and
+37:22 you won't do it well.
+37:23 I had another sort of set of
+tactics and
+37:25 classes on what you actually
+do when you transition from
+37:28 an individual contributor to a
+manager.
+37:31 It's hard.
+37:32 One of the first things people
+don't get right is their time
+37:34 allocation.
+37:35 And so actually, I would
+recommend doing what I
+37:38 call calendar audit and
+tracking for a month what you
+37:41 spend your time on and how
+much is managing and
+37:43 editing, and how much is
+writing, et cetera, and
+37:46 then optimize it over time.
+37:47 You can get a mentor, find
+somebody who's been a manager
+37:49 before that will work with
+you, not your boss.
+37:53 Because your boss has a set
+complicated objectives,
+37:56 including how much are we
+shipping?
+37:58 A mentor can just focus on
+you, and
+37:60 making you more successful.
+38:03 &gt;&gt; Can you give some more
+examples of things you can
+38:05 do which show a consistent
+voice of the company,
+38:07 especially with the company
+growing?
+38:09 &gt;&gt; Yeah.
+38:10 so, I would look at every
+piece of
+38:13 copy in every department.
+38:15 So like another area that
+almost never is a done.
+38:18 So look at your recruiting
+website.
+38:19 Almost never done to
+38:19 the same quality as your
+conversion funnel.
+38:22 I look at customer support,
+38:23 another classic area that
+isn't up to the same quality,
+38:26 and treat customer support
+like a product.
+38:29 So that you actually have an
+engineering team and
+38:30 a design team over time,
+38:32 that actually focuses on
+making that world-class.
+38:34 Usually, where you have
+different executives at
+38:37 a scaled company, most
+executives were
+38:39 trained differently at
+different companies, and
+38:40 they bring some of that with
+them.
+38:41 So you've got to cross train
+that.
+38:43 So, if you've hired a VP of
+Engineering from Google.
+38:45 It's very different than a
+design leader who
+38:46 came from Apple,
+38:47 they don't actually learn how
+to do anything the same way.
+38:50 So you're going to have to
+stitch that together somehow,
+38:53 either one or the other is
+going to have to learn in
+38:54 the other style or you're
+going to have to create your
+38:55 own style and really teach
+that to your executives.
+38:58 So it shows up all the time
+but
+38:60 all you do, all you need to do
+is just pick up the company's
+39:02 products and look for things
+that have a different voice.
+39:05 And you can see it.
+39:06 Visual voice, word choice,
+all, all over the map.
+39:10 Sam?
+39:11 &gt;&gt; Could you talk a little bit
+about the tactics of how
+39:14 you manage people?
+39:15 Like how you
+&gt;&gt; So the canonical advice
+39:20 in this now sounds obvious but
+actually was
+39:22 pretty radical in 1982 when
+Andy wrote his first book is
+39:24 you should have a one on one
+roughly every two weeks.
+39:28 Some people say every week,
+39:29 and I don't think you want to
+go longer than two weeks,
+39:32 one week can be ideal actually
+in many companies.
+39:34 The reason why in fact there's
+ano, another adage which is,
+39:37 you should only have five to
+seven direct reports.
+39:39 That actually derives from the
+concept of a one on one
+39:42 every week.
+39:43 So that the direct reports, so
+you can fit enough one on ones
+39:46 in your calendar and still get
+other things done.
+39:48 So I think one on one's per
+week are a good idea.
+39:51 The agenda should be crafted
+by the employee who reports to
+39:54 the manager, not the manager.
+39:56 The one on one is mostly for
+39:58 the benefit of the employee,
+so they should walk in with,
+40:01 here's the three or four
+things I want to talk about.
+40:03 Ideally, they circulate that.
+40:04 It can be even bullet points
+in advance by email.
+40:06 But, in advance you have time
+to chew on it and
+40:08 you're not on the fly, winging
+your responses.
+40:11 But that's probably the best
+structure.
+40:13 Now if someone's really good
+and really talented and
+40:15 has been doing something for
+40:16 a long time with a lot of
+internal credibility,
+40:18 you might push out the one
+every week, and
+40:20 relax that to one every two
+weeks, possibly once a month.
+40:22 I don't know that I would go
+beyond once a month ever.
+40:25 &gt;&gt; When is it acceptable to
+compromise and
+40:27 hire someone who is ammunition
+rather than a barrel?
+40:31 &gt;&gt; Yeah, so the question is
+when,
+40:33 when do you compromise and
+40:34 hire more ammunition instead
+of a barrel?
+40:36 Truthfully, you're going to
+hire more ammunitions by
+40:38 definition than you are
+barrels.
+40:40 So there's a ratio between the
+two.
+40:42 The question is the ratio.
+40:44 So at some point the ratio is
+going to get out of wack.
+40:46 So if you're the only barrel
+in the company and
+40:47 you have 50 engineers, you
+might as well only have ten
+40:50 engineers because you're not
+going to get anymore done.
+40:52 So you're just wasting
+resources.
+40:53 You're going to have
+frustrated engineers,
+40:54 because everybody's going to
+need your approval,
+40:56 your sign off, your editing.
+40:57 It's just going to stack and
+frustrate people.
+40:60 So, it's really, now different
+disciplines, engineering,
+41:03 like I actually think like
+roughly one to ten to 20 is
+41:08 probably about the right
+range.
+41:10 Like you don't need more
+engineers until you
+41:13 have more barrels.
+41:15 Designers a little different,
+41:16 but it's always going to be
+hiring more ammunitions.
+41:20 And a good leader,
+41:21 a good barrel will kind of
+have a feel for that.
+41:23 So one way to, one way to
+correct for this.
+41:26 Natural tendency is to
+increase that your headcount
+41:28 on your team, like sort of an
+empire building tendency.
+41:30 Like, oh so I manage 20
+people, and
+41:32 Sam only manages ten, and you
+manage three.
+41:34 So, I'm more important than
+Sam and
+41:35 you're more important than
+you.
+41:36 One way to do that is you put
+an X here of
+41:38 the number of people that the,
+the output, sorry, specify how
+41:41 many things they've done
+successfully then divide by
+41:43 the number of people on their
+team, and tell them that this
+41:46 is going to be their grade in
+their performance review.
+41:48 Shockingly this y doesn't
+start increasing on that team.
+41:51 It's amazing how this works.
+41:53 And be really explicit about
+it.
+41:56 &gt;&gt; As, venture capitalist,
+41:58 how often you intervene this
+and, what's.
+42:02 &gt;&gt; So how often do I meet
+with?
+42:04 &gt;&gt; Yeah.
+How you.
+42:05 [CROSS-TALK].
+&gt;&gt; So the question is,
+42:06 as a venture capitalist,
+42:07 how often do I interact with
+my companies, meet with them.
+42:10 Generally when we invest and
+we do,
+42:13 do some seed investments where
+we invest less money but
+42:16 when we invest a fair amount
+of money and
+42:18 lead a round like a series a a
+series b round
+42:20 we join the board, and roughly
+I meet with
+42:23 the founder CEO every two
+weeks, that's the default.
+42:27 Now there can be obviously
+there's inflection moments and
+42:29 things go right well or wrong.
+42:31 And, you know, that's on an
+ad-hoc basis.
+42:34 These days, actually,
+42:35 surprisingly, I do a lot by
+text message.
+42:37 I even have one CEO who
+Snapchats me all the time.
+42:41 Which I'd actually rather not,
+but, That, so.
+42:44 The world, the world has
+changed a lot.
+42:47 But I try in-person meetings
+every two weeks.
+42:49 &gt;&gt; Are you the no.
+42:51 I mean, really it's,
+42:53 like, being a venture
+capitalist is more,
+42:54 to me, like being a
+psychologist.
+42:56 So if you come to
+42:57 my office you'll see actually
+we have two chairs,
+42:59 kind of arrayed like this with
+a little table in the middle.
+43:01 And we sit down.
+43:02 And I'm basically, like, so
+tell me your problems.
+43:04 You know?
+[LAUGHTER] Then,
+43:05 it's like a question.
+43:06 It's like, so have you.
+43:07 And then the, and then my
+response is usually,
+43:08 well have you thought about
+this?
+43:09 Have you talked to this
+person?
+43:10 Have you tried this?
+43:11 Et cetera.
+And it's just asking a lot of
+43:12 questions and going back that
+way.
+43:14 But that's 90% of what I do.
+43:18 So I see when you, when you've
+got these barrels,
+43:20 you say your starter company
+is up doing really good,
+43:23 you know, and you're working
+on this project.
+43:25 I've heard that you should
+always be recruiting.
+43:28 &gt;&gt; Yes.
+&gt;&gt; How do you,
+43:30 how do you balance that.
+43:32 Well it depends on where your
+prioritizations are.
+43:34 So you know, Sam talked a
+little bit
+43:36 about this in his lecture,
+43:37 but every company will move
+recruiting you know, first,
+43:40 second, or third somewhere in
+that sort of spectrum.
+43:43 If it's your number one
+priority then about 25% is
+43:46 probably a pretty good
+allocation.
+43:48 Actually I like the calendar
+audit for
+43:49 CEO's even more, so than for
+new managers.
+43:52 So when I work with CEO's
+sometimes who aren't.
+43:55 Thriving in that role for the
+first time.
+43:57 Actually forced them to show
+me their calendar.
+43:60 And before I do that, and now
+I'm going to ruin this trick
+44:02 because if I tell it to you,
+actually asked them to
+44:04 write their priorities, write
+them down on a piece of paper.
+44:06 And, you know, discuss
+whatever they are.
+44:08 Then we go pull up their
+calendar, and
+44:10 see if it matches.
+44:10 And it never matches.
+44:12 They, never.
+44:12 They, recruiting is the one
+that's most often.
+44:15 Awry so you know, let's say
+half the CEO's you meet with
+44:17 will say recruiting's the
+number one priority.
+44:19 It's almost never the biggest
+block of
+44:21 time on anybody's calendar,
+and so
+44:23 that's what you're trying to
+do is match resources and
+44:25 inputs against priorities, and
+a calendar audit unfortunately
+44:28 there's no software that does
+this really well.
+44:30 It would be great.
+44:31 Like actually the,
+44:31 we literally pull up someone's
+Google calendar and
+44:34 kind of manually add up the
+hours.
+44:35 Which in, somewhat insane.
+44:37 But that's, that's the best
+way is just,
+44:38 well what are your priorities.
+44:39 If your priorities are raising
+money, you
+44:41 don't want to allocate 100% of
+your time for recruiting.
+44:43 You want to allocate a fair
+amount of time to raising
+44:45 money for that block of time
+until you're successful at it.
+44:48 &gt;&gt; One more question.
+44:51 &gt;&gt; One more question anybody,
+okay, go ahead.
+44:53 &gt;&gt; On the surface some of the
+advice students contradictory
+44:56 because you emphasized
+focusing on a plus pass, and
+44:60 delegating less important
+things, but then you said it's
+45:03 good to write like few page
+script for your receptors.
+45:05 Focus on all the details.
+45:07 How do you harmonize those
+goals?
+45:09 &gt;&gt; It's a good question.
+45:10 I think the way to harmonize.
+45:11 The question is really, how do
+you harmonize things like,
+45:13 where details can really
+matter but
+45:14 you only get one thing, you
+know, to do and
+45:16 you've gotta allocate to the
+top one, two, or three things.
+45:20 How do you, how do you put
+those two things together?
+45:22 And actually there is some
+tension in, even in a healthy
+45:24 organization, there's some
+tension of like why are we
+45:27 actually focused on, you know,
+writing the script.
+45:29 As opposed to something a user
+may see.
+45:32 I think the underlying
+philosophy of
+45:34 getting the details right is
+pretty important to
+45:36 install in the very, very,
+very beginning of
+45:38 a company because people will
+start acting that way and
+45:41 making decisions that way
+themselves.
+45:43 So, you won't have to actually
+literally do that.
+45:45 And if you have to do that, it
+actually shows you
+45:47 that the foundation isn't
+actually that, that solid.
+45:50 So eh, when you first start
+the company.
+45:52 It's about getting the details
+right,
+45:54 that everybody is precise,
+45:55 everybody on every task is
+always thinking that way.
+45:58 And then that scales, and
+45:60 then the people you bring in,
+it's a little self-fulfilling,
+46:02 people who can think that way
+will tend to get hired,
+46:04 people who can't won't get
+hired.
+46:05 Each team, and
+46:06 each leader, will tend to
+enforce that themselves,
+46:08 to see whose almost never
+doing it.
+46:10 So, it's partially, like,
+46:11 how do you start, and at
+cultures like that,
+46:13 I mean, the, key to culture is
+it's a rule.
+46:15 It's a frame work for making
+decisions.
+46:17 And if you have a cultured
+people learn how to
+46:19 make decisions across that
+culture and
+46:21 you're never day anything,
+except just yeah watch.
+46:26 And you know and promote and
+move people around.
+46:28 Cool, well I guess that's it,
+thank you.

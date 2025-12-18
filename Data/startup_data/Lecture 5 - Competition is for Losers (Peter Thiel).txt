@@ -1,0 +1,2076 @@
+00:04 Good afternoon.
+00:06 Today's speaker is Peter
+Thiel.
+00:08 Peter, was the founder of
+PayPal, and
+00:11 Palantir, and Founders Fund,
+and has invested in most of
+00:14 the tech companies in
+Silicon Valley.
+00:17 And he's going to talk about
+strategy and competition.
+00:19 Thank you for coming, Peter.
+&gt;&gt; Awesome.
+00:20 Thanks, Sam.
+00:22 Thanks for inviting me.
+00:23 Thanks for having me.
+00:25 I sorta, I have a single a
+day
+00:29 fixed that I'm completely
+obsessed with in.
+00:33 On the business side which
+is that, if you're starting
+00:36 a company, if you're the
+founder,
+00:38 entrepreneur starting a
+company,
+00:40 you always want to aim for
+00:41 monopoly, and that you want
+to always avoid competition.
+00:48 Hence, competition is for
+losers.
+00:50 Something we'll be talking
+about today.
+00:54 I'd like to start by saying
+something
+00:58 about the basic idea of when
+you start one
+01:03 of these companies how you
+go about, creating value?
+01:07 And this question, what
+makes a business valuable?
+01:10 And I wanna, suggest that
+there's basically,
+01:12 a very simple very simple
+formula that
+01:17 you, have a valuable company
+two things are true.
+01:20 Number one, that it creates
+X dollars of value for
+01:24 the world.
+01:25 And number two, that you
+capture Y% of X.
+01:29 And the critical thing that
+I think people always miss
+01:34 in the sort of analysis is
+that X and y are completely
+01:38 independent variables, and
+so X can be very big.
+01:43 Y can be very small.
+01:45 X can be of intermediate
+size.
+01:47 And if Y is, is reasonably
+big you can still get
+01:49 a very big business.
+01:51 So, to create a valuable
+company you have to
+01:53 basically, both create
+something of value and
+01:56 capture some fraction of
+01:57 the value of what you've
+created.
+02:00 And sort of,
+02:01 just to illustrate this is a
+contrast.
+02:06 If you sorta, compare the US
+airline industry with
+02:11 a company like Google on
+search.
+02:13 If you sorta, measure by
+02:16 the size of these industries
+you could, you could say
+02:19 that airlines are still more
+important than search.
+02:22 If you just measure it say
+by revenues.
+02:24 There's 195 billion.
+02:26 In domestic revenues in
+2012.
+02:28 Google had just north of 50
+billion.
+02:30 And certainly, sort of on
+some intuitive level,
+02:36 if you said, if you were
+given a choice and
+02:39 said well do you want to get
+rid of all air travel.
+02:41 Or do you want to get rid of
+your ability to
+02:43 use search engines?
+02:44 The intuition would be that
+air travel is
+02:46 something that's more
+important than search.
+02:47 And this is, of course, just
+the domestic numbers.
+02:49 If you had looked at this
+globally, airlines are much,
+02:52 much bigger than search, or
+Google, is But
+02:58 the profit margins are quite
+a bit less.
+03:01 You know,
+03:01 they were marginally
+profitable in 2012.
+03:04 Think entire hundred year
+history of
+03:06 the airline industry.
+03:07 The cumulative profits in
+the U.S.
+03:08 have been approximately
+zero.
+03:10 The companies make money.
+03:11 They episodically go
+bankrupt.
+03:13 They get re-capitalized and
+03:14 you sort of cycle and
+repeat.
+03:16 And this is reflected in you
+know the combined market
+03:19 capitalization of the
+airline industries maybe
+03:23 something of the U.S.
+airline industry.
+03:25 Something like a quarter
+that of Google.
+03:28 So, you have a search engine
+much,
+03:31 much smaller than air travel
+but much more valuable and
+03:35 I think this reflects these
+very different valuations on
+03:39 X and Y.
+03:40 So, you know, if we look at
+perfect competition.
+03:46 You know there are, sort of,
+there's some pros and
+03:50 cons to the world of perfect
+competition.
+03:52 On a high level it's always,
+03:56 this is what you study in
+Econ One.
+03:58 It's always, it's easy to
+model, which I think is why
+04:00 Econ professors like talking
+about perfect competition.
+04:03 It somehow is efficient,
+especially,
+04:05 in a world where things are
+static because you have all
+04:07 the consumer surplus gets
+captured by everybody.
+04:10 And politically, it's what
+we're told is good in
+04:14 our society, that you want
+to have competition and
+04:16 this is somehow a good
+thing.
+04:18 Of course, there are a lot
+of negatives.
+04:20 It's generally not that good
+if you're.
+04:22 You're involvement in
+anything that's
+04:24 hyper-competitive because
+you often don't
+04:26 make money off, come back to
+this a little bit later.
+04:29 So, I think at one end of
+the spectrum you have
+04:32 industries that are
+perfectly competitive.
+04:34 And at the other end of the
+spectrum you have
+04:37 things that, I would say,
+are monopolies.
+04:40 And they're much stable,
+longer term businesses,
+04:45 you have more capital.
+04:47 And if you get a creative
+monopoly for
+04:50 inventing something new, I
+think it's symptomatic of
+04:53 having created something
+really valuable.
+04:56 And so I do think this, the
+extreme binary view of
+05:01 the world I always
+articulate is that
+05:03 there are exactly two kinds
+of businesses in this world.
+05:06 There are businesses that
+are perfectly competitive
+05:08 and there are businesses
+that are monopolies.
+05:10 And, there's shockingly
+little that is in between.
+05:14 And this dichotomy is not
+understood very
+05:17 well because people are
+constantly lying
+05:22 about the nature of the
+businesses they're in.
+05:24 And this is why,
+05:25 this is in my mind, this is
+the most important.
+05:27 It's not necessarily the
+most important thing in
+05:28 business, but I think it's
+the most
+05:29 important business idea that
+people don't understand.
+05:32 That there are just these
+two kinds of businesses.
+05:35 And so let me
+05:35 say a little bit about the
+lies that people tell.
+05:37 And so you basically, the
+basic, if you sort of
+05:42 imagine that there was a
+spectrum of companies from
+05:46 perfect competition to
+monopoly.
+05:48 The apparent differences are
+quite small.
+05:52 Because the people who have
+monopolies pretend not to.
+05:56 They will basically say, and
+it's because you
+05:58 don't want to get regulated
+by the government, you
+06:00 don't want the government to
+come after you.
+06:01 So you will never say that
+you have a monopoly.
+06:04 So, anyone who has a
+monopoly will pretend that
+06:06 they're in incredible
+competition.
+06:09 And on the other end of the
+spectrum, if you
+06:11 are incredibly competitive,
+and if you're in some sort
+06:14 of business will you will
+never make any money.
+06:17 You will be tempted to tell
+a lie that goes in
+06:20 the other direction.
+06:21 Where you will say that
+you're doing something
+06:23 unique that is somehow less
+competitive than it looks.
+06:29 Because you will want to
+differentiate, you
+06:32 will want to track capital
+or something like that.
+06:35 So, if the monopolists
+pretend not to have
+06:38 a monopolies the
+non-monopolists pretend to
+06:40 have monopolies.
+06:41 The apparent difference is
+very small.
+06:43 Where as the real difference
+I would submit is
+06:46 actually quite big.
+06:47 And so there's this
+distortion that happens
+06:49 because of the lies people
+tell about their businesses.
+06:53 And the lies are sort of in
+these opposite directions.
+06:56 Let me, drill a little bit
+down further on the way
+06:59 these lies work.
+07:00 And so
+07:04 the basic lie you tell as
+07:09 a non-monopoly is that we're
+in a very small market.
+07:13 The basic lie you tell as a
+monopoly is
+07:15 that the market you're in is
+much bigger than it looks.
+07:19 And so typically,
+07:21 if you want to think this in
+sort of set theoretic terms.
+07:23 You could say that a
+monopoly tells a why,
+07:28 where you describe your
+business as the union of
+07:31 these vastly different
+markets, and
+07:33 the non-monopolies describes
+it as the intersection.
+07:36 So, that in effect, if
+you're non-monopolist, you
+07:42 will rhetorically describe
+your market as super small.
+07:46 You're the only person in
+that market.
+07:48 If you have monopoly, you'll
+describe it as super big,
+07:52 and there's lots of
+competition in it.
+07:55 So some examples of how this
+works in practice.
+07:59 So I always use restaurants
+as the example of
+08:01 a terrible business.
+08:02 And there's always, sort of,
+ideas that,
+08:04 you know, capitalism and
+competition are antonyms.
+08:06 Capital, someone who
+accumulates capital.
+08:09 World of perfect competition
+is
+08:10 a world where all the
+capital gets competed away.
+08:13 So, you're opening a
+restaurant business.
+08:15 No one wants to invest
+because you just lose money.
+08:18 So you have to tell some
+idiosyncratic narrative.
+08:20 And you will say something
+like, well,
+08:22 we're the only British food
+restaurant in Paolo Alto.
+08:25 So, it's British, Paolo
+Alto.
+08:27 And of course,
+08:28 that's too small a market
+because people may be able
+08:31 to drive all the way to
+Mountain View or even Park.
+08:34 And there probably no people
+who eat nothing but
+08:38 British food.
+08:38 At least, no people are
+still alive.
+08:41 And so that is sort of a
+fictitiously narrow market.
+08:47 There's sort of a Hollywood
+version of this where.
+08:51 The way movies always get
+pitched is, it's like
+08:55 a college football star,
+joins an elite group of
+08:60 hackers to catch the shark
+that killed his friends.
+09:08 So, that is a movie that has
+not been made.
+09:12 But the question is,
+09:15 is that the right category
+or is the correct category?
+09:19 It's just another movie, in
+which case, you know,
+09:21 there are lots of those,
+it's super competitive,
+09:24 incredibly had to make
+money.
+09:25 No one ever makes money in
+Hollywood doing movies.
+09:28 It's really hard.
+09:30 And so you always have this
+question about.
+09:33 Does the intersection, does,
+09:34 is it real, does it make
+sense,
+09:36 does it have value that one
+should ask?
+09:38 And of course, there are
+start up versions of this.
+09:40 Where you, and the sort of
+the really bad versions you
+09:43 just take a whole series of
+buzz words.
+09:46 Sharing, mobile, social,
+apps, you combine them,
+09:48 and you have some kind of
+narrative.
+09:50 And, whether or not, that's
+a real business or not,
+09:53 is, it's generally a bad
+sign.
+09:56 So it's, it's almost this
+pattern recognition when you
+09:58 have this rhetoric of this
+10:00 sort of intersections, it
+generally does not work.
+10:05 The something of
+10:05 somewhere is really mostly
+just the nothing of nowhere.
+10:09 It's like the Stanford of
+North Dakota.
+10:12 One of a kind, but it's not
+Stanford.
+10:17 So, let's look at the
+opposite.
+10:18 The opposite lie, is if you
+are, let's say,
+10:21 the search, company, that's
+down the street from here.
+10:26 And has about a happy 66%
+market share and, you know?
+10:32 Is completely dominant in
+the search market.
+10:35 Google has not almost never
+describes itself.
+10:39 As a search engine, these
+days.
+10:41 And instead, it describes
+itself in all these
+10:44 different ways.
+10:45 So, it sometimes says it's
+an advertising company.
+10:48 So, if it was search, you'd
+say, well, it's, like, it
+10:51 has this huge market share
+that's really, really crazy.
+10:53 It's like a incredible
+monopoly.
+10:55 It's much bigger than, it's
+much,
+10:57 much more robust monopoly
+than Microsoft,
+10:59 ever had in the 90s.
+11:00 Maybe that's why it's making
+so much money.
+11:03 But if you say it's an
+advertising market,
+11:06 you could say,
+11:07 well, there's search
+advertising is 17 billion.
+11:10 And that's part of online
+advertising,
+11:13 which is much bigger.
+11:16 And then, all US advertising
+is bigger.
+11:19 And then by the time you get
+to global advertising,
+11:21 that's close to 500 billion.
+11:23 And so you're talking about
+3.5%.
+11:26 So a tiny part of this much
+larger market.
+11:32 Or if you don't want it to
+be an advertising company
+11:35 you could always say that
+you're a technology company.
+11:38 And so sorry.
+11:43 Let me just see.
+11:45 And so
+11:49 the technology market is
+something like a $1 trillion
+11:52 market, and the narrative
+that you tell is that Google
+11:55 in the technology market is
+well we're competing with
+11:58 all the car companies with
+our self-driving cars,
+12:01 we're competing with Apple
+on TVs and iPhones.
+12:05 We're competing with
+Facebook.
+12:07 We're competing with
+Microsoft on office
+12:10 products, we're competing
+with Amazon on cloud
+12:12 services, and so, we are in
+this giant technology market
+12:16 where there's competition in
+every direction you look.
+12:20 And no we're
+12:21 not the monopoly the
+government's looking for and
+12:23 we should not get regulated
+in any way whatsoever.
+12:26 And so I think one has to
+always be super aware that
+12:29 there are these very
+powerful incentives
+12:32 to distort the nature of
+these markets
+12:35 one way or the other.
+12:38 So, the evidence of the
+narrow markets in
+12:42 the tech industry is if you
+basically just.
+12:48 If you look at sort of the,
+some of the big
+12:50 tech companies, Apple,
+Google, Microsoft,
+12:52 Amazon, they just they've
+just been building up
+12:57 cash for year after year and
+you have these incredibly
+13:01 high profit margins and I
+would, I would say that the.
+13:04 That one of the reasons the
+tech industry in the US.
+13:08 Has been so successful
+financially.
+13:11 Is because it's prone to
+creating all these monopoly
+13:14 like business.
+13:15 And that's and
+13:17 it's reflected by these
+companies.
+13:20 Just accumulate so much
+cash.
+13:22 That they don't know what to
+do with it
+13:23 beyond a certain point.
+13:24 And so let me
+13:28 say a few things about how
+to build a monopoly.
+13:33 And, I think one of the sort
+of very counter
+13:38 intuitive ideas that comes
+out of this monopoly thread.
+13:42 Is that you want to go after
+small markets.
+13:46 If you're a startup.
+13:48 You want to get to monopoly.
+13:51 You're starting a new
+company,
+13:52 you want to get to monopoly.
+13:55 Monopolies you have a large
+share of a market,
+13:57 how do you get to a large
+share of a market?
+13:59 You start with a really
+small market and
+14:01 you take over that whole
+market, and then.
+14:04 And then over time you find
+ways to expand that market
+14:07 in concentric circles.
+14:09 And the thing that's always
+a big mistake is going
+14:12 after a giant market on day
+one.
+14:16 Because that's typically
+evidence that you
+14:19 somehow haven't defined the
+categories correctly.
+14:22 And it normally means that
+there is going to be
+14:24 too much competition.
+14:25 In one way or another.
+14:26 And so I think almost all
+the successful companies
+14:30 in Silicon Valley had some
+model of
+14:34 starting with small markets
+and expanding.
+14:37 And if you take Amazon, you
+start with.
+14:43 Just a bookstore.
+14:45 We have all the books in the
+world.
+14:46 So it's a better bookstore
+than anybody else
+14:50 has in the world.
+14:50 When it's starts in the
+90's, it's online,
+14:52 there's things you can do
+you can't do before.
+14:54 And then you gradually
+expand into all sorts of
+14:57 different forms of
+e-commerce and
+14:59 other things beyond that.
+15:01 You know, eBay you start
+with Pez dispensers.
+15:05 You move on to Beanie Babies
+and
+15:07 eventually it's all these
+different auctions for
+15:11 all these sorts of different
+goods.
+15:14 And what was very counter
+intuitive about many of
+15:17 these companies is they
+often start with
+15:20 markets that are so small
+that people don't think
+15:24 that they're valuable at all
+when you get started.
+15:28 The PayPal version of this
+was, we started with
+15:34 power sellers on eBay which
+was about 20,000 people.
+15:39 When we first saw this
+happening in December of 99,
+15:41 January of 2000 right after
+we launched,
+15:44 there was a sense that these
+were all,
+15:47 it was such a small market
+it was terrible.
+15:50 We thought these were
+terrible customers to have.
+15:52 It's just people selling
+junk on the internet.
+15:54 Why in the world do we want
+to
+15:55 be going after this market?
+15:57 But, you know, there was a
+way to get a product that
+15:60 was much better for
+everybody in that market.
+16:02 You could, and we got to
+something like 25, 30%,
+16:05 you know, market penetration
+in two or three months.
+16:09 And you got some walk in.
+16:10 You got brand recognition
+and
+16:11 your able to build the
+business from there.
+16:13 So I always think these,
+16:16 these very small markets are
+quite underrated.
+16:19 The Facebook version of this
+I always give is that you
+16:23 know if the initial market
+of
+16:24 Facebook was 10,000 people
+at Harvard, it went from
+16:27 zero to sixty percent market
+share in ten days.
+16:30 That was a very auspicious
+start.
+16:32 The way this gets analyzed
+in business schools is
+16:34 always, that's ridiculous,
+16:36 it's such a small market it
+can't have any value at all.
+16:38 And so, I think the business
+school analysis of
+16:41 Facebook early on, or of
+PayPal early on, or
+16:45 of eBay early on is that the
+markets were perhaps, so
+16:48 small as to have, almost no
+value.
+16:52 And they, they would have
+had little value had
+16:54 they stayed small, but it
+turned out they were ways to
+16:56 grow them concentrically
+and, that's what made them,
+16:59 that's what made them so
+valuable.
+17:01 Now I think the opposite
+version of this,
+17:04 is always where you have
+super big markets.
+17:07 And, and I, there's so much,
+17:09 so many different things
+that went wrong with all
+17:11 the clean tech companies in
+the last decade.
+17:14 But, but, one,
+17:16 one theme that ran through
+almost all of them,
+17:19 was that they all started
+with massive markets.
+17:21 And every clean tech
+PowerPoint presentation that
+17:24 one saw in the years 2005 to
+2008,
+17:26 which was the clean tech
+bubble in Silicon Valley.
+17:30 Started with, we're in the
+energy market,
+17:32 we're in a market that's
+measured in hundreds of
+17:34 billions of trillions of
+dollars.
+17:37 And then once you're a
+minnow in a vast ocean.
+17:42 That's not a good place to
+be.
+17:44 That means that you have
+tons of competitors and
+17:46 you don't even know who all
+the competitors are.
+17:48 And so you want to be a one
+of a kind company,
+17:53 where it's the only one in a
+small ecosystem.
+17:56 You don't want to
+17:56 be the fourth online pet
+food company.
+17:59 You don't want to be
+17:59 the tenth thin film solar
+panel company.
+18:02 You don't want to be the
+100th restaurant in
+18:03 Palo Alto.
+18:04 Your restaurant industry is
+a trillion dollar industry,
+18:07 so if you do a market size
+analysis you conclude
+18:09 restaurants are a fantastic
+business to go into, and
+18:12 it's often, large markets,
+large existing markets
+18:16 typically mean that you have
+tons of competition, very,
+18:19 very hard to differentiate.
+18:21 So the first very
+counterintuitive into a idea
+18:26 is to go after small
+markets, often markets that
+18:29 are so small people don't
+even notice them.
+18:31 They don't think that they
+make sense.
+18:33 That's where you got a
+foothold, and
+18:35 then if those markets are
+able to expand,
+18:37 you can scale into a big
+monopoly business.
+18:44 You know, a second sort of,
+the sort of several
+18:47 different characteristics of
+these monopoly businesses,
+18:51 that I like to focus on.
+18:53 There's probably no sort of
+single formula to it.
+18:57 I also ways think that that
+in technology there
+19:00 is always a sense that you
+know,
+19:01 the history of technology is
+such that every.
+19:04 Every moment happens only
+once, so you know the next
+19:07 Mark Zuckerberg won't build
+a social network.
+19:09 The next Larry Page won't be
+building a search engine.
+19:13 The next Bill Gates won't be
+19:14 building an operating
+system.
+19:16 And if you're copying these
+people,
+19:17 you're not learning from
+them.
+19:18 But it's, and so,
+19:20 there is always these very
+unique businesses that
+19:24 are doing something that's
+not been done before,
+19:27 end up, end of having the
+potential to be a monopoly.
+19:31 The opening line in Anna
+Karenina that all
+19:35 happy companies, sorry, all
+happy families.
+19:39 All happy families are
+alike.
+19:41 All unhappy families are
+unhappy in
+19:42 their own special way.
+19:44 And the opposite is true in
+business,
+19:46 where I think all happy
+companies are different
+19:48 because they're doing
+something very unique.
+19:51 All unhappy companies are
+alike because they fail to
+19:53 escape the essential
+sameness that
+19:55 is competition, and so
+19:57 one sort of characteristic
+of a monopoly technology
+20:01 company is some sort of
+proprietary technology.
+20:06 My sort of crazy, somewhat
+arbitrary,
+20:08 rule of thumb is you want to
+have a technology that's
+20:11 an order of magnitude better
+than the next best thing.
+20:14 So Amazon had over ten times
+as many books,
+20:16 maybe not that high tech,
+but you figure out a way to
+20:18 sell ten times as many books
+in an efficient online way.
+20:22 You know, PayPal, the
+alternative for
+20:24 PayPal was using checks to
+send money on eBay,
+20:29 took seven to ten days to
+clear.
+20:31 PayPal could do it more than
+ten times as fast.
+20:34 So you wanna have some sort
+of very
+20:37 powerful improvement in some
+order, maybe an order of
+20:41 magnitude improvement on
+some key dimension.
+20:45 Of course, you know,
+20:46 if you actually come with
+something totally new it's,
+20:49 it's just, it's just like an
+infinite improvement.
+20:51 So I would say the,
+20:52 the iPhone was the first
+smartphone that worked and
+20:55 so that's, you know that's
+like I mean,
+20:57 I mean maybe not infinite,
+but
+20:58 it's sort of definitely
+order of magnitude or
+21:00 more of improvement.
+21:01 So I think, the, the
+technology is designed to
+21:05 give you a massive delta
+over, over the next,
+21:09 the next best thing.
+21:11 I think, I think there often
+are network effects that
+21:15 can kick in that, really
+help.
+21:17 The thing that's very, and
+these,
+21:18 these lead to monopolies
+over time,
+21:20 the thing that's very tricky
+about network effects is,
+21:23 they're often.
+21:24 They're often very hard to
+get started.
+21:27 So even though everyone
+understands how
+21:29 valuable they are, there is
+21:31 always this incredibly
+tricky question why is it
+21:33 valuable to the first person
+who is doing something?
+21:37 Economies of scale, if you
+have something of
+21:40 a very high fixed costs,
+very low marginal cost.
+21:44 That's typically a monopoly
+like business.
+21:47 And then there's this thing
+of branding.
+21:50 Which is sort of like this
+idea that gets lodged in
+21:53 people's brains.
+21:54 I never quite understand how
+branding works, so I never
+21:58 invest in companies where
+it's just about branding.
+21:60 But it is, I think,
+22:01 a real phenomenon that
+creates real value.
+22:05 I think one of the things,
+I'm gonna come back to
+22:07 this a little bit, towards
+the end.
+22:09 But one of the things that's
+very striking,
+22:11 is that software businesses
+are often, are, for
+22:15 some reason, very good at
+some of these things.
+22:18 They're especially good at
+the economies of scale part.
+22:21 Because, the marginal cost
+of software is zero.
+22:23 And so if you get something
+that works in software.
+22:27 It's often significantly
+better
+22:29 than the existing solution.
+22:31 And then you have these
+tremendous economies of
+22:33 scale, and you can scale
+fairly quickly.
+22:36 So even if the market starts
+small,
+22:38 you can grow your business
+quickly enough to stay at
+22:42 the same size as the growing
+market.
+22:44 And maintain the sort of
+monopoly power.
+22:48 Now, the critical thing
+about these monopolies is,
+22:52 it's not enough to have a
+monopoly for just a moment.
+22:56 The critical thing is to
+22:57 have one that lasts over
+time.
+23:00 And so in Silicon Valley
+there's always this idea
+23:02 that you wanna be the first
+mover.
+23:04 And I, I always think it's,
+it's, in some ways,
+23:07 the better framing is you
+wanna be the last mover, or
+23:10 you wanna be the last
+company in a category.
+23:13 Those are the ones that are
+really valid.
+23:14 Microsoft was the last
+operating system,
+23:17 at least for many decades.
+23:18 Google is the last search
+engine.
+23:21 Facebook will be valuable if
+it turns out to be the last,
+23:23 social networking site.
+23:25 One way to think of
+23:28 this last mover of value is
+this idea that most of
+23:32 the value in these companies
+exists far in the future.
+23:36 If you do a discounted cash
+flow analysis of a business.
+23:40 You look at, you have sort
+of all these profit streams.
+23:42 You have a growth rate.
+23:43 The growth rate's much
+higher than
+23:45 the discount rate.
+23:46 And so most of the value
+exists far in the future.
+23:49 I did this exercise At
+PayPal in March of 2001.
+23:53 We'd been in business for
+about 27 months.
+23:56 And we sort of had, the
+growth rate was 100% a year.
+24:01 We were discounting future
+cashflows by about 30%.
+24:04 And it turned out that about
+three quarters of
+24:06 the value of the business,
+as of 2001,
+24:09 came from cash flows in
+years 2011 and beyond.
+24:12 And whenever you do the math
+on any of these tech
+24:16 companies, you get an answer
+that's something like that.
+24:19 So if you are trying to
+analyze any other
+24:21 tech companies in Silicon
+Valley, Arabian B, Twitter.
+24:24 Facebook, any emerging
+internet companies,
+24:27 any of the ones in
+Y-Combinator.
+24:30 The math tells you that
+three quarters, 80,
+24:33 85% of the value is coming
+from cash flows in
+24:37 years 2024 and beyond.
+24:39 It's very, very far in the
+future.
+24:41 And, so one of the things
+that we always overvalue in
+24:44 Silicon Valley is growth
+rates, and
+24:47 we undervalue durability.
+24:49 Because, growth is something
+you can measure in the here
+24:51 and now, and you can always
+track that very precisely.
+24:55 The question of whether a
+company's still gonna be
+24:57 around a decade from now.
+24:59 That's actually what,
+25:00 what dominates the value
+equation and
+25:03 that sort of is a much more
+qualitative sort of a thing.
+25:07 And so if we, if we went
+back to this idea of these
+25:10 characteristics of monopoly,
+proprietary technology,
+25:13 network effects, economies
+of scale, You can think
+25:17 of these characteristics as
+ones that exist at a moment
+25:20 in time when you capture a
+market and take it over.
+25:23 But you also want to think
+about,
+25:25 are these things going to
+last over time.
+25:27 And, so, there's a time
+25:28 dimension to all these
+characteristics.
+25:30 So, net worth effects also
+have a great time element,
+25:33 where as the network scales
+the network
+25:35 effects actually get more
+robust, and so
+25:37 if you have a network effect
+business that's often one
+25:39 that can become a bigger and
+stronger monopoly over time.
+25:46 Proprietary technology is
+always a little bit of
+25:49 a tricky one, so
+25:50 you want something that's
+order magnitude better.
+25:52 Than, the state of the art
+in the world today.
+25:56 And that's how you get
+people's attention.
+25:58 That's how you initially
+break through.
+25:60 But then, you don't wanna be
+superseded by somebody else.
+26:03 And so there are all these
+areas of innovation where,
+26:06 there was tremendous
+innovation, but
+26:08 no one made any money.
+26:09 So, you know?
+26:09 Describe manufacturing in
+the 1980's.
+26:12 You could im-,
+26:13 you could do a better disk,
+26:14 build a better disk drive
+than anybody else.
+26:17 You could take over the
+whole world.
+26:18 And two years later someone
+else would come along and
+26:21 replace yours.
+26:22 And the course of 15 years,
+26:24 you got vastly improved disk
+drives, so
+26:27 it had great benefit to
+consumers, but it didn't
+26:30 actually help the people who
+started these companies.
+26:32 And so there's always this
+question about having a huge
+26:36 breakthrough in technology,
+but then also being able to
+26:39 say, explain why, yours will
+be the last breakthrough, or
+26:43 at least the last
+breakthrough for
+26:45 a long time, or when you
+make a breakthrough.
+26:47 And then you can keep
+improving on it
+26:49 at a quick enough pace that
+no one can ever catch up.
+26:52 So, if you have a structure
+of structure of
+26:56 the future where there's a
+lot of innovation and
+26:59 other people will come up
+with new things in
+27:01 the thing you're working on.
+27:02 That's great for society.
+27:04 It's actually not that good
+for
+27:06 your business, typically.
+27:08 And then economies of scale,
+we've already talked about.
+27:12 So I think this last mover
+thing is very critical.
+27:15 I'm always, you know,
+27:17 I don't wanna overdo the
+chess analogies, but
+27:19 the first mover in chess is
+someone who plays white.
+27:22 White is about a 1/3 of a
+pawn advantage, so
+27:24 there's a small advantage to
+going first.
+27:27 You wanna be the last mover,
+who wins the game, so
+27:31 there's always the,
+Capablanca world champion,
+27:34 Capablanca must begin by
+studying the end game, and
+27:39 I do think that's, while I
+wouldn't say that's the only
+27:41 thing you should study.
+27:43 I think the sort of
+perspective of
+27:45 asking these questions, why
+will this still be
+27:47 the leading company 10, 15,
+20 years from now, is a,
+27:50 is a really critical one to
+try to think through.
+27:53 Let me, let me sort of,
+27:57 I want to sort of go in two
+slightly other directions
+27:60 with this monopoly vs
+competition idea.
+28:03 And I think so I think this
+is the, the central idea,
+28:08 in my mind for, for business
+for starting business for
+28:10 thinking about them and
+there are some, interesting
+28:14 perspectives I think it
+gives on the whole you know,
+28:17 on the whole history of
+innovation and
+28:19 technology and science.
+28:21 Because, yeah we've, we've
+lived through,
+28:27 250, 300 years of incredible
+technological progress in
+28:31 you know many, many
+different domains.
+28:33 You know, steam engine to
+railways to
+28:38 telephones, refrigeration,
+household appliances,
+28:42 you know the computer
+revolution, aviation.
+28:46 All sorts of different areas
+of
+28:47 technological innovation and
+then there's sort of
+28:50 analogous thing that one can
+say about science,
+28:52 where we've lived through
+centuries of enormous
+28:56 amounts of innovation in
+science as well.
+28:59 And the thing that I think
+people always miss when
+29:04 they think about these
+things is that because X and
+29:09 Y are independent variables,
+some of these things can be
+29:13 extremely valuable
+innovations.
+29:16 But the people who invent
+them,
+29:17 who come up with them, do
+not get rewarded for this.
+29:20 And certainly, you can go
+back to, you need to
+29:23 create X dollars in value,
+you create Y percent of X.
+29:27 I would suggest that the
+history of science has
+29:30 generally been one where Y
+is 0% across the board.
+29:33 The scientists never make
+any money.
+29:36 They're always deluded into
+thinking that they live in
+29:38 a just universe that will
+reward them for
+29:41 their work and for their
+inventions.
+29:43 And this is probably the
+fundamental delusion that
+29:46 scientists tend to suffer
+from in our society.
+29:49 And even in technology,
+there are, sort of,
+29:52 many different areas of
+technology,
+29:55 where there were great
+innovations that created
+29:58 tremendous value for
+society.
+29:60 But the people did not
+actually capture that much
+30:04 of the value.
+30:06 And so I think there is a
+sort of whole history of.
+30:11 Science and
+30:11 technology that can be told
+from the perspective of
+30:15 how much value was actually
+captured.
+30:18 And certainly, there are
+entire sectors where
+30:22 people didn't capture
+anything.
+30:24 So you're the smartest
+Physicist of the 20th
+30:27 century, you come up with
+special relativity,
+30:29 you come up with general
+relativity.
+30:30 You don't get to be a
+billionaire,
+30:32 you don't even get to be a
+millionaire.
+30:35 It somehow doesn't work that
+way.
+30:38 The railroads, incredibly
+valuable.
+30:40 Most of them just went
+bankrupt,
+30:41 because there was too much
+competition.
+30:44 Wright brothers, you fly the
+first plane,
+30:46 you don't make any money.
+30:47 And so I think there is sort
+of a structure to
+30:49 these industries, that's
+very important.
+30:52 And I think the thing that's
+actually rare,
+30:56 are the success cases.
+30:58 Most the, so it's actually
+unique when you really think
+31:00 about the history in this,
+in this 250 year sweep,
+31:03 it's unusual, Y is almost
+always zero percent.
+31:05 It's always zero in science.
+31:06 It's almost always in
+technology, and
+31:08 so it's very rare where
+people made money.
+31:11 You know, the early,
+31:12 the late 18th, early 19th
+century, the first
+31:15 industrial revolution was
+textile mills, steam engine,
+31:18 the sort of automated
+things.
+31:20 And you had these relentless
+improvements,
+31:21 that people improved
+efficiency of
+31:23 textile factories,
+manufacturing generally.
+31:26 At a clip of 5 to 7% every
+year.
+31:29 Year after year, decade
+after decade.
+31:31 You had 60, 70 years of
+31:34 tremendous improvement from
+1780 to 1850.
+31:39 But even in 1850, most of
+the wealth in Britain
+31:42 was still held by the landed
+aristocracy.
+31:45 The workers didn't, you
+know,
+31:46 the workers didn't make that
+much,
+31:47 the capitalists didn't make
+that much either.
+31:49 It was all competed away.
+31:50 There were hundreds of
+31:51 people running textiles
+factories.
+31:53 It was an industry that
+just,
+31:55 the structure of the
+competition prevented people
+31:58 from making any money.
+32:01 And so I think there are, in
+my mind,
+32:03 there probably are only two
+broad categories in
+32:06 the entire history, the last
+250 years,
+32:09 where people have actually
+come up with new things, and
+32:12 made money doing so.
+32:13 One is these sort of
+vertically integrated
+32:17 complex monopolies which
+people did build in
+32:20 the second industrial
+revolution at the end of
+32:22 the 19th and started the
+20th century.
+32:24 And so this was like Ford,
+it was the vertically
+32:27 integrated oil companies
+like Standard Oil.
+32:29 And what these vertically
+integrated monopolies
+32:32 typically required was this
+very complex coordination.
+32:36 You've got a lot of pieces
+to fit together in
+32:38 just the right way, when you
+assembled it,
+32:40 you had a tremendous
+advantage.
+32:42 This is actually done
+surprisingly little today.
+32:45 And so I think this is sort
+of a business form that
+32:49 when people can pull it off
+is very valuable.
+32:52 It's typically fairly
+capital intensive.
+32:55 We live sort of in a, in a
+culture where is very hard
+32:58 to get people to buy into
+anything that's super
+33:01 complicated, and it takes
+very long to build.
+33:05 But I, you know,
+33:06 when I sort of think about
+my colleague Elon Musk
+33:08 from PayPal success with
+Tesla and Space X, I think
+33:12 the key to these companies
+was the complex vertically
+33:15 integrated monopoly
+structure they had.
+33:18 So if you sort of look at
+Tesla or Space X you ask,
+33:20 you know, was there sort of
+single breakthrough?
+33:23 They certainly innovated on
+a lot of dimensions.
+33:26 I don't think there was
+33:27 a single tennex breakthrough
+and battery storage,
+33:30 or you know, maybe working
+on some things in rocketry.
+33:33 But they hadn't,
+33:34 there was no sort of single
+massive breakthrough, but
+33:37 what was really impressive
+was integrating all these
+33:40 pieces together, and doing
+it in a way that was more
+33:43 vertically integrated than
+most of their competitors.
+33:46 So, Tesla,
+33:47 you also integrated the car
+distributors, so
+33:49 they wouldn't steal all the
+money, as has happened with
+33:51 the rest of the car industry
+in the US.
+33:53 Or SpaceX, you basically
+pulled in
+33:56 all the subcontractors where
+most of the large aerospace
+34:01 companies have single source
+subcontractors that are able
+34:04 to sort of charge monopoly
+profits, and
+34:07 make it very hard for
+34:08 the integrated aerospace
+companies to make money.
+34:11 And so vertical integration
+I think is sort of a very
+34:14 under explored modality of
+technological progress,
+34:18 that people would do well to
+look at more.
+34:21 And then I think there is,
+there is something about
+34:24 software itself that's very,
+very powerful.
+34:28 Software has these
+incredible economies of
+34:30 scale, these low marginal
+costs and there is something
+34:33 about the world of bits, as
+opposed to the world of
+34:35 adams, where you can often
+get very fast adoption.
+34:38 And, and the fast adoption
+is critical to capturing and
+34:42 taking over markets because
+even if you
+34:44 have a small market if the
+adoption rate is too slow,
+34:47 there'll be enough time for
+other people to
+34:48 enter that market, and
+compete with you.
+34:50 Whereas if you have a small
+to mid size market, and
+34:53 have a fast adoption rate.
+34:55 You cannot take over this
+market.
+34:56 And so I think this is
+34:58 one of the reasons Silicon
+Valley has done so well, and
+35:00 why software has been this
+phenomenal industry.
+35:04 And what I, what I would
+suggest, what I would want
+35:06 to leave you with is there
+are sort of these different
+35:09 rationalizations people give
+for why certain things work,
+35:13 and why certain things don't
+work.
+35:15 And I think these
+rationalizations always
+35:17 obscure this question of
+creating X dollars in value,
+35:21 and capturing Y percent of
+X.
+35:23 So the science
+rationalization we're
+35:25 always told, is that
+35:26 the scientists aren't
+interested in making money.
+35:28 They're doing it for
+35:29 charitable reasons, and that
+you're not
+35:31 a good scientist if you're
+motivated by money.
+35:33 And I'm not even saying
+people should
+35:35 always be motivated by money
+or something like this.
+35:38 But I think we should be a
+little more critical of this
+35:41 as a rationalization.
+35:42 We should ask, is this a
+rationalization
+35:46 to obscure the fact that Y
+equals zero percent.
+35:49 And the scientists are
+operating in this sort of
+35:52 world where all the
+innovation is
+35:54 effectively competed away,
+and
+35:56 they can't capture any of it
+directly.
+35:59 The software distortion that
+often happens,
+36:03 is because people are making
+such a vast fortunes in
+36:05 software, we infer that this
+is the most
+36:08 valuable thing in the world
+being done full stop.
+36:11 And so if people at Twitter
+make billions of dollars,
+36:15 it must be that Twitter is
+worth far more than anything
+36:18 that Einstein did.
+36:21 What that sort of
+rationalization tends to
+36:23 obscure, is again that X and
+Y are independent variables.
+36:26 And there are these
+businesses where you
+36:28 capture a lot of X and there
+others where you don't.
+36:30 And so, I do think the
+history of innovation has
+36:34 been this history where the
+microeconomics,
+36:37 the structure of these
+industries has mattered
+36:40 a tremendous amount.
+36:42 And when there is sort of
+this
+36:47 story where some people have
+made vast fortunes, because
+36:49 they were in industries with
+the right structure, and
+36:52 other people made nothing at
+all, because they were in
+36:57 these sort of very
+competitive things.
+36:59 And we shouldn't just
+rationalize that away,
+37:00 I think it's worth
+understanding this better.
+37:03 And then finally, let me
+come back to this
+37:06 sort of overarching theme
+for
+37:08 this talk, this competition
+is for losers idea.
+37:11 Which is always a
+provocative way to
+37:14 title things, because we
+always think of
+37:17 the losers as the people who
+are not good at competing.
+37:20 We think of the losers as
+the people who are slow on
+37:24 the sports team, on the
+track team in high school,
+37:26 or who do a little bit less
+well on the standardized
+37:29 tests, and don't get into
+the right schools.
+37:32 So we always think of losers
+as people who can't compete,
+37:35 and I want us to really
+rethink,
+37:37 and revalue this and
+consider whether it's
+37:40 possible that competition
+itself is off.
+37:44 That we've sort of, it's not
+just the case and
+37:46 we don't understand this
+37:47 monopoly competition
+dichotomy intellectually.
+37:50 So that's, sort of,
+37:52 why you wouldn't understand
+intellectually,
+37:54 because people lie about it.
+37:56 It's distorted.
+37:57 We have all these history of
+innovation
+37:60 rationalizes what's
+happening in all these very,
+38:02 very strange ways.
+38:03 But I think it's more than
+just an intellectual blind
+38:05 spot, I think it's also a
+psychological blind spot
+38:08 where we find ourselves, you
+know, very attracted to
+38:10 competition in one form or
+another.
+38:14 We find it reassuring if
+other people do things.
+38:17 The word ape, already in the
+time of Shakespeare,
+38:19 meant both primate and
+imitate.
+38:21 And there is
+38:21 something about human nature
+that's deeply mimetic.
+38:24 Imitative.
+38:26 Apelike, sheeplike,
+lemminglike, herdlike.
+38:29 And it's this very
+problematic thing that we
+38:32 need to always think through
+and try to overcome.
+38:35 And there is always this
+question about
+38:39 competition as a form of
+validation.
+38:42 Where we go for
+38:44 things that lots of other
+people are going for,
+38:46 and it's not that there is
+wisdom in crowds, it's
+38:49 not when lots of people are
+trying to do something that,
+38:51 that's proof of it being
+valuable.
+38:53 I think it's when lots of
+people are trying to do
+38:56 something that is often
+proof of insanity.
+38:58 There are twenty thousand
+people a year who move to
+39:00 Los Angeles to become movie
+stars,
+39:03 about 20 of them make it.
+39:04 I think the Olympics are a
+little bit better,
+39:07 because you can figure out
+pretty quickly whether
+39:11 you're good or not, so
+there's a little bit less of
+39:15 a dead weight loss to
+society.
+39:17 You know?
+39:18 &gt;&gt; You the sort of
+educational experience at
+39:20 a place, the pre Stanford
+educational experience.
+39:22 There's always sort of
+39:23 a non-competitive
+characterization, where I
+39:25 think most of the people in
+this room had machine guns,
+39:28 that were competing with
+people with bows and arrows.
+39:30 So it wasn't exactly a
+parallel competition when
+39:32 you were in junior high
+school and high school.
+39:35 There's always a question,
+39:37 does the tournament make
+sense as you keep going?
+39:39 And there is always this
+question if people go on to
+39:43 grad school, or
+39:44 post doctoral educations,
+does the intensity of
+39:47 the competition really make
+sense?
+39:49 There's the classic Henry
+Kissinger line
+39:53 describing his fellow
+faculty at Harvard.
+39:56 That the battles were so
+39:59 ferocious, because the
+stakes were so small.
+40:01 Describing sort of academia.
+40:03 And you start to think on
+one level this is
+40:05 a description of insanity.
+40:07 Why would people fight like
+crazy when the stakes are so
+40:10 small?
+40:11 But it's also,
+40:11 I think simply a function of
+the logic of the situation.
+40:14 When it's really hard to
+differentiate yourself from
+40:17 other people.
+40:18 When the differences are,
+when
+40:19 the objective differences
+really are small.
+40:22 Then you have to compete
+ferociously to maintain
+40:25 a difference of one sort or
+40:27 another, that's often more
+imaginary than real.
+40:31 There's always a sort of a
+personal version of
+40:34 this that I tell where I was
+sort of hyper tracked.
+40:38 My 8th grade junior high
+school yearbook,
+40:40 one of my friends wrote in,
+40:41 I know you'll get into
+Stanford in four years
+40:43 as a Sophomore, sort of when
+it is going to Stanford four
+40:46 years later, the end of high
+school.
+40:49 Went to Stanford Law School.
+40:51 You know, ended up at a big
+law firm in New York,
+40:54 where from the outside
+everybody wanted to get in.
+40:57 On the inside everybody
+wanted to leave.
+41:01 &gt;&gt; And it was this very
+strange dynamic, where after
+41:04 I sort of realized that this
+was not the best idea,
+41:07 and left after seven months
+and three days.
+41:11 You know, one of the people
+down the hall from me told
+41:14 me, it's really reassuring
+to see you leave, Peter.
+41:16 I had no idea that it was
+possible to
+41:17 escape from Alcatraz.
+41:19 Which of course, all you had
+to do was go out the front
+41:21 door and not come back.
+41:23 But so much of people
+identities got
+41:26 wrapped in winning these
+competitions,
+41:30 that they somehow lost site
+of what was important.
+41:33 What was valuable.
+41:33 And you know, competition
+does make you better
+41:36 at whatever it is you're
+competing on.
+41:38 Because when you're
+competing,
+41:39 you're comparing yourself
+with the people around you.
+41:42 You're figuring out,
+41:43 how do I beat the people
+next to me?
+41:45 How do I do somewhat better
+at whatever it
+41:47 is they're doing.
+41:48 And you will get better at
+that thing.
+41:49 I'm not questioning that,
+I'm not denying that.
+41:52 But, it often comes at this
+tremendous price that you
+41:56 stop asking some bigger
+questions,
+41:58 about what's truly important
+and truly valuable.
+42:01 And so I would say, don't
+always go through the tiny
+42:05 little door that everyone's
+trying to rush through.
+42:07 Maybe go around the corner,
+and
+42:08 go through the vast gate
+that no one's taking.
+42:10 Thank you very much.
+42:12 I guess there's time for,
+42:14 do you want to take a few
+questions?
+42:21 &gt;&gt; Sorry?
+42:24 &gt;&gt; Oh yes, people want to
+take,
+42:25 I'll take a few questions
+with few minutes time.
+42:28 Yeah, go ahead.
+42:29 &gt;&gt; Since, yeah, as you
+mentioned,
+42:31 you already mentioned
+further competition often
+42:33 look similar because the
+narrative of
+42:36 people tell our selves.
+42:38 Do you have any ways to
+42:39 easily determine the
+difference when your
+42:41 looking at an idea that is
+better than your own idea?
+42:44 &gt;&gt; Well I'd say the question
+I always try to focus on is
+42:47 what is the actual market?
+42:48 So not what's the narrative
+of the market,
+42:50 because you can always tell
+a fictional story about
+42:52 a market that's much bigger
+or much smaller.
+42:54 But what is the real
+objective market?
+42:57 So, it's always, yeah, you
+always try to figure it out.
+42:59 And you realize people have
+42:60 incentives to powerfully
+distort these things.
+43:04 Yeah?
+43:05 &gt;&gt; Which of the aspects of
+monopolies that you
+43:07 mentioned would you say
+&gt;&gt; Well
+43:12 they have network effects
+with the ad network.
+43:16 They had proprietary
+technology that gave them
+43:18 the initial lead, because
+they had the page
+43:19 rank algorithm which was
+sort of, an order of
+43:22 magnitude better than any
+other search engine.
+43:25 You have economies of scale,
+43:26 because of the need to store
+all these different sites.
+43:30 And at this point, you have
+brand, so
+43:31 Google has all four.
+43:33 Maybe the proprietary
+technology's somewhat
+43:35 weaker at this point.
+43:36 But, definitely, it had all
+four, and
+43:38 maybe three out of four now.
+43:40 Yeah.
+43:41 &gt;&gt; How does this apply to
+and, second, what's it like.
+43:44 The seconds what?
+43:45 &gt;&gt; What's with the i-Phone?
+&gt;&gt; That's
+43:48 sort of a set of companies
+that are doing
+43:52 different copycat payment
+systems on mobile phones.
+43:55 There's Square, there's
+PayPal.
+43:56 They just have sort of
+different shapes.
+43:58 That's how they
+differentiate themselves.
+43:60 One is a triangle, one is a
+square.
+44:01 And so you know...
+44:04 &gt;&gt; Maybe at some point the
+apes weren't out of shape or
+44:05 something like that.
+44:06 But I think, pounds here we
+started with focus on
+44:09 the intelligence community
+which is small sub-market,
+44:13 you had a proprietary
+technology that used
+44:16 a very different approach.
+44:19 Were it was focused on the
+human
+44:24 computer synthesis rather
+than the substitution,
+44:28 which I think is the
+dominant paradigm.
+44:30 So there's a whole set of
+things I would say on
+44:31 the market approach, and on
+the proprietary technology.
+44:37 Yes?
+44:37 &gt;&gt; When you have design
+thinking methodology in
+44:41 a start-up thinking, which
+is used to mitigate risk by
+44:45 not creating things that
+people don't want.
+44:48 But I think young innovators
+have inspiration create
+44:51 complex systems that last's
+through time.
+44:54 &gt;&gt; Could you repeat the
+question?
+44:55 &gt;&gt; Yeah.
+So the quest is what do I
+44:57 think about lean start-up's,
+iterative thinking,
+45:00 where you get feedback from
+people,
+45:03 versus complexity that may
+not work.
+45:05 So, I am personally quite
+skeptical of all the lean
+45:08 start-up methodology.
+45:10 I think the really great
+companies did something that
+45:13 was, sort of.
+45:15 Somewhat more of a quantum
+improvement that
+45:17 really differentiated them
+from everybody else.
+45:21 They typically did not do
+massive, you know,
+45:24 customer surveys.
+45:25 The people who ran these
+companies sometimes,
+45:28 not always, suffer from mild
+forms of Aspberger's, so
+45:30 they were not actually that
+influenced,
+45:31 not that easily deterred by
+what other people thought or
+45:34 told them to do.
+45:35 So I do think we're way too
+focused on iteration as
+45:40 a modality, and not enough
+on trying to have a virtual
+45:46 esp link with the public and
+figuring it out ourselves.
+45:51 I would say that, the risk
+question
+45:57 is always a very tricky one
+because there are, you know?
+46:01 They're, they're, it's not,
+it's often.
+46:04 I think it's often the case
+that you
+46:05 don't have enough time to
+really mitigate risk.
+46:08 If, if you're gonna take
+enough time to
+46:09 figure out what people want.
+46:11 You often will have missed
+the boat by then.
+46:15 and, and then, of course,
+there's always the risk of,
+46:18 of doing something that's,
+that's not that,
+46:21 significant or meaningful.
+46:22 So, you know?
+You could say a track in
+46:26 law school is a low risk
+track from one
+46:29 perspective, it may still be
+a very high risk track in
+46:31 the sense that maybe your
+not, have a high risk of
+46:34 not doing something
+meaningful with your life.
+46:36 So, we have to think about
+risk in these,
+46:39 very complicated way.
+46:40 I think risk is for a very
+complicated concept.
+46:42 Yes.
+I was just checking for
+46:44 the last advantage, but then
+doesn't that
+46:46 imply that there's already
+competition to begin with
+46:48 between the chess pieces on
+the chess board?
+46:51 &gt;&gt; Yeah, so, there's always
+this terminology thing,
+46:54 so I would say that there
+are categories in
+46:58 which people sort of are
+bundled together.
+47:01 I would say the monopoly
+businesses were in effect
+47:04 they really were a big first
+mover in some sense.
+47:08 You could say Google was not
+the first search engine.
+47:10 There were other search
+engines before, but
+47:12 on one dimension,
+47:13 they were dramatically
+better than everybody else,
+47:16 they were the first one with
+page rank,
+47:17 with sort of an automated
+approach.
+47:20 Facebook was not the first
+social networking site.
+47:23 My friend, Reed Hoffman,
+started one in 1997,
+47:25 and they called it Social
+Net.
+47:27 So they already had the
+name,
+47:28 Social networking, in the
+name of their company,
+47:31 seven years before Facebook.
+47:33 Their idea was that it was
+gonna be this virtual
+47:35 cyberspace, where I'd be a
+dog and you'd be a cat.
+47:37 And we'd have all these
+different rules about how
+47:39 we'd interact with each
+other.
+47:41 &gt;&gt; In this virtual alternate
+reality.
+47:42 Facebook was the first one
+to get real identity.
+47:45 So, it was, so I would say,
+47:47 I hope Facebook will be the
+last social networking site,
+47:49 it was the first one in a
+very important dimension.
+47:52 People often would not think
+of it as the first because
+47:54 they, sort of, lump all
+these things together.
+47:57 &gt;&gt; I have one more question.
+47:58 &gt;&gt; Okay, one question, let's
+take one here.
+47:60 &gt;&gt; If you're theoretically
+someone who,
+48:02 worked at Golden College and
+left there after six months,
+48:05 and is now going to do
+science at Standford.
+48:11 How would you recommend
+rethinking
+48:16 &gt;&gt; I don't have a great,
+48:20 I'm not great at the
+psychotherapy stuff so
+48:23 I don't quite know how to
+&gt;&gt; solve this.
+48:27 There are these very odd
+studies they've
+48:30 done on people who go to
+business school.
+48:33 There's one they've done at
+Harvard Business school
+48:35 where it's sort of the
+anti-Asperger, personality.
+48:39 We have people who are super
+extroverted,
+48:41 generally have low
+convictions, few ideas.
+48:44 And you have sort of a
+hothouse environment.
+48:46 You put all these people in
+for two years.
+48:48 And at the end of it, they
+systematically end up,
+48:51 the largest cohort
+systematically ends up
+48:53 doing the wrong thing.
+48:54 They tried to catch the last
+wave.
+48:56 You know in 1989 everyone in
+Harvard tried to work for
+48:58 Mike Milken, it was one or
+48:59 two years before he went to
+jail for
+49:01 all the junk bond stuff.
+49:02 They were never interested
+in Silicon Valley or
+49:04 tech, except for '99 and
+2000 when they timed the dot
+49:07 com bubble peaking
+perfectly.
+49:10 They did, and then '05 to
+'07 was housing.
+49:13 Private equity, stuff like
+this.
+49:15 I do think this tendency for
+49:19 us to see competition as
+validation is very deep.
+49:23 I don't think there's any
+sort of
+49:26 easy psychological formula
+to avoid it.
+49:30 I don't know what sort of
+therapy to recommend.
+49:35 &gt;&gt; But my first.
+49:36 My first starting point,
+49:38 which is only like maybe ten
+percent of the way,
+49:40 is to never under estimate
+how big a problem it is.
+49:43 We always think this is
+49:43 something that afflicts
+other people.
+49:45 It's easy for
+49:46 me to point to people in
+business schools or people
+49:47 at Harvard or people on Wall
+Street, I think it actually
+49:51 does afflict all of us to a
+very profound degree.
+49:53 We always think of
+advertising as
+49:54 things that work on other
+people.
+49:56 How, who are all these
+stupid people who fall for
+49:58 all those ads on tv,
+49:59 they obviously work to some
+extent and
+50:01 they work, to a disturbing
+extant on all of us.
+50:03 And it's something we, we
+all should work to overcome.
+50:10 Thank you very much.
